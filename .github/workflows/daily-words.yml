@@ -1,0 +1,56 @@
+name: Generate Daily Words
+
+on:
+  schedule:
+    - cron: '0 3 * * *'  # Kör 03:00 UTC varje natt (05:00 svensk tid)
+  workflow_dispatch:      # Tillåter manuell körning
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate words with Claude API
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          TODAY=$(date +%Y-%m-%d)
+
+          RESPONSE=$(curl -s https://api.anthropic.com/v1/messages \
+            -H "Content-Type: application/json" \
+            -H "x-api-key: $ANTHROPIC_API_KEY" \
+            -H "anthropic-version: 2023-06-01" \
+            -d '{
+              "model": "claude-opus-4-5",
+              "max_tokens": 4000,
+              "messages": [{
+                "role": "user",
+                "content": "Generate 5 themed sets of 10 Portuguese vocabulary words each for a Swedish learner. Choose 5 varied themes from: mat och dryck, vardagliga fraser, känslor och adjektiv, resor och transport, natur och väder, kropp och hälsa, arbete och karriär, familj och relationer, tid och datum, stad och platser, djur, sport och fritid, kläder och mode, teknik, hem och möbler. Pick different themes each day — use todays date '"$TODAY"' as a seed for variety.\n\nReply with ONLY a raw JSON object, no markdown, no backticks:\n{\"date\":\"'"$TODAY"'\",\"sets\":[{\"theme\":\"theme name in Swedish\",\"words\":[{\"pt\":\"portuguese word\",\"sv\":\"swedish translation\",\"type\":\"substantiv/verb/adjektiv/fras\",\"example_pt\":\"example sentence\",\"example_sv\":\"swedish translation of sentence\"}]}]}"
+              }]
+            }')
+
+          # Extrahera JSON-innehållet från Claude-svaret
+          echo $RESPONSE | python3 -c "
+          import json, sys
+          data = json.load(sys.stdin)
+          text = ''.join(b['text'] for b in data['content'] if b['type'] == 'text')
+          # Validera att det är giltig JSON
+          parsed = json.loads(text)
+          print(json.dumps(parsed, ensure_ascii=False, indent=2))
+          " > public/words/today.json
+
+          echo "Generated words for $TODAY"
+          cat public/words/today.json | python3 -c "import json,sys; d=json.load(sys.stdin); print(f'Themes: {[s[\"theme\"] for s in d[\"sets\"]]}')"
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/words/today.json
+          git diff --cached --quiet || git commit -m "Daily words $(date +%Y-%m-%d)"
+          git push

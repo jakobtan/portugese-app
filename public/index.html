@@ -1,0 +1,670 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Português · Dagliga Ord</title>
+  <meta name="description" content="Lär dig 10 nya portugisiska ord varje dag">
+  <meta name="theme-color" content="#0f2027">
+
+  <!-- PWA -->
+  <link rel="manifest" href="manifest.json">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Português">
+  <link rel="apple-touch-icon" href="icon-192.png">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Mono:wght@300;400&display=swap" rel="stylesheet">
+
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:        #0d1f18;
+      --bg2:       #132a1f;
+      --surface:   rgba(255,255,255,0.04);
+      --border:    rgba(255,255,255,0.08);
+      --green:     #4a9b6f;
+      --green-dim: #2a5a3a;
+      --gold:      #c9a96e;
+      --text:      #e8dcc8;
+      --muted:     #7a9a85;
+      --red:       #c06060;
+    }
+
+    html, body {
+      height: 100%;
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      -webkit-tap-highlight-color: transparent;
+      overscroll-behavior: none;
+    }
+
+    body {
+      display: flex;
+      flex-direction: column;
+      min-height: 100dvh;
+    }
+
+    /* ── HEADER ── */
+    header {
+      padding: 20px 20px 0;
+      text-align: center;
+      flex-shrink: 0;
+    }
+
+    .eyebrow {
+      font-family: 'DM Mono', monospace;
+      font-size: 10px;
+      letter-spacing: 4px;
+      color: var(--green);
+      text-transform: uppercase;
+      margin-bottom: 4px;
+    }
+
+    h1 {
+      font-size: 32px;
+      font-weight: 300;
+      color: var(--text);
+      letter-spacing: 2px;
+    }
+
+    .date-line {
+      font-family: 'DM Mono', monospace;
+      font-size: 11px;
+      color: var(--muted);
+      margin-top: 4px;
+    }
+
+    /* ── THEME TABS ── */
+    .theme-scroll {
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+      padding: 16px 20px 0;
+      flex-shrink: 0;
+    }
+    .theme-scroll::-webkit-scrollbar { display: none; }
+
+    .theme-tabs {
+      display: flex;
+      gap: 8px;
+      width: max-content;
+    }
+
+    .theme-tab {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 14px;
+      padding: 6px 16px;
+      border-radius: 20px;
+      border: 1px solid var(--border);
+      background: transparent;
+      color: var(--muted);
+      cursor: pointer;
+      white-space: nowrap;
+      transition: all 0.2s;
+      -webkit-appearance: none;
+    }
+    .theme-tab.active {
+      background: var(--green);
+      border-color: var(--green);
+      color: #fff;
+    }
+
+    /* ── MODE TABS ── */
+    .mode-bar {
+      display: flex;
+      margin: 14px 20px 0;
+      background: rgba(255,255,255,0.05);
+      border-radius: 30px;
+      padding: 3px;
+      flex-shrink: 0;
+    }
+    .mode-btn {
+      flex: 1;
+      font-family: 'DM Mono', monospace;
+      font-size: 11px;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      padding: 8px 4px;
+      border: none;
+      border-radius: 26px;
+      background: transparent;
+      color: var(--muted);
+      cursor: pointer;
+      transition: all 0.2s;
+      -webkit-appearance: none;
+    }
+    .mode-btn.active {
+      background: var(--green);
+      color: #fff;
+    }
+
+    /* ── MAIN CONTENT ── */
+    main {
+      flex: 1;
+      overflow-y: auto;
+      -webkit-overflow-scrolling: touch;
+      padding: 20px 20px 40px;
+    }
+
+    /* ── LOADING / ERROR ── */
+    .center {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 200px;
+      gap: 12px;
+    }
+
+    .spinner {
+      width: 36px;
+      height: 36px;
+      border: 2px solid var(--green-dim);
+      border-top-color: var(--green);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .error-box {
+      background: rgba(192,96,96,0.1);
+      border: 1px solid rgba(192,96,96,0.3);
+      border-radius: 12px;
+      padding: 16px;
+      font-family: 'DM Mono', monospace;
+      font-size: 12px;
+      color: #e8a0a0;
+      line-height: 1.6;
+    }
+
+    .btn {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 16px;
+      padding: 10px 28px;
+      border-radius: 24px;
+      border: none;
+      background: var(--green);
+      color: #fff;
+      cursor: pointer;
+      -webkit-appearance: none;
+    }
+
+    /* ── FLASHCARD ── */
+    .card-counter {
+      text-align: center;
+      font-family: 'DM Mono', monospace;
+      font-size: 11px;
+      color: var(--muted);
+      margin-bottom: 14px;
+      letter-spacing: 2px;
+    }
+
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 40px 24px 32px;
+      text-align: center;
+      cursor: pointer;
+      min-height: 210px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      transition: background 0.3s, border-color 0.3s;
+      user-select: none;
+      -webkit-user-select: none;
+    }
+    .card.flipped {
+      background: rgba(74,155,111,0.1);
+      border-color: rgba(74,155,111,0.3);
+    }
+
+    .card-word {
+      font-size: 38px;
+      font-weight: 300;
+      color: var(--text);
+      margin-bottom: 8px;
+      line-height: 1.2;
+    }
+    .card-type {
+      font-family: 'DM Mono', monospace;
+      font-size: 10px;
+      letter-spacing: 3px;
+      color: var(--green);
+      text-transform: uppercase;
+    }
+    .card-hint {
+      margin-top: 28px;
+      font-size: 12px;
+      color: var(--green-dim);
+      font-style: italic;
+    }
+
+    .card-translation {
+      font-size: 26px;
+      font-weight: 300;
+      color: var(--text);
+      margin-bottom: 6px;
+    }
+    .divider {
+      width: 40px;
+      height: 1px;
+      background: var(--green);
+      margin: 14px auto;
+    }
+    .card-example-pt {
+      font-size: 15px;
+      color: var(--muted);
+      font-style: italic;
+      margin-bottom: 4px;
+      line-height: 1.4;
+    }
+    .card-example-sv {
+      font-size: 13px;
+      color: var(--green-dim);
+      line-height: 1.4;
+    }
+
+    /* ── CARD BUTTONS ── */
+    .card-actions {
+      display: flex;
+      gap: 12px;
+      justify-content: center;
+      margin-top: 16px;
+    }
+    .card-btn {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 16px;
+      padding: 8px 24px;
+      border-radius: 20px;
+      border: 1px solid;
+      cursor: pointer;
+      transition: all 0.2s;
+      -webkit-appearance: none;
+    }
+    .card-btn.no  { background: rgba(192,96,96,0.12); border-color: rgba(192,96,96,0.4); color: #e8a0a0; }
+    .card-btn.yes { background: rgba(74,155,111,0.15); border-color: var(--green); color: #7eb89a; }
+
+    /* ── DOTS ── */
+    .dots {
+      display: flex;
+      justify-content: center;
+      gap: 7px;
+      flex-wrap: wrap;
+      margin-top: 18px;
+    }
+    .dot {
+      width: 9px;
+      height: 9px;
+      border-radius: 50%;
+      background: var(--green-dim);
+      cursor: pointer;
+      transition: all 0.2s;
+      flex-shrink: 0;
+    }
+    .dot.current { background: var(--text); outline: 2px solid var(--green); outline-offset: 2px; }
+    .dot.known   { background: var(--green); }
+    .dot.unknown { background: var(--red); }
+
+    .progress-label {
+      text-align: center;
+      margin-top: 12px;
+      font-family: 'DM Mono', monospace;
+      font-size: 10px;
+      color: var(--green-dim);
+      letter-spacing: 2px;
+    }
+
+    /* ── LIST ── */
+    .word-list { display: flex; flex-direction: column; gap: 8px; }
+
+    .word-row {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 13px 16px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+    }
+    .word-row-pt { font-size: 18px; font-weight: 300; color: var(--text); }
+    .word-row-type {
+      font-family: 'DM Mono', monospace;
+      font-size: 9px;
+      letter-spacing: 2px;
+      color: var(--green);
+      text-transform: uppercase;
+      margin-top: 2px;
+    }
+    .word-row-sv { font-size: 15px; color: var(--muted); text-align: right; flex-shrink: 0; }
+
+    /* ── QUIZ ── */
+    .quiz-prompt {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 32px 20px;
+      text-align: center;
+      margin-bottom: 16px;
+    }
+    .quiz-label {
+      font-family: 'DM Mono', monospace;
+      font-size: 10px;
+      letter-spacing: 3px;
+      color: var(--green);
+      text-transform: uppercase;
+      margin-bottom: 12px;
+    }
+    .quiz-word { font-size: 34px; font-weight: 300; }
+
+    .quiz-options { display: flex; flex-direction: column; gap: 10px; }
+    .quiz-opt {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 17px;
+      text-align: left;
+      padding: 14px 18px;
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      background: var(--surface);
+      color: var(--text);
+      cursor: pointer;
+      transition: all 0.2s;
+      -webkit-appearance: none;
+    }
+    .quiz-opt.correct { background: rgba(74,155,111,0.2); border-color: var(--green); }
+    .quiz-opt.wrong   { background: rgba(192,96,96,0.2);  border-color: var(--red); }
+
+    .quiz-next {
+      margin-top: 16px;
+      width: 100%;
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 18px;
+      padding: 13px;
+      border-radius: 24px;
+      border: none;
+      background: var(--green);
+      color: #fff;
+      cursor: pointer;
+      -webkit-appearance: none;
+    }
+
+    .quiz-score {
+      text-align: center;
+      padding: 40px 0;
+    }
+    .score-emoji { font-size: 64px; margin-bottom: 16px; }
+    .score-num { font-size: 28px; color: var(--text); margin-bottom: 6px; }
+    .score-msg { font-size: 16px; color: var(--muted); margin-bottom: 28px; font-style: italic; }
+
+    .quiz-meta {
+      text-align: center;
+      font-family: 'DM Mono', monospace;
+      font-size: 10px;
+      color: var(--muted);
+      letter-spacing: 2px;
+      margin-bottom: 14px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="eyebrow">Dagliga Ord</div>
+  <h1>Português</h1>
+  <div class="date-line" id="dateLine"></div>
+</header>
+
+<div class="theme-scroll">
+  <div class="theme-tabs" id="themeTabs"></div>
+</div>
+
+<div class="mode-bar">
+  <button class="mode-btn active" data-mode="cards">Flashcards</button>
+  <button class="mode-btn" data-mode="list">Lista</button>
+  <button class="mode-btn" data-mode="quiz">Quiz</button>
+</div>
+
+<main id="main">
+  <div class="center"><div class="spinner"></div></div>
+</main>
+
+<script>
+// ── State ──────────────────────────────────────────────
+let allSets = [];
+let setIndex = 0;
+let mode = 'cards';
+let cardIndex = 0;
+let flipped = false;
+let known = {};
+let quiz = { q: 0, score: 0, answered: null, done: false, options: [] };
+
+// ── Load words ─────────────────────────────────────────
+async function loadWords() {
+  try {
+    const res = await fetch('words/today.json?v=' + Date.now());
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const data = await res.json();
+    allSets = data.sets;
+    document.getElementById('dateLine').textContent = data.date || today();
+    buildThemeTabs();
+    render();
+  } catch (e) {
+    document.getElementById('main').innerHTML = `
+      <div class="center">
+        <div class="error-box">Kunde inte hämta dagens ord.<br>${e.message}</div>
+        <button class="btn" onclick="loadWords()">Försök igen</button>
+      </div>`;
+  }
+}
+
+function today() {
+  return new Date().toISOString().slice(0, 10);
+}
+
+// ── Theme tabs ─────────────────────────────────────────
+function buildThemeTabs() {
+  const container = document.getElementById('themeTabs');
+  container.innerHTML = allSets.map((s, i) => `
+    <button class="theme-tab ${i === setIndex ? 'active' : ''}" onclick="selectSet(${i})">
+      ${s.theme}
+    </button>`).join('');
+}
+
+function selectSet(i) {
+  setIndex = i;
+  cardIndex = 0;
+  flipped = false;
+  known = {};
+  quiz = { q: 0, score: 0, answered: null, done: false, options: [] };
+  buildThemeTabs();
+  render();
+}
+
+// ── Mode bar ───────────────────────────────────────────
+document.querySelectorAll('.mode-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    mode = btn.dataset.mode;
+    document.querySelectorAll('.mode-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    if (mode === 'quiz') startQuiz();
+    else render();
+  });
+});
+
+// ── Render dispatcher ──────────────────────────────────
+function render() {
+  if (mode === 'cards') renderCards();
+  else if (mode === 'list') renderList();
+  else if (mode === 'quiz') renderQuiz();
+}
+
+// ── FLASHCARDS ─────────────────────────────────────────
+function renderCards() {
+  const words = allSets[setIndex].words;
+  const w = words[cardIndex];
+  const knownCount = Object.values(known).filter(Boolean).length;
+
+  document.getElementById('main').innerHTML = `
+    <div class="card-counter">${cardIndex + 1} / ${words.length}</div>
+
+    <div class="card ${flipped ? 'flipped' : ''}" id="card" onclick="flipCard()">
+      ${!flipped ? `
+        <div class="card-word">${w.pt}</div>
+        <div class="card-type">${w.type}</div>
+        <div class="card-hint">tryck för översättning</div>
+      ` : `
+        <div class="card-translation">${w.sv}</div>
+        <div class="divider"></div>
+        <div class="card-example-pt">${w.example_pt}</div>
+        <div class="card-example-sv">${w.example_sv}</div>
+      `}
+    </div>
+
+    <div class="card-actions">
+      <button class="card-btn no"  onclick="markCard(false)">✗ Kan ej</button>
+      <button class="card-btn yes" onclick="markCard(true)">✓ Kan</button>
+    </div>
+
+    <div class="dots">
+      ${words.map((_, i) => {
+        let cls = '';
+        if (i === cardIndex) cls = 'current';
+        else if (known[i] === true) cls = 'known';
+        else if (known[i] === false) cls = 'unknown';
+        return `<div class="dot ${cls}" onclick="goCard(${i})"></div>`;
+      }).join('')}
+    </div>
+    <div class="progress-label">${knownCount} / ${words.length} kan du redan</div>
+  `;
+}
+
+function flipCard() {
+  flipped = !flipped;
+  renderCards();
+}
+
+function markCard(isKnown) {
+  known[cardIndex] = isKnown;
+  cardIndex = (cardIndex + 1) % allSets[setIndex].words.length;
+  flipped = false;
+  renderCards();
+}
+
+function goCard(i) {
+  cardIndex = i;
+  flipped = false;
+  renderCards();
+}
+
+// ── LIST ───────────────────────────────────────────────
+function renderList() {
+  const words = allSets[setIndex].words;
+  document.getElementById('main').innerHTML = `
+    <div class="word-list">
+      ${words.map(w => `
+        <div class="word-row">
+          <div>
+            <div class="word-row-pt">${w.pt}</div>
+            <div class="word-row-type">${w.type}</div>
+          </div>
+          <div class="word-row-sv">${w.sv}</div>
+        </div>
+      `).join('')}
+    </div>`;
+}
+
+// ── QUIZ ───────────────────────────────────────────────
+function startQuiz() {
+  quiz = { q: 0, score: 0, answered: null, done: false, options: [] };
+  quiz.options = makeOptions(0);
+  renderQuiz();
+}
+
+function makeOptions(qIndex) {
+  const words = allSets[setIndex].words;
+  const correct = words[qIndex];
+  const others = words.filter((_, i) => i !== qIndex).sort(() => Math.random() - 0.5).slice(0, 3);
+  return [...others, correct].sort(() => Math.random() - 0.5).map(w => w.sv);
+}
+
+function answerQuiz(opt) {
+  if (quiz.answered !== null) return;
+  const correct = allSets[setIndex].words[quiz.q].sv;
+  quiz.answered = opt;
+  if (opt === correct) quiz.score++;
+  renderQuiz();
+}
+
+function nextQuiz() {
+  const next = quiz.q + 1;
+  if (next >= allSets[setIndex].words.length) {
+    quiz.done = true;
+  } else {
+    quiz.q = next;
+    quiz.answered = null;
+    quiz.options = makeOptions(next);
+  }
+  renderQuiz();
+}
+
+function renderQuiz() {
+  const words = allSets[setIndex].words;
+  const main = document.getElementById('main');
+
+  if (quiz.done) {
+    const pct = quiz.score / words.length;
+    const emoji = pct >= 0.8 ? '🌟' : pct >= 0.5 ? '👍' : '💪';
+    const msg = pct >= 0.8 ? 'Utmärkt! Du behärskar dessa ord.' : pct >= 0.5 ? 'Bra jobbat! Lite mer övning.' : 'Fortsätt träna – det löser sig!';
+    main.innerHTML = `
+      <div class="quiz-score">
+        <div class="score-emoji">${emoji}</div>
+        <div class="score-num">${quiz.score} / ${words.length} rätt</div>
+        <div class="score-msg">${msg}</div>
+        <button class="btn" onclick="startQuiz()">Gör om quizet</button>
+      </div>`;
+    return;
+  }
+
+  const w = words[quiz.q];
+  const correct = w.sv;
+
+  main.innerHTML = `
+    <div class="quiz-meta">${quiz.q + 1} / ${words.length} &nbsp;·&nbsp; ${quiz.score} rätt</div>
+    <div class="quiz-prompt">
+      <div class="quiz-label">Vad betyder…</div>
+      <div class="quiz-word">${w.pt}</div>
+    </div>
+    <div class="quiz-options">
+      ${quiz.options.map(opt => {
+        let cls = '';
+        if (quiz.answered !== null) {
+          if (opt === correct) cls = 'correct';
+          else if (opt === quiz.answered) cls = 'wrong';
+        }
+        return `<button class="quiz-opt ${cls}" onclick="answerQuiz('${opt.replace(/'/g, "\\'")}')">
+          ${opt}
+        </button>`;
+      }).join('')}
+    </div>
+    ${quiz.answered !== null ? `
+      <button class="quiz-next" onclick="nextQuiz()">
+        ${quiz.q + 1 < words.length ? 'Nästa →' : 'Se resultat'}
+      </button>` : ''}
+  `;
+}
+
+// ── Service Worker ─────────────────────────────────────
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('sw.js').catch(() => {});
+}
+
+// ── Boot ───────────────────────────────────────────────
+loadWords();
+</script>
+</body>
+</html>

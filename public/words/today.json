@@ -1,0 +1,80 @@
+{
+  "date": "2026-05-17",
+  "sets": [
+    {
+      "theme": "Mat och dryck",
+      "words": [
+        { "pt": "o pão", "sv": "brödet", "type": "substantiv", "example_pt": "Quero um pão, por favor.", "example_sv": "Jag vill ha ett bröd, tack." },
+        { "pt": "a água", "sv": "vattnet", "type": "substantiv", "example_pt": "Pode me dar um copo de água?", "example_sv": "Kan du ge mig ett glas vatten?" },
+        { "pt": "o frango", "sv": "kycklingen", "type": "substantiv", "example_pt": "O frango está delicioso.", "example_sv": "Kycklingen är utsökt." },
+        { "pt": "a maçã", "sv": "äpplet", "type": "substantiv", "example_pt": "Eu como uma maçã todos os dias.", "example_sv": "Jag äter ett äpple varje dag." },
+        { "pt": "o leite", "sv": "mjölken", "type": "substantiv", "example_pt": "Ele bebe leite de manhã.", "example_sv": "Han dricker mjölk på morgonen." },
+        { "pt": "o café", "sv": "kaffet", "type": "substantiv", "example_pt": "Gosto muito de café.", "example_sv": "Jag gillar kaffe mycket." },
+        { "pt": "o queijo", "sv": "osten", "type": "substantiv", "example_pt": "O queijo português é famoso.", "example_sv": "Den portugisiska osten är berömd." },
+        { "pt": "a laranja", "sv": "apelsinen", "type": "substantiv", "example_pt": "A laranja é doce.", "example_sv": "Apelsinen är söt." },
+        { "pt": "o vinho", "sv": "vinet", "type": "substantiv", "example_pt": "Este vinho é muito bom.", "example_sv": "Det här vinet är mycket bra." },
+        { "pt": "o arroz", "sv": "riset", "type": "substantiv", "example_pt": "Comemos arroz com peixe.", "example_sv": "Vi åt ris med fisk." }
+      ]
+    },
+    {
+      "theme": "Vardagliga fraser",
+      "words": [
+        { "pt": "bom dia", "sv": "god morgon", "type": "fras", "example_pt": "Bom dia! Como vai?", "example_sv": "God morgon! Hur mår du?" },
+        { "pt": "boa tarde", "sv": "god eftermiddag", "type": "fras", "example_pt": "Boa tarde, senhor.", "example_sv": "God eftermiddag, herr." },
+        { "pt": "obrigado/a", "sv": "tack", "type": "fras", "example_pt": "Obrigado pela ajuda!", "example_sv": "Tack för hjälpen!" },
+        { "pt": "por favor", "sv": "tack/snälla", "type": "fras", "example_pt": "Pode ajudar-me, por favor?", "example_sv": "Kan du hjälpa mig, snälla?" },
+        { "pt": "desculpe", "sv": "ursäkta", "type": "fras", "example_pt": "Desculpe, não entendi.", "example_sv": "Ursäkta, jag förstod inte." },
+        { "pt": "como se chama?", "sv": "vad heter du?", "type": "fras", "example_pt": "Como se chama? Chamo-me Ana.", "example_sv": "Vad heter du? Jag heter Ana." },
+        { "pt": "quanto custa?", "sv": "vad kostar det?", "type": "fras", "example_pt": "Quanto custa este livro?", "example_sv": "Vad kostar den här boken?" },
+        { "pt": "não percebo", "sv": "jag förstår inte", "type": "fras", "example_pt": "Não percebo português bem.", "example_sv": "Jag förstår inte portugisiska bra." },
+        { "pt": "até logo", "sv": "hej då", "type": "fras", "example_pt": "Até logo! Boa sorte!", "example_sv": "Hej då! Lycka till!" },
+        { "pt": "com licença", "sv": "ursäkta mig", "type": "fras", "example_pt": "Com licença, posso passar?", "example_sv": "Ursäkta mig, kan jag passera?" }
+      ]
+    },
+    {
+      "theme": "Känslor",
+      "words": [
+        { "pt": "feliz", "sv": "glad/lycklig", "type": "adjektiv", "example_pt": "Estou muito feliz hoje.", "example_sv": "Jag är mycket glad idag." },
+        { "pt": "triste", "sv": "ledsen", "type": "adjektiv", "example_pt": "Ela estava triste ontem.", "example_sv": "Hon var ledsen igår." },
+        { "pt": "cansado/a", "sv": "trött", "type": "adjektiv", "example_pt": "Estou cansado depois do trabalho.", "example_sv": "Jag är trött efter jobbet." },
+        { "pt": "animado/a", "sv": "upprymd/ivrig", "type": "adjektiv", "example_pt": "Estou muito animado com a viagem.", "example_sv": "Jag är mycket ivrig inför resan." },
+        { "pt": "nervoso/a", "sv": "nervös", "type": "adjektiv", "example_pt": "Estou nervoso antes do exame.", "example_sv": "Jag är nervös inför provet." },
+        { "pt": "orgulhoso/a", "sv": "stolt", "type": "adjektiv", "example_pt": "Estou orgulhoso do meu trabalho.", "example_sv": "Jag är stolt över mitt arbete." },
+        { "pt": "tranquilo/a", "sv": "lugn", "type": "adjektiv", "example_pt": "A aldeia é muito tranquila.", "example_sv": "Byn är mycket lugn." },
+        { "pt": "curioso/a", "sv": "nyfiken", "type": "adjektiv", "example_pt": "As crianças são muito curiosas.", "example_sv": "Barn är mycket nyfikna." },
+        { "pt": "divertido/a", "sv": "rolig/kul", "type": "adjektiv", "example_pt": "A festa foi muito divertida.", "example_sv": "Festen var mycket rolig." },
+        { "pt": "saudoso/a", "sv": "nostalgisk", "type": "adjektiv", "example_pt": "Estou saudoso da minha família.", "example_sv": "Jag saknar min familj." }
+      ]
+    },
+    {
+      "theme": "Natur och väder",
+      "words": [
+        { "pt": "o sol", "sv": "solen", "type": "substantiv", "example_pt": "O sol brilha muito aqui.", "example_sv": "Solen skiner mycket här." },
+        { "pt": "a chuva", "sv": "regnet", "type": "substantiv", "example_pt": "Gosto de caminhar na chuva.", "example_sv": "Jag gillar att promenera i regnet." },
+        { "pt": "o vento", "sv": "vinden", "type": "substantiv", "example_pt": "Está muito vento hoje.", "example_sv": "Det blåser mycket idag." },
+        { "pt": "a praia", "sv": "stranden", "type": "substantiv", "example_pt": "A praia de Cascais é linda.", "example_sv": "Stranden i Cascais är vacker." },
+        { "pt": "a nuvem", "sv": "molnet", "type": "substantiv", "example_pt": "As nuvens estão escuras.", "example_sv": "Molnen är mörka." },
+        { "pt": "o arco-íris", "sv": "regnbågen", "type": "substantiv", "example_pt": "Vi um arco-íris lindo.", "example_sv": "Jag såg en vacker regnbåge." },
+        { "pt": "o pôr do sol", "sv": "solnedgången", "type": "substantiv", "example_pt": "O pôr do sol em Sintra é lindo.", "example_sv": "Solnedgången i Sintra är vacker." },
+        { "pt": "o mar", "sv": "havet", "type": "substantiv", "example_pt": "Portugal tem muito mar.", "example_sv": "Portugal har mycket hav." },
+        { "pt": "a floresta", "sv": "skogen", "type": "substantiv", "example_pt": "A floresta está cheia de animais.", "example_sv": "Skogen är full av djur." },
+        { "pt": "o rio", "sv": "floden", "type": "substantiv", "example_pt": "O rio Tejo passa por Lisboa.", "example_sv": "Floden Tejo passerar genom Lissabon." }
+      ]
+    },
+    {
+      "theme": "Resor",
+      "words": [
+        { "pt": "o comboio", "sv": "tåget", "type": "substantiv", "example_pt": "O comboio parte às dez.", "example_sv": "Tåget avgår klockan tio." },
+        { "pt": "o bilhete", "sv": "biljetten", "type": "substantiv", "example_pt": "Quero comprar um bilhete.", "example_sv": "Jag vill köpa en biljett." },
+        { "pt": "o passaporte", "sv": "passet", "type": "substantiv", "example_pt": "Não esqueças o passaporte!", "example_sv": "Glöm inte passet!" },
+        { "pt": "o aeroporto", "sv": "flygplatsen", "type": "substantiv", "example_pt": "O aeroporto fica longe?", "example_sv": "Ligger flygplatsen långt borta?" },
+        { "pt": "a mala", "sv": "resväskan", "type": "substantiv", "example_pt": "A minha mala é pesada.", "example_sv": "Min resväska är tung." },
+        { "pt": "o táxi", "sv": "taxin", "type": "substantiv", "example_pt": "Chamei um táxi.", "example_sv": "Jag ringde en taxi." },
+        { "pt": "o metro", "sv": "tunnelbanan", "type": "substantiv", "example_pt": "O metro de Lisboa é barato.", "example_sv": "Tunnelbanan i Lissabon är billig." },
+        { "pt": "a reserva", "sv": "bokningen", "type": "substantiv", "example_pt": "Tenho uma reserva para dois.", "example_sv": "Jag har en bokning för två." },
+        { "pt": "em frente", "sv": "rakt fram", "type": "fras", "example_pt": "Siga em frente por 200 metros.", "example_sv": "Fortsätt rakt fram 200 meter." },
+        { "pt": "a chegada", "sv": "ankomsten", "type": "substantiv", "example_pt": "A chegada está prevista para as 18h.", "example_sv": "Ankomsten är planerad till kl 18." }
+      ]
+    }
+  ]
+}
