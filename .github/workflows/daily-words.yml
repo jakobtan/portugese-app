@@ -3,54 +3,62 @@ name: Generate Daily Words
 on:
   schedule:
     - cron: '0 3 * * *'  # Kör 03:00 UTC varje natt (05:00 svensk tid)
-  workflow_dispatch:      # Tillåter manuell körning
+  workflow_dispatch:      # Tillåter manuell körning från Actions-fliken
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write  # Behövs för att kunna committa och pusha filer
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4  # Hämtar repots filer till Actions-servern
 
       - name: Generate words with Claude API
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}  # Hämtar API-nyckeln från GitHub Secrets
         run: |
           TODAY=$(date +%Y-%m-%d)
 
+          # Bygg en lista med ord som använts de senaste 14 dagarna
+          USED_WORDS=""
+          for i in $(seq 1 14); do
+            DATE=$(date -d "$i days ago" +%Y-%m-%d 2>/dev/null || date -v-${i}d +%Y-%m-%d)
+            FILE="words/history/${DATE}.json"
+            if [ -f "$FILE" ]; then
+              WORDS=$(python3 -c "import json; data = json.load(open('$FILE')); words = [w['pt'] for s in data['sets'] for w in s['words']]; print(', '.join(words))")
+              USED_WORDS="$USED_WORDS $WORDS"
+            fi
+          done
+
+          # Anropa Claude API med 3 teman och 8 ord vardera
           RESPONSE=$(curl -s https://api.anthropic.com/v1/messages \
             -H "Content-Type: application/json" \
             -H "x-api-key: $ANTHROPIC_API_KEY" \
             -H "anthropic-version: 2023-06-01" \
-            -d '{
-              "model": "claude-opus-4-5",
-              "max_tokens": 4000,
-              "messages": [{
-                "role": "user",
-                "content": "Generate 5 themed sets of 10 Portuguese vocabulary words each for a Swedish learner. Choose 5 varied themes from: mat och dryck, vardagliga fraser, känslor och adjektiv, resor och transport, natur och väder, kropp och hälsa, arbete och karriär, familj och relationer, tid och datum, stad och platser, djur, sport och fritid, kläder och mode, teknik, hem och möbler. Pick different themes each day — use todays date '"$TODAY"' as a seed for variety.\n\nReply with ONLY a raw JSON object, no markdown, no backticks:\n{\"date\":\"'"$TODAY"'\",\"sets\":[{\"theme\":\"theme name in Swedish\",\"words\":[{\"pt\":\"portuguese word\",\"sv\":\"swedish translation\",\"type\":\"substantiv/verb/adjektiv/fras\",\"example_pt\":\"example sentence\",\"example_sv\":\"swedish translation of sentence\"}]}]}"
+            -d "{
+              \"model\": \"claude-opus-4-5\",
+              \"max_tokens\": 3000,
+              \"messages\": [{
+                \"role\": \"user\",
+                \"content\": \"Generate exactly 3 themed sets of exactly 8 Portuguese vocabulary words each for a Swedish learner. Choose 3 varied themes from: mat och dryck, vardagliga fraser, känslor och adjektiv, resor och transport, natur och väder, kropp och hälsa, arbete och karriär, familj och relationer, tid och datum, stad och platser, djur, sport och fritid, kläder och mode, teknik, hem och möbler. Use todays date $TODAY to pick different themes each day.\n\nDo NOT use any of these words that were used in the last 14 days: $USED_WORDS\n\nReply with ONLY a raw JSON object, no markdown, no backticks:\n{\\\"date\\\":\\\"$TODAY\\\",\\\"sets\\\":[{\\\"theme\\\":\\\"theme name in Swedish\\\",\\\"words\\\":[{\\\"pt\\\":\\\"portuguese word\\\",\\\"sv\\\":\\\"swedish translation\\\",\\\"type\\\":\\\"substantiv/verb/adjektiv/fras\\\",\\\"example_pt\\\":\\\"example sentence\\\",\\\"example_sv\\\":\\\"swedish translation of sentence\\\"}]}]}\"
               }]
-            }')
+            }")
 
-          # Extrahera JSON-innehållet från Claude-svaret
-          echo $RESPONSE | python3 -c "
-          import json, sys
-          data = json.load(sys.stdin)
-          text = ''.join(b['text'] for b in data['content'] if b['type'] == 'text')
-          # Validera att det är giltig JSON
-          parsed = json.loads(text)
-          print(json.dumps(parsed, ensure_ascii=False, indent=2))
-          " > words/today.json
+          # Extrahera JSON från Claude-svaret och spara som dagens ord
+          echo $RESPONSE | python3 -c "import json, sys; data = json.load(sys.stdin); text = ''.join(b['text'] for b in data['content'] if b['type'] == 'text'); parsed = json.loads(text); print(json.dumps(parsed, ensure_ascii=False, indent=2))" > words/today.json
+
+          # Spara kopia i historiken
+          mkdir -p words/history
+          cp words/today.json words/history/${TODAY}.json
 
           echo "Generated words for $TODAY"
-          cat words/today.json 
 
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add words/today.json
+          git add words/today.json words/history/
           git diff --cached --quiet || git commit -m "Daily words $(date +%Y-%m-%d)"
           git push
