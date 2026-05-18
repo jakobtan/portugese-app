@@ -42,7 +42,7 @@ jobs:
           # Validera att det är giltig JSON
           parsed = json.loads(text)
           print(json.dumps(parsed, ensure_ascii=False, indent=2))
-          " > public/words/today.json
+          " > words/today.json
 
           echo "Generated words for $TODAY"
           cat public/words/today.json | python3 -c "import json,sys; d=json.load(sys.stdin); print(f'Themes: {[s[\"theme\"] for s in d[\"sets\"]]}')"
