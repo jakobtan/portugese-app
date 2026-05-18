@@ -1,228 +1,78 @@
 {
-  "date": "2026-05-17",
+  "date": "2026-05-18",
   "sets": [
-    {
-      "theme": "natur och väder",
-      "words": [
-        {
-          "pt": "a chuva",
-          "sv": "regnet",
-          "type": "substantiv",
-          "example_pt": "A chuva está a cair desde manhã.",
-          "example_sv": "Regnet har fallit sedan i morse."
-        },
-        {
-          "pt": "o sol",
-          "sv": "solen",
-          "type": "substantiv",
-          "example_pt": "O sol brilha no céu azul.",
-          "example_sv": "Solen lyser på den blå himlen."
-        },
-        {
-          "pt": "a nuvem",
-          "sv": "molnet",
-          "type": "substantiv",
-          "example_pt": "Há muitas nuvens hoje.",
-          "example_sv": "Det är många moln idag."
-        },
-        {
-          "pt": "o vento",
-          "sv": "vinden",
-          "type": "substantiv",
-          "example_pt": "O vento está muito forte.",
-          "example_sv": "Vinden är mycket stark."
-        },
-        {
-          "pt": "a árvore",
-          "sv": "trädet",
-          "type": "substantiv",
-          "example_pt": "A árvore tem folhas verdes.",
-          "example_sv": "Trädet har gröna löv."
-        },
-        {
-          "pt": "a flor",
-          "sv": "blomman",
-          "type": "substantiv",
-          "example_pt": "Esta flor cheira muito bem.",
-          "example_sv": "Den här blomman doftar väldigt gott."
-        },
-        {
-          "pt": "o rio",
-          "sv": "floden",
-          "type": "substantiv",
-          "example_pt": "O rio passa pela cidade.",
-          "example_sv": "Floden rinner genom staden."
-        },
-        {
-          "pt": "a montanha",
-          "sv": "berget",
-          "type": "substantiv",
-          "example_pt": "A montanha é muito alta.",
-          "example_sv": "Berget är mycket högt."
-        },
-        {
-          "pt": "nevar",
-          "sv": "snöa",
-          "type": "verb",
-          "example_pt": "No inverno costuma nevar aqui.",
-          "example_sv": "På vintern brukar det snöa här."
-        },
-        {
-          "pt": "quente",
-          "sv": "varm",
-          "type": "adjektiv",
-          "example_pt": "Hoje está muito quente.",
-          "example_sv": "Idag är det mycket varmt."
-        }
-      ]
-    },
     {
       "theme": "kropp och hälsa",
       "words": [
         {
-          "pt": "a cabeça",
-          "sv": "huvudet",
+          "pt": "cabeça",
+          "sv": "huvud",
           "type": "substantiv",
-          "example_pt": "Dói-me a cabeça.",
-          "example_sv": "Jag har ont i huvudet."
+          "example_pt": "Tenho dor de cabeça.",
+          "example_sv": "Jag har huvudvärk."
         },
         {
-          "pt": "o coração",
-          "sv": "hjärtat",
+          "pt": "coração",
+          "sv": "hjärta",
           "type": "substantiv",
-          "example_pt": "O coração bate mais rápido quando corro.",
-          "example_sv": "Hjärtat slår snabbare när jag springer."
+          "example_pt": "O coração bate rápido.",
+          "example_sv": "Hjärtat slår snabbt."
         },
         {
-          "pt": "a mão",
-          "sv": "handen",
+          "pt": "remédio",
+          "sv": "medicin",
           "type": "substantiv",
-          "example_pt": "Lavo as mãos antes de comer.",
-          "example_sv": "Jag tvättar händerna innan jag äter."
-        },
-        {
-          "pt": "o pé",
-          "sv": "foten",
-          "type": "substantiv",
-          "example_pt": "Magoei o pé a jogar futebol.",
-          "example_sv": "Jag skadade foten när jag spelade fotboll."
-        },
-        {
-          "pt": "o olho",
-          "sv": "ögat",
-          "type": "substantiv",
-          "example_pt": "Ela tem olhos castanhos.",
-          "example_sv": "Hon har bruna ögon."
-        },
-        {
-          "pt": "o médico",
-          "sv": "läkaren",
-          "type": "substantiv",
-          "example_pt": "Preciso de ir ao médico.",
-          "example_sv": "Jag måste gå till läkaren."
-        },
-        {
-          "pt": "o medicamento",
-          "sv": "medicinen",
-          "type": "substantiv",
-          "example_pt": "Tomo este medicamento duas vezes por dia.",
-          "example_sv": "Jag tar den här medicinen två gånger om dagen."
+          "example_pt": "Preciso tomar o remédio.",
+          "example_sv": "Jag behöver ta medicinen."
         },
         {
           "pt": "doente",
           "sv": "sjuk",
           "type": "adjektiv",
-          "example_pt": "Estou doente há três dias.",
-          "example_sv": "Jag har varit sjuk i tre dagar."
+          "example_pt": "Estou doente hoje.",
+          "example_sv": "Jag är sjuk idag."
+        },
+        {
+          "pt": "médico",
+          "sv": "läkare",
+          "type": "substantiv",
+          "example_pt": "O médico é muito simpático.",
+          "example_sv": "Läkaren är mycket trevlig."
+        },
+        {
+          "pt": "sangue",
+          "sv": "blod",
+          "type": "substantiv",
+          "example_pt": "O exame de sangue ficou pronto.",
+          "example_sv": "Blodprovet blev klart."
+        },
+        {
+          "pt": "dor",
+          "sv": "smärta",
+          "type": "substantiv",
+          "example_pt": "Sinto muita dor nas costas.",
+          "example_sv": "Jag känner mycket smärta i ryggen."
+        },
+        {
+          "pt": "respirar",
+          "sv": "andas",
+          "type": "verb",
+          "example_pt": "É importante respirar fundo.",
+          "example_sv": "Det är viktigt att andas djupt."
+        },
+        {
+          "pt": "febre",
+          "sv": "feber",
+          "type": "substantiv",
+          "example_pt": "A criança está com febre.",
+          "example_sv": "Barnet har feber."
         },
         {
           "pt": "saudável",
           "sv": "frisk/hälsosam",
           "type": "adjektiv",
-          "example_pt": "É importante ter uma vida saudável.",
-          "example_sv": "Det är viktigt att ha ett hälsosamt liv."
-        },
-        {
-          "pt": "descansar",
-          "sv": "vila",
-          "type": "verb",
-          "example_pt": "Preciso de descansar um pouco.",
-          "example_sv": "Jag behöver vila lite."
-        }
-      ]
-    },
-    {
-      "theme": "arbete och karriär",
-      "words": [
-        {
-          "pt": "o trabalho",
-          "sv": "arbetet/jobbet",
-          "type": "substantiv",
-          "example_pt": "O meu trabalho é interessante.",
-          "example_sv": "Mitt jobb är intressant."
-        },
-        {
-          "pt": "o escritório",
-          "sv": "kontoret",
-          "type": "substantiv",
-          "example_pt": "Trabalho num escritório no centro.",
-          "example_sv": "Jag arbetar på ett kontor i centrum."
-        },
-        {
-          "pt": "o chefe",
-          "sv": "chefen",
-          "type": "substantiv",
-          "example_pt": "O meu chefe é muito simpático.",
-          "example_sv": "Min chef är mycket trevlig."
-        },
-        {
-          "pt": "o colega",
-          "sv": "kollegan",
-          "type": "substantiv",
-          "example_pt": "Os meus colegas ajudam-me muito.",
-          "example_sv": "Mina kollegor hjälper mig mycket."
-        },
-        {
-          "pt": "o salário",
-          "sv": "lönen",
-          "type": "substantiv",
-          "example_pt": "Recebo o salário no fim do mês.",
-          "example_sv": "Jag får lönen i slutet av månaden."
-        },
-        {
-          "pt": "a reunião",
-          "sv": "mötet",
-          "type": "substantiv",
-          "example_pt": "Tenho uma reunião às dez horas.",
-          "example_sv": "Jag har ett möte klockan tio."
-        },
-        {
-          "pt": "trabalhar",
-          "sv": "arbeta",
-          "type": "verb",
-          "example_pt": "Trabalho oito horas por dia.",
-          "example_sv": "Jag arbetar åtta timmar om dagen."
-        },
-        {
-          "pt": "a empresa",
-          "sv": "företaget",
-          "type": "substantiv",
-          "example_pt": "A empresa tem cem funcionários.",
-          "example_sv": "Företaget har hundra anställda."
-        },
-        {
-          "pt": "o emprego",
-          "sv": "anställningen",
-          "type": "substantiv",
-          "example_pt": "Estou à procura de emprego.",
-          "example_sv": "Jag söker jobb."
-        },
-        {
-          "pt": "a entrevista",
-          "sv": "intervjun",
-          "type": "substantiv",
-          "example_pt": "A entrevista correu muito bem.",
-          "example_sv": "Intervjun gick mycket bra."
+          "example_pt": "Quero ter uma vida saudável.",
+          "example_sv": "Jag vill ha ett hälsosamt liv."
         }
       ]
     },
@@ -230,149 +80,299 @@
       "theme": "djur",
       "words": [
         {
-          "pt": "o cão",
-          "sv": "hunden",
+          "pt": "cachorro",
+          "sv": "hund",
           "type": "substantiv",
-          "example_pt": "O meu cão chama-se Max.",
-          "example_sv": "Min hund heter Max."
+          "example_pt": "O cachorro está brincando no jardim.",
+          "example_sv": "Hunden leker i trädgården."
         },
         {
-          "pt": "o gato",
-          "sv": "katten",
+          "pt": "gato",
+          "sv": "katt",
           "type": "substantiv",
-          "example_pt": "O gato está a dormir no sofá.",
+          "example_pt": "O gato dorme no sofá.",
           "example_sv": "Katten sover på soffan."
         },
         {
-          "pt": "o pássaro",
-          "sv": "fågeln",
+          "pt": "pássaro",
+          "sv": "fågel",
           "type": "substantiv",
           "example_pt": "O pássaro canta de manhã.",
           "example_sv": "Fågeln sjunger på morgonen."
         },
         {
-          "pt": "o peixe",
-          "sv": "fisken",
+          "pt": "peixe",
+          "sv": "fisk",
           "type": "substantiv",
-          "example_pt": "Tenho um peixe no aquário.",
-          "example_sv": "Jag har en fisk i akvariet."
+          "example_pt": "O peixe nada no aquário.",
+          "example_sv": "Fisken simmar i akvariet."
         },
         {
-          "pt": "a vaca",
-          "sv": "kon",
+          "pt": "cavalo",
+          "sv": "häst",
           "type": "substantiv",
-          "example_pt": "A vaca dá leite.",
-          "example_sv": "Kon ger mjölk."
+          "example_pt": "O cavalo corre no campo.",
+          "example_sv": "Hästen springer på fältet."
         },
         {
-          "pt": "o cavalo",
-          "sv": "hästen",
+          "pt": "vaca",
+          "sv": "ko",
           "type": "substantiv",
-          "example_pt": "Gosto de andar a cavalo.",
-          "example_sv": "Jag gillar att rida på häst."
+          "example_pt": "A vaca produz leite.",
+          "example_sv": "Kon producerar mjölk."
         },
         {
-          "pt": "a galinha",
-          "sv": "hönan",
+          "pt": "galinha",
+          "sv": "höna",
           "type": "substantiv",
           "example_pt": "A galinha põe ovos.",
           "example_sv": "Hönan lägger ägg."
         },
         {
-          "pt": "o coelho",
-          "sv": "kaninen",
-          "type": "substantiv",
-          "example_pt": "O coelho come cenouras.",
-          "example_sv": "Kaninen äter morötter."
-        },
-        {
-          "pt": "a borboleta",
-          "sv": "fjärilen",
+          "pt": "borboleta",
+          "sv": "fjäril",
           "type": "substantiv",
           "example_pt": "A borboleta é muito colorida.",
           "example_sv": "Fjärilen är mycket färgglad."
         },
         {
-          "pt": "o leão",
-          "sv": "lejonet",
+          "pt": "lobo",
+          "sv": "varg",
           "type": "substantiv",
-          "example_pt": "O leão é o rei da selva.",
-          "example_sv": "Lejonet är djungelns kung."
+          "example_pt": "O lobo vive na floresta.",
+          "example_sv": "Vargen lever i skogen."
+        },
+        {
+          "pt": "urso",
+          "sv": "björn",
+          "type": "substantiv",
+          "example_pt": "O urso é um animal grande.",
+          "example_sv": "Björnen är ett stort djur."
         }
       ]
     },
     {
-      "theme": "hem och möbler",
+      "theme": "teknik",
       "words": [
         {
-          "pt": "a casa",
-          "sv": "huset",
+          "pt": "computador",
+          "sv": "dator",
           "type": "substantiv",
-          "example_pt": "A minha casa tem três quartos.",
-          "example_sv": "Mitt hus har tre sovrum."
+          "example_pt": "Trabalho no computador todos os dias.",
+          "example_sv": "Jag arbetar vid datorn varje dag."
         },
         {
-          "pt": "a cozinha",
-          "sv": "köket",
+          "pt": "telemóvel",
+          "sv": "mobiltelefon",
           "type": "substantiv",
-          "example_pt": "Cozinho na cozinha todos os dias.",
-          "example_sv": "Jag lagar mat i köket varje dag."
+          "example_pt": "Esqueci o telemóvel em casa.",
+          "example_sv": "Jag glömde mobiltelefonen hemma."
         },
         {
-          "pt": "o quarto",
-          "sv": "sovrummet",
+          "pt": "internet",
+          "sv": "internet",
           "type": "substantiv",
-          "example_pt": "O meu quarto é muito acolhedor.",
-          "example_sv": "Mitt sovrum är mycket mysigt."
+          "example_pt": "A internet está lenta hoje.",
+          "example_sv": "Internet är långsamt idag."
         },
         {
-          "pt": "a sala",
-          "sv": "vardagsrummet",
+          "pt": "senha",
+          "sv": "lösenord",
           "type": "substantiv",
-          "example_pt": "Vemos televisão na sala.",
-          "example_sv": "Vi tittar på TV i vardagsrummet."
+          "example_pt": "Não me lembro da senha.",
+          "example_sv": "Jag kommer inte ihåg lösenordet."
         },
         {
-          "pt": "a mesa",
-          "sv": "bordet",
+          "pt": "ecrã",
+          "sv": "skärm",
           "type": "substantiv",
-          "example_pt": "A mesa está posta para o jantar.",
-          "example_sv": "Bordet är dukat för middagen."
+          "example_pt": "O ecrã do computador é grande.",
+          "example_sv": "Datorskärmen är stor."
         },
         {
-          "pt": "a cadeira",
-          "sv": "stolen",
-          "type": "substantiv",
-          "example_pt": "Esta cadeira é muito confortável.",
-          "example_sv": "Den här stolen är mycket bekväm."
+          "pt": "carregar",
+          "sv": "ladda",
+          "type": "verb",
+          "example_pt": "Preciso carregar o telemóvel.",
+          "example_sv": "Jag behöver ladda mobiltelefonen."
         },
         {
-          "pt": "a cama",
-          "sv": "sängen",
+          "pt": "aplicação",
+          "sv": "app/applikation",
           "type": "substantiv",
-          "example_pt": "A cama é grande e macia.",
-          "example_sv": "Sängen är stor och mjuk."
+          "example_pt": "Esta aplicação é muito útil.",
+          "example_sv": "Den här appen är mycket användbar."
         },
         {
-          "pt": "o armário",
-          "sv": "skåpet",
+          "pt": "teclado",
+          "sv": "tangentbord",
           "type": "substantiv",
-          "example_pt": "A roupa está no armário.",
-          "example_sv": "Kläderna är i skåpet."
+          "example_pt": "O teclado não funciona bem.",
+          "example_sv": "Tangentbordet fungerar inte bra."
         },
         {
-          "pt": "a janela",
-          "sv": "fönstret",
-          "type": "substantiv",
-          "example_pt": "Abro a janela para arejar.",
-          "example_sv": "Jag öppnar fönstret för att vädra."
+          "pt": "descarregar",
+          "sv": "ladda ner",
+          "type": "verb",
+          "example_pt": "Vou descarregar o ficheiro.",
+          "example_sv": "Jag ska ladda ner filen."
         },
         {
-          "pt": "a porta",
-          "sv": "dörren",
+          "pt": "rede social",
+          "sv": "socialt nätverk",
           "type": "substantiv",
-          "example_pt": "Fecha a porta, por favor.",
-          "example_sv": "Stäng dörren, tack."
+          "example_pt": "Passo muito tempo nas redes sociais.",
+          "example_sv": "Jag spenderar mycket tid på sociala nätverk."
+        }
+      ]
+    },
+    {
+      "theme": "familj och relationer",
+      "words": [
+        {
+          "pt": "mãe",
+          "sv": "mamma",
+          "type": "substantiv",
+          "example_pt": "A minha mãe cozinha muito bem.",
+          "example_sv": "Min mamma lagar mat mycket bra."
+        },
+        {
+          "pt": "pai",
+          "sv": "pappa",
+          "type": "substantiv",
+          "example_pt": "O meu pai trabalha num banco.",
+          "example_sv": "Min pappa arbetar på en bank."
+        },
+        {
+          "pt": "irmão",
+          "sv": "bror",
+          "type": "substantiv",
+          "example_pt": "Tenho um irmão mais novo.",
+          "example_sv": "Jag har en yngre bror."
+        },
+        {
+          "pt": "avó",
+          "sv": "mormor/farmor",
+          "type": "substantiv",
+          "example_pt": "A avó faz o melhor bolo.",
+          "example_sv": "Mormor bakar den bästa tårtan."
+        },
+        {
+          "pt": "marido",
+          "sv": "man/make",
+          "type": "substantiv",
+          "example_pt": "O meu marido é português.",
+          "example_sv": "Min man är portugis."
+        },
+        {
+          "pt": "esposa",
+          "sv": "fru/hustru",
+          "type": "substantiv",
+          "example_pt": "A minha esposa é médica.",
+          "example_sv": "Min fru är läkare."
+        },
+        {
+          "pt": "filho",
+          "sv": "son",
+          "type": "substantiv",
+          "example_pt": "O nosso filho tem cinco anos.",
+          "example_sv": "Vår son är fem år."
+        },
+        {
+          "pt": "prima",
+          "sv": "kusin (kvinnlig)",
+          "type": "substantiv",
+          "example_pt": "A minha prima mora no Brasil.",
+          "example_sv": "Min kusin bor i Brasilien."
+        },
+        {
+          "pt": "casado",
+          "sv": "gift",
+          "type": "adjektiv",
+          "example_pt": "Sou casado há dez anos.",
+          "example_sv": "Jag har varit gift i tio år."
+        },
+        {
+          "pt": "namorado",
+          "sv": "pojkvän",
+          "type": "substantiv",
+          "example_pt": "O namorado dela é muito simpático.",
+          "example_sv": "Hennes pojkvän är mycket trevlig."
+        }
+      ]
+    },
+    {
+      "theme": "sport och fritid",
+      "words": [
+        {
+          "pt": "futebol",
+          "sv": "fotboll",
+          "type": "substantiv",
+          "example_pt": "Gosto de jogar futebol.",
+          "example_sv": "Jag gillar att spela fotboll."
+        },
+        {
+          "pt": "nadar",
+          "sv": "simma",
+          "type": "verb",
+          "example_pt": "Vou nadar na piscina.",
+          "example_sv": "Jag ska simma i poolen."
+        },
+        {
+          "pt": "correr",
+          "sv": "springa",
+          "type": "verb",
+          "example_pt": "Corro todas as manhãs.",
+          "example_sv": "Jag springer varje morgon."
+        },
+        {
+          "pt": "equipa",
+          "sv": "lag",
+          "type": "substantiv",
+          "example_pt": "A nossa equipa ganhou o jogo.",
+          "example_sv": "Vårt lag vann matchen."
+        },
+        {
+          "pt": "ginásio",
+          "sv": "gym",
+          "type": "substantiv",
+          "example_pt": "Vou ao ginásio três vezes por semana.",
+          "example_sv": "Jag går till gymmet tre gånger i veckan."
+        },
+        {
+          "pt": "bicicleta",
+          "sv": "cykel",
+          "type": "substantiv",
+          "example_pt": "Ando de bicicleta ao fim de semana.",
+          "example_sv": "Jag cyklar på helgen."
+        },
+        {
+          "pt": "jogo",
+          "sv": "match/spel",
+          "type": "substantiv",
+          "example_pt": "O jogo começa às oito.",
+          "example_sv": "Matchen börjar klockan åtta."
+        },
+        {
+          "pt": "ganhar",
+          "sv": "vinna",
+          "type": "verb",
+          "example_pt": "Queremos ganhar o campeonato.",
+          "example_sv": "Vi vill vinna mästerskapet."
+        },
+        {
+          "pt": "treinar",
+          "sv": "träna",
+          "type": "verb",
+          "example_pt": "Preciso treinar mais.",
+          "example_sv": "Jag behöver träna mer."
+        },
+        {
+          "pt": "passatempo",
+          "sv": "hobby",
+          "type": "substantiv",
+          "example_pt": "A leitura é o meu passatempo favorito.",
+          "example_sv": "Läsning är min favobithobby."
         }
       ]
     }
