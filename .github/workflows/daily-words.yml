@@ -45,12 +45,12 @@ jobs:
           " > words/today.json
 
           echo "Generated words for $TODAY"
-          cat public/words/today.json | python3 -c "import json,sys; d=json.load(sys.stdin); print(f'Themes: {[s[\"theme\"] for s in d[\"sets\"]]}')"
+          cat words/today.json 
 
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/words/today.json
+          git add words/today.json
           git diff --cached --quiet || git commit -m "Daily words $(date +%Y-%m-%d)"
           git push
