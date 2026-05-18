@@ -1,4 +1,4 @@
-const CACHE = 'portugues-v1';
+const CACHE = 'portugues-v2';
 const ASSETS = ['/', '/index.html', '/manifest.json'];
 
 self.addEventListener('install', e => {
@@ -16,21 +16,11 @@ self.addEventListener('activate', e => {
 self.addEventListener('fetch', e => {
   const url = new URL(e.request.url);
 
-  // Dagens ord: nätverket först, cache som fallback
   if (url.pathname.includes('today.json')) {
-    e.respondWith(
-      fetch(e.request)
-        .then(res => {
-          const clone = res.clone();
-          caches.open(CACHE).then(c => c.put(e.request, clone));
-          return res;
-        })
-        .catch(() => caches.match(e.request))
-    );
+    e.respondWith(fetch(e.request + '?v=' + new Date().toISOString().slice(0,10)));
     return;
   }
 
-  // Övriga resurser: cache först
   e.respondWith(
     caches.match(e.request).then(cached => cached || fetch(e.request))
   );
