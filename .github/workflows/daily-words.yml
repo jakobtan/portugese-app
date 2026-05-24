@@ -38,7 +38,7 @@ jobs:
             -H "x-api-key: $ANTHROPIC_API_KEY" \
             -H "anthropic-version: 2023-06-01" \
             -d "{
-              \"model\": \"claude-opus-4-5\",
+              \"model\": \"claude-sonnet-4-6\",
               \"max_tokens\": 3000,
               \"messages\": [{
                 \"role\": \"user\",
