@@ -1,186 +1,186 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "sets": [
     {
       "theme": "mat och dryck",
       "words": [
         {
-          "pt": "abacaxi",
-          "sv": "ananas",
+          "pt": "couve",
+          "sv": "kål",
           "type": "substantiv",
-          "example_pt": "O abacaxi está muito doce hoje.",
-          "example_sv": "Ananansen är väldigt söt idag."
+          "example_pt": "A couve é um legume muito saudável.",
+          "example_sv": "Kål är ett mycket hälsosamt grönsak."
         },
         {
-          "pt": "alface",
-          "sv": "sallad",
+          "pt": "framboesa",
+          "sv": "hallon",
           "type": "substantiv",
-          "example_pt": "Ela comprou alface fresca no mercado.",
-          "example_sv": "Hon köpte färsk sallad på marknaden."
+          "example_pt": "Ela comeu uma taça de framboesas ao pequeno-almoço.",
+          "example_sv": "Hon åt en skål hallon till frukost."
         },
         {
-          "pt": "amêndoa",
-          "sv": "mandel",
+          "pt": "pimento",
+          "sv": "paprika",
           "type": "substantiv",
-          "example_pt": "Coloquei amêndoas na sobremesa.",
-          "example_sv": "Jag lade mandlar i desserten."
+          "example_pt": "O pimento vermelho dá cor ao prato.",
+          "example_sv": "Den röda paprikan ger färg åt rätten."
         },
         {
-          "pt": "beterraba",
-          "sv": "rödbeta",
+          "pt": "bacalhau",
+          "sv": "torsk",
           "type": "substantiv",
-          "example_pt": "A beterraba tem uma cor muito intensa.",
-          "example_sv": "Rödbetan har en mycket intensiv färg."
+          "example_pt": "O bacalhau é um prato típico de Portugal.",
+          "example_sv": "Torsk är en typisk portugisisk rätt."
         },
         {
-          "pt": "chá",
-          "sv": "te",
+          "pt": "grão",
+          "sv": "kikärt",
           "type": "substantiv",
-          "example_pt": "Vou preparar um chá quente para mim.",
-          "example_sv": "Jag ska göra ett varmt te åt mig."
+          "example_pt": "O grão é muito utilizado na culinária mediterrânica.",
+          "example_sv": "Kikärtor används mycket i medelhavsköket."
         },
         {
-          "pt": "molho",
-          "sv": "sås",
+          "pt": "nata",
+          "sv": "grädde",
           "type": "substantiv",
-          "example_pt": "O molho de tomate ficou perfeito.",
-          "example_sv": "Tomatsåsen blev perfekt."
+          "example_pt": "Adicionou nata ao molho para ficar mais cremoso.",
+          "example_sv": "Hon tillsatte grädde i såsen för att göra den krämigare."
         },
         {
-          "pt": "pêssego",
-          "sv": "persika",
+          "pt": "ameixa",
+          "sv": "plommon",
           "type": "substantiv",
-          "example_pt": "Comi um pêssego maduro ao almoço.",
-          "example_sv": "Jag åt en mogen persika till lunch."
+          "example_pt": "As ameixas estão maduras no verão.",
+          "example_sv": "Plommonen mognar på sommaren."
         },
         {
-          "pt": "tosta",
-          "sv": "rostat bröd med topping",
+          "pt": "trigo",
+          "sv": "vete",
           "type": "substantiv",
-          "example_pt": "Pedi uma tosta mista no café.",
-          "example_sv": "Jag beställde en blandad tosta på kaféet."
+          "example_pt": "O pão é feito de farinha de trigo.",
+          "example_sv": "Bröd görs av vetemjöl."
         }
       ]
     },
     {
-      "theme": "kropp och hälsa",
+      "theme": "familj och relationer",
       "words": [
         {
-          "pt": "tornozelo",
-          "sv": "ankel",
+          "pt": "cunhado",
+          "sv": "svåger",
           "type": "substantiv",
-          "example_pt": "Torceu o tornozelo durante a corrida.",
-          "example_sv": "Han vrickade ankeln under löpningen."
+          "example_pt": "O meu cunhado trabalha como engenheiro.",
+          "example_sv": "Min svåger arbetar som ingenjör."
         },
         {
-          "pt": "sobrancelha",
-          "sv": "ögonbryn",
+          "pt": "tataravô",
+          "sv": "farfarsfar",
           "type": "substantiv",
-          "example_pt": "Ela tem sobrancelhas muito escuras.",
-          "example_sv": "Hon har väldigt mörka ögonbryn."
+          "example_pt": "O meu tataravô nasceu no século XIX.",
+          "example_sv": "Min farfarsfar föddes på 1800-talet."
         },
         {
-          "pt": "estômago",
-          "sv": "mage",
+          "pt": "afilhado",
+          "sv": "gudbarn",
           "type": "substantiv",
-          "example_pt": "Sinto dores de estômago depois de comer.",
-          "example_sv": "Jag känner magont efter att ha ätit."
+          "example_pt": "O padrinho levou o afilhado ao parque.",
+          "example_sv": "Gudfadern tog gudbarnet till parken."
         },
         {
-          "pt": "suor",
-          "sv": "svett",
-          "type": "substantiv",
-          "example_pt": "O suor escorria pelo seu rosto.",
-          "example_sv": "Svetten rann nerför hans ansikte."
-        },
-        {
-          "pt": "respirar",
-          "sv": "andas",
-          "type": "verb",
-          "example_pt": "É importante respirar fundo quando estás nervoso.",
-          "example_sv": "Det är viktigt att andas djupt när du är nervös."
-        },
-        {
-          "pt": "constipação",
-          "sv": "förkylning",
-          "type": "substantiv",
-          "example_pt": "Fiquei em casa por causa da constipação.",
-          "example_sv": "Jag stannade hemma på grund av förkylningen."
-        },
-        {
-          "pt": "rins",
-          "sv": "njurar",
-          "type": "substantiv",
-          "example_pt": "Os rins filtram o sangue do nosso corpo.",
-          "example_sv": "Njurarna filtrerar blodet i vår kropp."
-        },
-        {
-          "pt": "enxaqueca",
-          "sv": "migrän",
-          "type": "substantiv",
-          "example_pt": "Sofro de enxaqueca com frequência.",
-          "example_sv": "Jag lider ofta av migrän."
-        }
-      ]
-    },
-    {
-      "theme": "tid och datum",
-      "words": [
-        {
-          "pt": "madrugada",
-          "sv": "gryning",
-          "type": "substantiv",
-          "example_pt": "Acordei de madrugada com um barulho estranho.",
-          "example_sv": "Jag vaknade i gryningen av ett konstigt ljud."
-        },
-        {
-          "pt": "semana",
-          "sv": "vecka",
-          "type": "substantiv",
-          "example_pt": "Esta semana está a ser muito ocupada.",
-          "example_sv": "Den här veckan är väldigt stressig."
-        },
-        {
-          "pt": "mensal",
-          "sv": "månatlig",
+          "pt": "comprometido",
+          "sv": "förlovad",
           "type": "adjektiv",
-          "example_pt": "Faço uma reunião mensal com a minha equipa.",
-          "example_sv": "Jag har ett månatligt möte med mitt team."
+          "example_pt": "Ele está comprometido com a sua namorada há um ano.",
+          "example_sv": "Han är förlovad med sin flickvän sedan ett år."
         },
         {
-          "pt": "prazo",
-          "sv": "deadline",
+          "pt": "irmã",
+          "sv": "syster",
           "type": "substantiv",
-          "example_pt": "O prazo para entregar o projeto é amanhã.",
-          "example_sv": "Deadline för att lämna in projektet är imorgon."
+          "example_pt": "A minha irmã mora em Lisboa.",
+          "example_sv": "Min syster bor i Lissabon."
         },
         {
-          "pt": "século",
-          "sv": "århundrade",
+          "pt": "herança",
+          "sv": "arv",
           "type": "substantiv",
-          "example_pt": "O século XXI trouxe muitas mudanças tecnológicas.",
-          "example_sv": "Det 21:a århundradet har fört med sig många teknologiska förändringar."
+          "example_pt": "A família discutiu a herança após a morte do avô.",
+          "example_sv": "Familjen diskuterade arvet efter farfaderns bortgång."
         },
         {
-          "pt": "amanhecer",
-          "sv": "gryning",
-          "type": "substantiv",
-          "example_pt": "O amanhecer nesta cidade é espetacular.",
-          "example_sv": "Gryningen i den här staden är fantastisk."
+          "pt": "separado",
+          "sv": "separerad",
+          "type": "adjektiv",
+          "example_pt": "Os meus pais estão separados há cinco anos.",
+          "example_sv": "Mina föräldrar har varit separerade i fem år."
         },
         {
-          "pt": "décadas",
-          "sv": "decennier",
+          "pt": "adotivo",
+          "sv": "adoptiv-",
+          "type": "adjektiv",
+          "example_pt": "O filho adotivo cresceu numa família carinhosa.",
+          "example_sv": "Det adopterade barnet växte upp i en kärleksfull familj."
+        }
+      ]
+    },
+    {
+      "theme": "stad och platser",
+      "words": [
+        {
+          "pt": "mercado",
+          "sv": "marknad",
           "type": "substantiv",
-          "example_pt": "Há décadas que vivo nesta cidade.",
-          "example_sv": "Jag har bott i den här staden i decennier."
+          "example_pt": "Ela compra frutas frescas no mercado todas as manhãs.",
+          "example_sv": "Hon köper färsk frukt på marknaden varje morgon."
         },
         {
-          "pt": "horário",
-          "sv": "schema",
+          "pt": "tribunal",
+          "sv": "domstol",
           "type": "substantiv",
-          "example_pt": "O meu horário de trabalho mudou esta semana.",
-          "example_sv": "Mitt arbetsschema ändrades den här veckan."
+          "example_pt": "O julgamento aconteceu no tribunal central da cidade.",
+          "example_sv": "Rättegången ägde rum i stadens centraldomstol."
+        },
+        {
+          "pt": "cemitério",
+          "sv": "kyrkogård",
+          "type": "substantiv",
+          "example_pt": "O cemitério fica no limite da cidade.",
+          "example_sv": "Kyrkogården ligger i utkanten av staden."
+        },
+        {
+          "pt": "ponte",
+          "sv": "bro",
+          "type": "substantiv",
+          "example_pt": "A ponte sobre o rio foi construída em 1920.",
+          "example_sv": "Bron över floden byggdes 1920."
+        },
+        {
+          "pt": "livraria",
+          "sv": "bokhandel",
+          "type": "substantiv",
+          "example_pt": "Encontrei um livro raro numa livraria antiga.",
+          "example_sv": "Jag hittade en sällsynt bok i en gammal bokhandel."
+        },
+        {
+          "pt": "esquadra",
+          "sv": "polisstation",
+          "type": "substantiv",
+          "example_pt": "Ele foi à esquadra registar a queixa.",
+          "example_sv": "Han gick till polisstationen för att anmäla."
+        },
+        {
+          "pt": "estádio",
+          "sv": "stadion",
+          "type": "substantiv",
+          "example_pt": "O estádio fica cheio nos dias de jogo.",
+          "example_sv": "Stadion är full på matchdagar."
+        },
+        {
+          "pt": "embaixada",
+          "sv": "ambassad",
+          "type": "substantiv",
+          "example_pt": "Preciso de ir à embaixada renovar o passaporte.",
+          "example_sv": "Jag behöver gå till ambassaden för att förnya passet."
         }
       ]
     }
