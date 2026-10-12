@@ -1,0 +1,188 @@
+{
+  "date": "2026-10-12",
+  "sets": [
+    {
+      "theme": "mat och dryck",
+      "words": [
+        {
+          "pt": "pepino",
+          "sv": "gurka",
+          "type": "substantiv",
+          "example_pt": "O pepino é fresco e crocante.",
+          "example_sv": "Gurkan är fräsch och krispig."
+        },
+        {
+          "pt": "abóbora",
+          "sv": "pumpa",
+          "type": "substantiv",
+          "example_pt": "A abóbora é usada em sopas no outono.",
+          "example_sv": "Pumpa används i soppor på hösten."
+        },
+        {
+          "pt": "lagosta",
+          "sv": "hummer",
+          "type": "substantiv",
+          "example_pt": "Comemos lagosta no restaurante à beira-mar.",
+          "example_sv": "Vi åt hummer på restaurangen vid havet."
+        },
+        {
+          "pt": "tâmara",
+          "sv": "dadel",
+          "type": "substantiv",
+          "example_pt": "As tâmaras são muito doces e nutritivas.",
+          "example_sv": "Dadlar är mycket söta och näringsrika."
+        },
+        {
+          "pt": "enchido",
+          "sv": "charkuteri",
+          "type": "substantiv",
+          "example_pt": "O enchido típico é feito de carne de porco.",
+          "example_sv": "Den typiska charkuterin är gjord av griskött."
+        },
+        {
+          "pt": "gelatina",
+          "sv": "gelatin",
+          "type": "substantiv",
+          "example_pt": "A criança pediu gelatina de morango ao almoço.",
+          "example_sv": "Barnet bad om jordgubbsgelatin till lunch."
+        },
+        {
+          "pt": "farinha",
+          "sv": "mjöl",
+          "type": "substantiv",
+          "example_pt": "Preciso de farinha para fazer o bolo.",
+          "example_sv": "Jag behöver mjöl för att baka kakan."
+        },
+        {
+          "pt": "cidra",
+          "sv": "äppelcider",
+          "type": "substantiv",
+          "example_pt": "A cidra gelada é perfeita para o verão.",
+          "example_sv": "Kall äppelcider är perfekt för sommaren."
+        }
+      ]
+    },
+    {
+      "theme": "arbete och karriär",
+      "words": [
+        {
+          "pt": "orçamento",
+          "sv": "budget",
+          "type": "substantiv",
+          "example_pt": "O orçamento do projeto foi aprovado ontem.",
+          "example_sv": "Projektets budget godkändes igår."
+        },
+        {
+          "pt": "praticante",
+          "sv": "praktikant",
+          "type": "substantiv",
+          "example_pt": "O praticante aprendeu muito durante o estágio.",
+          "example_sv": "Praktikanten lärde sig mycket under praktiken."
+        },
+        {
+          "pt": "sindicato",
+          "sv": "fackförening",
+          "type": "substantiv",
+          "example_pt": "O sindicato defende os direitos dos trabalhadores.",
+          "example_sv": "Fackföreningen försvarar arbetarnas rättigheter."
+        },
+        {
+          "pt": "prazo de entrega",
+          "sv": "leveransfrist",
+          "type": "substantiv",
+          "example_pt": "O prazo de entrega do relatório é sexta-feira.",
+          "example_sv": "Leveransfristen för rapporten är på fredag."
+        },
+        {
+          "pt": "sede",
+          "sv": "huvudkontor",
+          "type": "substantiv",
+          "example_pt": "A sede da empresa fica em Lisboa.",
+          "example_sv": "Företagets huvudkontor ligger i Lissabon."
+        },
+        {
+          "pt": "autónomo",
+          "sv": "frilansare",
+          "type": "substantiv",
+          "example_pt": "Ele trabalha como autónomo há cinco anos.",
+          "example_sv": "Han har arbetat som frilansare i fem år."
+        },
+        {
+          "pt": "ata",
+          "sv": "mötesprotokoll",
+          "type": "substantiv",
+          "example_pt": "A secretária redigiu a ata da reunião.",
+          "example_sv": "Sekreteraren skrev mötesprokotoller."
+        },
+        {
+          "pt": "formular",
+          "sv": "formulera",
+          "type": "verb",
+          "example_pt": "É importante formular bem os objetivos do projeto.",
+          "example_sv": "Det är viktigt att formulera projektmålen väl."
+        }
+      ]
+    },
+    {
+      "theme": "stad och platser",
+      "words": [
+        {
+          "pt": "convento",
+          "sv": "kloster",
+          "type": "substantiv",
+          "example_pt": "O convento antigo atrai muitos turistas.",
+          "example_sv": "Det gamla klostret lockar många turister."
+        },
+        {
+          "pt": "calçada",
+          "sv": "trottoar",
+          "type": "substantiv",
+          "example_pt": "A calçada portuguesa é feita de pedra branca.",
+          "example_sv": "Den portugisiska trottoaren är gjord av vit sten."
+        },
+        {
+          "pt": "estalagem",
+          "sv": "gästgivargård",
+          "type": "substantiv",
+          "example_pt": "Passámos a noite numa estalagem acolhedora.",
+          "example_sv": "Vi tillbringade natten på en mysig gästgivargård."
+        },
+        {
+          "pt": "rotunda",
+          "sv": "rondell",
+          "type": "substantiv",
+          "example_pt": "Vire à esquerda na próxima rotunda.",
+          "example_sv": "Sväng till vänster i nästa rondell."
+        },
+        {
+          "pt": "tribunal",
+          "sv": "domstol",
+          "type": "substantiv",
+          "example_pt": "O julgamento aconteceu no tribunal central.",
+          "example_sv": "Rättegången ägde rum i centraltingsrätten."
+        },
+        {
+          "pt": "aeroporto",
+          "sv": "flygplats",
+          "type": "substantiv",
+          "example_pt": "O aeroporto de Lisboa é muito movimentado.",
+          "example_sv": "Lissabons flygplats är mycket livlig."
+        },
+        {
+          "pt": "fábrica",
+          "sv": "fabrik",
+          "type": "substantiv",
+          "example_pt": "A fábrica produz carros desde os anos oitenta.",
+          "example_sv": "Fabriken har tillverkat bilar sedan åttiotalet."
+        },
+        {
+          "pt": "bairro",
+          "sv": "stadsdel",
+          "type": "substantiv",
+          "example_pt": "Ela mora num bairro histórico do Porto.",
+          "example_sv": "Hon bor i en historisk stadsdel i Porto."
+        }
+      ]
+    }
+  ]
+}
