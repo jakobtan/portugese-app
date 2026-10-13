@@ -1,0 +1,188 @@
+{
+  "date": "2026-10-13",
+  "sets": [
+    {
+      "theme": "kläder och mode",
+      "words": [
+        {
+          "pt": "gravata",
+          "sv": "slips",
+          "type": "substantiv",
+          "example_pt": "Ele usa uma gravata azul no trabalho.",
+          "example_sv": "Han bär en blå slips på jobbet."
+        },
+        {
+          "pt": "luvas",
+          "sv": "handskar",
+          "type": "substantiv",
+          "example_pt": "As luvas mantêm as mãos quentes no inverno.",
+          "example_sv": "Handskarna håller händerna varma på vintern."
+        },
+        {
+          "pt": "bolsa",
+          "sv": "väska",
+          "type": "substantiv",
+          "example_pt": "Ela comprou uma bolsa nova no centro comercial.",
+          "example_sv": "Hon köpte en ny väska på köpcentret."
+        },
+        {
+          "pt": "tecido",
+          "sv": "tyg",
+          "type": "substantiv",
+          "example_pt": "Este tecido é muito macio e confortável.",
+          "example_sv": "Det här tyget är mycket mjukt och bekvämt."
+        },
+        {
+          "pt": "tamanho",
+          "sv": "storlek",
+          "type": "substantiv",
+          "example_pt": "Qual é o seu tamanho de calças?",
+          "example_sv": "Vilken storlek har du på byxorna?"
+        },
+        {
+          "pt": "bordado",
+          "sv": "broderi",
+          "type": "substantiv",
+          "example_pt": "O bordado na camisa é muito bonito.",
+          "example_sv": "Broderiet på skjortan är mycket vackert."
+        },
+        {
+          "pt": "despido",
+          "sv": "avklädd",
+          "type": "adjektiv",
+          "example_pt": "O manequim estava despido na montra.",
+          "example_sv": "Mannekängen var avklädd i skyltfönstret."
+        },
+        {
+          "pt": "moda",
+          "sv": "mode",
+          "type": "substantiv",
+          "example_pt": "A moda muda todos os anos.",
+          "example_sv": "Modet förändras varje år."
+        }
+      ]
+    },
+    {
+      "theme": "djur",
+      "words": [
+        {
+          "pt": "esquilo",
+          "sv": "ekorre",
+          "type": "substantiv",
+          "example_pt": "O esquilo guarda bolotas para o inverno.",
+          "example_sv": "Ekorren samlar ekollon inför vintern."
+        },
+        {
+          "pt": "baleia",
+          "sv": "val",
+          "type": "substantiv",
+          "example_pt": "A baleia azul é o maior animal do mundo.",
+          "example_sv": "Blåvalen är det största djuret i världen."
+        },
+        {
+          "pt": "pinguim",
+          "sv": "pingvin",
+          "type": "substantiv",
+          "example_pt": "O pinguim vive nas regiões frias do sul.",
+          "example_sv": "Pingvinen lever i de kalla regionerna i söder."
+        },
+        {
+          "pt": "urso",
+          "sv": "björn",
+          "type": "substantiv",
+          "example_pt": "O urso dorme durante o inverno.",
+          "example_sv": "Björnen sover under vintern."
+        },
+        {
+          "pt": "leão",
+          "sv": "lejon",
+          "type": "substantiv",
+          "example_pt": "O leão é o rei da selva.",
+          "example_sv": "Lejonet är djungelns kung."
+        },
+        {
+          "pt": "elefante",
+          "sv": "elefant",
+          "type": "substantiv",
+          "example_pt": "O elefante tem uma memória extraordinária.",
+          "example_sv": "Elefanten har ett extraordinärt minne."
+        },
+        {
+          "pt": "raposa",
+          "sv": "räv",
+          "type": "substantiv",
+          "example_pt": "A raposa é um animal muito esperto.",
+          "example_sv": "Räven är ett mycket listigt djur."
+        },
+        {
+          "pt": "lobo",
+          "sv": "varg",
+          "type": "substantiv",
+          "example_pt": "O lobo uiva para a lua cheia.",
+          "example_sv": "Vargen ylar mot fullmånen."
+        }
+      ]
+    },
+    {
+      "theme": "teknik",
+      "words": [
+        {
+          "pt": "teclado",
+          "sv": "tangentbord",
+          "type": "substantiv",
+          "example_pt": "O teclado do meu computador está partido.",
+          "example_sv": "Tangentbordet på min dator är trasigt."
+        },
+        {
+          "pt": "rato",
+          "sv": "datormus",
+          "type": "substantiv",
+          "example_pt": "Preciso de um novo rato para o computador.",
+          "example_sv": "Jag behöver en ny datormus."
+        },
+        {
+          "pt": "servidor",
+          "sv": "server",
+          "type": "substantiv",
+          "example_pt": "O servidor da empresa caiu esta manhã.",
+          "example_sv": "Företagets server kraschade i morse."
+        },
+        {
+          "pt": "palavra-passe",
+          "sv": "lösenord",
+          "type": "substantiv",
+          "example_pt": "Deves mudar a tua palavra-passe regularmente.",
+          "example_sv": "Du bör byta ditt lösenord regelbundet."
+        },
+        {
+          "pt": "descarregar",
+          "sv": "ladda ner",
+          "type": "verb",
+          "example_pt": "Vou descarregar a nova versão do programa.",
+          "example_sv": "Jag ska ladda ner den nya versionen av programmet."
+        },
+        {
+          "pt": "monitor",
+          "sv": "bildskärm",
+          "type": "substantiv",
+          "example_pt": "O monitor novo tem uma imagem muito clara.",
+          "example_sv": "Den nya bildskärmen har en mycket tydlig bild."
+        },
+        {
+          "pt": "nuvem",
+          "sv": "molntjänst",
+          "type": "substantiv",
+          "example_pt": "Guardo os meus documentos na nuvem.",
+          "example_sv": "Jag sparar mina dokument i molntjänsten."
+        },
+        {
+          "pt": "vírus",
+          "sv": "virus",
+          "type": "substantiv",
+          "example_pt": "O vírus danificou todos os ficheiros do computador.",
+          "example_sv": "Viruset skadade alla filer på datorn."
+        }
+      ]
+    }
+  ]
+}
