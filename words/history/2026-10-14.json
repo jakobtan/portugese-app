@@ -1,0 +1,188 @@
+{
+  "date": "2026-10-14",
+  "sets": [
+    {
+      "theme": "Känslor och adjektiv",
+      "words": [
+        {
+          "pt": "orgulhoso",
+          "sv": "stolt",
+          "type": "adjektiv",
+          "example_pt": "Ele ficou orgulhoso do seu filho.",
+          "example_sv": "Han var stolt över sin son."
+        },
+        {
+          "pt": "aliviado",
+          "sv": "lättad",
+          "type": "adjektiv",
+          "example_pt": "Ela ficou aliviada ao ouvir a boa notícia.",
+          "example_sv": "Hon kände sig lättad när hon hörde de goda nyheterna."
+        },
+        {
+          "pt": "envergonhado",
+          "sv": "skamsen",
+          "type": "adjektiv",
+          "example_pt": "O menino ficou envergonhado na frente da turma.",
+          "example_sv": "Pojken kände sig skamsen inför klassen."
+        },
+        {
+          "pt": "ansioso",
+          "sv": "orolig",
+          "type": "adjektiv",
+          "example_pt": "Estou ansioso com o exame de amanhã.",
+          "example_sv": "Jag är orolig inför morgondagens prov."
+        },
+        {
+          "pt": "confiante",
+          "sv": "självsäker",
+          "type": "adjektiv",
+          "example_pt": "Ela parecia confiante durante a entrevista.",
+          "example_sv": "Hon verkade självsäker under intervjun."
+        },
+        {
+          "pt": "agradecido",
+          "sv": "tacksam",
+          "type": "adjektiv",
+          "example_pt": "Fico agradecido pela vossa ajuda.",
+          "example_sv": "Jag är tacksam för er hjälp."
+        },
+        {
+          "pt": "entediado",
+          "sv": "uttråkad",
+          "type": "adjektiv",
+          "example_pt": "Os alunos ficaram entediados com a aula longa.",
+          "example_sv": "Eleverna blev uttråkade av den långa lektionen."
+        },
+        {
+          "pt": "empolgado",
+          "sv": "upprymd",
+          "type": "adjektiv",
+          "example_pt": "Estou empolgado com a viagem que se aproxima.",
+          "example_sv": "Jag är upprymd inför den kommande resan."
+        }
+      ]
+    },
+    {
+      "theme": "Resor och transport",
+      "words": [
+        {
+          "pt": "bilhete",
+          "sv": "biljett",
+          "type": "substantiv",
+          "example_pt": "Preciso de comprar um bilhete de comboio.",
+          "example_sv": "Jag behöver köpa en tågbiljett."
+        },
+        {
+          "pt": "partida",
+          "sv": "avgång",
+          "type": "substantiv",
+          "example_pt": "A partida do voo é às oito da manhã.",
+          "example_sv": "Flygets avgång är klockan åtta på morgonen."
+        },
+        {
+          "pt": "chegada",
+          "sv": "ankomst",
+          "type": "substantiv",
+          "example_pt": "A chegada ao destino foi tranquila.",
+          "example_sv": "Ankomsten till destinationen var lugn."
+        },
+        {
+          "pt": "passaporte",
+          "sv": "pass",
+          "type": "substantiv",
+          "example_pt": "Não te esqueças do teu passaporte.",
+          "example_sv": "Glöm inte ditt pass."
+        },
+        {
+          "pt": "bagagem",
+          "sv": "bagage",
+          "type": "substantiv",
+          "example_pt": "A minha bagagem ficou no aeroporto.",
+          "example_sv": "Mitt bagage blev kvar på flygplatsen."
+        },
+        {
+          "pt": "condutor",
+          "sv": "chaufför",
+          "type": "substantiv",
+          "example_pt": "O condutor do autocarro foi muito simpático.",
+          "example_sv": "Bussens chaufför var mycket trevlig."
+        },
+        {
+          "pt": "mapa",
+          "sv": "karta",
+          "type": "substantiv",
+          "example_pt": "Vamos usar o mapa para encontrar o caminho.",
+          "example_sv": "Vi använder kartan för att hitta vägen."
+        },
+        {
+          "pt": "fronteira",
+          "sv": "gräns",
+          "type": "substantiv",
+          "example_pt": "Cruzámos a fronteira ao meio-dia.",
+          "example_sv": "Vi korsade gränsen vid middagstid."
+        }
+      ]
+    },
+    {
+      "theme": "Djur",
+      "words": [
+        {
+          "pt": "corvo",
+          "sv": "korp",
+          "type": "substantiv",
+          "example_pt": "O corvo pousou no telhado do edifício.",
+          "example_sv": "Korpen landade på byggnadens tak."
+        },
+        {
+          "pt": "morcego",
+          "sv": "fladdermus",
+          "type": "substantiv",
+          "example_pt": "O morcego voa de noite à procura de comida.",
+          "example_sv": "Fladdermössen flyger på natten i jakt på mat."
+        },
+        {
+          "pt": "lontra",
+          "sv": "utter",
+          "type": "substantiv",
+          "example_pt": "A lontra nada muito bem nos rios.",
+          "example_sv": "Uttern simmar mycket bra i floderna."
+        },
+        {
+          "pt": "lince",
+          "sv": "lodjur",
+          "type": "substantiv",
+          "example_pt": "O lince é um animal raro em Portugal.",
+          "example_sv": "Lodjuret är ett sällsynt djur i Portugal."
+        },
+        {
+          "pt": "hiena",
+          "sv": "hyena",
+          "type": "substantiv",
+          "example_pt": "A hiena tem um riso característico.",
+          "example_sv": "Hyenan har ett karakteristiskt skratt."
+        },
+        {
+          "pt": "polvo",
+          "sv": "bläckfisk",
+          "type": "substantiv",
+          "example_pt": "O polvo tem oito tentáculos.",
+          "example_sv": "Bläckfisken har åtta tentakler."
+        },
+        {
+          "pt": "alce",
+          "sv": "älg",
+          "type": "substantiv",
+          "example_pt": "O alce é o animal mais pesado da floresta.",
+          "example_sv": "Älgen är det tyngsta djuret i skogen."
+        },
+        {
+          "pt": "flamingo",
+          "sv": "flamingo",
+          "type": "substantiv",
+          "example_pt": "Os flamingos têm uma cor rosa muito bonita.",
+          "example_sv": "Flamingorna har en mycket vacker rosa färg."
+        }
+      ]
+    }
+  ]
+}

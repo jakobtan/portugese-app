@@ -1,186 +1,186 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "sets": [
     {
-      "theme": "kläder och mode",
+      "theme": "Känslor och adjektiv",
       "words": [
         {
-          "pt": "gravata",
-          "sv": "slips",
-          "type": "substantiv",
-          "example_pt": "Ele usa uma gravata azul no trabalho.",
-          "example_sv": "Han bär en blå slips på jobbet."
-        },
-        {
-          "pt": "luvas",
-          "sv": "handskar",
-          "type": "substantiv",
-          "example_pt": "As luvas mantêm as mãos quentes no inverno.",
-          "example_sv": "Handskarna håller händerna varma på vintern."
-        },
-        {
-          "pt": "bolsa",
-          "sv": "väska",
-          "type": "substantiv",
-          "example_pt": "Ela comprou uma bolsa nova no centro comercial.",
-          "example_sv": "Hon köpte en ny väska på köpcentret."
-        },
-        {
-          "pt": "tecido",
-          "sv": "tyg",
-          "type": "substantiv",
-          "example_pt": "Este tecido é muito macio e confortável.",
-          "example_sv": "Det här tyget är mycket mjukt och bekvämt."
-        },
-        {
-          "pt": "tamanho",
-          "sv": "storlek",
-          "type": "substantiv",
-          "example_pt": "Qual é o seu tamanho de calças?",
-          "example_sv": "Vilken storlek har du på byxorna?"
-        },
-        {
-          "pt": "bordado",
-          "sv": "broderi",
-          "type": "substantiv",
-          "example_pt": "O bordado na camisa é muito bonito.",
-          "example_sv": "Broderiet på skjortan är mycket vackert."
-        },
-        {
-          "pt": "despido",
-          "sv": "avklädd",
+          "pt": "orgulhoso",
+          "sv": "stolt",
           "type": "adjektiv",
-          "example_pt": "O manequim estava despido na montra.",
-          "example_sv": "Mannekängen var avklädd i skyltfönstret."
+          "example_pt": "Ele ficou orgulhoso do seu filho.",
+          "example_sv": "Han var stolt över sin son."
         },
         {
-          "pt": "moda",
-          "sv": "mode",
-          "type": "substantiv",
-          "example_pt": "A moda muda todos os anos.",
-          "example_sv": "Modet förändras varje år."
+          "pt": "aliviado",
+          "sv": "lättad",
+          "type": "adjektiv",
+          "example_pt": "Ela ficou aliviada ao ouvir a boa notícia.",
+          "example_sv": "Hon kände sig lättad när hon hörde de goda nyheterna."
+        },
+        {
+          "pt": "envergonhado",
+          "sv": "skamsen",
+          "type": "adjektiv",
+          "example_pt": "O menino ficou envergonhado na frente da turma.",
+          "example_sv": "Pojken kände sig skamsen inför klassen."
+        },
+        {
+          "pt": "ansioso",
+          "sv": "orolig",
+          "type": "adjektiv",
+          "example_pt": "Estou ansioso com o exame de amanhã.",
+          "example_sv": "Jag är orolig inför morgondagens prov."
+        },
+        {
+          "pt": "confiante",
+          "sv": "självsäker",
+          "type": "adjektiv",
+          "example_pt": "Ela parecia confiante durante a entrevista.",
+          "example_sv": "Hon verkade självsäker under intervjun."
+        },
+        {
+          "pt": "agradecido",
+          "sv": "tacksam",
+          "type": "adjektiv",
+          "example_pt": "Fico agradecido pela vossa ajuda.",
+          "example_sv": "Jag är tacksam för er hjälp."
+        },
+        {
+          "pt": "entediado",
+          "sv": "uttråkad",
+          "type": "adjektiv",
+          "example_pt": "Os alunos ficaram entediados com a aula longa.",
+          "example_sv": "Eleverna blev uttråkade av den långa lektionen."
+        },
+        {
+          "pt": "empolgado",
+          "sv": "upprymd",
+          "type": "adjektiv",
+          "example_pt": "Estou empolgado com a viagem que se aproxima.",
+          "example_sv": "Jag är upprymd inför den kommande resan."
         }
       ]
     },
     {
-      "theme": "djur",
+      "theme": "Resor och transport",
       "words": [
         {
-          "pt": "esquilo",
-          "sv": "ekorre",
+          "pt": "bilhete",
+          "sv": "biljett",
           "type": "substantiv",
-          "example_pt": "O esquilo guarda bolotas para o inverno.",
-          "example_sv": "Ekorren samlar ekollon inför vintern."
+          "example_pt": "Preciso de comprar um bilhete de comboio.",
+          "example_sv": "Jag behöver köpa en tågbiljett."
         },
         {
-          "pt": "baleia",
-          "sv": "val",
+          "pt": "partida",
+          "sv": "avgång",
           "type": "substantiv",
-          "example_pt": "A baleia azul é o maior animal do mundo.",
-          "example_sv": "Blåvalen är det största djuret i världen."
+          "example_pt": "A partida do voo é às oito da manhã.",
+          "example_sv": "Flygets avgång är klockan åtta på morgonen."
         },
         {
-          "pt": "pinguim",
-          "sv": "pingvin",
+          "pt": "chegada",
+          "sv": "ankomst",
           "type": "substantiv",
-          "example_pt": "O pinguim vive nas regiões frias do sul.",
-          "example_sv": "Pingvinen lever i de kalla regionerna i söder."
+          "example_pt": "A chegada ao destino foi tranquila.",
+          "example_sv": "Ankomsten till destinationen var lugn."
         },
         {
-          "pt": "urso",
-          "sv": "björn",
+          "pt": "passaporte",
+          "sv": "pass",
           "type": "substantiv",
-          "example_pt": "O urso dorme durante o inverno.",
-          "example_sv": "Björnen sover under vintern."
+          "example_pt": "Não te esqueças do teu passaporte.",
+          "example_sv": "Glöm inte ditt pass."
         },
         {
-          "pt": "leão",
-          "sv": "lejon",
+          "pt": "bagagem",
+          "sv": "bagage",
           "type": "substantiv",
-          "example_pt": "O leão é o rei da selva.",
-          "example_sv": "Lejonet är djungelns kung."
+          "example_pt": "A minha bagagem ficou no aeroporto.",
+          "example_sv": "Mitt bagage blev kvar på flygplatsen."
         },
         {
-          "pt": "elefante",
-          "sv": "elefant",
+          "pt": "condutor",
+          "sv": "chaufför",
           "type": "substantiv",
-          "example_pt": "O elefante tem uma memória extraordinária.",
-          "example_sv": "Elefanten har ett extraordinärt minne."
+          "example_pt": "O condutor do autocarro foi muito simpático.",
+          "example_sv": "Bussens chaufför var mycket trevlig."
         },
         {
-          "pt": "raposa",
-          "sv": "räv",
+          "pt": "mapa",
+          "sv": "karta",
           "type": "substantiv",
-          "example_pt": "A raposa é um animal muito esperto.",
-          "example_sv": "Räven är ett mycket listigt djur."
+          "example_pt": "Vamos usar o mapa para encontrar o caminho.",
+          "example_sv": "Vi använder kartan för att hitta vägen."
         },
         {
-          "pt": "lobo",
-          "sv": "varg",
+          "pt": "fronteira",
+          "sv": "gräns",
           "type": "substantiv",
-          "example_pt": "O lobo uiva para a lua cheia.",
-          "example_sv": "Vargen ylar mot fullmånen."
+          "example_pt": "Cruzámos a fronteira ao meio-dia.",
+          "example_sv": "Vi korsade gränsen vid middagstid."
         }
       ]
     },
     {
-      "theme": "teknik",
+      "theme": "Djur",
       "words": [
         {
-          "pt": "teclado",
-          "sv": "tangentbord",
+          "pt": "corvo",
+          "sv": "korp",
           "type": "substantiv",
-          "example_pt": "O teclado do meu computador está partido.",
-          "example_sv": "Tangentbordet på min dator är trasigt."
+          "example_pt": "O corvo pousou no telhado do edifício.",
+          "example_sv": "Korpen landade på byggnadens tak."
         },
         {
-          "pt": "rato",
-          "sv": "datormus",
+          "pt": "morcego",
+          "sv": "fladdermus",
           "type": "substantiv",
-          "example_pt": "Preciso de um novo rato para o computador.",
-          "example_sv": "Jag behöver en ny datormus."
+          "example_pt": "O morcego voa de noite à procura de comida.",
+          "example_sv": "Fladdermössen flyger på natten i jakt på mat."
         },
         {
-          "pt": "servidor",
-          "sv": "server",
+          "pt": "lontra",
+          "sv": "utter",
           "type": "substantiv",
-          "example_pt": "O servidor da empresa caiu esta manhã.",
-          "example_sv": "Företagets server kraschade i morse."
+          "example_pt": "A lontra nada muito bem nos rios.",
+          "example_sv": "Uttern simmar mycket bra i floderna."
         },
         {
-          "pt": "palavra-passe",
-          "sv": "lösenord",
+          "pt": "lince",
+          "sv": "lodjur",
           "type": "substantiv",
-          "example_pt": "Deves mudar a tua palavra-passe regularmente.",
-          "example_sv": "Du bör byta ditt lösenord regelbundet."
+          "example_pt": "O lince é um animal raro em Portugal.",
+          "example_sv": "Lodjuret är ett sällsynt djur i Portugal."
         },
         {
-          "pt": "descarregar",
-          "sv": "ladda ner",
-          "type": "verb",
-          "example_pt": "Vou descarregar a nova versão do programa.",
-          "example_sv": "Jag ska ladda ner den nya versionen av programmet."
+          "pt": "hiena",
+          "sv": "hyena",
+          "type": "substantiv",
+          "example_pt": "A hiena tem um riso característico.",
+          "example_sv": "Hyenan har ett karakteristiskt skratt."
         },
         {
-          "pt": "monitor",
-          "sv": "bildskärm",
+          "pt": "polvo",
+          "sv": "bläckfisk",
           "type": "substantiv",
-          "example_pt": "O monitor novo tem uma imagem muito clara.",
-          "example_sv": "Den nya bildskärmen har en mycket tydlig bild."
+          "example_pt": "O polvo tem oito tentáculos.",
+          "example_sv": "Bläckfisken har åtta tentakler."
         },
         {
-          "pt": "nuvem",
-          "sv": "molntjänst",
+          "pt": "alce",
+          "sv": "älg",
           "type": "substantiv",
-          "example_pt": "Guardo os meus documentos na nuvem.",
-          "example_sv": "Jag sparar mina dokument i molntjänsten."
+          "example_pt": "O alce é o animal mais pesado da floresta.",
+          "example_sv": "Älgen är det tyngsta djuret i skogen."
         },
         {
-          "pt": "vírus",
-          "sv": "virus",
+          "pt": "flamingo",
+          "sv": "flamingo",
           "type": "substantiv",
-          "example_pt": "O vírus danificou todos os ficheiros do computador.",
-          "example_sv": "Viruset skadade alla filer på datorn."
+          "example_pt": "Os flamingos têm uma cor rosa muito bonita.",
+          "example_sv": "Flamingorna har en mycket vacker rosa färg."
         }
       ]
     }
