@@ -1,186 +1,186 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "sets": [
     {
-      "theme": "Känslor och adjektiv",
+      "theme": "Kropp och hälsa",
       "words": [
         {
-          "pt": "orgulhoso",
-          "sv": "stolt",
-          "type": "adjektiv",
-          "example_pt": "Ele ficou orgulhoso do seu filho.",
-          "example_sv": "Han var stolt över sin son."
+          "pt": "punho",
+          "sv": "handled",
+          "type": "substantiv",
+          "example_pt": "Ele machucou o punho a jogar futebol.",
+          "example_sv": "Han skadade handleden när han spelade fotboll."
         },
         {
-          "pt": "aliviado",
-          "sv": "lättad",
-          "type": "adjektiv",
-          "example_pt": "Ela ficou aliviada ao ouvir a boa notícia.",
-          "example_sv": "Hon kände sig lättad när hon hörde de goda nyheterna."
+          "pt": "nuca",
+          "sv": "nacke",
+          "type": "substantiv",
+          "example_pt": "Sinto dor na nuca depois de trabalhar ao computador.",
+          "example_sv": "Jag känner smärta i nacken efter att ha arbetat vid datorn."
         },
         {
-          "pt": "envergonhado",
-          "sv": "skamsen",
-          "type": "adjektiv",
-          "example_pt": "O menino ficou envergonhado na frente da turma.",
-          "example_sv": "Pojken kände sig skamsen inför klassen."
+          "pt": "baço",
+          "sv": "mjälte",
+          "type": "substantiv",
+          "example_pt": "O médico examinou o baço do paciente.",
+          "example_sv": "Läkaren undersökte patientens mjälte."
         },
         {
-          "pt": "ansioso",
-          "sv": "orolig",
-          "type": "adjektiv",
-          "example_pt": "Estou ansioso com o exame de amanhã.",
-          "example_sv": "Jag är orolig inför morgondagens prov."
+          "pt": "bocejo",
+          "sv": "gäspning",
+          "type": "substantiv",
+          "example_pt": "Ele soltou um bocejo enorme durante a reunião.",
+          "example_sv": "Han gäspade enormt under mötet."
         },
         {
-          "pt": "confiante",
-          "sv": "självsäker",
-          "type": "adjektiv",
-          "example_pt": "Ela parecia confiante durante a entrevista.",
-          "example_sv": "Hon verkade självsäker under intervjun."
+          "pt": "suturar",
+          "sv": "sy ihop",
+          "type": "verb",
+          "example_pt": "O médico teve de suturar o corte profundo.",
+          "example_sv": "Läkaren var tvungen att sy ihop det djupa såret."
         },
         {
-          "pt": "agradecido",
-          "sv": "tacksam",
-          "type": "adjektiv",
-          "example_pt": "Fico agradecido pela vossa ajuda.",
-          "example_sv": "Jag är tacksam för er hjälp."
+          "pt": "cãibra",
+          "sv": "kramp",
+          "type": "substantiv",
+          "example_pt": "Tive uma cãibra na perna durante a noite.",
+          "example_sv": "Jag fick kramp i benet under natten."
         },
         {
-          "pt": "entediado",
-          "sv": "uttråkad",
-          "type": "adjektiv",
-          "example_pt": "Os alunos ficaram entediados com a aula longa.",
-          "example_sv": "Eleverna blev uttråkade av den långa lektionen."
+          "pt": "epidemia",
+          "sv": "epidemi",
+          "type": "substantiv",
+          "example_pt": "A epidemia espalhou-se rapidamente pela cidade.",
+          "example_sv": "Epidemin spred sig snabbt genom staden."
         },
         {
-          "pt": "empolgado",
-          "sv": "upprymd",
-          "type": "adjektiv",
-          "example_pt": "Estou empolgado com a viagem que se aproxima.",
-          "example_sv": "Jag är upprymd inför den kommande resan."
+          "pt": "cicatriz",
+          "sv": "ärr",
+          "type": "substantiv",
+          "example_pt": "Ele tem uma cicatriz no braço desde criança.",
+          "example_sv": "Han har ett ärr på armen sedan barndomen."
         }
       ]
     },
     {
-      "theme": "Resor och transport",
+      "theme": "Hem och möbler",
       "words": [
         {
-          "pt": "bilhete",
-          "sv": "biljett",
+          "pt": "soleira",
+          "sv": "tröskel",
           "type": "substantiv",
-          "example_pt": "Preciso de comprar um bilhete de comboio.",
-          "example_sv": "Jag behöver köpa en tågbiljett."
+          "example_pt": "Ele parou na soleira da porta a observar a chuva.",
+          "example_sv": "Han stannade i dörrtröskeln och tittade på regnet."
         },
         {
-          "pt": "partida",
-          "sv": "avgång",
+          "pt": "trinco",
+          "sv": "dörrklinke",
           "type": "substantiv",
-          "example_pt": "A partida do voo é às oito da manhã.",
-          "example_sv": "Flygets avgång är klockan åtta på morgonen."
+          "example_pt": "O trinco da porta está partido e precisa de ser substituído.",
+          "example_sv": "Dörrklinken är trasig och behöver bytas ut."
         },
         {
-          "pt": "chegada",
-          "sv": "ankomst",
+          "pt": "empena",
+          "sv": "gavelfasad",
           "type": "substantiv",
-          "example_pt": "A chegada ao destino foi tranquila.",
-          "example_sv": "Ankomsten till destinationen var lugn."
+          "example_pt": "A empena da casa foi pintada de branco.",
+          "example_sv": "Husets gavelfasad målades vit."
         },
         {
-          "pt": "passaporte",
-          "sv": "pass",
+          "pt": "roupeiro",
+          "sv": "garderob",
           "type": "substantiv",
-          "example_pt": "Não te esqueças do teu passaporte.",
-          "example_sv": "Glöm inte ditt pass."
+          "example_pt": "Ela guardou os casacos no roupeiro do corredor.",
+          "example_sv": "Hon lade kapporna i korridorens garderob."
         },
         {
-          "pt": "bagagem",
-          "sv": "bagage",
+          "pt": "beliche",
+          "sv": "våningssäng",
           "type": "substantiv",
-          "example_pt": "A minha bagagem ficou no aeroporto.",
-          "example_sv": "Mitt bagage blev kvar på flygplatsen."
+          "example_pt": "Os filhos partilham um beliche no quarto pequeno.",
+          "example_sv": "Barnen delar en våningssäng i det lilla rummet."
         },
         {
-          "pt": "condutor",
-          "sv": "chaufför",
+          "pt": "lustre",
+          "sv": "taklampa",
           "type": "substantiv",
-          "example_pt": "O condutor do autocarro foi muito simpático.",
-          "example_sv": "Bussens chaufför var mycket trevlig."
+          "example_pt": "O lustre da sala de jantar é muito elegante.",
+          "example_sv": "Taklampan i matsalen är mycket elegant."
         },
         {
-          "pt": "mapa",
-          "sv": "karta",
+          "pt": "varandim",
+          "sv": "liten balkong",
           "type": "substantiv",
-          "example_pt": "Vamos usar o mapa para encontrar o caminho.",
-          "example_sv": "Vi använder kartan för att hitta vägen."
+          "example_pt": "Ela toma o pequeno-almoço no varandim todas as manhãs.",
+          "example_sv": "Hon äter frukost på den lilla balkongen varje morgon."
         },
         {
-          "pt": "fronteira",
-          "sv": "gräns",
+          "pt": "coluna",
+          "sv": "pelare",
           "type": "substantiv",
-          "example_pt": "Cruzámos a fronteira ao meio-dia.",
-          "example_sv": "Vi korsade gränsen vid middagstid."
+          "example_pt": "As colunas de mármore sustentam o teto da entrada.",
+          "example_sv": "Marmorpelarna bär upp taket i entrén."
         }
       ]
     },
     {
-      "theme": "Djur",
+      "theme": "Sport och fritid",
       "words": [
         {
-          "pt": "corvo",
-          "sv": "korp",
+          "pt": "raquete",
+          "sv": "racket",
           "type": "substantiv",
-          "example_pt": "O corvo pousou no telhado do edifício.",
-          "example_sv": "Korpen landade på byggnadens tak."
+          "example_pt": "Ela comprou uma raquete nova para o torneio de ténis.",
+          "example_sv": "Hon köpte ett nytt racket till tennisturneringen."
         },
         {
-          "pt": "morcego",
-          "sv": "fladdermus",
+          "pt": "mergulho",
+          "sv": "dykning",
           "type": "substantiv",
-          "example_pt": "O morcego voa de noite à procura de comida.",
-          "example_sv": "Fladdermössen flyger på natten i jakt på mat."
+          "example_pt": "Ele pratica mergulho nas férias de verão.",
+          "example_sv": "Han utövar dykning under sommarlovet."
         },
         {
-          "pt": "lontra",
-          "sv": "utter",
+          "pt": "patinagem",
+          "sv": "skridskoåkning",
           "type": "substantiv",
-          "example_pt": "A lontra nada muito bem nos rios.",
-          "example_sv": "Uttern simmar mycket bra i floderna."
+          "example_pt": "A patinagem no gelo é muito popular no inverno.",
+          "example_sv": "Skridskoåkning är mycket populärt på vintern."
         },
         {
-          "pt": "lince",
-          "sv": "lodjur",
+          "pt": "ciclismo",
+          "sv": "cykling",
           "type": "substantiv",
-          "example_pt": "O lince é um animal raro em Portugal.",
-          "example_sv": "Lodjuret är ett sällsynt djur i Portugal."
+          "example_pt": "O ciclismo é um desporto excelente para a saúde cardiovascular.",
+          "example_sv": "Cykling är en utmärkt sport för hjärthälsan."
         },
         {
-          "pt": "hiena",
-          "sv": "hyena",
+          "pt": "golpe",
+          "sv": "slag",
           "type": "substantiv",
-          "example_pt": "A hiena tem um riso característico.",
-          "example_sv": "Hyenan har ett karakteristiskt skratt."
+          "example_pt": "O jogador de golfe deu um golpe perfeito.",
+          "example_sv": "Golfspelaren slog ett perfekt slag."
         },
         {
-          "pt": "polvo",
-          "sv": "bläckfisk",
-          "type": "substantiv",
-          "example_pt": "O polvo tem oito tentáculos.",
-          "example_sv": "Bläckfisken har åtta tentakler."
+          "pt": "acampar",
+          "sv": "campa",
+          "type": "verb",
+          "example_pt": "Gostamos de acampar nas montanhas no verão.",
+          "example_sv": "Vi gillar att campa i bergen på sommaren."
         },
         {
-          "pt": "alce",
-          "sv": "älg",
+          "pt": "natação",
+          "sv": "simning",
           "type": "substantiv",
-          "example_pt": "O alce é o animal mais pesado da floresta.",
-          "example_sv": "Älgen är det tyngsta djuret i skogen."
+          "example_pt": "A natação é recomendada para pessoas com dores nas costas.",
+          "example_sv": "Simning rekommenderas för personer med ryggvärk."
         },
         {
-          "pt": "flamingo",
-          "sv": "flamingo",
+          "pt": "ginásio",
+          "sv": "gym",
           "type": "substantiv",
-          "example_pt": "Os flamingos têm uma cor rosa muito bonita.",
-          "example_sv": "Flamingorna har en mycket vacker rosa färg."
+          "example_pt": "Ele vai ao ginásio três vezes por semana.",
+          "example_sv": "Han går till gymmet tre gånger i veckan."
         }
       ]
     }
