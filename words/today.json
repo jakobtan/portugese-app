@@ -1,186 +1,186 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "sets": [
     {
-      "theme": "Kropp och hälsa",
+      "theme": "familj och relationer",
       "words": [
         {
-          "pt": "punho",
-          "sv": "handled",
+          "pt": "avô",
+          "sv": "farfar/morfar",
           "type": "substantiv",
-          "example_pt": "Ele machucou o punho a jogar futebol.",
-          "example_sv": "Han skadade handleden när han spelade fotboll."
+          "example_pt": "O meu avô conta histórias incríveis.",
+          "example_sv": "Min farfar berättar otroliga historier."
         },
         {
-          "pt": "nuca",
-          "sv": "nacke",
+          "pt": "sobrinha",
+          "sv": "brorsdotter/systerdotter",
           "type": "substantiv",
-          "example_pt": "Sinto dor na nuca depois de trabalhar ao computador.",
-          "example_sv": "Jag känner smärta i nacken efter att ha arbetat vid datorn."
+          "example_pt": "A minha sobrinha tem cinco anos.",
+          "example_sv": "Min brorsdotter är fem år gammal."
         },
         {
-          "pt": "baço",
-          "sv": "mjälte",
+          "pt": "noivo",
+          "sv": "förlovad/brudgum",
           "type": "substantiv",
-          "example_pt": "O médico examinou o baço do paciente.",
-          "example_sv": "Läkaren undersökte patientens mjälte."
+          "example_pt": "O noivo estava muito nervoso na cerimónia.",
+          "example_sv": "Brudgummen var mycket nervös under ceremonin."
         },
         {
-          "pt": "bocejo",
-          "sv": "gäspning",
+          "pt": "viúvo",
+          "sv": "änkling",
           "type": "substantiv",
-          "example_pt": "Ele soltou um bocejo enorme durante a reunião.",
-          "example_sv": "Han gäspade enormt under mötet."
+          "example_pt": "O viúvo voltou a casar depois de dez anos.",
+          "example_sv": "Änklingen gifte om sig efter tio år."
         },
         {
-          "pt": "suturar",
-          "sv": "sy ihop",
-          "type": "verb",
-          "example_pt": "O médico teve de suturar o corte profundo.",
-          "example_sv": "Läkaren var tvungen att sy ihop det djupa såret."
+          "pt": "bisneto",
+          "sv": "barnbarnsbarn",
+          "type": "substantiv",
+          "example_pt": "A avó ficou feliz ao ver o bisneto.",
+          "example_sv": "Farmorn blev glad när hon såg sitt barnbarnsbarn."
         },
         {
-          "pt": "cãibra",
-          "sv": "kramp",
+          "pt": "primo",
+          "sv": "kusin",
           "type": "substantiv",
-          "example_pt": "Tive uma cãibra na perna durante a noite.",
-          "example_sv": "Jag fick kramp i benet under natten."
+          "example_pt": "O meu primo mora em Lisboa.",
+          "example_sv": "Min kusin bor i Lissabon."
         },
         {
-          "pt": "epidemia",
-          "sv": "epidemi",
+          "pt": "sogra",
+          "sv": "svärmor",
           "type": "substantiv",
-          "example_pt": "A epidemia espalhou-se rapidamente pela cidade.",
-          "example_sv": "Epidemin spred sig snabbt genom staden."
+          "example_pt": "A sogra preparou um jantar especial.",
+          "example_sv": "Svärmor lagade en speciell middag."
         },
         {
-          "pt": "cicatriz",
-          "sv": "ärr",
+          "pt": "tutor",
+          "sv": "förmyndare/handledare",
           "type": "substantiv",
-          "example_pt": "Ele tem uma cicatriz no braço desde criança.",
-          "example_sv": "Han har ett ärr på armen sedan barndomen."
+          "example_pt": "O tutor ajudou o aluno durante todo o ano.",
+          "example_sv": "Handledaren hjälpte eleven under hela året."
         }
       ]
     },
     {
-      "theme": "Hem och möbler",
+      "theme": "natur och väder",
       "words": [
         {
-          "pt": "soleira",
-          "sv": "tröskel",
+          "pt": "relâmpago",
+          "sv": "blixt",
           "type": "substantiv",
-          "example_pt": "Ele parou na soleira da porta a observar a chuva.",
-          "example_sv": "Han stannade i dörrtröskeln och tittade på regnet."
+          "example_pt": "O relâmpago iluminou o céu escuro.",
+          "example_sv": "Blixten lyste upp den mörka himlen."
         },
         {
-          "pt": "trinco",
-          "sv": "dörrklinke",
+          "pt": "ribeiro",
+          "sv": "bäck",
           "type": "substantiv",
-          "example_pt": "O trinco da porta está partido e precisa de ser substituído.",
-          "example_sv": "Dörrklinken är trasig och behöver bytas ut."
+          "example_pt": "As crianças brincaram junto ao ribeiro.",
+          "example_sv": "Barnen lekte vid bäcken."
         },
         {
-          "pt": "empena",
-          "sv": "gavelfasad",
+          "pt": "encosta",
+          "sv": "sluttning/bergssluttning",
           "type": "substantiv",
-          "example_pt": "A empena da casa foi pintada de branco.",
-          "example_sv": "Husets gavelfasad målades vit."
+          "example_pt": "As ovelhas pastavam na encosta verdejante.",
+          "example_sv": "Fåren betade på den grönskande sluttningen."
         },
         {
-          "pt": "roupeiro",
-          "sv": "garderob",
+          "pt": "granizo",
+          "sv": "hagel",
           "type": "substantiv",
-          "example_pt": "Ela guardou os casacos no roupeiro do corredor.",
-          "example_sv": "Hon lade kapporna i korridorens garderob."
+          "example_pt": "O granizo danificou os carros estacionados.",
+          "example_sv": "Haglet skadade de parkerade bilarna."
         },
         {
-          "pt": "beliche",
-          "sv": "våningssäng",
+          "pt": "floresta",
+          "sv": "skog",
           "type": "substantiv",
-          "example_pt": "Os filhos partilham um beliche no quarto pequeno.",
-          "example_sv": "Barnen delar en våningssäng i det lilla rummet."
+          "example_pt": "A floresta estava cheia de pássaros cantores.",
+          "example_sv": "Skogen var full av sjungande fåglar."
         },
         {
-          "pt": "lustre",
-          "sv": "taklampa",
+          "pt": "brisa",
+          "sv": "bris",
           "type": "substantiv",
-          "example_pt": "O lustre da sala de jantar é muito elegante.",
-          "example_sv": "Taklampan i matsalen är mycket elegant."
+          "example_pt": "Uma brisa suave soprava pelo jardim.",
+          "example_sv": "En mild bris blåste genom trädgården."
         },
         {
-          "pt": "varandim",
-          "sv": "liten balkong",
+          "pt": "ravina",
+          "sv": "ravin",
           "type": "substantiv",
-          "example_pt": "Ela toma o pequeno-almoço no varandim todas as manhãs.",
-          "example_sv": "Hon äter frukost på den lilla balkongen varje morgon."
+          "example_pt": "A água da chuva escorreu pela ravina.",
+          "example_sv": "Regnvattnet rann ner genom ravinen."
         },
         {
-          "pt": "coluna",
-          "sv": "pelare",
+          "pt": "trovoada",
+          "sv": "åskväder",
           "type": "substantiv",
-          "example_pt": "As colunas de mármore sustentam o teto da entrada.",
-          "example_sv": "Marmorpelarna bär upp taket i entrén."
+          "example_pt": "A trovoada durou toda a noite.",
+          "example_sv": "Åskväkret pågick hela natten."
         }
       ]
     },
     {
-      "theme": "Sport och fritid",
+      "theme": "arbete och karriär",
       "words": [
         {
-          "pt": "raquete",
-          "sv": "racket",
+          "pt": "estagiário",
+          "sv": "praktikant",
           "type": "substantiv",
-          "example_pt": "Ela comprou uma raquete nova para o torneio de ténis.",
-          "example_sv": "Hon köpte ett nytt racket till tennisturneringen."
+          "example_pt": "O estagiário aprendeu muito durante o verão.",
+          "example_sv": "Praktikanten lärde sig mycket under sommaren."
         },
         {
-          "pt": "mergulho",
-          "sv": "dykning",
+          "pt": "chefia",
+          "sv": "ledning/chef",
           "type": "substantiv",
-          "example_pt": "Ele pratica mergulho nas férias de verão.",
-          "example_sv": "Han utövar dykning under sommarlovet."
+          "example_pt": "A chefia tomou uma decisão importante.",
+          "example_sv": "Ledningen fattade ett viktigt beslut."
         },
         {
-          "pt": "patinagem",
-          "sv": "skridskoåkning",
+          "pt": "horário flexível",
+          "sv": "flextid",
           "type": "substantiv",
-          "example_pt": "A patinagem no gelo é muito popular no inverno.",
-          "example_sv": "Skridskoåkning är mycket populärt på vintern."
+          "example_pt": "Trabalho com horário flexível desde o ano passado.",
+          "example_sv": "Jag arbetar med flextid sedan förra året."
         },
         {
-          "pt": "ciclismo",
-          "sv": "cykling",
+          "pt": "remuneração",
+          "sv": "ersättning/lön",
           "type": "substantiv",
-          "example_pt": "O ciclismo é um desporto excelente para a saúde cardiovascular.",
-          "example_sv": "Cykling är en utmärkt sport för hjärthälsan."
+          "example_pt": "A remuneração foi aumentada após a avaliação.",
+          "example_sv": "Lönen höjdes efter utvärderingen."
         },
         {
-          "pt": "golpe",
-          "sv": "slag",
-          "type": "substantiv",
-          "example_pt": "O jogador de golfe deu um golpe perfeito.",
-          "example_sv": "Golfspelaren slog ett perfekt slag."
-        },
-        {
-          "pt": "acampar",
-          "sv": "campa",
+          "pt": "demitir-se",
+          "sv": "säga upp sig",
           "type": "verb",
-          "example_pt": "Gostamos de acampar nas montanhas no verão.",
-          "example_sv": "Vi gillar att campa i bergen på sommaren."
+          "example_pt": "Ela decidiu demitir-se do emprego atual.",
+          "example_sv": "Hon bestämde sig för att säga upp sig från sitt nuvarande jobb."
         },
         {
-          "pt": "natação",
-          "sv": "simning",
+          "pt": "colega",
+          "sv": "kollega",
           "type": "substantiv",
-          "example_pt": "A natação é recomendada para pessoas com dores nas costas.",
-          "example_sv": "Simning rekommenderas för personer med ryggvärk."
+          "example_pt": "O meu colega ajudou-me com o projeto.",
+          "example_sv": "Min kollega hjälpte mig med projektet."
         },
         {
-          "pt": "ginásio",
-          "sv": "gym",
+          "pt": "escritório",
+          "sv": "kontor",
           "type": "substantiv",
-          "example_pt": "Ele vai ao ginásio três vezes por semana.",
-          "example_sv": "Han går till gymmet tre gånger i veckan."
+          "example_pt": "O escritório fica no centro da cidade.",
+          "example_sv": "Kontoret ligger i stadens centrum."
+        },
+        {
+          "pt": "bónus",
+          "sv": "bonus",
+          "type": "substantiv",
+          "example_pt": "Todos os funcionários receberam um bónus no final do ano.",
+          "example_sv": "Alla anställda fick en bonus i slutet av året."
         }
       ]
     }

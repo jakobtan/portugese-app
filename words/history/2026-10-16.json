@@ -1,0 +1,188 @@
+{
+  "date": "2026-10-16",
+  "sets": [
+    {
+      "theme": "familj och relationer",
+      "words": [
+        {
+          "pt": "avô",
+          "sv": "farfar/morfar",
+          "type": "substantiv",
+          "example_pt": "O meu avô conta histórias incríveis.",
+          "example_sv": "Min farfar berättar otroliga historier."
+        },
+        {
+          "pt": "sobrinha",
+          "sv": "brorsdotter/systerdotter",
+          "type": "substantiv",
+          "example_pt": "A minha sobrinha tem cinco anos.",
+          "example_sv": "Min brorsdotter är fem år gammal."
+        },
+        {
+          "pt": "noivo",
+          "sv": "förlovad/brudgum",
+          "type": "substantiv",
+          "example_pt": "O noivo estava muito nervoso na cerimónia.",
+          "example_sv": "Brudgummen var mycket nervös under ceremonin."
+        },
+        {
+          "pt": "viúvo",
+          "sv": "änkling",
+          "type": "substantiv",
+          "example_pt": "O viúvo voltou a casar depois de dez anos.",
+          "example_sv": "Änklingen gifte om sig efter tio år."
+        },
+        {
+          "pt": "bisneto",
+          "sv": "barnbarnsbarn",
+          "type": "substantiv",
+          "example_pt": "A avó ficou feliz ao ver o bisneto.",
+          "example_sv": "Farmorn blev glad när hon såg sitt barnbarnsbarn."
+        },
+        {
+          "pt": "primo",
+          "sv": "kusin",
+          "type": "substantiv",
+          "example_pt": "O meu primo mora em Lisboa.",
+          "example_sv": "Min kusin bor i Lissabon."
+        },
+        {
+          "pt": "sogra",
+          "sv": "svärmor",
+          "type": "substantiv",
+          "example_pt": "A sogra preparou um jantar especial.",
+          "example_sv": "Svärmor lagade en speciell middag."
+        },
+        {
+          "pt": "tutor",
+          "sv": "förmyndare/handledare",
+          "type": "substantiv",
+          "example_pt": "O tutor ajudou o aluno durante todo o ano.",
+          "example_sv": "Handledaren hjälpte eleven under hela året."
+        }
+      ]
+    },
+    {
+      "theme": "natur och väder",
+      "words": [
+        {
+          "pt": "relâmpago",
+          "sv": "blixt",
+          "type": "substantiv",
+          "example_pt": "O relâmpago iluminou o céu escuro.",
+          "example_sv": "Blixten lyste upp den mörka himlen."
+        },
+        {
+          "pt": "ribeiro",
+          "sv": "bäck",
+          "type": "substantiv",
+          "example_pt": "As crianças brincaram junto ao ribeiro.",
+          "example_sv": "Barnen lekte vid bäcken."
+        },
+        {
+          "pt": "encosta",
+          "sv": "sluttning/bergssluttning",
+          "type": "substantiv",
+          "example_pt": "As ovelhas pastavam na encosta verdejante.",
+          "example_sv": "Fåren betade på den grönskande sluttningen."
+        },
+        {
+          "pt": "granizo",
+          "sv": "hagel",
+          "type": "substantiv",
+          "example_pt": "O granizo danificou os carros estacionados.",
+          "example_sv": "Haglet skadade de parkerade bilarna."
+        },
+        {
+          "pt": "floresta",
+          "sv": "skog",
+          "type": "substantiv",
+          "example_pt": "A floresta estava cheia de pássaros cantores.",
+          "example_sv": "Skogen var full av sjungande fåglar."
+        },
+        {
+          "pt": "brisa",
+          "sv": "bris",
+          "type": "substantiv",
+          "example_pt": "Uma brisa suave soprava pelo jardim.",
+          "example_sv": "En mild bris blåste genom trädgården."
+        },
+        {
+          "pt": "ravina",
+          "sv": "ravin",
+          "type": "substantiv",
+          "example_pt": "A água da chuva escorreu pela ravina.",
+          "example_sv": "Regnvattnet rann ner genom ravinen."
+        },
+        {
+          "pt": "trovoada",
+          "sv": "åskväder",
+          "type": "substantiv",
+          "example_pt": "A trovoada durou toda a noite.",
+          "example_sv": "Åskväkret pågick hela natten."
+        }
+      ]
+    },
+    {
+      "theme": "arbete och karriär",
+      "words": [
+        {
+          "pt": "estagiário",
+          "sv": "praktikant",
+          "type": "substantiv",
+          "example_pt": "O estagiário aprendeu muito durante o verão.",
+          "example_sv": "Praktikanten lärde sig mycket under sommaren."
+        },
+        {
+          "pt": "chefia",
+          "sv": "ledning/chef",
+          "type": "substantiv",
+          "example_pt": "A chefia tomou uma decisão importante.",
+          "example_sv": "Ledningen fattade ett viktigt beslut."
+        },
+        {
+          "pt": "horário flexível",
+          "sv": "flextid",
+          "type": "substantiv",
+          "example_pt": "Trabalho com horário flexível desde o ano passado.",
+          "example_sv": "Jag arbetar med flextid sedan förra året."
+        },
+        {
+          "pt": "remuneração",
+          "sv": "ersättning/lön",
+          "type": "substantiv",
+          "example_pt": "A remuneração foi aumentada após a avaliação.",
+          "example_sv": "Lönen höjdes efter utvärderingen."
+        },
+        {
+          "pt": "demitir-se",
+          "sv": "säga upp sig",
+          "type": "verb",
+          "example_pt": "Ela decidiu demitir-se do emprego atual.",
+          "example_sv": "Hon bestämde sig för att säga upp sig från sitt nuvarande jobb."
+        },
+        {
+          "pt": "colega",
+          "sv": "kollega",
+          "type": "substantiv",
+          "example_pt": "O meu colega ajudou-me com o projeto.",
+          "example_sv": "Min kollega hjälpte mig med projektet."
+        },
+        {
+          "pt": "escritório",
+          "sv": "kontor",
+          "type": "substantiv",
+          "example_pt": "O escritório fica no centro da cidade.",
+          "example_sv": "Kontoret ligger i stadens centrum."
+        },
+        {
+          "pt": "bónus",
+          "sv": "bonus",
+          "type": "substantiv",
+          "example_pt": "Todos os funcionários receberam um bónus no final do ano.",
+          "example_sv": "Alla anställda fick en bonus i slutet av året."
+        }
+      ]
+    }
+  ]
+}
