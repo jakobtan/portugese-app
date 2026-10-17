@@ -1,0 +1,188 @@
+{
+  "date": "2026-10-17",
+  "sets": [
+    {
+      "theme": "familj och relationer",
+      "words": [
+        {
+          "pt": "cônjuge",
+          "sv": "make/maka",
+          "type": "substantiv",
+          "example_pt": "O meu cônjuge trabalha num hospital.",
+          "example_sv": "Min make/maka arbetar på ett sjukhus."
+        },
+        {
+          "pt": "enteado",
+          "sv": "styvson",
+          "type": "substantiv",
+          "example_pt": "O enteado dela tem dez anos.",
+          "example_sv": "Hennes styvson är tio år gammal."
+        },
+        {
+          "pt": "padrasto",
+          "sv": "styvfar",
+          "type": "substantiv",
+          "example_pt": "O meu padrasto é muito simpático.",
+          "example_sv": "Min styvfar är mycket trevlig."
+        },
+        {
+          "pt": "madrasta",
+          "sv": "styvmor",
+          "type": "substantiv",
+          "example_pt": "A madrasta preparou o jantar para todos.",
+          "example_sv": "Styvmodern lagade middag åt alla."
+        },
+        {
+          "pt": "gémeos",
+          "sv": "tvillingar",
+          "type": "substantiv",
+          "example_pt": "Os meus primos são gémeos.",
+          "example_sv": "Mina kusiner är tvillingar."
+        },
+        {
+          "pt": "solteiro",
+          "sv": "ogift",
+          "type": "adjektiv",
+          "example_pt": "Ele continua solteiro e feliz.",
+          "example_sv": "Han är fortfarande ogift och lycklig."
+        },
+        {
+          "pt": "laço",
+          "sv": "band/bindning",
+          "type": "substantiv",
+          "example_pt": "O laço entre mãe e filho é muito forte.",
+          "example_sv": "Bandet mellan mor och son är mycket starkt."
+        },
+        {
+          "pt": "reconciliar",
+          "sv": "försonas",
+          "type": "verb",
+          "example_pt": "Eles decidiram reconciliar após a discussão.",
+          "example_sv": "De bestämde sig för att försonas efter grälet."
+        }
+      ]
+    },
+    {
+      "theme": "natur och väder",
+      "words": [
+        {
+          "pt": "penhasco",
+          "sv": "klippa/stup",
+          "type": "substantiv",
+          "example_pt": "O penhasco caía diretamente para o mar.",
+          "example_sv": "Stuppet föll rakt ner mot havet."
+        },
+        {
+          "pt": "névoa",
+          "sv": "dimma",
+          "type": "substantiv",
+          "example_pt": "A névoa cobriu toda a cidade de manhã.",
+          "example_sv": "Dimman täckte hela staden på morgonen."
+        },
+        {
+          "pt": "baía",
+          "sv": "bukt",
+          "type": "substantiv",
+          "example_pt": "A baía estava calma e azul.",
+          "example_sv": "Bukten var lugn och blå."
+        },
+        {
+          "pt": "planície",
+          "sv": "slätt",
+          "type": "substantiv",
+          "example_pt": "As planícies do Alentejo são muito extensas.",
+          "example_sv": "Slätterna i Alentejo är mycket vidsträckta."
+        },
+        {
+          "pt": "tufão",
+          "sv": "tyfon",
+          "type": "substantiv",
+          "example_pt": "O tufão destruiu várias aldeias costeiras.",
+          "example_sv": "Tyfonen förstörde flera kustnära byar."
+        },
+        {
+          "pt": "geada",
+          "sv": "frost",
+          "type": "substantiv",
+          "example_pt": "Houve geada durante a noite passada.",
+          "example_sv": "Det var frost under natten."
+        },
+        {
+          "pt": "afluente",
+          "sv": "biflod",
+          "type": "substantiv",
+          "example_pt": "Este rio é um afluente do Tejo.",
+          "example_sv": "Den här floden är ett biflöde till Tejo."
+        },
+        {
+          "pt": "sombrio",
+          "sv": "dyster/skumrask",
+          "type": "adjektiv",
+          "example_pt": "O céu estava sombrio antes da tempestade.",
+          "example_sv": "Himlen var dyster innan stormen."
+        }
+      ]
+    },
+    {
+      "theme": "teknik",
+      "words": [
+        {
+          "pt": "microfone",
+          "sv": "mikrofon",
+          "type": "substantiv",
+          "example_pt": "O microfone não está a funcionar bem.",
+          "example_sv": "Mikrofonen fungerar inte bra."
+        },
+        {
+          "pt": "bateria",
+          "sv": "batteri",
+          "type": "substantiv",
+          "example_pt": "A bateria do telemóvel está a acabar.",
+          "example_sv": "Mobiltelefonens batteri håller på att ta slut."
+        },
+        {
+          "pt": "transmitir",
+          "sv": "sända/överföra",
+          "type": "verb",
+          "example_pt": "Vamos transmitir a reunião em direto.",
+          "example_sv": "Vi ska sända mötet live."
+        },
+        {
+          "pt": "armazenamento",
+          "sv": "lagring",
+          "type": "substantiv",
+          "example_pt": "Preciso de mais armazenamento no computador.",
+          "example_sv": "Jag behöver mer lagring på datorn."
+        },
+        {
+          "pt": "atualizar",
+          "sv": "uppdatera",
+          "type": "verb",
+          "example_pt": "Deves atualizar o sistema regularmente.",
+          "example_sv": "Du bör uppdatera systemet regelbundet."
+        },
+        {
+          "pt": "sensor",
+          "sv": "sensor",
+          "type": "substantiv",
+          "example_pt": "O sensor detetou movimento no corredor.",
+          "example_sv": "Sensorn upptäckte rörelse i korridoren."
+        },
+        {
+          "pt": "cabo",
+          "sv": "kabel",
+          "type": "substantiv",
+          "example_pt": "O cabo está danificado e precisa de substituição.",
+          "example_sv": "Kabeln är skadad och behöver bytas ut."
+        },
+        {
+          "pt": "configurar",
+          "sv": "konfigurera",
+          "type": "verb",
+          "example_pt": "Preciso de configurar a nova impressora.",
+          "example_sv": "Jag behöver konfigurera den nya skrivaren."
+        }
+      ]
+    }
+  ]
+}
