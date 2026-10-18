@@ -1,0 +1,188 @@
+{
+  "date": "2026-10-18",
+  "sets": [
+    {
+      "theme": "familj och relationer",
+      "words": [
+        {
+          "pt": "tia",
+          "sv": "faster/moster/tant",
+          "type": "substantiv",
+          "example_pt": "A minha tia mora em Lisboa.",
+          "example_sv": "Min faster bor i Lissabon."
+        },
+        {
+          "pt": "sobrinho",
+          "sv": "nevö",
+          "type": "substantiv",
+          "example_pt": "O meu sobrinho tem cinco anos.",
+          "example_sv": "Min nevö är fem år gammal."
+        },
+        {
+          "pt": "avó",
+          "sv": "farmor/mormor",
+          "type": "substantiv",
+          "example_pt": "A avó faz bolos deliciosos.",
+          "example_sv": "Farmor bakar läckra kakor."
+        },
+        {
+          "pt": "padrinho",
+          "sv": "gudfar",
+          "type": "substantiv",
+          "example_pt": "O meu padrinho foi ao meu batizado.",
+          "example_sv": "Min gudfar var på mitt dop."
+        },
+        {
+          "pt": "enteada",
+          "sv": "styvdotter",
+          "type": "substantiv",
+          "example_pt": "A enteada estuda na universidade.",
+          "example_sv": "Styvdottern studerar på universitetet."
+        },
+        {
+          "pt": "namorado",
+          "sv": "pojkvän/flickvän",
+          "type": "substantiv",
+          "example_pt": "O namorado dela é muito simpático.",
+          "example_sv": "Hennes pojkvän är väldigt trevlig."
+        },
+        {
+          "pt": "parente",
+          "sv": "släkting",
+          "type": "substantiv",
+          "example_pt": "Temos muitos parentes no Brasil.",
+          "example_sv": "Vi har många släktingar i Brasilien."
+        },
+        {
+          "pt": "aliança",
+          "sv": "vigselring/förlovningsring",
+          "type": "substantiv",
+          "example_pt": "Ela usa uma aliança no dedo.",
+          "example_sv": "Hon bär en vigselring på fingret."
+        }
+      ]
+    },
+    {
+      "theme": "stad och platser",
+      "words": [
+        {
+          "pt": "semáforo",
+          "sv": "trafikljus",
+          "type": "substantiv",
+          "example_pt": "Para no semáforo vermelho.",
+          "example_sv": "Stanna vid det röda trafikljuset."
+        },
+        {
+          "pt": "passeio",
+          "sv": "trottoar",
+          "type": "substantiv",
+          "example_pt": "As crianças andam no passeio.",
+          "example_sv": "Barnen går på trottoaren."
+        },
+        {
+          "pt": "parque",
+          "sv": "park",
+          "type": "substantiv",
+          "example_pt": "Vamos ao parque amanhã.",
+          "example_sv": "Vi går till parken imorgon."
+        },
+        {
+          "pt": "farmácia",
+          "sv": "apotek",
+          "type": "substantiv",
+          "example_pt": "A farmácia fica perto do banco.",
+          "example_sv": "Apoteket ligger nära banken."
+        },
+        {
+          "pt": "câmara municipal",
+          "sv": "rådhus/kommunhus",
+          "type": "substantiv",
+          "example_pt": "A câmara municipal fica no centro.",
+          "example_sv": "Rådhuset ligger i centrum."
+        },
+        {
+          "pt": "supermercado",
+          "sv": "snabbköp/stormarknad",
+          "type": "substantiv",
+          "example_pt": "Vou ao supermercado comprar leite.",
+          "example_sv": "Jag går till stormarknaden för att köpa mjölk."
+        },
+        {
+          "pt": "hospital",
+          "sv": "sjukhus",
+          "type": "substantiv",
+          "example_pt": "O hospital tem muitos médicos.",
+          "example_sv": "Sjukhuset har många läkare."
+        },
+        {
+          "pt": "rua",
+          "sv": "gata",
+          "type": "substantiv",
+          "example_pt": "Qual é o nome desta rua?",
+          "example_sv": "Vad heter den här gatan?"
+        }
+      ]
+    },
+    {
+      "theme": "mat och dryck",
+      "words": [
+        {
+          "pt": "camarão",
+          "sv": "räka",
+          "type": "substantiv",
+          "example_pt": "Adoro camarão grelhado.",
+          "example_sv": "Jag älskar grillad räka."
+        },
+        {
+          "pt": "queijo",
+          "sv": "ost",
+          "type": "substantiv",
+          "example_pt": "O queijo português é muito saboroso.",
+          "example_sv": "Portugisisk ost är väldigt smakrik."
+        },
+        {
+          "pt": "sumo",
+          "sv": "juice",
+          "type": "substantiv",
+          "example_pt": "Quero um sumo de laranja, por favor.",
+          "example_sv": "Jag vill ha en apelsinjuice, tack."
+        },
+        {
+          "pt": "pão",
+          "sv": "bröd",
+          "type": "substantiv",
+          "example_pt": "Compramos pão fresco todas as manhãs.",
+          "example_sv": "Vi köper färskt bröd varje morgon."
+        },
+        {
+          "pt": "frango",
+          "sv": "kyckling",
+          "type": "substantiv",
+          "example_pt": "O frango assado cheira muito bem.",
+          "example_sv": "Den ugnsrostade kycklingen luktar väldigt gott."
+        },
+        {
+          "pt": "azeite",
+          "sv": "olivolja",
+          "type": "substantiv",
+          "example_pt": "Em Portugal usam muito azeite na cozinha.",
+          "example_sv": "I Portugal använder man mycket olivolja i matlagningen."
+        },
+        {
+          "pt": "sobremesa",
+          "sv": "dessert",
+          "type": "substantiv",
+          "example_pt": "A sobremesa favorita dela é gelado.",
+          "example_sv": "Hennes favoritdessert är glass."
+        },
+        {
+          "pt": "caldo",
+          "sv": "buljong/soppa",
+          "type": "substantiv",
+          "example_pt": "O caldo verde é uma sopa tradicional portuguesa.",
+          "example_sv": "Caldo verde är en traditionell portugisisk soppa."
+        }
+      ]
+    }
+  ]
+}
