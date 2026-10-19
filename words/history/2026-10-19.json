@@ -1,0 +1,188 @@
+{
+  "date": "2026-10-19",
+  "sets": [
+    {
+      "theme": "mat och dryck",
+      "words": [
+        {
+          "pt": "melancia",
+          "sv": "vattenmelon",
+          "type": "substantiv",
+          "example_pt": "A melancia é uma fruta refrescante no verão.",
+          "example_sv": "Vattenmelonen är en uppfriskande frukt på sommaren."
+        },
+        {
+          "pt": "centeio",
+          "sv": "råg",
+          "type": "substantiv",
+          "example_pt": "O pão de centeio é muito saudável.",
+          "example_sv": "Rågbrödet är mycket hälsosamt."
+        },
+        {
+          "pt": "lentilha",
+          "sv": "lins",
+          "type": "substantiv",
+          "example_pt": "A sopa de lentilha é muito nutritiva.",
+          "example_sv": "Linssoppan är mycket näringsrik."
+        },
+        {
+          "pt": "noz",
+          "sv": "valnöt",
+          "type": "substantiv",
+          "example_pt": "Ela colocou nozes na salada.",
+          "example_sv": "Hon lade valnötter i salladen."
+        },
+        {
+          "pt": "hortelã",
+          "sv": "mynta",
+          "type": "substantiv",
+          "example_pt": "O chá de hortelã é muito aromático.",
+          "example_sv": "Mynthete är mycket aromatiskt."
+        },
+        {
+          "pt": "alcachofra",
+          "sv": "kronärtskocka",
+          "type": "substantiv",
+          "example_pt": "Gosto muito de alcachofra grelhada.",
+          "example_sv": "Jag tycker mycket om grillad kronärtskocka."
+        },
+        {
+          "pt": "toucinho",
+          "sv": "bacon",
+          "type": "substantiv",
+          "example_pt": "O toucinho frito cheira muito bem.",
+          "example_sv": "Stekt bacon luktar väldigt gott."
+        },
+        {
+          "pt": "requeijão",
+          "sv": "färskost",
+          "type": "substantiv",
+          "example_pt": "Ele barrou requeijão na torrada.",
+          "example_sv": "Han bredde färskost på rostat bröd."
+        }
+      ]
+    },
+    {
+      "theme": "sport och fritid",
+      "words": [
+        {
+          "pt": "atletismo",
+          "sv": "friidrott",
+          "type": "substantiv",
+          "example_pt": "O atletismo inclui corrida e saltos.",
+          "example_sv": "Friidrott inkluderar löpning och hopp."
+        },
+        {
+          "pt": "haltere",
+          "sv": "hantel",
+          "type": "substantiv",
+          "example_pt": "Ela levanta halteres três vezes por semana.",
+          "example_sv": "Hon lyfter hantlar tre gånger i veckan."
+        },
+        {
+          "pt": "arco",
+          "sv": "båge",
+          "type": "substantiv",
+          "example_pt": "O arqueiro usou um arco tradicional.",
+          "example_sv": "Bågskytten använde en traditionell båge."
+        },
+        {
+          "pt": "lancha",
+          "sv": "motorbåt",
+          "type": "substantiv",
+          "example_pt": "Fomos à ilha de lancha.",
+          "example_sv": "Vi åkte till ön med motorbåt."
+        },
+        {
+          "pt": "esgrima",
+          "sv": "fäktning",
+          "type": "substantiv",
+          "example_pt": "A esgrima é uma modalidade olímpica elegante.",
+          "example_sv": "Fäktning är en elegant olympisk disciplin."
+        },
+        {
+          "pt": "surfar",
+          "sv": "surfa",
+          "type": "verb",
+          "example_pt": "Ele aprendeu a surfar no verão passado.",
+          "example_sv": "Han lärde sig surfa förra sommaren."
+        },
+        {
+          "pt": "pontuar",
+          "sv": "poängsätta",
+          "type": "verb",
+          "example_pt": "A equipa conseguiu pontuar nos últimos minutos.",
+          "example_sv": "Laget lyckades poängsätta i de sista minuterna."
+        },
+        {
+          "pt": "regata",
+          "sv": "regatta",
+          "type": "substantiv",
+          "example_pt": "A regata acontece todos os anos em agosto.",
+          "example_sv": "Regattan äger rum varje år i augusti."
+        }
+      ]
+    },
+    {
+      "theme": "stad och platser",
+      "words": [
+        {
+          "pt": "pelourinho",
+          "sv": "skampåle",
+          "type": "substantiv",
+          "example_pt": "O pelourinho fica no centro histórico da cidade.",
+          "example_sv": "Skampålen finns i stadens historiska centrum."
+        },
+        {
+          "pt": "aqueduto",
+          "sv": "akvedukt",
+          "type": "substantiv",
+          "example_pt": "O aqueduto romano ainda está de pé.",
+          "example_sv": "Den romerska akvedukten står fortfarande kvar."
+        },
+        {
+          "pt": "miradouro",
+          "sv": "utsiktsplats",
+          "type": "substantiv",
+          "example_pt": "O miradouro oferece uma vista incrível do rio.",
+          "example_sv": "Utsiktsplatsen erbjuder en fantastisk utsikt över floden."
+        },
+        {
+          "pt": "palácios",
+          "sv": "palats",
+          "type": "substantiv",
+          "example_pt": "Lisboa tem muitos palácios históricos.",
+          "example_sv": "Lissabon har många historiska palats."
+        },
+        {
+          "pt": "criptão",
+          "sv": "krypta",
+          "type": "substantiv",
+          "example_pt": "A criptão da catedral é muito antiga.",
+          "example_sv": "Kryptan i katedralen är mycket gammal."
+        },
+        {
+          "pt": "doca",
+          "sv": "docka",
+          "type": "substantiv",
+          "example_pt": "Os barcos estão ancorados na doca.",
+          "example_sv": "Båtarna är förtöjda vid dockan."
+        },
+        {
+          "pt": "coreto",
+          "sv": "musikpaviljong",
+          "type": "substantiv",
+          "example_pt": "Havia um concerto no coreto da praça.",
+          "example_sv": "Det var en konsert i musikpaviljongen på torget."
+        },
+        {
+          "pt": "matadouro",
+          "sv": "slakteri",
+          "type": "substantiv",
+          "example_pt": "O antigo matadouro foi convertido em galeria de arte.",
+          "example_sv": "Det gamla slakteriet har omvandlats till ett konstgalleri."
+        }
+      ]
+    }
+  ]
+}

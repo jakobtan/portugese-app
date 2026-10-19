@@ -1,64 +1,125 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "sets": [
     {
-      "theme": "familj och relationer",
+      "theme": "mat och dryck",
       "words": [
         {
-          "pt": "tia",
-          "sv": "faster/moster/tant",
+          "pt": "melancia",
+          "sv": "vattenmelon",
           "type": "substantiv",
-          "example_pt": "A minha tia mora em Lisboa.",
-          "example_sv": "Min faster bor i Lissabon."
+          "example_pt": "A melancia é uma fruta refrescante no verão.",
+          "example_sv": "Vattenmelonen är en uppfriskande frukt på sommaren."
         },
         {
-          "pt": "sobrinho",
-          "sv": "nevö",
+          "pt": "centeio",
+          "sv": "råg",
           "type": "substantiv",
-          "example_pt": "O meu sobrinho tem cinco anos.",
-          "example_sv": "Min nevö är fem år gammal."
+          "example_pt": "O pão de centeio é muito saudável.",
+          "example_sv": "Rågbrödet är mycket hälsosamt."
         },
         {
-          "pt": "avó",
-          "sv": "farmor/mormor",
+          "pt": "lentilha",
+          "sv": "lins",
           "type": "substantiv",
-          "example_pt": "A avó faz bolos deliciosos.",
-          "example_sv": "Farmor bakar läckra kakor."
+          "example_pt": "A sopa de lentilha é muito nutritiva.",
+          "example_sv": "Linssoppan är mycket näringsrik."
         },
         {
-          "pt": "padrinho",
-          "sv": "gudfar",
+          "pt": "noz",
+          "sv": "valnöt",
           "type": "substantiv",
-          "example_pt": "O meu padrinho foi ao meu batizado.",
-          "example_sv": "Min gudfar var på mitt dop."
+          "example_pt": "Ela colocou nozes na salada.",
+          "example_sv": "Hon lade valnötter i salladen."
         },
         {
-          "pt": "enteada",
-          "sv": "styvdotter",
+          "pt": "hortelã",
+          "sv": "mynta",
           "type": "substantiv",
-          "example_pt": "A enteada estuda na universidade.",
-          "example_sv": "Styvdottern studerar på universitetet."
+          "example_pt": "O chá de hortelã é muito aromático.",
+          "example_sv": "Mynthete är mycket aromatiskt."
         },
         {
-          "pt": "namorado",
-          "sv": "pojkvän/flickvän",
+          "pt": "alcachofra",
+          "sv": "kronärtskocka",
           "type": "substantiv",
-          "example_pt": "O namorado dela é muito simpático.",
-          "example_sv": "Hennes pojkvän är väldigt trevlig."
+          "example_pt": "Gosto muito de alcachofra grelhada.",
+          "example_sv": "Jag tycker mycket om grillad kronärtskocka."
         },
         {
-          "pt": "parente",
-          "sv": "släkting",
+          "pt": "toucinho",
+          "sv": "bacon",
           "type": "substantiv",
-          "example_pt": "Temos muitos parentes no Brasil.",
-          "example_sv": "Vi har många släktingar i Brasilien."
+          "example_pt": "O toucinho frito cheira muito bem.",
+          "example_sv": "Stekt bacon luktar väldigt gott."
         },
         {
-          "pt": "aliança",
-          "sv": "vigselring/förlovningsring",
+          "pt": "requeijão",
+          "sv": "färskost",
           "type": "substantiv",
-          "example_pt": "Ela usa uma aliança no dedo.",
-          "example_sv": "Hon bär en vigselring på fingret."
+          "example_pt": "Ele barrou requeijão na torrada.",
+          "example_sv": "Han bredde färskost på rostat bröd."
+        }
+      ]
+    },
+    {
+      "theme": "sport och fritid",
+      "words": [
+        {
+          "pt": "atletismo",
+          "sv": "friidrott",
+          "type": "substantiv",
+          "example_pt": "O atletismo inclui corrida e saltos.",
+          "example_sv": "Friidrott inkluderar löpning och hopp."
+        },
+        {
+          "pt": "haltere",
+          "sv": "hantel",
+          "type": "substantiv",
+          "example_pt": "Ela levanta halteres três vezes por semana.",
+          "example_sv": "Hon lyfter hantlar tre gånger i veckan."
+        },
+        {
+          "pt": "arco",
+          "sv": "båge",
+          "type": "substantiv",
+          "example_pt": "O arqueiro usou um arco tradicional.",
+          "example_sv": "Bågskytten använde en traditionell båge."
+        },
+        {
+          "pt": "lancha",
+          "sv": "motorbåt",
+          "type": "substantiv",
+          "example_pt": "Fomos à ilha de lancha.",
+          "example_sv": "Vi åkte till ön med motorbåt."
+        },
+        {
+          "pt": "esgrima",
+          "sv": "fäktning",
+          "type": "substantiv",
+          "example_pt": "A esgrima é uma modalidade olímpica elegante.",
+          "example_sv": "Fäktning är en elegant olympisk disciplin."
+        },
+        {
+          "pt": "surfar",
+          "sv": "surfa",
+          "type": "verb",
+          "example_pt": "Ele aprendeu a surfar no verão passado.",
+          "example_sv": "Han lärde sig surfa förra sommaren."
+        },
+        {
+          "pt": "pontuar",
+          "sv": "poängsätta",
+          "type": "verb",
+          "example_pt": "A equipa conseguiu pontuar nos últimos minutos.",
+          "example_sv": "Laget lyckades poängsätta i de sista minuterna."
+        },
+        {
+          "pt": "regata",
+          "sv": "regatta",
+          "type": "substantiv",
+          "example_pt": "A regata acontece todos os anos em agosto.",
+          "example_sv": "Regattan äger rum varje år i augusti."
         }
       ]
     },
@@ -66,121 +127,60 @@
       "theme": "stad och platser",
       "words": [
         {
-          "pt": "semáforo",
-          "sv": "trafikljus",
+          "pt": "pelourinho",
+          "sv": "skampåle",
           "type": "substantiv",
-          "example_pt": "Para no semáforo vermelho.",
-          "example_sv": "Stanna vid det röda trafikljuset."
+          "example_pt": "O pelourinho fica no centro histórico da cidade.",
+          "example_sv": "Skampålen finns i stadens historiska centrum."
         },
         {
-          "pt": "passeio",
-          "sv": "trottoar",
+          "pt": "aqueduto",
+          "sv": "akvedukt",
           "type": "substantiv",
-          "example_pt": "As crianças andam no passeio.",
-          "example_sv": "Barnen går på trottoaren."
+          "example_pt": "O aqueduto romano ainda está de pé.",
+          "example_sv": "Den romerska akvedukten står fortfarande kvar."
         },
         {
-          "pt": "parque",
-          "sv": "park",
+          "pt": "miradouro",
+          "sv": "utsiktsplats",
           "type": "substantiv",
-          "example_pt": "Vamos ao parque amanhã.",
-          "example_sv": "Vi går till parken imorgon."
+          "example_pt": "O miradouro oferece uma vista incrível do rio.",
+          "example_sv": "Utsiktsplatsen erbjuder en fantastisk utsikt över floden."
         },
         {
-          "pt": "farmácia",
-          "sv": "apotek",
+          "pt": "palácios",
+          "sv": "palats",
           "type": "substantiv",
-          "example_pt": "A farmácia fica perto do banco.",
-          "example_sv": "Apoteket ligger nära banken."
+          "example_pt": "Lisboa tem muitos palácios históricos.",
+          "example_sv": "Lissabon har många historiska palats."
         },
         {
-          "pt": "câmara municipal",
-          "sv": "rådhus/kommunhus",
+          "pt": "criptão",
+          "sv": "krypta",
           "type": "substantiv",
-          "example_pt": "A câmara municipal fica no centro.",
-          "example_sv": "Rådhuset ligger i centrum."
+          "example_pt": "A criptão da catedral é muito antiga.",
+          "example_sv": "Kryptan i katedralen är mycket gammal."
         },
         {
-          "pt": "supermercado",
-          "sv": "snabbköp/stormarknad",
+          "pt": "doca",
+          "sv": "docka",
           "type": "substantiv",
-          "example_pt": "Vou ao supermercado comprar leite.",
-          "example_sv": "Jag går till stormarknaden för att köpa mjölk."
+          "example_pt": "Os barcos estão ancorados na doca.",
+          "example_sv": "Båtarna är förtöjda vid dockan."
         },
         {
-          "pt": "hospital",
-          "sv": "sjukhus",
+          "pt": "coreto",
+          "sv": "musikpaviljong",
           "type": "substantiv",
-          "example_pt": "O hospital tem muitos médicos.",
-          "example_sv": "Sjukhuset har många läkare."
+          "example_pt": "Havia um concerto no coreto da praça.",
+          "example_sv": "Det var en konsert i musikpaviljongen på torget."
         },
         {
-          "pt": "rua",
-          "sv": "gata",
+          "pt": "matadouro",
+          "sv": "slakteri",
           "type": "substantiv",
-          "example_pt": "Qual é o nome desta rua?",
-          "example_sv": "Vad heter den här gatan?"
-        }
-      ]
-    },
-    {
-      "theme": "mat och dryck",
-      "words": [
-        {
-          "pt": "camarão",
-          "sv": "räka",
-          "type": "substantiv",
-          "example_pt": "Adoro camarão grelhado.",
-          "example_sv": "Jag älskar grillad räka."
-        },
-        {
-          "pt": "queijo",
-          "sv": "ost",
-          "type": "substantiv",
-          "example_pt": "O queijo português é muito saboroso.",
-          "example_sv": "Portugisisk ost är väldigt smakrik."
-        },
-        {
-          "pt": "sumo",
-          "sv": "juice",
-          "type": "substantiv",
-          "example_pt": "Quero um sumo de laranja, por favor.",
-          "example_sv": "Jag vill ha en apelsinjuice, tack."
-        },
-        {
-          "pt": "pão",
-          "sv": "bröd",
-          "type": "substantiv",
-          "example_pt": "Compramos pão fresco todas as manhãs.",
-          "example_sv": "Vi köper färskt bröd varje morgon."
-        },
-        {
-          "pt": "frango",
-          "sv": "kyckling",
-          "type": "substantiv",
-          "example_pt": "O frango assado cheira muito bem.",
-          "example_sv": "Den ugnsrostade kycklingen luktar väldigt gott."
-        },
-        {
-          "pt": "azeite",
-          "sv": "olivolja",
-          "type": "substantiv",
-          "example_pt": "Em Portugal usam muito azeite na cozinha.",
-          "example_sv": "I Portugal använder man mycket olivolja i matlagningen."
-        },
-        {
-          "pt": "sobremesa",
-          "sv": "dessert",
-          "type": "substantiv",
-          "example_pt": "A sobremesa favorita dela é gelado.",
-          "example_sv": "Hennes favoritdessert är glass."
-        },
-        {
-          "pt": "caldo",
-          "sv": "buljong/soppa",
-          "type": "substantiv",
-          "example_pt": "O caldo verde é uma sopa tradicional portuguesa.",
-          "example_sv": "Caldo verde är en traditionell portugisisk soppa."
+          "example_pt": "O antigo matadouro foi convertido em galeria de arte.",
+          "example_sv": "Det gamla slakteriet har omvandlats till ett konstgalleri."
         }
       ]
     }
