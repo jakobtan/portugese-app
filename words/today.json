@@ -1,186 +1,186 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "sets": [
     {
-      "theme": "mat och dryck",
+      "theme": "Natur och väder",
       "words": [
         {
-          "pt": "melancia",
-          "sv": "vattenmelon",
+          "pt": "vulcão",
+          "sv": "vulkan",
           "type": "substantiv",
-          "example_pt": "A melancia é uma fruta refrescante no verão.",
-          "example_sv": "Vattenmelonen är en uppfriskande frukt på sommaren."
+          "example_pt": "O vulcão entrou em erupção ontem.",
+          "example_sv": "Vulkanen utbröt igår."
         },
         {
-          "pt": "centeio",
-          "sv": "råg",
+          "pt": "maré",
+          "sv": "tidvatten",
           "type": "substantiv",
-          "example_pt": "O pão de centeio é muito saudável.",
-          "example_sv": "Rågbrödet är mycket hälsosamt."
+          "example_pt": "A maré está alta esta manhã.",
+          "example_sv": "Tidvattnet är högt i morse."
         },
         {
-          "pt": "lentilha",
-          "sv": "lins",
+          "pt": "clareira",
+          "sv": "glänta",
           "type": "substantiv",
-          "example_pt": "A sopa de lentilha é muito nutritiva.",
-          "example_sv": "Linssoppan är mycket näringsrik."
+          "example_pt": "Encontrámos uma clareira no meio da floresta.",
+          "example_sv": "Vi hittade en glänta mitt i skogen."
         },
         {
-          "pt": "noz",
-          "sv": "valnöt",
+          "pt": "mangue",
+          "sv": "mangroveskog",
           "type": "substantiv",
-          "example_pt": "Ela colocou nozes na salada.",
-          "example_sv": "Hon lade valnötter i salladen."
+          "example_pt": "O mangue protege a costa das tempestades.",
+          "example_sv": "Mangröveskogen skyddar kusten från stormar."
         },
         {
-          "pt": "hortelã",
-          "sv": "mynta",
+          "pt": "cume",
+          "sv": "bergstoppp",
           "type": "substantiv",
-          "example_pt": "O chá de hortelã é muito aromático.",
-          "example_sv": "Mynthete är mycket aromatiskt."
+          "example_pt": "Chegámos ao cume da montanha ao meio-dia.",
+          "example_sv": "Vi nådde bergstoppet vid middagstid."
         },
         {
-          "pt": "alcachofra",
-          "sv": "kronärtskocka",
-          "type": "substantiv",
-          "example_pt": "Gosto muito de alcachofra grelhada.",
-          "example_sv": "Jag tycker mycket om grillad kronärtskocka."
+          "pt": "árido",
+          "sv": "torr/ökenartad",
+          "type": "adjektiv",
+          "example_pt": "O clima árido dificulta a agricultura.",
+          "example_sv": "Det torra klimatet försvårar jordbruket."
         },
         {
-          "pt": "toucinho",
-          "sv": "bacon",
+          "pt": "estuário",
+          "sv": "flodmynning",
           "type": "substantiv",
-          "example_pt": "O toucinho frito cheira muito bem.",
-          "example_sv": "Stekt bacon luktar väldigt gott."
+          "example_pt": "O estuário do rio é rico em biodiversidade.",
+          "example_sv": "Flodmynningen är rik på biologisk mångfald."
         },
         {
-          "pt": "requeijão",
-          "sv": "färskost",
+          "pt": "neblina",
+          "sv": "dimma/dis",
           "type": "substantiv",
-          "example_pt": "Ele barrou requeijão na torrada.",
-          "example_sv": "Han bredde färskost på rostat bröd."
+          "example_pt": "A neblina cobriu toda a cidade de manhã.",
+          "example_sv": "Dimman täckte hela staden på morgonen."
         }
       ]
     },
     {
-      "theme": "sport och fritid",
+      "theme": "Teknik",
       "words": [
         {
-          "pt": "atletismo",
-          "sv": "friidrott",
+          "pt": "firmware",
+          "sv": "inbyggd programvara",
           "type": "substantiv",
-          "example_pt": "O atletismo inclui corrida e saltos.",
-          "example_sv": "Friidrott inkluderar löpning och hopp."
+          "example_pt": "É preciso atualizar o firmware do dispositivo.",
+          "example_sv": "Man måste uppdatera enhetens inbyggda programvara."
         },
         {
-          "pt": "haltere",
-          "sv": "hantel",
+          "pt": "largura de banda",
+          "sv": "bandbredd",
           "type": "substantiv",
-          "example_pt": "Ela levanta halteres três vezes por semana.",
-          "example_sv": "Hon lyfter hantlar tre gånger i veckan."
+          "example_pt": "A largura de banda da rede é insuficiente.",
+          "example_sv": "Nätverkets bandbredd är otillräcklig."
         },
         {
-          "pt": "arco",
-          "sv": "båge",
-          "type": "substantiv",
-          "example_pt": "O arqueiro usou um arco tradicional.",
-          "example_sv": "Bågskytten använde en traditionell båge."
-        },
-        {
-          "pt": "lancha",
-          "sv": "motorbåt",
-          "type": "substantiv",
-          "example_pt": "Fomos à ilha de lancha.",
-          "example_sv": "Vi åkte till ön med motorbåt."
-        },
-        {
-          "pt": "esgrima",
-          "sv": "fäktning",
-          "type": "substantiv",
-          "example_pt": "A esgrima é uma modalidade olímpica elegante.",
-          "example_sv": "Fäktning är en elegant olympisk disciplin."
-        },
-        {
-          "pt": "surfar",
-          "sv": "surfa",
+          "pt": "renderizar",
+          "sv": "rendera",
           "type": "verb",
-          "example_pt": "Ele aprendeu a surfar no verão passado.",
-          "example_sv": "Han lärde sig surfa förra sommaren."
+          "example_pt": "O computador demora muito a renderizar o vídeo.",
+          "example_sv": "Datorn tar lång tid på sig att rendera videon."
         },
         {
-          "pt": "pontuar",
-          "sv": "poängsätta",
-          "type": "verb",
-          "example_pt": "A equipa conseguiu pontuar nos últimos minutos.",
-          "example_sv": "Laget lyckades poängsätta i de sista minuterna."
-        },
-        {
-          "pt": "regata",
-          "sv": "regatta",
+          "pt": "antivírus",
+          "sv": "antivirusprogram",
           "type": "substantiv",
-          "example_pt": "A regata acontece todos os anos em agosto.",
-          "example_sv": "Regattan äger rum varje år i augusti."
+          "example_pt": "Instala um antivírus para proteger o teu computador.",
+          "example_sv": "Installera ett antivirusprogram för att skydda din dator."
+        },
+        {
+          "pt": "pixel",
+          "sv": "pixel",
+          "type": "substantiv",
+          "example_pt": "A imagem tem muitos pixels e é muito nítida.",
+          "example_sv": "Bilden har många pixlar och är mycket skarp."
+        },
+        {
+          "pt": "processador",
+          "sv": "processor",
+          "type": "substantiv",
+          "example_pt": "O processador deste telemóvel é muito rápido.",
+          "example_sv": "Processorn i den här mobiltelefonen är mycket snabb."
+        },
+        {
+          "pt": "autonomia",
+          "sv": "batteritid",
+          "type": "substantiv",
+          "example_pt": "A autonomia da bateria dura doze horas.",
+          "example_sv": "Batteritiden varar i tolv timmar."
+        },
+        {
+          "pt": "plataforma",
+          "sv": "plattform",
+          "type": "substantiv",
+          "example_pt": "Publicámos o conteúdo numa nova plataforma digital.",
+          "example_sv": "Vi publicerade innehållet på en ny digital plattform."
         }
       ]
     },
     {
-      "theme": "stad och platser",
+      "theme": "Familj och relationer",
       "words": [
         {
-          "pt": "pelourinho",
-          "sv": "skampåle",
+          "pt": "bisneta",
+          "sv": "barnbarnsbarn (flicka)",
           "type": "substantiv",
-          "example_pt": "O pelourinho fica no centro histórico da cidade.",
-          "example_sv": "Skampålen finns i stadens historiska centrum."
+          "example_pt": "A minha bisneta nasceu na semana passada.",
+          "example_sv": "Mitt barnbarnsbarn föddes förra veckan."
         },
         {
-          "pt": "aqueduto",
-          "sv": "akvedukt",
+          "pt": "cuidador",
+          "sv": "vårdgivare/omsorgsperson",
           "type": "substantiv",
-          "example_pt": "O aqueduto romano ainda está de pé.",
-          "example_sv": "Den romerska akvedukten står fortfarande kvar."
+          "example_pt": "O cuidador visita o idoso todos os dias.",
+          "example_sv": "Vårdgivaren besöker den äldre varje dag."
         },
         {
-          "pt": "miradouro",
-          "sv": "utsiktsplats",
-          "type": "substantiv",
-          "example_pt": "O miradouro oferece uma vista incrível do rio.",
-          "example_sv": "Utsiktsplatsen erbjuder en fantastisk utsikt över floden."
+          "pt": "acolher",
+          "sv": "ta emot/välkomna",
+          "type": "verb",
+          "example_pt": "Decidimos acolher uma criança em necessidade.",
+          "example_sv": "Vi bestämde oss för att ta emot ett barn i nöd."
         },
         {
-          "pt": "palácios",
-          "sv": "palats",
-          "type": "substantiv",
-          "example_pt": "Lisboa tem muitos palácios históricos.",
-          "example_sv": "Lissabon har många historiska palats."
+          "pt": "lareira familiar",
+          "sv": "familjens härd",
+          "type": "fras",
+          "example_pt": "A lareira familiar reúne todos no inverno.",
+          "example_sv": "Familjens härd samlar alla på vintern."
         },
         {
-          "pt": "criptão",
-          "sv": "krypta",
+          "pt": "vínculo",
+          "sv": "band/bindning",
           "type": "substantiv",
-          "example_pt": "A criptão da catedral é muito antiga.",
-          "example_sv": "Kryptan i katedralen är mycket gammal."
+          "example_pt": "O vínculo entre mãe e filho é muito forte.",
+          "example_sv": "Bandet mellan mor och son är mycket starkt."
         },
         {
-          "pt": "doca",
-          "sv": "docka",
+          "pt": "órfão",
+          "sv": "föräldralös",
           "type": "substantiv",
-          "example_pt": "Os barcos estão ancorados na doca.",
-          "example_sv": "Båtarna är förtöjda vid dockan."
+          "example_pt": "O órfão foi adotado por uma família amorosa.",
+          "example_sv": "Den föräldralöse adopterades av en kärleksfull familj."
         },
         {
-          "pt": "coreto",
-          "sv": "musikpaviljong",
+          "pt": "meia-irmã",
+          "sv": "halvsyster",
           "type": "substantiv",
-          "example_pt": "Havia um concerto no coreto da praça.",
-          "example_sv": "Det var en konsert i musikpaviljongen på torget."
+          "example_pt": "A minha meia-irmã vive em Lisboa.",
+          "example_sv": "Min halvsyster bor i Lissabon."
         },
         {
-          "pt": "matadouro",
-          "sv": "slakteri",
+          "pt": "reconciliação",
+          "sv": "försoning",
           "type": "substantiv",
-          "example_pt": "O antigo matadouro foi convertido em galeria de arte.",
-          "example_sv": "Det gamla slakteriet har omvandlats till ett konstgalleri."
+          "example_pt": "A reconciliação entre os irmãos foi emocionante.",
+          "example_sv": "Försoningen mellan bröderna var rörande."
         }
       ]
     }

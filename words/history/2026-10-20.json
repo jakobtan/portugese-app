@@ -1,0 +1,188 @@
+{
+  "date": "2026-10-20",
+  "sets": [
+    {
+      "theme": "Natur och väder",
+      "words": [
+        {
+          "pt": "vulcão",
+          "sv": "vulkan",
+          "type": "substantiv",
+          "example_pt": "O vulcão entrou em erupção ontem.",
+          "example_sv": "Vulkanen utbröt igår."
+        },
+        {
+          "pt": "maré",
+          "sv": "tidvatten",
+          "type": "substantiv",
+          "example_pt": "A maré está alta esta manhã.",
+          "example_sv": "Tidvattnet är högt i morse."
+        },
+        {
+          "pt": "clareira",
+          "sv": "glänta",
+          "type": "substantiv",
+          "example_pt": "Encontrámos uma clareira no meio da floresta.",
+          "example_sv": "Vi hittade en glänta mitt i skogen."
+        },
+        {
+          "pt": "mangue",
+          "sv": "mangroveskog",
+          "type": "substantiv",
+          "example_pt": "O mangue protege a costa das tempestades.",
+          "example_sv": "Mangröveskogen skyddar kusten från stormar."
+        },
+        {
+          "pt": "cume",
+          "sv": "bergstoppp",
+          "type": "substantiv",
+          "example_pt": "Chegámos ao cume da montanha ao meio-dia.",
+          "example_sv": "Vi nådde bergstoppet vid middagstid."
+        },
+        {
+          "pt": "árido",
+          "sv": "torr/ökenartad",
+          "type": "adjektiv",
+          "example_pt": "O clima árido dificulta a agricultura.",
+          "example_sv": "Det torra klimatet försvårar jordbruket."
+        },
+        {
+          "pt": "estuário",
+          "sv": "flodmynning",
+          "type": "substantiv",
+          "example_pt": "O estuário do rio é rico em biodiversidade.",
+          "example_sv": "Flodmynningen är rik på biologisk mångfald."
+        },
+        {
+          "pt": "neblina",
+          "sv": "dimma/dis",
+          "type": "substantiv",
+          "example_pt": "A neblina cobriu toda a cidade de manhã.",
+          "example_sv": "Dimman täckte hela staden på morgonen."
+        }
+      ]
+    },
+    {
+      "theme": "Teknik",
+      "words": [
+        {
+          "pt": "firmware",
+          "sv": "inbyggd programvara",
+          "type": "substantiv",
+          "example_pt": "É preciso atualizar o firmware do dispositivo.",
+          "example_sv": "Man måste uppdatera enhetens inbyggda programvara."
+        },
+        {
+          "pt": "largura de banda",
+          "sv": "bandbredd",
+          "type": "substantiv",
+          "example_pt": "A largura de banda da rede é insuficiente.",
+          "example_sv": "Nätverkets bandbredd är otillräcklig."
+        },
+        {
+          "pt": "renderizar",
+          "sv": "rendera",
+          "type": "verb",
+          "example_pt": "O computador demora muito a renderizar o vídeo.",
+          "example_sv": "Datorn tar lång tid på sig att rendera videon."
+        },
+        {
+          "pt": "antivírus",
+          "sv": "antivirusprogram",
+          "type": "substantiv",
+          "example_pt": "Instala um antivírus para proteger o teu computador.",
+          "example_sv": "Installera ett antivirusprogram för att skydda din dator."
+        },
+        {
+          "pt": "pixel",
+          "sv": "pixel",
+          "type": "substantiv",
+          "example_pt": "A imagem tem muitos pixels e é muito nítida.",
+          "example_sv": "Bilden har många pixlar och är mycket skarp."
+        },
+        {
+          "pt": "processador",
+          "sv": "processor",
+          "type": "substantiv",
+          "example_pt": "O processador deste telemóvel é muito rápido.",
+          "example_sv": "Processorn i den här mobiltelefonen är mycket snabb."
+        },
+        {
+          "pt": "autonomia",
+          "sv": "batteritid",
+          "type": "substantiv",
+          "example_pt": "A autonomia da bateria dura doze horas.",
+          "example_sv": "Batteritiden varar i tolv timmar."
+        },
+        {
+          "pt": "plataforma",
+          "sv": "plattform",
+          "type": "substantiv",
+          "example_pt": "Publicámos o conteúdo numa nova plataforma digital.",
+          "example_sv": "Vi publicerade innehållet på en ny digital plattform."
+        }
+      ]
+    },
+    {
+      "theme": "Familj och relationer",
+      "words": [
+        {
+          "pt": "bisneta",
+          "sv": "barnbarnsbarn (flicka)",
+          "type": "substantiv",
+          "example_pt": "A minha bisneta nasceu na semana passada.",
+          "example_sv": "Mitt barnbarnsbarn föddes förra veckan."
+        },
+        {
+          "pt": "cuidador",
+          "sv": "vårdgivare/omsorgsperson",
+          "type": "substantiv",
+          "example_pt": "O cuidador visita o idoso todos os dias.",
+          "example_sv": "Vårdgivaren besöker den äldre varje dag."
+        },
+        {
+          "pt": "acolher",
+          "sv": "ta emot/välkomna",
+          "type": "verb",
+          "example_pt": "Decidimos acolher uma criança em necessidade.",
+          "example_sv": "Vi bestämde oss för att ta emot ett barn i nöd."
+        },
+        {
+          "pt": "lareira familiar",
+          "sv": "familjens härd",
+          "type": "fras",
+          "example_pt": "A lareira familiar reúne todos no inverno.",
+          "example_sv": "Familjens härd samlar alla på vintern."
+        },
+        {
+          "pt": "vínculo",
+          "sv": "band/bindning",
+          "type": "substantiv",
+          "example_pt": "O vínculo entre mãe e filho é muito forte.",
+          "example_sv": "Bandet mellan mor och son är mycket starkt."
+        },
+        {
+          "pt": "órfão",
+          "sv": "föräldralös",
+          "type": "substantiv",
+          "example_pt": "O órfão foi adotado por uma família amorosa.",
+          "example_sv": "Den föräldralöse adopterades av en kärleksfull familj."
+        },
+        {
+          "pt": "meia-irmã",
+          "sv": "halvsyster",
+          "type": "substantiv",
+          "example_pt": "A minha meia-irmã vive em Lisboa.",
+          "example_sv": "Min halvsyster bor i Lissabon."
+        },
+        {
+          "pt": "reconciliação",
+          "sv": "försoning",
+          "type": "substantiv",
+          "example_pt": "A reconciliação entre os irmãos foi emocionante.",
+          "example_sv": "Försoningen mellan bröderna var rörande."
+        }
+      ]
+    }
+  ]
+}
