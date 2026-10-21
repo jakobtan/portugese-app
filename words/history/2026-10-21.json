@@ -1,0 +1,188 @@
+{
+  "date": "2026-10-21",
+  "sets": [
+    {
+      "theme": "Kläder och mode",
+      "words": [
+        {
+          "pt": "cinto",
+          "sv": "bälte",
+          "type": "substantiv",
+          "example_pt": "Ele usa um cinto de couro castanho.",
+          "example_sv": "Han bär ett brunt läderbälte."
+        },
+        {
+          "pt": "chapéu",
+          "sv": "hatt",
+          "type": "substantiv",
+          "example_pt": "Ela comprou um chapéu novo para o verão.",
+          "example_sv": "Hon köpte en ny hatt till sommaren."
+        },
+        {
+          "pt": "casaco",
+          "sv": "jacka/kappa",
+          "type": "substantiv",
+          "example_pt": "O casaco está pendurado no cabide.",
+          "example_sv": "Jackan hänger på galgen."
+        },
+        {
+          "pt": "saia",
+          "sv": "kjol",
+          "type": "substantiv",
+          "example_pt": "A saia azul combina com a blusa branca.",
+          "example_sv": "Den blå kjolen matchar den vita blusen."
+        },
+        {
+          "pt": "meia",
+          "sv": "strumpa",
+          "type": "substantiv",
+          "example_pt": "Perdi uma meia na máquina de lavar.",
+          "example_sv": "Jag tappade en strumpa i tvättmaskinen."
+        },
+        {
+          "pt": "calças",
+          "sv": "byxor",
+          "type": "substantiv",
+          "example_pt": "Estas calças são demasiado largas.",
+          "example_sv": "Dessa byxor är för vida."
+        },
+        {
+          "pt": "botão",
+          "sv": "knapp",
+          "type": "substantiv",
+          "example_pt": "O botão da camisa caiu no chão.",
+          "example_sv": "Knappen på skjortan föll på golvet."
+        },
+        {
+          "pt": "colete",
+          "sv": "väst",
+          "type": "substantiv",
+          "example_pt": "Ele vestiu um colete por cima da camisa.",
+          "example_sv": "Han tog på sig en väst ovanpå skjortan."
+        }
+      ]
+    },
+    {
+      "theme": "Tid och datum",
+      "words": [
+        {
+          "pt": "quinzena",
+          "sv": "fjortondagarsperiod/två veckor",
+          "type": "substantiv",
+          "example_pt": "Recebo o salário de quinzena em quinzena.",
+          "example_sv": "Jag får lön varannan vecka."
+        },
+        {
+          "pt": "trimestre",
+          "sv": "kvartal/termin",
+          "type": "substantiv",
+          "example_pt": "O primeiro trimestre do ano já terminou.",
+          "example_sv": "Årets första kvartal är redan slut."
+        },
+        {
+          "pt": "entardecer",
+          "sv": "skymning/kväll",
+          "type": "substantiv",
+          "example_pt": "Gosto de passear ao entardecer.",
+          "example_sv": "Jag tycker om att promenera i skymningen."
+        },
+        {
+          "pt": "instante",
+          "sv": "ögonblick",
+          "type": "substantiv",
+          "example_pt": "Espera um instante, por favor.",
+          "example_sv": "Vänta ett ögonblick, tack."
+        },
+        {
+          "pt": "bimestral",
+          "sv": "tvåmånaders-/varannan månad",
+          "type": "adjektiv",
+          "example_pt": "A reunião é bimestral.",
+          "example_sv": "Mötet hålls varannan månad."
+        },
+        {
+          "pt": "véspera",
+          "sv": "dagen före/afton",
+          "type": "substantiv",
+          "example_pt": "Na véspera do Natal ficámos em casa.",
+          "example_sv": "På julafton stannade vi hemma."
+        },
+        {
+          "pt": "alvorada",
+          "sv": "gryning",
+          "type": "substantiv",
+          "example_pt": "Os pássaros cantam à alvorada.",
+          "example_sv": "Fåglarna sjunger i gryningen."
+        },
+        {
+          "pt": "tardio",
+          "sv": "sen/försenad",
+          "type": "adjektiv",
+          "example_pt": "Chegou tardio ao jantar.",
+          "example_sv": "Han kom sent till middagen."
+        }
+      ]
+    },
+    {
+      "theme": "Kropp och hälsa",
+      "words": [
+        {
+          "pt": "calcanhar",
+          "sv": "häl",
+          "type": "substantiv",
+          "example_pt": "Tenho uma bolha no calcanhar direito.",
+          "example_sv": "Jag har en blåsa på höger häl."
+        },
+        {
+          "pt": "cotovelo",
+          "sv": "armbåge",
+          "type": "substantiv",
+          "example_pt": "Magoei o cotovelo a cair.",
+          "example_sv": "Jag skadade armbågen när jag föll."
+        },
+        {
+          "pt": "narina",
+          "sv": "näsborre",
+          "type": "substantiv",
+          "example_pt": "Uma das narinas está entupida.",
+          "example_sv": "En av näsborrarna är igentäppt."
+        },
+        {
+          "pt": "queixo",
+          "sv": "haka",
+          "type": "substantiv",
+          "example_pt": "Ele apoiou o queixo na mão.",
+          "example_sv": "Han stödde hakan i handen."
+        },
+        {
+          "pt": "febre",
+          "sv": "feber",
+          "type": "substantiv",
+          "example_pt": "A criança tem febre desde ontem.",
+          "example_sv": "Barnet har haft feber sedan igår."
+        },
+        {
+          "pt": "ligadura",
+          "sv": "bandage",
+          "type": "substantiv",
+          "example_pt": "O médico colocou uma ligadura no braço.",
+          "example_sv": "Läkaren lade ett bandage på armen."
+        },
+        {
+          "pt": "engolir",
+          "sv": "svälja",
+          "type": "verb",
+          "example_pt": "É difícil engolir com a garganta inflamada.",
+          "example_sv": "Det är svårt att svälja med en inflammerad hals."
+        },
+        {
+          "pt": "cansaço",
+          "sv": "trötthet/utmattning",
+          "type": "substantiv",
+          "example_pt": "O cansaço acumulado afeta o trabalho.",
+          "example_sv": "Den uppsamlade tröttheten påverkar arbetet."
+        }
+      ]
+    }
+  ]
+}

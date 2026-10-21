@@ -1,186 +1,186 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "sets": [
     {
-      "theme": "Natur och väder",
+      "theme": "Kläder och mode",
       "words": [
         {
-          "pt": "vulcão",
-          "sv": "vulkan",
+          "pt": "cinto",
+          "sv": "bälte",
           "type": "substantiv",
-          "example_pt": "O vulcão entrou em erupção ontem.",
-          "example_sv": "Vulkanen utbröt igår."
+          "example_pt": "Ele usa um cinto de couro castanho.",
+          "example_sv": "Han bär ett brunt läderbälte."
         },
         {
-          "pt": "maré",
-          "sv": "tidvatten",
+          "pt": "chapéu",
+          "sv": "hatt",
           "type": "substantiv",
-          "example_pt": "A maré está alta esta manhã.",
-          "example_sv": "Tidvattnet är högt i morse."
+          "example_pt": "Ela comprou um chapéu novo para o verão.",
+          "example_sv": "Hon köpte en ny hatt till sommaren."
         },
         {
-          "pt": "clareira",
-          "sv": "glänta",
+          "pt": "casaco",
+          "sv": "jacka/kappa",
           "type": "substantiv",
-          "example_pt": "Encontrámos uma clareira no meio da floresta.",
-          "example_sv": "Vi hittade en glänta mitt i skogen."
+          "example_pt": "O casaco está pendurado no cabide.",
+          "example_sv": "Jackan hänger på galgen."
         },
         {
-          "pt": "mangue",
-          "sv": "mangroveskog",
+          "pt": "saia",
+          "sv": "kjol",
           "type": "substantiv",
-          "example_pt": "O mangue protege a costa das tempestades.",
-          "example_sv": "Mangröveskogen skyddar kusten från stormar."
+          "example_pt": "A saia azul combina com a blusa branca.",
+          "example_sv": "Den blå kjolen matchar den vita blusen."
         },
         {
-          "pt": "cume",
-          "sv": "bergstoppp",
+          "pt": "meia",
+          "sv": "strumpa",
           "type": "substantiv",
-          "example_pt": "Chegámos ao cume da montanha ao meio-dia.",
-          "example_sv": "Vi nådde bergstoppet vid middagstid."
+          "example_pt": "Perdi uma meia na máquina de lavar.",
+          "example_sv": "Jag tappade en strumpa i tvättmaskinen."
         },
         {
-          "pt": "árido",
-          "sv": "torr/ökenartad",
+          "pt": "calças",
+          "sv": "byxor",
+          "type": "substantiv",
+          "example_pt": "Estas calças são demasiado largas.",
+          "example_sv": "Dessa byxor är för vida."
+        },
+        {
+          "pt": "botão",
+          "sv": "knapp",
+          "type": "substantiv",
+          "example_pt": "O botão da camisa caiu no chão.",
+          "example_sv": "Knappen på skjortan föll på golvet."
+        },
+        {
+          "pt": "colete",
+          "sv": "väst",
+          "type": "substantiv",
+          "example_pt": "Ele vestiu um colete por cima da camisa.",
+          "example_sv": "Han tog på sig en väst ovanpå skjortan."
+        }
+      ]
+    },
+    {
+      "theme": "Tid och datum",
+      "words": [
+        {
+          "pt": "quinzena",
+          "sv": "fjortondagarsperiod/två veckor",
+          "type": "substantiv",
+          "example_pt": "Recebo o salário de quinzena em quinzena.",
+          "example_sv": "Jag får lön varannan vecka."
+        },
+        {
+          "pt": "trimestre",
+          "sv": "kvartal/termin",
+          "type": "substantiv",
+          "example_pt": "O primeiro trimestre do ano já terminou.",
+          "example_sv": "Årets första kvartal är redan slut."
+        },
+        {
+          "pt": "entardecer",
+          "sv": "skymning/kväll",
+          "type": "substantiv",
+          "example_pt": "Gosto de passear ao entardecer.",
+          "example_sv": "Jag tycker om att promenera i skymningen."
+        },
+        {
+          "pt": "instante",
+          "sv": "ögonblick",
+          "type": "substantiv",
+          "example_pt": "Espera um instante, por favor.",
+          "example_sv": "Vänta ett ögonblick, tack."
+        },
+        {
+          "pt": "bimestral",
+          "sv": "tvåmånaders-/varannan månad",
           "type": "adjektiv",
-          "example_pt": "O clima árido dificulta a agricultura.",
-          "example_sv": "Det torra klimatet försvårar jordbruket."
+          "example_pt": "A reunião é bimestral.",
+          "example_sv": "Mötet hålls varannan månad."
         },
         {
-          "pt": "estuário",
-          "sv": "flodmynning",
+          "pt": "véspera",
+          "sv": "dagen före/afton",
           "type": "substantiv",
-          "example_pt": "O estuário do rio é rico em biodiversidade.",
-          "example_sv": "Flodmynningen är rik på biologisk mångfald."
+          "example_pt": "Na véspera do Natal ficámos em casa.",
+          "example_sv": "På julafton stannade vi hemma."
         },
         {
-          "pt": "neblina",
-          "sv": "dimma/dis",
+          "pt": "alvorada",
+          "sv": "gryning",
           "type": "substantiv",
-          "example_pt": "A neblina cobriu toda a cidade de manhã.",
-          "example_sv": "Dimman täckte hela staden på morgonen."
+          "example_pt": "Os pássaros cantam à alvorada.",
+          "example_sv": "Fåglarna sjunger i gryningen."
+        },
+        {
+          "pt": "tardio",
+          "sv": "sen/försenad",
+          "type": "adjektiv",
+          "example_pt": "Chegou tardio ao jantar.",
+          "example_sv": "Han kom sent till middagen."
         }
       ]
     },
     {
-      "theme": "Teknik",
+      "theme": "Kropp och hälsa",
       "words": [
         {
-          "pt": "firmware",
-          "sv": "inbyggd programvara",
+          "pt": "calcanhar",
+          "sv": "häl",
           "type": "substantiv",
-          "example_pt": "É preciso atualizar o firmware do dispositivo.",
-          "example_sv": "Man måste uppdatera enhetens inbyggda programvara."
+          "example_pt": "Tenho uma bolha no calcanhar direito.",
+          "example_sv": "Jag har en blåsa på höger häl."
         },
         {
-          "pt": "largura de banda",
-          "sv": "bandbredd",
+          "pt": "cotovelo",
+          "sv": "armbåge",
           "type": "substantiv",
-          "example_pt": "A largura de banda da rede é insuficiente.",
-          "example_sv": "Nätverkets bandbredd är otillräcklig."
+          "example_pt": "Magoei o cotovelo a cair.",
+          "example_sv": "Jag skadade armbågen när jag föll."
         },
         {
-          "pt": "renderizar",
-          "sv": "rendera",
+          "pt": "narina",
+          "sv": "näsborre",
+          "type": "substantiv",
+          "example_pt": "Uma das narinas está entupida.",
+          "example_sv": "En av näsborrarna är igentäppt."
+        },
+        {
+          "pt": "queixo",
+          "sv": "haka",
+          "type": "substantiv",
+          "example_pt": "Ele apoiou o queixo na mão.",
+          "example_sv": "Han stödde hakan i handen."
+        },
+        {
+          "pt": "febre",
+          "sv": "feber",
+          "type": "substantiv",
+          "example_pt": "A criança tem febre desde ontem.",
+          "example_sv": "Barnet har haft feber sedan igår."
+        },
+        {
+          "pt": "ligadura",
+          "sv": "bandage",
+          "type": "substantiv",
+          "example_pt": "O médico colocou uma ligadura no braço.",
+          "example_sv": "Läkaren lade ett bandage på armen."
+        },
+        {
+          "pt": "engolir",
+          "sv": "svälja",
           "type": "verb",
-          "example_pt": "O computador demora muito a renderizar o vídeo.",
-          "example_sv": "Datorn tar lång tid på sig att rendera videon."
+          "example_pt": "É difícil engolir com a garganta inflamada.",
+          "example_sv": "Det är svårt att svälja med en inflammerad hals."
         },
         {
-          "pt": "antivírus",
-          "sv": "antivirusprogram",
+          "pt": "cansaço",
+          "sv": "trötthet/utmattning",
           "type": "substantiv",
-          "example_pt": "Instala um antivírus para proteger o teu computador.",
-          "example_sv": "Installera ett antivirusprogram för att skydda din dator."
-        },
-        {
-          "pt": "pixel",
-          "sv": "pixel",
-          "type": "substantiv",
-          "example_pt": "A imagem tem muitos pixels e é muito nítida.",
-          "example_sv": "Bilden har många pixlar och är mycket skarp."
-        },
-        {
-          "pt": "processador",
-          "sv": "processor",
-          "type": "substantiv",
-          "example_pt": "O processador deste telemóvel é muito rápido.",
-          "example_sv": "Processorn i den här mobiltelefonen är mycket snabb."
-        },
-        {
-          "pt": "autonomia",
-          "sv": "batteritid",
-          "type": "substantiv",
-          "example_pt": "A autonomia da bateria dura doze horas.",
-          "example_sv": "Batteritiden varar i tolv timmar."
-        },
-        {
-          "pt": "plataforma",
-          "sv": "plattform",
-          "type": "substantiv",
-          "example_pt": "Publicámos o conteúdo numa nova plataforma digital.",
-          "example_sv": "Vi publicerade innehållet på en ny digital plattform."
-        }
-      ]
-    },
-    {
-      "theme": "Familj och relationer",
-      "words": [
-        {
-          "pt": "bisneta",
-          "sv": "barnbarnsbarn (flicka)",
-          "type": "substantiv",
-          "example_pt": "A minha bisneta nasceu na semana passada.",
-          "example_sv": "Mitt barnbarnsbarn föddes förra veckan."
-        },
-        {
-          "pt": "cuidador",
-          "sv": "vårdgivare/omsorgsperson",
-          "type": "substantiv",
-          "example_pt": "O cuidador visita o idoso todos os dias.",
-          "example_sv": "Vårdgivaren besöker den äldre varje dag."
-        },
-        {
-          "pt": "acolher",
-          "sv": "ta emot/välkomna",
-          "type": "verb",
-          "example_pt": "Decidimos acolher uma criança em necessidade.",
-          "example_sv": "Vi bestämde oss för att ta emot ett barn i nöd."
-        },
-        {
-          "pt": "lareira familiar",
-          "sv": "familjens härd",
-          "type": "fras",
-          "example_pt": "A lareira familiar reúne todos no inverno.",
-          "example_sv": "Familjens härd samlar alla på vintern."
-        },
-        {
-          "pt": "vínculo",
-          "sv": "band/bindning",
-          "type": "substantiv",
-          "example_pt": "O vínculo entre mãe e filho é muito forte.",
-          "example_sv": "Bandet mellan mor och son är mycket starkt."
-        },
-        {
-          "pt": "órfão",
-          "sv": "föräldralös",
-          "type": "substantiv",
-          "example_pt": "O órfão foi adotado por uma família amorosa.",
-          "example_sv": "Den föräldralöse adopterades av en kärleksfull familj."
-        },
-        {
-          "pt": "meia-irmã",
-          "sv": "halvsyster",
-          "type": "substantiv",
-          "example_pt": "A minha meia-irmã vive em Lisboa.",
-          "example_sv": "Min halvsyster bor i Lissabon."
-        },
-        {
-          "pt": "reconciliação",
-          "sv": "försoning",
-          "type": "substantiv",
-          "example_pt": "A reconciliação entre os irmãos foi emocionante.",
-          "example_sv": "Försoningen mellan bröderna var rörande."
+          "example_pt": "O cansaço acumulado afeta o trabalho.",
+          "example_sv": "Den uppsamlade tröttheten påverkar arbetet."
         }
       ]
     }
