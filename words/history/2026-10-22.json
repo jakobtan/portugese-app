@@ -1,0 +1,188 @@
+{
+  "date": "2026-10-22",
+  "sets": [
+    {
+      "theme": "känslor och adjektiv",
+      "words": [
+        {
+          "pt": "melancólico",
+          "sv": "melankolisk",
+          "type": "adjektiv",
+          "example_pt": "Ele ficou melancólico depois de ver o filme.",
+          "example_sv": "Han blev melankolisk efter att ha sett filmen."
+        },
+        {
+          "pt": "furioso",
+          "sv": "rasande",
+          "type": "adjektiv",
+          "example_pt": "A criança ficou furiosa quando perdeu o brinquedo.",
+          "example_sv": "Barnet blev rasande när det tappade leksaken."
+        },
+        {
+          "pt": "encantado",
+          "sv": "förtjust",
+          "type": "adjektiv",
+          "example_pt": "Ela ficou encantada com a paisagem.",
+          "example_sv": "Hon var förtjust i landskapet."
+        },
+        {
+          "pt": "amoroso",
+          "sv": "kärleksfull",
+          "type": "adjektiv",
+          "example_pt": "O pai era muito amoroso com os filhos.",
+          "example_sv": "Pappan var mycket kärleksfull mot sina barn."
+        },
+        {
+          "pt": "perturbado",
+          "sv": "störd",
+          "type": "adjektiv",
+          "example_pt": "Ele estava perturbado com as notícias.",
+          "example_sv": "Han var störd av nyheterna."
+        },
+        {
+          "pt": "saudoso",
+          "sv": "nostalgisk",
+          "type": "adjektiv",
+          "example_pt": "Fico saudoso da minha cidade natal.",
+          "example_sv": "Jag känner nostalgi för min hemstad."
+        },
+        {
+          "pt": "surpreso",
+          "sv": "förvånad",
+          "type": "adjektiv",
+          "example_pt": "Ela ficou surpresa com o presente.",
+          "example_sv": "Hon blev förvånad över gåvan."
+        },
+        {
+          "pt": "magoado",
+          "sv": "sårad",
+          "type": "adjektiv",
+          "example_pt": "Ele ficou magoado com as palavras dela.",
+          "example_sv": "Han blev sårad av hennes ord."
+        }
+      ]
+    },
+    {
+      "theme": "teknik",
+      "words": [
+        {
+          "pt": "ecrã",
+          "sv": "skärm",
+          "type": "substantiv",
+          "example_pt": "O ecrã do meu telemóvel partiu-se.",
+          "example_sv": "Skärmen på min mobiltelefon gick sönder."
+        },
+        {
+          "pt": "aplicação",
+          "sv": "app",
+          "type": "substantiv",
+          "example_pt": "Descarreguei uma nova aplicação para o telemóvel.",
+          "example_sv": "Jag laddade ner en ny app till mobilen."
+        },
+        {
+          "pt": "impressora",
+          "sv": "skrivare",
+          "type": "substantiv",
+          "example_pt": "A impressora está sem papel.",
+          "example_sv": "Skrivaren har slut på papper."
+        },
+        {
+          "pt": "ligação",
+          "sv": "anslutning",
+          "type": "substantiv",
+          "example_pt": "A ligação à internet está lenta hoje.",
+          "example_sv": "Internetanslutningen är långsam idag."
+        },
+        {
+          "pt": "programar",
+          "sv": "programmera",
+          "type": "verb",
+          "example_pt": "Ela aprendeu a programar na universidade.",
+          "example_sv": "Hon lärde sig programmera på universitetet."
+        },
+        {
+          "pt": "dados",
+          "sv": "data",
+          "type": "substantiv",
+          "example_pt": "Precisamos de proteger os nossos dados pessoais.",
+          "example_sv": "Vi måste skydda våra personuppgifter."
+        },
+        {
+          "pt": "cibersegurança",
+          "sv": "cybersäkerhet",
+          "type": "substantiv",
+          "example_pt": "A cibersegurança é cada vez mais importante.",
+          "example_sv": "Cybersäkerhet blir allt viktigare."
+        },
+        {
+          "pt": "interface",
+          "sv": "gränssnitt",
+          "type": "substantiv",
+          "example_pt": "O novo interface é muito mais simples de usar.",
+          "example_sv": "Det nya gränssnittet är mycket enklare att använda."
+        }
+      ]
+    },
+    {
+      "theme": "hem och möbler",
+      "words": [
+        {
+          "pt": "gaveta",
+          "sv": "låda",
+          "type": "substantiv",
+          "example_pt": "As meias estão na gaveta da cómoda.",
+          "example_sv": "Strumporna ligger i byrålådan."
+        },
+        {
+          "pt": "cómoda",
+          "sv": "byrå",
+          "type": "substantiv",
+          "example_pt": "Comprei uma cómoda nova para o quarto.",
+          "example_sv": "Jag köpte en ny byrå till sovrummet."
+        },
+        {
+          "pt": "candeeiro",
+          "sv": "lampa",
+          "type": "substantiv",
+          "example_pt": "O candeeiro da sala está partido.",
+          "example_sv": "Lampan i vardagsrummet är trasig."
+        },
+        {
+          "pt": "tapete",
+          "sv": "matta",
+          "type": "substantiv",
+          "example_pt": "O tapete da sala é muito bonito.",
+          "example_sv": "Mattan i vardagsrummet är mycket vacker."
+        },
+        {
+          "pt": "prateleira",
+          "sv": "hylla",
+          "type": "substantiv",
+          "example_pt": "Os livros estão na prateleira do escritório.",
+          "example_sv": "Böckerna står på hyllan i arbetsrummet."
+        },
+        {
+          "pt": "varanda",
+          "sv": "balkong",
+          "type": "substantiv",
+          "example_pt": "Gosto de tomar café na varanda de manhã.",
+          "example_sv": "Jag gillar att dricka kaffe på balkongen på morgonen."
+        },
+        {
+          "pt": "cortina",
+          "sv": "gardin",
+          "type": "substantiv",
+          "example_pt": "As cortinas bloqueiam a luz do sol.",
+          "example_sv": "Gardinerna blockerar solljuset."
+        },
+        {
+          "pt": "almofada",
+          "sv": "kudde",
+          "type": "substantiv",
+          "example_pt": "O sofá tem muitas almofadas coloridas.",
+          "example_sv": "Soffan har många färgglada kuddar."
+        }
+      ]
+    }
+  ]
+}

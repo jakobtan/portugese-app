@@ -1,186 +1,186 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "sets": [
     {
-      "theme": "Kläder och mode",
+      "theme": "känslor och adjektiv",
       "words": [
         {
-          "pt": "cinto",
-          "sv": "bälte",
-          "type": "substantiv",
-          "example_pt": "Ele usa um cinto de couro castanho.",
-          "example_sv": "Han bär ett brunt läderbälte."
+          "pt": "melancólico",
+          "sv": "melankolisk",
+          "type": "adjektiv",
+          "example_pt": "Ele ficou melancólico depois de ver o filme.",
+          "example_sv": "Han blev melankolisk efter att ha sett filmen."
         },
         {
-          "pt": "chapéu",
-          "sv": "hatt",
-          "type": "substantiv",
-          "example_pt": "Ela comprou um chapéu novo para o verão.",
-          "example_sv": "Hon köpte en ny hatt till sommaren."
+          "pt": "furioso",
+          "sv": "rasande",
+          "type": "adjektiv",
+          "example_pt": "A criança ficou furiosa quando perdeu o brinquedo.",
+          "example_sv": "Barnet blev rasande när det tappade leksaken."
         },
         {
-          "pt": "casaco",
-          "sv": "jacka/kappa",
-          "type": "substantiv",
-          "example_pt": "O casaco está pendurado no cabide.",
-          "example_sv": "Jackan hänger på galgen."
+          "pt": "encantado",
+          "sv": "förtjust",
+          "type": "adjektiv",
+          "example_pt": "Ela ficou encantada com a paisagem.",
+          "example_sv": "Hon var förtjust i landskapet."
         },
         {
-          "pt": "saia",
-          "sv": "kjol",
-          "type": "substantiv",
-          "example_pt": "A saia azul combina com a blusa branca.",
-          "example_sv": "Den blå kjolen matchar den vita blusen."
+          "pt": "amoroso",
+          "sv": "kärleksfull",
+          "type": "adjektiv",
+          "example_pt": "O pai era muito amoroso com os filhos.",
+          "example_sv": "Pappan var mycket kärleksfull mot sina barn."
         },
         {
-          "pt": "meia",
-          "sv": "strumpa",
-          "type": "substantiv",
-          "example_pt": "Perdi uma meia na máquina de lavar.",
-          "example_sv": "Jag tappade en strumpa i tvättmaskinen."
+          "pt": "perturbado",
+          "sv": "störd",
+          "type": "adjektiv",
+          "example_pt": "Ele estava perturbado com as notícias.",
+          "example_sv": "Han var störd av nyheterna."
         },
         {
-          "pt": "calças",
-          "sv": "byxor",
-          "type": "substantiv",
-          "example_pt": "Estas calças são demasiado largas.",
-          "example_sv": "Dessa byxor är för vida."
+          "pt": "saudoso",
+          "sv": "nostalgisk",
+          "type": "adjektiv",
+          "example_pt": "Fico saudoso da minha cidade natal.",
+          "example_sv": "Jag känner nostalgi för min hemstad."
         },
         {
-          "pt": "botão",
-          "sv": "knapp",
-          "type": "substantiv",
-          "example_pt": "O botão da camisa caiu no chão.",
-          "example_sv": "Knappen på skjortan föll på golvet."
+          "pt": "surpreso",
+          "sv": "förvånad",
+          "type": "adjektiv",
+          "example_pt": "Ela ficou surpresa com o presente.",
+          "example_sv": "Hon blev förvånad över gåvan."
         },
         {
-          "pt": "colete",
-          "sv": "väst",
-          "type": "substantiv",
-          "example_pt": "Ele vestiu um colete por cima da camisa.",
-          "example_sv": "Han tog på sig en väst ovanpå skjortan."
+          "pt": "magoado",
+          "sv": "sårad",
+          "type": "adjektiv",
+          "example_pt": "Ele ficou magoado com as palavras dela.",
+          "example_sv": "Han blev sårad av hennes ord."
         }
       ]
     },
     {
-      "theme": "Tid och datum",
+      "theme": "teknik",
       "words": [
         {
-          "pt": "quinzena",
-          "sv": "fjortondagarsperiod/två veckor",
+          "pt": "ecrã",
+          "sv": "skärm",
           "type": "substantiv",
-          "example_pt": "Recebo o salário de quinzena em quinzena.",
-          "example_sv": "Jag får lön varannan vecka."
+          "example_pt": "O ecrã do meu telemóvel partiu-se.",
+          "example_sv": "Skärmen på min mobiltelefon gick sönder."
         },
         {
-          "pt": "trimestre",
-          "sv": "kvartal/termin",
+          "pt": "aplicação",
+          "sv": "app",
           "type": "substantiv",
-          "example_pt": "O primeiro trimestre do ano já terminou.",
-          "example_sv": "Årets första kvartal är redan slut."
+          "example_pt": "Descarreguei uma nova aplicação para o telemóvel.",
+          "example_sv": "Jag laddade ner en ny app till mobilen."
         },
         {
-          "pt": "entardecer",
-          "sv": "skymning/kväll",
+          "pt": "impressora",
+          "sv": "skrivare",
           "type": "substantiv",
-          "example_pt": "Gosto de passear ao entardecer.",
-          "example_sv": "Jag tycker om att promenera i skymningen."
+          "example_pt": "A impressora está sem papel.",
+          "example_sv": "Skrivaren har slut på papper."
         },
         {
-          "pt": "instante",
-          "sv": "ögonblick",
+          "pt": "ligação",
+          "sv": "anslutning",
           "type": "substantiv",
-          "example_pt": "Espera um instante, por favor.",
-          "example_sv": "Vänta ett ögonblick, tack."
+          "example_pt": "A ligação à internet está lenta hoje.",
+          "example_sv": "Internetanslutningen är långsam idag."
         },
         {
-          "pt": "bimestral",
-          "sv": "tvåmånaders-/varannan månad",
-          "type": "adjektiv",
-          "example_pt": "A reunião é bimestral.",
-          "example_sv": "Mötet hålls varannan månad."
-        },
-        {
-          "pt": "véspera",
-          "sv": "dagen före/afton",
-          "type": "substantiv",
-          "example_pt": "Na véspera do Natal ficámos em casa.",
-          "example_sv": "På julafton stannade vi hemma."
-        },
-        {
-          "pt": "alvorada",
-          "sv": "gryning",
-          "type": "substantiv",
-          "example_pt": "Os pássaros cantam à alvorada.",
-          "example_sv": "Fåglarna sjunger i gryningen."
-        },
-        {
-          "pt": "tardio",
-          "sv": "sen/försenad",
-          "type": "adjektiv",
-          "example_pt": "Chegou tardio ao jantar.",
-          "example_sv": "Han kom sent till middagen."
-        }
-      ]
-    },
-    {
-      "theme": "Kropp och hälsa",
-      "words": [
-        {
-          "pt": "calcanhar",
-          "sv": "häl",
-          "type": "substantiv",
-          "example_pt": "Tenho uma bolha no calcanhar direito.",
-          "example_sv": "Jag har en blåsa på höger häl."
-        },
-        {
-          "pt": "cotovelo",
-          "sv": "armbåge",
-          "type": "substantiv",
-          "example_pt": "Magoei o cotovelo a cair.",
-          "example_sv": "Jag skadade armbågen när jag föll."
-        },
-        {
-          "pt": "narina",
-          "sv": "näsborre",
-          "type": "substantiv",
-          "example_pt": "Uma das narinas está entupida.",
-          "example_sv": "En av näsborrarna är igentäppt."
-        },
-        {
-          "pt": "queixo",
-          "sv": "haka",
-          "type": "substantiv",
-          "example_pt": "Ele apoiou o queixo na mão.",
-          "example_sv": "Han stödde hakan i handen."
-        },
-        {
-          "pt": "febre",
-          "sv": "feber",
-          "type": "substantiv",
-          "example_pt": "A criança tem febre desde ontem.",
-          "example_sv": "Barnet har haft feber sedan igår."
-        },
-        {
-          "pt": "ligadura",
-          "sv": "bandage",
-          "type": "substantiv",
-          "example_pt": "O médico colocou uma ligadura no braço.",
-          "example_sv": "Läkaren lade ett bandage på armen."
-        },
-        {
-          "pt": "engolir",
-          "sv": "svälja",
+          "pt": "programar",
+          "sv": "programmera",
           "type": "verb",
-          "example_pt": "É difícil engolir com a garganta inflamada.",
-          "example_sv": "Det är svårt att svälja med en inflammerad hals."
+          "example_pt": "Ela aprendeu a programar na universidade.",
+          "example_sv": "Hon lärde sig programmera på universitetet."
         },
         {
-          "pt": "cansaço",
-          "sv": "trötthet/utmattning",
+          "pt": "dados",
+          "sv": "data",
           "type": "substantiv",
-          "example_pt": "O cansaço acumulado afeta o trabalho.",
-          "example_sv": "Den uppsamlade tröttheten påverkar arbetet."
+          "example_pt": "Precisamos de proteger os nossos dados pessoais.",
+          "example_sv": "Vi måste skydda våra personuppgifter."
+        },
+        {
+          "pt": "cibersegurança",
+          "sv": "cybersäkerhet",
+          "type": "substantiv",
+          "example_pt": "A cibersegurança é cada vez mais importante.",
+          "example_sv": "Cybersäkerhet blir allt viktigare."
+        },
+        {
+          "pt": "interface",
+          "sv": "gränssnitt",
+          "type": "substantiv",
+          "example_pt": "O novo interface é muito mais simples de usar.",
+          "example_sv": "Det nya gränssnittet är mycket enklare att använda."
+        }
+      ]
+    },
+    {
+      "theme": "hem och möbler",
+      "words": [
+        {
+          "pt": "gaveta",
+          "sv": "låda",
+          "type": "substantiv",
+          "example_pt": "As meias estão na gaveta da cómoda.",
+          "example_sv": "Strumporna ligger i byrålådan."
+        },
+        {
+          "pt": "cómoda",
+          "sv": "byrå",
+          "type": "substantiv",
+          "example_pt": "Comprei uma cómoda nova para o quarto.",
+          "example_sv": "Jag köpte en ny byrå till sovrummet."
+        },
+        {
+          "pt": "candeeiro",
+          "sv": "lampa",
+          "type": "substantiv",
+          "example_pt": "O candeeiro da sala está partido.",
+          "example_sv": "Lampan i vardagsrummet är trasig."
+        },
+        {
+          "pt": "tapete",
+          "sv": "matta",
+          "type": "substantiv",
+          "example_pt": "O tapete da sala é muito bonito.",
+          "example_sv": "Mattan i vardagsrummet är mycket vacker."
+        },
+        {
+          "pt": "prateleira",
+          "sv": "hylla",
+          "type": "substantiv",
+          "example_pt": "Os livros estão na prateleira do escritório.",
+          "example_sv": "Böckerna står på hyllan i arbetsrummet."
+        },
+        {
+          "pt": "varanda",
+          "sv": "balkong",
+          "type": "substantiv",
+          "example_pt": "Gosto de tomar café na varanda de manhã.",
+          "example_sv": "Jag gillar att dricka kaffe på balkongen på morgonen."
+        },
+        {
+          "pt": "cortina",
+          "sv": "gardin",
+          "type": "substantiv",
+          "example_pt": "As cortinas bloqueiam a luz do sol.",
+          "example_sv": "Gardinerna blockerar solljuset."
+        },
+        {
+          "pt": "almofada",
+          "sv": "kudde",
+          "type": "substantiv",
+          "example_pt": "O sofá tem muitas almofadas coloridas.",
+          "example_sv": "Soffan har många färgglada kuddar."
         }
       ]
     }
