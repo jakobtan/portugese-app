@@ -1,0 +1,188 @@
+{
+  "date": "2026-10-24",
+  "sets": [
+    {
+      "theme": "mat och dryck",
+      "words": [
+        {
+          "pt": "cogumelo",
+          "sv": "svamp",
+          "type": "substantiv",
+          "example_pt": "Eu adoro cogumelos na pizza.",
+          "example_sv": "Jag älskar svamp på pizzan."
+        },
+        {
+          "pt": "camarela",
+          "sv": "räka (liten)",
+          "type": "substantiv",
+          "example_pt": "A camarela é pequena mas saborosa.",
+          "example_sv": "Den lilla räkan är liten men smakfull."
+        },
+        {
+          "pt": "vinagre",
+          "sv": "vinäger",
+          "type": "substantiv",
+          "example_pt": "Ela pôs vinagre na salada.",
+          "example_sv": "Hon hällde vinäger på salladen."
+        },
+        {
+          "pt": "canela",
+          "sv": "kanel",
+          "type": "substantiv",
+          "example_pt": "O cheiro a canela é delicioso.",
+          "example_sv": "Doften av kanel är ljuvlig."
+        },
+        {
+          "pt": "gambas",
+          "sv": "räkor (stora)",
+          "type": "substantiv",
+          "example_pt": "As gambas grelhadas são fantásticas.",
+          "example_sv": "De grillade räkorna är fantastiska."
+        },
+        {
+          "pt": "mel",
+          "sv": "honung",
+          "type": "substantiv",
+          "example_pt": "Eu coloco mel no iogurte de manhã.",
+          "example_sv": "Jag lägger honung i yoghurten på morgonen."
+        },
+        {
+          "pt": "cevada",
+          "sv": "korn (sädesslag)",
+          "type": "substantiv",
+          "example_pt": "A sopa de cevada aquece no inverno.",
+          "example_sv": "Kornsoppan värmer på vintern."
+        },
+        {
+          "pt": "manjericão",
+          "sv": "basilika",
+          "type": "substantiv",
+          "example_pt": "O manjericão fresco combina bem com tomate.",
+          "example_sv": "Färsk basilika passar bra med tomat."
+        }
+      ]
+    },
+    {
+      "theme": "resor och transport",
+      "words": [
+        {
+          "pt": "ferry",
+          "sv": "färja",
+          "type": "substantiv",
+          "example_pt": "Apanhamos o ferry para a ilha.",
+          "example_sv": "Vi tog färjan till ön."
+        },
+        {
+          "pt": "cais",
+          "sv": "kaj",
+          "type": "substantiv",
+          "example_pt": "O navio atracou no cais às oito horas.",
+          "example_sv": "Fartyget lade till vid kajen klockan åtta."
+        },
+        {
+          "pt": "aluguer",
+          "sv": "hyra",
+          "type": "substantiv",
+          "example_pt": "O aluguer do carro custou pouco.",
+          "example_sv": "Bilhyran kostade lite."
+        },
+        {
+          "pt": "cruzeiro",
+          "sv": "kryssning",
+          "type": "substantiv",
+          "example_pt": "Fizemos um cruzeiro pelo Mediterrâneo.",
+          "example_sv": "Vi gjorde en kryssning i Medelhavet."
+        },
+        {
+          "pt": "alfândega",
+          "sv": "tull",
+          "type": "substantiv",
+          "example_pt": "Passámos pela alfândega sem problemas.",
+          "example_sv": "Vi passerade tullen utan problem."
+        },
+        {
+          "pt": "comboio",
+          "sv": "tåg",
+          "type": "substantiv",
+          "example_pt": "O comboio chegou atrasado à estação.",
+          "example_sv": "Tåget anlände försenat till stationen."
+        },
+        {
+          "pt": "transbordo",
+          "sv": "byte (transport)",
+          "type": "substantiv",
+          "example_pt": "Há um transbordo em Lisboa.",
+          "example_sv": "Det är ett byte i Lissabon."
+        },
+        {
+          "pt": "embarcar",
+          "sv": "gå ombord",
+          "type": "verb",
+          "example_pt": "Os passageiros vão embarcar em breve.",
+          "example_sv": "Passagerarna kommer att gå ombord snart."
+        }
+      ]
+    },
+    {
+      "theme": "natur och väder",
+      "words": [
+        {
+          "pt": "savana",
+          "sv": "savann",
+          "type": "substantiv",
+          "example_pt": "A savana africana é enorme.",
+          "example_sv": "Den afrikanska savannen är enorm."
+        },
+        {
+          "pt": "chuva torrencial",
+          "sv": "störtregn",
+          "type": "fras",
+          "example_pt": "Caiu uma chuva torrencial ontem à tarde.",
+          "example_sv": "Det föll ett störtregn igår eftermiddag."
+        },
+        {
+          "pt": "pântano",
+          "sv": "träsk",
+          "type": "substantiv",
+          "example_pt": "O pântano está cheio de animais selvagens.",
+          "example_sv": "Träsket är fullt av vilda djur."
+        },
+        {
+          "pt": "arco-íris",
+          "sv": "regnbåge",
+          "type": "substantiv",
+          "example_pt": "Vi um arco-íris lindo depois da chuva.",
+          "example_sv": "Jag såg en vacker regnbåge efter regnet."
+        },
+        {
+          "pt": "duna",
+          "sv": "dyn",
+          "type": "substantiv",
+          "example_pt": "As dunas de areia são impressionantes.",
+          "example_sv": "Sanddynerna är imponerande."
+        },
+        {
+          "pt": "avalanche",
+          "sv": "lavin",
+          "type": "substantiv",
+          "example_pt": "Uma avalanche bloqueou a estrada de montanha.",
+          "example_sv": "En lavin blockerade bergsvägen."
+        },
+        {
+          "pt": "seca",
+          "sv": "torka",
+          "type": "substantiv",
+          "example_pt": "A seca afetou toda a região este verão.",
+          "example_sv": "Torkan drabbade hela regionen den här sommaren."
+        },
+        {
+          "pt": "orvalho",
+          "sv": "dagg",
+          "type": "substantiv",
+          "example_pt": "O orvalho da manhã brilhava na erva.",
+          "example_sv": "Morgondaggen glittrade på gräset."
+        }
+      ]
+    }
+  ]
+}
