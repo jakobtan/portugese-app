@@ -1,0 +1,188 @@
+{
+  "date": "2026-10-26",
+  "sets": [
+    {
+      "theme": "familj och relationer",
+      "words": [
+        {
+          "pt": "cunhado",
+          "sv": "svåger",
+          "type": "substantiv",
+          "example_pt": "O meu cunhado trabalha em Lisboa.",
+          "example_sv": "Min svåger arbetar i Lissabon."
+        },
+        {
+          "pt": "nora",
+          "sv": "svärdotter",
+          "type": "substantiv",
+          "example_pt": "A nora chegou ontem à noite.",
+          "example_sv": "Svärdottern anlände igår kväll."
+        },
+        {
+          "pt": "sogro",
+          "sv": "svärfar",
+          "type": "substantiv",
+          "example_pt": "O sogro dela é muito simpático.",
+          "example_sv": "Hennes svärfar är mycket trevlig."
+        },
+        {
+          "pt": "viúva",
+          "sv": "änka",
+          "type": "substantiv",
+          "example_pt": "A viúva vive sozinha há anos.",
+          "example_sv": "Änkan har bott ensam i flera år."
+        },
+        {
+          "pt": "genro",
+          "sv": "måg",
+          "type": "substantiv",
+          "example_pt": "O genro ajuda sempre nas festas.",
+          "example_sv": "Mågen hjälper alltid vid festerna."
+        },
+        {
+          "pt": "adotar",
+          "sv": "adoptera",
+          "type": "verb",
+          "example_pt": "Eles decidiram adotar uma criança.",
+          "example_sv": "De bestämde sig för att adoptera ett barn."
+        },
+        {
+          "pt": "herdar",
+          "sv": "ärva",
+          "type": "verb",
+          "example_pt": "Ela vai herdar a casa dos avós.",
+          "example_sv": "Hon kommer att ärva morföräldrarnas hus."
+        },
+        {
+          "pt": "cunhada",
+          "sv": "svägerska",
+          "type": "substantiv",
+          "example_pt": "A minha cunhada mora no Porto.",
+          "example_sv": "Min svägerska bor i Porto."
+        }
+      ]
+    },
+    {
+      "theme": "kropp och hälsa",
+      "words": [
+        {
+          "pt": "tornozelo",
+          "sv": "fotled",
+          "type": "substantiv",
+          "example_pt": "Torci o tornozelo a jogar futebol.",
+          "example_sv": "Jag stukade fotleden när jag spelade fotboll."
+        },
+        {
+          "pt": "sobrancelha",
+          "sv": "ögonbryn",
+          "type": "substantiv",
+          "example_pt": "Ela tem sobrancelhas escuras.",
+          "example_sv": "Hon har mörka ögonbryn."
+        },
+        {
+          "pt": "pulso",
+          "sv": "handled",
+          "type": "substantiv",
+          "example_pt": "O médico mediu o pulso do paciente.",
+          "example_sv": "Läkaren mätte patientens puls vid handleden."
+        },
+        {
+          "pt": "alergia",
+          "sv": "allergi",
+          "type": "substantiv",
+          "example_pt": "Tenho alergia ao pólen na primavera.",
+          "example_sv": "Jag har allergi mot pollen på våren."
+        },
+        {
+          "pt": "receita",
+          "sv": "recept",
+          "type": "substantiv",
+          "example_pt": "O médico passou uma receita para os antibióticos.",
+          "example_sv": "Läkaren skrev ut ett recept för antibiotika."
+        },
+        {
+          "pt": "tontura",
+          "sv": "yrsel",
+          "type": "substantiv",
+          "example_pt": "Sinto tontura quando me levanto depressa.",
+          "example_sv": "Jag känner yrsel när jag reser mig snabbt."
+        },
+        {
+          "pt": "sangrar",
+          "sv": "blöda",
+          "type": "verb",
+          "example_pt": "O corte começou a sangrar muito.",
+          "example_sv": "Snittet började blöda mycket."
+        },
+        {
+          "pt": "repouso",
+          "sv": "vila",
+          "type": "substantiv",
+          "example_pt": "O médico recomendou repouso absoluto.",
+          "example_sv": "Läkaren rekommenderade fullständig vila."
+        }
+      ]
+    },
+    {
+      "theme": "tid och datum",
+      "words": [
+        {
+          "pt": "amanhecer",
+          "sv": "gryning",
+          "type": "substantiv",
+          "example_pt": "Acordei ao amanhecer para ver o sol nascer.",
+          "example_sv": "Jag vaknade i gryningen för att se soluppgången."
+        },
+        {
+          "pt": "prazo",
+          "sv": "tidsfrist",
+          "type": "substantiv",
+          "example_pt": "O prazo para entregar o trabalho é amanhã.",
+          "example_sv": "Tidsfristen för att lämna in arbetet är imorgon."
+        },
+        {
+          "pt": "duradouro",
+          "sv": "långvarig",
+          "type": "adjektiv",
+          "example_pt": "A amizade deles foi duradoura e forte.",
+          "example_sv": "Deras vänskap var långvarig och stark."
+        },
+        {
+          "pt": "décadas",
+          "sv": "decennier",
+          "type": "substantiv",
+          "example_pt": "Viveu em Portugal durante décadas.",
+          "example_sv": "Han bodde i Portugal i decennier."
+        },
+        {
+          "pt": "pontual",
+          "sv": "punktlig",
+          "type": "adjektiv",
+          "example_pt": "Ela é sempre muito pontual nas reuniões.",
+          "example_sv": "Hon är alltid mycket punktlig på möten."
+        },
+        {
+          "pt": "posteriormente",
+          "sv": "efteråt",
+          "type": "fras",
+          "example_pt": "Assinámos o contrato e posteriormente jantámos.",
+          "example_sv": "Vi undertecknade kontraktet och åt sedan middag."
+        },
+        {
+          "pt": "anoitecer",
+          "sv": "skymning",
+          "type": "substantiv",
+          "example_pt": "Ficámos a conversar até ao anoitecer.",
+          "example_sv": "Vi satt och pratade fram till skymningen."
+        },
+        {
+          "pt": "contemporâneo",
+          "sv": "samtida",
+          "type": "adjektiv",
+          "example_pt": "Este é um problema contemporâneo muito sério.",
+          "example_sv": "Detta är ett mycket allvarligt samtida problem."
+        }
+      ]
+    }
+  ]
+}
