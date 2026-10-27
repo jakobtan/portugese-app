@@ -1,0 +1,188 @@
+{
+  "date": "2026-10-27",
+  "sets": [
+    {
+      "theme": "stad och platser",
+      "words": [
+        {
+          "pt": "tribunal",
+          "sv": "domstol",
+          "type": "substantiv",
+          "example_pt": "O tribunal fica no centro da cidade.",
+          "example_sv": "Domstolen ligger i stadens centrum."
+        },
+        {
+          "pt": "armazém",
+          "sv": "lager/varuhus",
+          "type": "substantiv",
+          "example_pt": "O armazém está cheio de produtos.",
+          "example_sv": "Lagret är fullt med produkter."
+        },
+        {
+          "pt": "bairro",
+          "sv": "stadsdel/kvarter",
+          "type": "substantiv",
+          "example_pt": "Ela mora num bairro tranquilo.",
+          "example_sv": "Hon bor i ett lugnt kvarter."
+        },
+        {
+          "pt": "esquina",
+          "sv": "gathörn",
+          "type": "substantiv",
+          "example_pt": "Encontramo-nos na esquina da rua.",
+          "example_sv": "Vi träffas på gathörnet."
+        },
+        {
+          "pt": "ponte",
+          "sv": "bro",
+          "type": "substantiv",
+          "example_pt": "A ponte atravessa o rio largo.",
+          "example_sv": "Bron sträcker sig över den breda floden."
+        },
+        {
+          "pt": "cemitério",
+          "sv": "kyrkogård",
+          "type": "substantiv",
+          "example_pt": "O cemitério é muito antigo.",
+          "example_sv": "Kyrkogården är mycket gammal."
+        },
+        {
+          "pt": "praça",
+          "sv": "torg",
+          "type": "substantiv",
+          "example_pt": "As crianças brincam na praça.",
+          "example_sv": "Barnen leker på torget."
+        },
+        {
+          "pt": "embaixada",
+          "sv": "ambassad",
+          "type": "substantiv",
+          "example_pt": "Fui à embaixada renovar o passaporte.",
+          "example_sv": "Jag gick till ambassaden för att förnya passet."
+        }
+      ]
+    },
+    {
+      "theme": "kläder och mode",
+      "words": [
+        {
+          "pt": "manga",
+          "sv": "ärm",
+          "type": "substantiv",
+          "example_pt": "A camisa tem manga comprida.",
+          "example_sv": "Skjortan har långa ärmar."
+        },
+        {
+          "pt": "decote",
+          "sv": "urringning",
+          "type": "substantiv",
+          "example_pt": "O vestido tem um decote elegante.",
+          "example_sv": "Klänningen har en elegant urringning."
+        },
+        {
+          "pt": "costura",
+          "sv": "söm/sömnad",
+          "type": "substantiv",
+          "example_pt": "A costura desta calça é muito resistente.",
+          "example_sv": "Sömmen på dessa byxor är mycket hållbar."
+        },
+        {
+          "pt": "xadrez",
+          "sv": "rutig (mönster)",
+          "type": "adjektiv",
+          "example_pt": "Ele usa uma camisa às xadrez.",
+          "example_sv": "Han bär en rutig skjorta."
+        },
+        {
+          "pt": "riscas",
+          "sv": "randig",
+          "type": "substantiv",
+          "example_pt": "Gosto de camisolas às riscas.",
+          "example_sv": "Jag gillar randiga tröjor."
+        },
+        {
+          "pt": "sola",
+          "sv": "sula",
+          "type": "substantiv",
+          "example_pt": "A sola do sapato está gasta.",
+          "example_sv": "Skosulans är nednött."
+        },
+        {
+          "pt": "algodão",
+          "sv": "bomull",
+          "type": "substantiv",
+          "example_pt": "Esta camiseta é feita de algodão.",
+          "example_sv": "Den här t-shirten är gjord av bomull."
+        },
+        {
+          "pt": "estampado",
+          "sv": "mönstrad/tryckt",
+          "type": "adjektiv",
+          "example_pt": "Ela escolheu um vestido estampado com flores.",
+          "example_sv": "Hon valde en mönstrad klänning med blommor."
+        }
+      ]
+    },
+    {
+      "theme": "mat och dryck",
+      "words": [
+        {
+          "pt": "alheira",
+          "sv": "portugisisk rökt korv",
+          "type": "substantiv",
+          "example_pt": "A alheira é uma iguaria portuguesa.",
+          "example_sv": "Alheira är en portugisisk delikatess."
+        },
+        {
+          "pt": "bacalhau",
+          "sv": "torskfisk/saltad torsk",
+          "type": "substantiv",
+          "example_pt": "O bacalhau é o prato nacional de Portugal.",
+          "example_sv": "Saltad torsk är Portugals nationalrätt."
+        },
+        {
+          "pt": "grão",
+          "sv": "kikärtor",
+          "type": "substantiv",
+          "example_pt": "O grão é muito nutritivo.",
+          "example_sv": "Kikärtor är mycket näringsrika."
+        },
+        {
+          "pt": "laranja",
+          "sv": "apelsin",
+          "type": "substantiv",
+          "example_pt": "Bebo sumo de laranja todos os dias.",
+          "example_sv": "Jag dricker apelsinjuice varje dag."
+        },
+        {
+          "pt": "ferver",
+          "sv": "koka/sjuda",
+          "type": "verb",
+          "example_pt": "Deixa ferver a água antes de adicionar a massa.",
+          "example_sv": "Låt vattnet koka innan du tillsätter pastan."
+        },
+        {
+          "pt": "tempero",
+          "sv": "kryddning/smaksättning",
+          "type": "substantiv",
+          "example_pt": "O tempero desta sopa é perfeito.",
+          "example_sv": "Kryddningen i denna soppa är perfekt."
+        },
+        {
+          "pt": "assado",
+          "sv": "ugnsrostad/grillad",
+          "type": "adjektiv",
+          "example_pt": "Prefiro o frango assado ao frito.",
+          "example_sv": "Jag föredrar ugnsstekt kyckling framför friterad."
+        },
+        {
+          "pt": "talheres",
+          "sv": "bestick",
+          "type": "substantiv",
+          "example_pt": "Podes pôr os talheres na mesa?",
+          "example_sv": "Kan du lägga besticken på bordet?"
+        }
+      ]
+    }
+  ]
+}
