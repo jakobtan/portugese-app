@@ -1,0 +1,188 @@
+{
+  "date": "2026-10-28",
+  "sets": [
+    {
+      "theme": "mat och dryck",
+      "words": [
+        {
+          "pt": "alface",
+          "sv": "sallad",
+          "type": "substantiv",
+          "example_pt": "Quero uma salada com alface fresca.",
+          "example_sv": "Jag vill ha en sallad med färsk sallad."
+        },
+        {
+          "pt": "amêndoa",
+          "sv": "mandel",
+          "type": "substantiv",
+          "example_pt": "Ela come amêndoas ao pequeno-almoço.",
+          "example_sv": "Hon äter mandlar till frukost."
+        },
+        {
+          "pt": "caril",
+          "sv": "curry",
+          "type": "substantiv",
+          "example_pt": "O caril de frango é muito saboroso.",
+          "example_sv": "Kycklingcurryn är mycket smakrik."
+        },
+        {
+          "pt": "figo",
+          "sv": "fikon",
+          "type": "substantiv",
+          "example_pt": "Os figos estão maduros no jardim.",
+          "example_sv": "Fikonen är mogna i trädgården."
+        },
+        {
+          "pt": "cerveja",
+          "sv": "öl",
+          "type": "substantiv",
+          "example_pt": "Ele pediu uma cerveja gelada no bar.",
+          "example_sv": "Han beställde en iskall öl på baren."
+        },
+        {
+          "pt": "espinafre",
+          "sv": "spenat",
+          "type": "substantiv",
+          "example_pt": "O espinafre é rico em ferro.",
+          "example_sv": "Spenat är rik på järn."
+        },
+        {
+          "pt": "marmelada",
+          "sv": "marmelad",
+          "type": "substantiv",
+          "example_pt": "Ela põe marmelada na torrada de manhã.",
+          "example_sv": "Hon lägger marmelad på rosten på morgonen."
+        },
+        {
+          "pt": "couve",
+          "sv": "kål",
+          "type": "substantiv",
+          "example_pt": "A sopa de couve é um prato tradicional.",
+          "example_sv": "Kålsoppa är en traditionell rätt."
+        }
+      ]
+    },
+    {
+      "theme": "kropp och hälsa",
+      "words": [
+        {
+          "pt": "testa",
+          "sv": "panna",
+          "type": "substantiv",
+          "example_pt": "Ele tem suor na testa depois de correr.",
+          "example_sv": "Han har svett på pannan efter att ha sprungit."
+        },
+        {
+          "pt": "rim",
+          "sv": "njure",
+          "type": "substantiv",
+          "example_pt": "O médico verificou os rins do paciente.",
+          "example_sv": "Läkaren kontrollerade patientens njurar."
+        },
+        {
+          "pt": "vacina",
+          "sv": "vaccin",
+          "type": "substantiv",
+          "example_pt": "A criança recebeu a vacina hoje.",
+          "example_sv": "Barnet fick vaccinet idag."
+        },
+        {
+          "pt": "fisioterapia",
+          "sv": "fysioterapi",
+          "type": "substantiv",
+          "example_pt": "Ela faz fisioterapia duas vezes por semana.",
+          "example_sv": "Hon gör fysioterapi två gånger i veckan."
+        },
+        {
+          "pt": "pulmão",
+          "sv": "lunga",
+          "type": "substantiv",
+          "example_pt": "Fumar é muito mau para os pulmões.",
+          "example_sv": "Rökning är mycket dåligt för lungorna."
+        },
+        {
+          "pt": "bochechas",
+          "sv": "kinder",
+          "type": "substantiv",
+          "example_pt": "As bochechas da criança ficaram vermelhas.",
+          "example_sv": "Barnets kinder blev röda."
+        },
+        {
+          "pt": "pressão arterial",
+          "sv": "blodtryck",
+          "type": "substantiv",
+          "example_pt": "O médico mediu a minha pressão arterial.",
+          "example_sv": "Läkaren mätte mitt blodtryck."
+        },
+        {
+          "pt": "estirão",
+          "sv": "sträckning",
+          "type": "substantiv",
+          "example_pt": "Ele sofreu um estirão muscular durante o jogo.",
+          "example_sv": "Han fick en muskelsträckning under matchen."
+        }
+      ]
+    },
+    {
+      "theme": "arbete och karriär",
+      "words": [
+        {
+          "pt": "candidato",
+          "sv": "kandidat",
+          "type": "substantiv",
+          "example_pt": "O candidato apresentou-se muito bem.",
+          "example_sv": "Kandidaten presenterade sig mycket väl."
+        },
+        {
+          "pt": "prazo de entrega",
+          "sv": "deadline",
+          "type": "substantiv",
+          "example_pt": "Temos de cumprir o prazo de entrega amanhã.",
+          "example_sv": "Vi måste hålla deadlinen imorgon."
+        },
+        {
+          "pt": "formação",
+          "sv": "utbildning",
+          "type": "substantiv",
+          "example_pt": "A empresa oferece formação contínua aos funcionários.",
+          "example_sv": "Företaget erbjuder kontinuerlig utbildning till de anställda."
+        },
+        {
+          "pt": "freelancer",
+          "sv": "frilansar",
+          "type": "substantiv",
+          "example_pt": "Ela trabalha como freelancer em design gráfico.",
+          "example_sv": "Hon arbetar som frilansar inom grafisk design."
+        },
+        {
+          "pt": "negociar",
+          "sv": "förhandla",
+          "type": "verb",
+          "example_pt": "Ele conseguiu negociar um salário melhor.",
+          "example_sv": "Han lyckades förhandla fram en bättre lön."
+        },
+        {
+          "pt": "licença de maternidade",
+          "sv": "föräldraledighet",
+          "type": "substantiv",
+          "example_pt": "Ela está de licença de maternidade há dois meses.",
+          "example_sv": "Hon har varit föräldraledig i två månader."
+        },
+        {
+          "pt": "setor",
+          "sv": "sektor",
+          "type": "substantiv",
+          "example_pt": "Ela trabalha no setor público há dez anos.",
+          "example_sv": "Hon har arbetat i den offentliga sektorn i tio år."
+        },
+        {
+          "pt": "empreendedor",
+          "sv": "entreprenör",
+          "type": "substantiv",
+          "example_pt": "Ele é um empreendedor de sucesso na área tecnológica.",
+          "example_sv": "Han är en framgångsrik entreprenör inom teknikområdet."
+        }
+      ]
+    }
+  ]
+}
