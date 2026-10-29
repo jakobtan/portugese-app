@@ -1,0 +1,188 @@
+{
+  "date": "2026-10-29",
+  "sets": [
+    {
+      "theme": "mat och dryck",
+      "words": [
+        {
+          "pt": "abacaxi",
+          "sv": "ananas",
+          "type": "substantiv",
+          "example_pt": "O abacaxi é uma fruta tropical muito doce.",
+          "example_sv": "Ananansen är en mycket söt tropisk frukt."
+        },
+        {
+          "pt": "cogumelos",
+          "sv": "svamp",
+          "type": "substantiv",
+          "example_pt": "Gosto de cogumelos na pizza.",
+          "example_sv": "Jag gillar svamp på pizzan."
+        },
+        {
+          "pt": "manteiga",
+          "sv": "smör",
+          "type": "substantiv",
+          "example_pt": "Ela passou manteiga no pão.",
+          "example_sv": "Hon bredde smör på brödet."
+        },
+        {
+          "pt": "alho",
+          "sv": "vitlök",
+          "type": "substantiv",
+          "example_pt": "O alho dá muito sabor à comida.",
+          "example_sv": "Vitlök ger maten mycket smak."
+        },
+        {
+          "pt": "camarão",
+          "sv": "räka",
+          "type": "substantiv",
+          "example_pt": "Encomendei camarão grelhado no restaurante.",
+          "example_sv": "Jag beställde grillad räka på restaurangen."
+        },
+        {
+          "pt": "farinha",
+          "sv": "mjöl",
+          "type": "substantiv",
+          "example_pt": "Precisamos de farinha para fazer o bolo.",
+          "example_sv": "Vi behöver mjöl för att baka kakan."
+        },
+        {
+          "pt": "pepino",
+          "sv": "gurka",
+          "type": "substantiv",
+          "example_pt": "O pepino é refrescante no verão.",
+          "example_sv": "Gurkan är uppfriskande på sommaren."
+        },
+        {
+          "pt": "limão",
+          "sv": "citron",
+          "type": "substantiv",
+          "example_pt": "Espremi um limão para fazer limonada.",
+          "example_sv": "Jag pressade en citron för att göra lemonad."
+        }
+      ]
+    },
+    {
+      "theme": "vardagliga fraser",
+      "words": [
+        {
+          "pt": "com licença",
+          "sv": "ursäkta mig",
+          "type": "fras",
+          "example_pt": "Com licença, pode me ajudar?",
+          "example_sv": "Ursäkta mig, kan du hjälpa mig?"
+        },
+        {
+          "pt": "de nada",
+          "sv": "ingen orsak",
+          "type": "fras",
+          "example_pt": "Obrigado! De nada, foi um prazer.",
+          "example_sv": "Tack! Ingen orsak, det var ett nöje."
+        },
+        {
+          "pt": "até logo",
+          "sv": "vi ses snart",
+          "type": "fras",
+          "example_pt": "Vou sair agora. Até logo!",
+          "example_sv": "Jag går nu. Vi ses snart!"
+        },
+        {
+          "pt": "faz favor",
+          "sv": "snälla",
+          "type": "fras",
+          "example_pt": "Pode fechar a janela, faz favor?",
+          "example_sv": "Kan du stänga fönstret, snälla?"
+        },
+        {
+          "pt": "com certeza",
+          "sv": "absolut",
+          "type": "fras",
+          "example_pt": "Podes contar comigo? Com certeza!",
+          "example_sv": "Kan du räkna med mig? Absolut!"
+        },
+        {
+          "pt": "que pena",
+          "sv": "vilket synd",
+          "type": "fras",
+          "example_pt": "Não posso ir à festa. Que pena!",
+          "example_sv": "Jag kan inte gå på festen. Vilket synd!"
+        },
+        {
+          "pt": "boa sorte",
+          "sv": "lycka till",
+          "type": "fras",
+          "example_pt": "Tens exame amanhã? Boa sorte!",
+          "example_sv": "Har du prov imorgon? Lycka till!"
+        },
+        {
+          "pt": "estou bem",
+          "sv": "jag mår bra",
+          "type": "fras",
+          "example_pt": "Como estás? Estou bem, obrigado.",
+          "example_sv": "Hur mår du? Jag mår bra, tack."
+        }
+      ]
+    },
+    {
+      "theme": "stad och platser",
+      "words": [
+        {
+          "pt": "livraria",
+          "sv": "bokhandel",
+          "type": "substantiv",
+          "example_pt": "Comprei um livro novo na livraria.",
+          "example_sv": "Jag köpte en ny bok i bokhandeln."
+        },
+        {
+          "pt": "museu",
+          "sv": "museum",
+          "type": "substantiv",
+          "example_pt": "O museu está fechado às segundas-feiras.",
+          "example_sv": "Museet är stängt på måndagar."
+        },
+        {
+          "pt": "mercado",
+          "sv": "marknad",
+          "type": "substantiv",
+          "example_pt": "Vou ao mercado comprar legumes frescos.",
+          "example_sv": "Jag går till marknaden för att köpa färska grönsaker."
+        },
+        {
+          "pt": "tribunal",
+          "sv": "domstol",
+          "type": "substantiv",
+          "example_pt": "O julgamento ocorreu no tribunal central.",
+          "example_sv": "Rättegången ägde rum i centraldomstolen."
+        },
+        {
+          "pt": "aeroporto",
+          "sv": "flygplats",
+          "type": "substantiv",
+          "example_pt": "O avião aterrou no aeroporto às três da manhã.",
+          "example_sv": "Flygplanet landade på flygplatsen klockan tre på morgonen."
+        },
+        {
+          "pt": "jardim",
+          "sv": "trädgård",
+          "type": "substantiv",
+          "example_pt": "As crianças brincam no jardim público.",
+          "example_sv": "Barnen leker i den offentliga trädgården."
+        },
+        {
+          "pt": "estação",
+          "sv": "station",
+          "type": "substantiv",
+          "example_pt": "Encontrámo-nos na estação de metro.",
+          "example_sv": "Vi träffades vid tunnelbanestationen."
+        },
+        {
+          "pt": "porto",
+          "sv": "hamn",
+          "type": "substantiv",
+          "example_pt": "Os barcos de pesca chegam ao porto de manhã cedo.",
+          "example_sv": "Fiskebåtarna anländer till hamnen tidigt på morgonen."
+        }
+      ]
+    }
+  ]
+}
