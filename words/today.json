@@ -1,186 +1,186 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "sets": [
     {
-      "theme": "mat och dryck",
+      "theme": "Tid och datum",
       "words": [
         {
-          "pt": "abacaxi",
-          "sv": "ananas",
+          "pt": "madrugada",
+          "sv": "gryning, tidiga morgontimmar",
           "type": "substantiv",
-          "example_pt": "O abacaxi é uma fruta tropical muito doce.",
-          "example_sv": "Ananansen är en mycket söt tropisk frukt."
+          "example_pt": "Ele chegou a casa na madrugada.",
+          "example_sv": "Han kom hem i gryningen."
         },
         {
-          "pt": "cogumelos",
-          "sv": "svamp",
-          "type": "substantiv",
-          "example_pt": "Gosto de cogumelos na pizza.",
-          "example_sv": "Jag gillar svamp på pizzan."
+          "pt": "semanalmente",
+          "sv": "varje vecka, veckоvis",
+          "type": "adverb",
+          "example_pt": "Ela vai ao ginásio semanalmente.",
+          "example_sv": "Hon går till gymmet varje vecka."
         },
         {
-          "pt": "manteiga",
-          "sv": "smör",
-          "type": "substantiv",
-          "example_pt": "Ela passou manteiga no pão.",
-          "example_sv": "Hon bredde smör på brödet."
+          "pt": "mensal",
+          "sv": "månatlig",
+          "type": "adjektiv",
+          "example_pt": "O pagamento mensal chega no dia um.",
+          "example_sv": "Den månatliga betalningen kommer den första."
         },
         {
-          "pt": "alho",
-          "sv": "vitlök",
+          "pt": "calendário",
+          "sv": "kalender",
           "type": "substantiv",
-          "example_pt": "O alho dá muito sabor à comida.",
-          "example_sv": "Vitlök ger maten mycket smak."
+          "example_pt": "Vou marcar a reunião no calendário.",
+          "example_sv": "Jag ska markera mötet i kalendern."
         },
         {
-          "pt": "camarão",
-          "sv": "räka",
+          "pt": "horário",
+          "sv": "schema, tidtabell",
           "type": "substantiv",
-          "example_pt": "Encomendei camarão grelhado no restaurante.",
-          "example_sv": "Jag beställde grillad räka på restaurangen."
+          "example_pt": "O horário do comboio mudou esta semana.",
+          "example_sv": "Tågets tidtabell ändrades den här veckan."
         },
         {
-          "pt": "farinha",
-          "sv": "mjöl",
+          "pt": "duração",
+          "sv": "varaktighet, längd",
           "type": "substantiv",
-          "example_pt": "Precisamos de farinha para fazer o bolo.",
-          "example_sv": "Vi behöver mjöl för att baka kakan."
+          "example_pt": "A duração do filme é de duas horas.",
+          "example_sv": "Filmens längd är två timmar."
         },
         {
-          "pt": "pepino",
-          "sv": "gurka",
-          "type": "substantiv",
-          "example_pt": "O pepino é refrescante no verão.",
-          "example_sv": "Gurkan är uppfriskande på sommaren."
+          "pt": "imediato",
+          "sv": "omedelbar",
+          "type": "adjektiv",
+          "example_pt": "Precisamos de uma resposta imediata.",
+          "example_sv": "Vi behöver ett omedelbart svar."
         },
         {
-          "pt": "limão",
-          "sv": "citron",
-          "type": "substantiv",
-          "example_pt": "Espremi um limão para fazer limonada.",
-          "example_sv": "Jag pressade en citron för att göra lemonad."
+          "pt": "antiquado",
+          "sv": "föråldrad, gammalmodig",
+          "type": "adjektiv",
+          "example_pt": "Este método é antiquado e lento.",
+          "example_sv": "Den här metoden är föråldrad och långsam."
         }
       ]
     },
     {
-      "theme": "vardagliga fraser",
+      "theme": "Djur",
       "words": [
         {
-          "pt": "com licença",
-          "sv": "ursäkta mig",
-          "type": "fras",
-          "example_pt": "Com licença, pode me ajudar?",
-          "example_sv": "Ursäkta mig, kan du hjälpa mig?"
+          "pt": "lince",
+          "sv": "lodjur",
+          "type": "substantiv",
+          "example_pt": "O lince é um animal raro em Portugal.",
+          "example_sv": "Lodjuret är ett sällsynt djur i Portugal."
         },
         {
-          "pt": "de nada",
-          "sv": "ingen orsak",
-          "type": "fras",
-          "example_pt": "Obrigado! De nada, foi um prazer.",
-          "example_sv": "Tack! Ingen orsak, det var ett nöje."
+          "pt": "corvo",
+          "sv": "korp",
+          "type": "substantiv",
+          "example_pt": "Um corvo pousou no telhado da casa.",
+          "example_sv": "En korp landade på husets tak."
         },
         {
-          "pt": "até logo",
-          "sv": "vi ses snart",
-          "type": "fras",
-          "example_pt": "Vou sair agora. Até logo!",
-          "example_sv": "Jag går nu. Vi ses snart!"
+          "pt": "lagarto",
+          "sv": "ödla",
+          "type": "substantiv",
+          "example_pt": "O lagarto aquece ao sol nas pedras.",
+          "example_sv": "Ödlan värmer sig i solen på stenarna."
         },
         {
-          "pt": "faz favor",
-          "sv": "snälla",
-          "type": "fras",
-          "example_pt": "Pode fechar a janela, faz favor?",
-          "example_sv": "Kan du stänga fönstret, snälla?"
+          "pt": "lontra",
+          "sv": "utter",
+          "type": "substantiv",
+          "example_pt": "A lontra nada muito bem no rio.",
+          "example_sv": "Uttern simmar mycket bra i floden."
         },
         {
-          "pt": "com certeza",
-          "sv": "absolut",
-          "type": "fras",
-          "example_pt": "Podes contar comigo? Com certeza!",
-          "example_sv": "Kan du räkna med mig? Absolut!"
+          "pt": "falcão",
+          "sv": "falk",
+          "type": "substantiv",
+          "example_pt": "O falcão caçou um rato no campo.",
+          "example_sv": "Falken jagade en råtta på fältet."
         },
         {
-          "pt": "que pena",
-          "sv": "vilket synd",
-          "type": "fras",
-          "example_pt": "Não posso ir à festa. Que pena!",
-          "example_sv": "Jag kan inte gå på festen. Vilket synd!"
+          "pt": "caracol",
+          "sv": "snigel",
+          "type": "substantiv",
+          "example_pt": "O caracol deixou um rasto brilhante.",
+          "example_sv": "Snigeln lämnade ett glittrande spår."
         },
         {
-          "pt": "boa sorte",
-          "sv": "lycka till",
-          "type": "fras",
-          "example_pt": "Tens exame amanhã? Boa sorte!",
-          "example_sv": "Har du prov imorgon? Lycka till!"
+          "pt": "texugo",
+          "sv": "grävling",
+          "type": "substantiv",
+          "example_pt": "O texugo sai à noite para procurar comida.",
+          "example_sv": "Grävlingen går ut på natten för att söka mat."
         },
         {
-          "pt": "estou bem",
-          "sv": "jag mår bra",
-          "type": "fras",
-          "example_pt": "Como estás? Estou bem, obrigado.",
-          "example_sv": "Hur mår du? Jag mår bra, tack."
+          "pt": "grou",
+          "sv": "trana",
+          "type": "substantiv",
+          "example_pt": "O grou migra para sul no outono.",
+          "example_sv": "Tranan migrerar söderut på hösten."
         }
       ]
     },
     {
-      "theme": "stad och platser",
+      "theme": "Hem och möbler",
       "words": [
         {
-          "pt": "livraria",
-          "sv": "bokhandel",
+          "pt": "armário",
+          "sv": "garderob, skåp",
           "type": "substantiv",
-          "example_pt": "Comprei um livro novo na livraria.",
-          "example_sv": "Jag köpte en ny bok i bokhandeln."
+          "example_pt": "O armário da cozinha está cheio de pratos.",
+          "example_sv": "Kökets skåp är fullt av tallrikar."
         },
         {
-          "pt": "museu",
-          "sv": "museum",
+          "pt": "soleira",
+          "sv": "tröskel",
           "type": "substantiv",
-          "example_pt": "O museu está fechado às segundas-feiras.",
-          "example_sv": "Museet är stängt på måndagar."
+          "example_pt": "Ele parou na soleira da porta.",
+          "example_sv": "Han stannade vid dörrtröskeln."
         },
         {
-          "pt": "mercado",
-          "sv": "marknad",
+          "pt": "porão",
+          "sv": "källare",
           "type": "substantiv",
-          "example_pt": "Vou ao mercado comprar legumes frescos.",
-          "example_sv": "Jag går till marknaden för att köpa färska grönsaker."
+          "example_pt": "Guardamos as malas velhas no porão.",
+          "example_sv": "Vi förvarar de gamla väskorna i källaren."
         },
         {
-          "pt": "tribunal",
-          "sv": "domstol",
+          "pt": "telhado",
+          "sv": "tak (yttertak)",
           "type": "substantiv",
-          "example_pt": "O julgamento ocorreu no tribunal central.",
-          "example_sv": "Rättegången ägde rum i centraldomstolen."
+          "example_pt": "O telhado precisa de ser reparado.",
+          "example_sv": "Taket behöver repareras."
         },
         {
-          "pt": "aeroporto",
-          "sv": "flygplats",
+          "pt": "lençol",
+          "sv": "lakan",
           "type": "substantiv",
-          "example_pt": "O avião aterrou no aeroporto às três da manhã.",
-          "example_sv": "Flygplanet landade på flygplatsen klockan tre på morgonen."
+          "example_pt": "Mudei os lençóis da cama hoje.",
+          "example_sv": "Jag bytte lakanet på sängen idag."
         },
         {
-          "pt": "jardim",
-          "sv": "trädgård",
+          "pt": "espelho",
+          "sv": "spegel",
           "type": "substantiv",
-          "example_pt": "As crianças brincam no jardim público.",
-          "example_sv": "Barnen leker i den offentliga trädgården."
+          "example_pt": "Há um espelho grande na entrada.",
+          "example_sv": "Det finns en stor spegel i hallen."
         },
         {
-          "pt": "estação",
-          "sv": "station",
+          "pt": "interruptor",
+          "sv": "strömbrytare, ljusbrytare",
           "type": "substantiv",
-          "example_pt": "Encontrámo-nos na estação de metro.",
-          "example_sv": "Vi träffades vid tunnelbanestationen."
+          "example_pt": "O interruptor da luz está ao lado da porta.",
+          "example_sv": "Ljusbrytaren sitter bredvid dörren."
         },
         {
-          "pt": "porto",
-          "sv": "hamn",
+          "pt": "persiana",
+          "sv": "persienn, rullgardin",
           "type": "substantiv",
-          "example_pt": "Os barcos de pesca chegam ao porto de manhã cedo.",
-          "example_sv": "Fiskebåtarna anländer till hamnen tidigt på morgonen."
+          "example_pt": "Feche as persianas para bloquear o sol.",
+          "example_sv": "Stäng persiennerna för att blockera solen."
         }
       ]
     }
