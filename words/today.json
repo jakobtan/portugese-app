@@ -1,125 +1,125 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "sets": [
     {
-      "theme": "Tid och datum",
+      "theme": "Känslor och adjektiv",
       "words": [
         {
-          "pt": "madrugada",
-          "sv": "gryning, tidiga morgontimmar",
-          "type": "substantiv",
-          "example_pt": "Ele chegou a casa na madrugada.",
-          "example_sv": "Han kom hem i gryningen."
-        },
-        {
-          "pt": "semanalmente",
-          "sv": "varje vecka, veckоvis",
-          "type": "adverb",
-          "example_pt": "Ela vai ao ginásio semanalmente.",
-          "example_sv": "Hon går till gymmet varje vecka."
-        },
-        {
-          "pt": "mensal",
-          "sv": "månatlig",
+          "pt": "orgulhoso",
+          "sv": "stolt",
           "type": "adjektiv",
-          "example_pt": "O pagamento mensal chega no dia um.",
-          "example_sv": "Den månatliga betalningen kommer den första."
+          "example_pt": "Ele está orgulhoso do seu filho.",
+          "example_sv": "Han är stolt över sin son."
         },
         {
-          "pt": "calendário",
-          "sv": "kalender",
-          "type": "substantiv",
-          "example_pt": "Vou marcar a reunião no calendário.",
-          "example_sv": "Jag ska markera mötet i kalendern."
-        },
-        {
-          "pt": "horário",
-          "sv": "schema, tidtabell",
-          "type": "substantiv",
-          "example_pt": "O horário do comboio mudou esta semana.",
-          "example_sv": "Tågets tidtabell ändrades den här veckan."
-        },
-        {
-          "pt": "duração",
-          "sv": "varaktighet, längd",
-          "type": "substantiv",
-          "example_pt": "A duração do filme é de duas horas.",
-          "example_sv": "Filmens längd är två timmar."
-        },
-        {
-          "pt": "imediato",
-          "sv": "omedelbar",
+          "pt": "ansioso",
+          "sv": "ängslig",
           "type": "adjektiv",
-          "example_pt": "Precisamos de uma resposta imediata.",
-          "example_sv": "Vi behöver ett omedelbart svar."
+          "example_pt": "Ela ficou ansiosa antes do exame.",
+          "example_sv": "Hon blev ängslig inför provet."
         },
         {
-          "pt": "antiquado",
-          "sv": "föråldrad, gammalmodig",
+          "pt": "aliviado",
+          "sv": "lättad",
           "type": "adjektiv",
-          "example_pt": "Este método é antiquado e lento.",
-          "example_sv": "Den här metoden är föråldrad och långsam."
+          "example_pt": "Fiquei aliviado quando soube a notícia.",
+          "example_sv": "Jag blev lättad när jag fick höra nyheten."
+        },
+        {
+          "pt": "envergonhado",
+          "sv": "generad",
+          "type": "adjektiv",
+          "example_pt": "Ele ficou envergonhado diante de todos.",
+          "example_sv": "Han blev generad inför alla."
+        },
+        {
+          "pt": "corajoso",
+          "sv": "modig",
+          "type": "adjektiv",
+          "example_pt": "A criança foi muito corajosa.",
+          "example_sv": "Barnet var mycket modigt."
+        },
+        {
+          "pt": "entediado",
+          "sv": "uttråkad",
+          "type": "adjektiv",
+          "example_pt": "Estou entediado em casa hoje.",
+          "example_sv": "Jag är uttråkad hemma idag."
+        },
+        {
+          "pt": "generoso",
+          "sv": "generös",
+          "type": "adjektiv",
+          "example_pt": "A minha avó é muito generosa.",
+          "example_sv": "Min farmor är mycket generös."
+        },
+        {
+          "pt": "desconfiado",
+          "sv": "misstänksam",
+          "type": "adjektiv",
+          "example_pt": "Ele ficou desconfiado com a situação.",
+          "example_sv": "Han blev misstänksam inför situationen."
         }
       ]
     },
     {
-      "theme": "Djur",
+      "theme": "Sport och fritid",
       "words": [
         {
-          "pt": "lince",
-          "sv": "lodjur",
+          "pt": "natação",
+          "sv": "simning",
           "type": "substantiv",
-          "example_pt": "O lince é um animal raro em Portugal.",
-          "example_sv": "Lodjuret är ett sällsynt djur i Portugal."
+          "example_pt": "Ela pratica natação três vezes por semana.",
+          "example_sv": "Hon tränar simning tre gånger i veckan."
         },
         {
-          "pt": "corvo",
-          "sv": "korp",
+          "pt": "ciclismo",
+          "sv": "cykling",
           "type": "substantiv",
-          "example_pt": "Um corvo pousou no telhado da casa.",
-          "example_sv": "En korp landade på husets tak."
+          "example_pt": "O ciclismo é popular em Portugal.",
+          "example_sv": "Cykling är populärt i Portugal."
         },
         {
-          "pt": "lagarto",
-          "sv": "ödla",
+          "pt": "ginásio",
+          "sv": "gym",
           "type": "substantiv",
-          "example_pt": "O lagarto aquece ao sol nas pedras.",
-          "example_sv": "Ödlan värmer sig i solen på stenarna."
+          "example_pt": "Vou ao ginásio todas as manhãs.",
+          "example_sv": "Jag går till gymmet varje morgon."
         },
         {
-          "pt": "lontra",
-          "sv": "utter",
+          "pt": "descanso",
+          "sv": "vila",
           "type": "substantiv",
-          "example_pt": "A lontra nada muito bem no rio.",
-          "example_sv": "Uttern simmar mycket bra i floden."
+          "example_pt": "O descanso é importante após o treino.",
+          "example_sv": "Vila är viktigt efter träningen."
         },
         {
-          "pt": "falcão",
-          "sv": "falk",
+          "pt": "adversário",
+          "sv": "motståndare",
           "type": "substantiv",
-          "example_pt": "O falcão caçou um rato no campo.",
-          "example_sv": "Falken jagade en råtta på fältet."
+          "example_pt": "O adversário foi muito forte no jogo.",
+          "example_sv": "Motståndaren var mycket stark i matchen."
         },
         {
-          "pt": "caracol",
-          "sv": "snigel",
+          "pt": "aquecimento",
+          "sv": "uppvärmning",
           "type": "substantiv",
-          "example_pt": "O caracol deixou um rasto brilhante.",
-          "example_sv": "Snigeln lämnade ett glittrande spår."
+          "example_pt": "Faça sempre aquecimento antes de correr.",
+          "example_sv": "Värm alltid upp innan du springer."
         },
         {
-          "pt": "texugo",
-          "sv": "grävling",
-          "type": "substantiv",
-          "example_pt": "O texugo sai à noite para procurar comida.",
-          "example_sv": "Grävlingen går ut på natten för att söka mat."
+          "pt": "mergulhar",
+          "sv": "dyka",
+          "type": "verb",
+          "example_pt": "Ele aprendeu a mergulhar no verão.",
+          "example_sv": "Han lärde sig dyka på sommaren."
         },
         {
-          "pt": "grou",
-          "sv": "trana",
-          "type": "substantiv",
-          "example_pt": "O grou migra para sul no outono.",
-          "example_sv": "Tranan migrerar söderut på hösten."
+          "pt": "escalar",
+          "sv": "klättra",
+          "type": "verb",
+          "example_pt": "Adoramos escalar montanhas aos fins de semana.",
+          "example_sv": "Vi älskar att klättra på berg på helgerna."
         }
       ]
     },
@@ -127,60 +127,60 @@
       "theme": "Hem och möbler",
       "words": [
         {
-          "pt": "armário",
-          "sv": "garderob, skåp",
+          "pt": "cabide",
+          "sv": "galge",
           "type": "substantiv",
-          "example_pt": "O armário da cozinha está cheio de pratos.",
-          "example_sv": "Kökets skåp är fullt av tallrikar."
+          "example_pt": "Pendura o casaco no cabide.",
+          "example_sv": "Häng jackan på galgen."
         },
         {
-          "pt": "soleira",
-          "sv": "tröskel",
+          "pt": "bancada",
+          "sv": "bänkskiva",
           "type": "substantiv",
-          "example_pt": "Ele parou na soleira da porta.",
-          "example_sv": "Han stannade vid dörrtröskeln."
+          "example_pt": "A bancada da cozinha é de mármore.",
+          "example_sv": "Kökets bänkskiva är av marmor."
         },
         {
-          "pt": "porão",
-          "sv": "källare",
+          "pt": "escada",
+          "sv": "trappa",
           "type": "substantiv",
-          "example_pt": "Guardamos as malas velhas no porão.",
-          "example_sv": "Vi förvarar de gamla väskorna i källaren."
+          "example_pt": "A escada leva ao primeiro andar.",
+          "example_sv": "Trappan leder till första våningen."
         },
         {
-          "pt": "telhado",
-          "sv": "tak (yttertak)",
+          "pt": "quintal",
+          "sv": "bakgård",
           "type": "substantiv",
-          "example_pt": "O telhado precisa de ser reparado.",
-          "example_sv": "Taket behöver repareras."
+          "example_pt": "As crianças brincam no quintal.",
+          "example_sv": "Barnen leker på bakgården."
         },
         {
-          "pt": "lençol",
-          "sv": "lakan",
+          "pt": "dobradiça",
+          "sv": "gångjärn",
           "type": "substantiv",
-          "example_pt": "Mudei os lençóis da cama hoje.",
-          "example_sv": "Jag bytte lakanet på sängen idag."
+          "example_pt": "A dobradiça da porta está enferrujada.",
+          "example_sv": "Dörrens gångjärn är rostigt."
         },
         {
-          "pt": "espelho",
-          "sv": "spegel",
+          "pt": "rodapé",
+          "sv": "golvlist",
           "type": "substantiv",
-          "example_pt": "Há um espelho grande na entrada.",
-          "example_sv": "Det finns en stor spegel i hallen."
+          "example_pt": "Pintaram o rodapé de branco.",
+          "example_sv": "De målade golvlisten vit."
         },
         {
-          "pt": "interruptor",
-          "sv": "strömbrytare, ljusbrytare",
+          "pt": "janela",
+          "sv": "fönster",
           "type": "substantiv",
-          "example_pt": "O interruptor da luz está ao lado da porta.",
-          "example_sv": "Ljusbrytaren sitter bredvid dörren."
+          "example_pt": "Abre a janela para entrar ar fresco.",
+          "example_sv": "Öppna fönstret för att släppa in frisk luft."
         },
         {
-          "pt": "persiana",
-          "sv": "persienn, rullgardin",
+          "pt": "colchão",
+          "sv": "madrass",
           "type": "substantiv",
-          "example_pt": "Feche as persianas para bloquear o sol.",
-          "example_sv": "Stäng persiennerna för att blockera solen."
+          "example_pt": "Comprámos um colchão novo para o quarto.",
+          "example_sv": "Vi köpte en ny madrass till sovrummet."
         }
       ]
     }

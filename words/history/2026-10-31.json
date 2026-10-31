@@ -1,0 +1,188 @@
+{
+  "date": "2026-10-31",
+  "sets": [
+    {
+      "theme": "Känslor och adjektiv",
+      "words": [
+        {
+          "pt": "orgulhoso",
+          "sv": "stolt",
+          "type": "adjektiv",
+          "example_pt": "Ele está orgulhoso do seu filho.",
+          "example_sv": "Han är stolt över sin son."
+        },
+        {
+          "pt": "ansioso",
+          "sv": "ängslig",
+          "type": "adjektiv",
+          "example_pt": "Ela ficou ansiosa antes do exame.",
+          "example_sv": "Hon blev ängslig inför provet."
+        },
+        {
+          "pt": "aliviado",
+          "sv": "lättad",
+          "type": "adjektiv",
+          "example_pt": "Fiquei aliviado quando soube a notícia.",
+          "example_sv": "Jag blev lättad när jag fick höra nyheten."
+        },
+        {
+          "pt": "envergonhado",
+          "sv": "generad",
+          "type": "adjektiv",
+          "example_pt": "Ele ficou envergonhado diante de todos.",
+          "example_sv": "Han blev generad inför alla."
+        },
+        {
+          "pt": "corajoso",
+          "sv": "modig",
+          "type": "adjektiv",
+          "example_pt": "A criança foi muito corajosa.",
+          "example_sv": "Barnet var mycket modigt."
+        },
+        {
+          "pt": "entediado",
+          "sv": "uttråkad",
+          "type": "adjektiv",
+          "example_pt": "Estou entediado em casa hoje.",
+          "example_sv": "Jag är uttråkad hemma idag."
+        },
+        {
+          "pt": "generoso",
+          "sv": "generös",
+          "type": "adjektiv",
+          "example_pt": "A minha avó é muito generosa.",
+          "example_sv": "Min farmor är mycket generös."
+        },
+        {
+          "pt": "desconfiado",
+          "sv": "misstänksam",
+          "type": "adjektiv",
+          "example_pt": "Ele ficou desconfiado com a situação.",
+          "example_sv": "Han blev misstänksam inför situationen."
+        }
+      ]
+    },
+    {
+      "theme": "Sport och fritid",
+      "words": [
+        {
+          "pt": "natação",
+          "sv": "simning",
+          "type": "substantiv",
+          "example_pt": "Ela pratica natação três vezes por semana.",
+          "example_sv": "Hon tränar simning tre gånger i veckan."
+        },
+        {
+          "pt": "ciclismo",
+          "sv": "cykling",
+          "type": "substantiv",
+          "example_pt": "O ciclismo é popular em Portugal.",
+          "example_sv": "Cykling är populärt i Portugal."
+        },
+        {
+          "pt": "ginásio",
+          "sv": "gym",
+          "type": "substantiv",
+          "example_pt": "Vou ao ginásio todas as manhãs.",
+          "example_sv": "Jag går till gymmet varje morgon."
+        },
+        {
+          "pt": "descanso",
+          "sv": "vila",
+          "type": "substantiv",
+          "example_pt": "O descanso é importante após o treino.",
+          "example_sv": "Vila är viktigt efter träningen."
+        },
+        {
+          "pt": "adversário",
+          "sv": "motståndare",
+          "type": "substantiv",
+          "example_pt": "O adversário foi muito forte no jogo.",
+          "example_sv": "Motståndaren var mycket stark i matchen."
+        },
+        {
+          "pt": "aquecimento",
+          "sv": "uppvärmning",
+          "type": "substantiv",
+          "example_pt": "Faça sempre aquecimento antes de correr.",
+          "example_sv": "Värm alltid upp innan du springer."
+        },
+        {
+          "pt": "mergulhar",
+          "sv": "dyka",
+          "type": "verb",
+          "example_pt": "Ele aprendeu a mergulhar no verão.",
+          "example_sv": "Han lärde sig dyka på sommaren."
+        },
+        {
+          "pt": "escalar",
+          "sv": "klättra",
+          "type": "verb",
+          "example_pt": "Adoramos escalar montanhas aos fins de semana.",
+          "example_sv": "Vi älskar att klättra på berg på helgerna."
+        }
+      ]
+    },
+    {
+      "theme": "Hem och möbler",
+      "words": [
+        {
+          "pt": "cabide",
+          "sv": "galge",
+          "type": "substantiv",
+          "example_pt": "Pendura o casaco no cabide.",
+          "example_sv": "Häng jackan på galgen."
+        },
+        {
+          "pt": "bancada",
+          "sv": "bänkskiva",
+          "type": "substantiv",
+          "example_pt": "A bancada da cozinha é de mármore.",
+          "example_sv": "Kökets bänkskiva är av marmor."
+        },
+        {
+          "pt": "escada",
+          "sv": "trappa",
+          "type": "substantiv",
+          "example_pt": "A escada leva ao primeiro andar.",
+          "example_sv": "Trappan leder till första våningen."
+        },
+        {
+          "pt": "quintal",
+          "sv": "bakgård",
+          "type": "substantiv",
+          "example_pt": "As crianças brincam no quintal.",
+          "example_sv": "Barnen leker på bakgården."
+        },
+        {
+          "pt": "dobradiça",
+          "sv": "gångjärn",
+          "type": "substantiv",
+          "example_pt": "A dobradiça da porta está enferrujada.",
+          "example_sv": "Dörrens gångjärn är rostigt."
+        },
+        {
+          "pt": "rodapé",
+          "sv": "golvlist",
+          "type": "substantiv",
+          "example_pt": "Pintaram o rodapé de branco.",
+          "example_sv": "De målade golvlisten vit."
+        },
+        {
+          "pt": "janela",
+          "sv": "fönster",
+          "type": "substantiv",
+          "example_pt": "Abre a janela para entrar ar fresco.",
+          "example_sv": "Öppna fönstret för att släppa in frisk luft."
+        },
+        {
+          "pt": "colchão",
+          "sv": "madrass",
+          "type": "substantiv",
+          "example_pt": "Comprámos um colchão novo para o quarto.",
+          "example_sv": "Vi köpte en ny madrass till sovrummet."
+        }
+      ]
+    }
+  ]
+}
