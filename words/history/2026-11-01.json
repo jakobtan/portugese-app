@@ -1,0 +1,188 @@
+{
+  "date": "2026-11-01",
+  "sets": [
+    {
+      "theme": "Kläder och mode",
+      "words": [
+        {
+          "pt": "gravata",
+          "sv": "slips",
+          "type": "substantiv",
+          "example_pt": "Ele usa uma gravata azul no trabalho.",
+          "example_sv": "Han bär en blå slips på jobbet."
+        },
+        {
+          "pt": "luvas",
+          "sv": "handskar",
+          "type": "substantiv",
+          "example_pt": "As luvas de couro são muito elegantes.",
+          "example_sv": "Läderhanskar är mycket eleganta."
+        },
+        {
+          "pt": "cachecol",
+          "sv": "halsduk",
+          "type": "substantiv",
+          "example_pt": "Ela enrolou o cachecol em volta do pescoço.",
+          "example_sv": "Hon lindade halsduk runt halsen."
+        },
+        {
+          "pt": "vestido",
+          "sv": "klänning",
+          "type": "substantiv",
+          "example_pt": "O vestido vermelho ficou muito bem nela.",
+          "example_sv": "Den röda klänningen klädde henne mycket bra."
+        },
+        {
+          "pt": "fivela",
+          "sv": "spänne",
+          "type": "substantiv",
+          "example_pt": "A fivela do cinto está partida.",
+          "example_sv": "Spännet på bältet är trasigt."
+        },
+        {
+          "pt": "renda",
+          "sv": "spets",
+          "type": "substantiv",
+          "example_pt": "O vestido de noiva tem renda bonita.",
+          "example_sv": "Brudklänningen har vacker spets."
+        },
+        {
+          "pt": "tingir",
+          "sv": "färga",
+          "type": "verb",
+          "example_pt": "Ela decidiu tingir o cabelo de roxo.",
+          "example_sv": "Hon bestämde sig för att färga håret lila."
+        },
+        {
+          "pt": "justo",
+          "sv": "tajt/åtsittande",
+          "type": "adjektiv",
+          "example_pt": "Estas calças são demasiado justas.",
+          "example_sv": "Dessa byxor är för tajta."
+        }
+      ]
+    },
+    {
+      "theme": "Arbete och karriär",
+      "words": [
+        {
+          "pt": "acionista",
+          "sv": "aktieägare",
+          "type": "substantiv",
+          "example_pt": "Os acionistas votaram na reunião anual.",
+          "example_sv": "Aktieägarna röstade på årsmötet."
+        },
+        {
+          "pt": "greve",
+          "sv": "strejk",
+          "type": "substantiv",
+          "example_pt": "Os trabalhadores fizeram greve por melhores salários.",
+          "example_sv": "Arbetarna strejkade för bättre löner."
+        },
+        {
+          "pt": "orçamento",
+          "sv": "budget",
+          "type": "substantiv",
+          "example_pt": "O orçamento da empresa foi aprovado.",
+          "example_sv": "Företagets budget godkändes."
+        },
+        {
+          "pt": "cargo",
+          "sv": "befattning/tjänst",
+          "type": "substantiv",
+          "example_pt": "Ele ocupa um cargo de direção.",
+          "example_sv": "Han innehar en ledande befattning."
+        },
+        {
+          "pt": "demitir-se",
+          "sv": "säga upp sig",
+          "type": "verb",
+          "example_pt": "Ela decidiu demitir-se do emprego antigo.",
+          "example_sv": "Hon bestämde sig för att säga upp sig från det gamla jobbet."
+        },
+        {
+          "pt": "subsidio",
+          "sv": "bidrag/ersättning",
+          "type": "substantiv",
+          "example_pt": "O subsidio de desemprego dura seis meses.",
+          "example_sv": "Arbetslöshetsersättningen varar sex månader."
+        },
+        {
+          "pt": "colega",
+          "sv": "kollega",
+          "type": "substantiv",
+          "example_pt": "O meu colega ajudou-me com o projeto.",
+          "example_sv": "Min kollega hjälpte mig med projektet."
+        },
+        {
+          "pt": "hierarquia",
+          "sv": "hierarki",
+          "type": "substantiv",
+          "example_pt": "A hierarquia na empresa é muito rígida.",
+          "example_sv": "Hierarkin på företaget är mycket stel."
+        }
+      ]
+    },
+    {
+      "theme": "Kropp och hälsa",
+      "words": [
+        {
+          "pt": "omoplata",
+          "sv": "skulderblad",
+          "type": "substantiv",
+          "example_pt": "Ela sentiu dor na omoplata depois do treino.",
+          "example_sv": "Hon kände smärta i skulderbladet efter träningen."
+        },
+        {
+          "pt": "virilha",
+          "sv": "ljumske",
+          "type": "substantiv",
+          "example_pt": "O atleta sofreu uma lesão na virilha.",
+          "example_sv": "Idrottaren fick en skada i ljumsken."
+        },
+        {
+          "pt": "dieta",
+          "sv": "diet/kost",
+          "type": "substantiv",
+          "example_pt": "O médico recomendou uma dieta equilibrada.",
+          "example_sv": "Läkaren rekommenderade en balanserad kost."
+        },
+        {
+          "pt": "sutura",
+          "sv": "stygn/sutur",
+          "type": "substantiv",
+          "example_pt": "O ferimento precisou de sutura.",
+          "example_sv": "Såret behövde stygn."
+        },
+        {
+          "pt": "anestesia",
+          "sv": "bedövning/anestesi",
+          "type": "substantiv",
+          "example_pt": "A operação foi feita com anestesia geral.",
+          "example_sv": "Operationen gjordes under allmän anestesi."
+        },
+        {
+          "pt": "cicatriz",
+          "sv": "ärr",
+          "type": "substantiv",
+          "example_pt": "Ele tem uma cicatriz no joelho desde a infância.",
+          "example_sv": "Han har ett ärr på knäet sedan barndomen."
+        },
+        {
+          "pt": "estalar",
+          "sv": "knäppa/knaka",
+          "type": "verb",
+          "example_pt": "Os joelhos começaram a estalar quando subo as escadas.",
+          "example_sv": "Knäna börjar knaka när jag går upp för trapporna."
+        },
+        {
+          "pt": "maleável",
+          "sv": "smidig/flexibel",
+          "type": "adjektiv",
+          "example_pt": "O iogue tem um corpo muito maleável.",
+          "example_sv": "Yogaläraren har en mycket smidig kropp."
+        }
+      ]
+    }
+  ]
+}

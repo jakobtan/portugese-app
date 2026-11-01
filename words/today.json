@@ -1,186 +1,186 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "sets": [
     {
-      "theme": "Känslor och adjektiv",
+      "theme": "Kläder och mode",
       "words": [
         {
-          "pt": "orgulhoso",
-          "sv": "stolt",
-          "type": "adjektiv",
-          "example_pt": "Ele está orgulhoso do seu filho.",
-          "example_sv": "Han är stolt över sin son."
+          "pt": "gravata",
+          "sv": "slips",
+          "type": "substantiv",
+          "example_pt": "Ele usa uma gravata azul no trabalho.",
+          "example_sv": "Han bär en blå slips på jobbet."
         },
         {
-          "pt": "ansioso",
-          "sv": "ängslig",
-          "type": "adjektiv",
-          "example_pt": "Ela ficou ansiosa antes do exame.",
-          "example_sv": "Hon blev ängslig inför provet."
+          "pt": "luvas",
+          "sv": "handskar",
+          "type": "substantiv",
+          "example_pt": "As luvas de couro são muito elegantes.",
+          "example_sv": "Läderhanskar är mycket eleganta."
         },
         {
-          "pt": "aliviado",
-          "sv": "lättad",
-          "type": "adjektiv",
-          "example_pt": "Fiquei aliviado quando soube a notícia.",
-          "example_sv": "Jag blev lättad när jag fick höra nyheten."
+          "pt": "cachecol",
+          "sv": "halsduk",
+          "type": "substantiv",
+          "example_pt": "Ela enrolou o cachecol em volta do pescoço.",
+          "example_sv": "Hon lindade halsduk runt halsen."
         },
         {
-          "pt": "envergonhado",
-          "sv": "generad",
-          "type": "adjektiv",
-          "example_pt": "Ele ficou envergonhado diante de todos.",
-          "example_sv": "Han blev generad inför alla."
+          "pt": "vestido",
+          "sv": "klänning",
+          "type": "substantiv",
+          "example_pt": "O vestido vermelho ficou muito bem nela.",
+          "example_sv": "Den röda klänningen klädde henne mycket bra."
         },
         {
-          "pt": "corajoso",
-          "sv": "modig",
-          "type": "adjektiv",
-          "example_pt": "A criança foi muito corajosa.",
-          "example_sv": "Barnet var mycket modigt."
+          "pt": "fivela",
+          "sv": "spänne",
+          "type": "substantiv",
+          "example_pt": "A fivela do cinto está partida.",
+          "example_sv": "Spännet på bältet är trasigt."
         },
         {
-          "pt": "entediado",
-          "sv": "uttråkad",
-          "type": "adjektiv",
-          "example_pt": "Estou entediado em casa hoje.",
-          "example_sv": "Jag är uttråkad hemma idag."
+          "pt": "renda",
+          "sv": "spets",
+          "type": "substantiv",
+          "example_pt": "O vestido de noiva tem renda bonita.",
+          "example_sv": "Brudklänningen har vacker spets."
         },
         {
-          "pt": "generoso",
-          "sv": "generös",
-          "type": "adjektiv",
-          "example_pt": "A minha avó é muito generosa.",
-          "example_sv": "Min farmor är mycket generös."
+          "pt": "tingir",
+          "sv": "färga",
+          "type": "verb",
+          "example_pt": "Ela decidiu tingir o cabelo de roxo.",
+          "example_sv": "Hon bestämde sig för att färga håret lila."
         },
         {
-          "pt": "desconfiado",
-          "sv": "misstänksam",
+          "pt": "justo",
+          "sv": "tajt/åtsittande",
           "type": "adjektiv",
-          "example_pt": "Ele ficou desconfiado com a situação.",
-          "example_sv": "Han blev misstänksam inför situationen."
+          "example_pt": "Estas calças são demasiado justas.",
+          "example_sv": "Dessa byxor är för tajta."
         }
       ]
     },
     {
-      "theme": "Sport och fritid",
+      "theme": "Arbete och karriär",
       "words": [
         {
-          "pt": "natação",
-          "sv": "simning",
+          "pt": "acionista",
+          "sv": "aktieägare",
           "type": "substantiv",
-          "example_pt": "Ela pratica natação três vezes por semana.",
-          "example_sv": "Hon tränar simning tre gånger i veckan."
+          "example_pt": "Os acionistas votaram na reunião anual.",
+          "example_sv": "Aktieägarna röstade på årsmötet."
         },
         {
-          "pt": "ciclismo",
-          "sv": "cykling",
+          "pt": "greve",
+          "sv": "strejk",
           "type": "substantiv",
-          "example_pt": "O ciclismo é popular em Portugal.",
-          "example_sv": "Cykling är populärt i Portugal."
+          "example_pt": "Os trabalhadores fizeram greve por melhores salários.",
+          "example_sv": "Arbetarna strejkade för bättre löner."
         },
         {
-          "pt": "ginásio",
-          "sv": "gym",
+          "pt": "orçamento",
+          "sv": "budget",
           "type": "substantiv",
-          "example_pt": "Vou ao ginásio todas as manhãs.",
-          "example_sv": "Jag går till gymmet varje morgon."
+          "example_pt": "O orçamento da empresa foi aprovado.",
+          "example_sv": "Företagets budget godkändes."
         },
         {
-          "pt": "descanso",
-          "sv": "vila",
+          "pt": "cargo",
+          "sv": "befattning/tjänst",
           "type": "substantiv",
-          "example_pt": "O descanso é importante após o treino.",
-          "example_sv": "Vila är viktigt efter träningen."
+          "example_pt": "Ele ocupa um cargo de direção.",
+          "example_sv": "Han innehar en ledande befattning."
         },
         {
-          "pt": "adversário",
-          "sv": "motståndare",
-          "type": "substantiv",
-          "example_pt": "O adversário foi muito forte no jogo.",
-          "example_sv": "Motståndaren var mycket stark i matchen."
-        },
-        {
-          "pt": "aquecimento",
-          "sv": "uppvärmning",
-          "type": "substantiv",
-          "example_pt": "Faça sempre aquecimento antes de correr.",
-          "example_sv": "Värm alltid upp innan du springer."
-        },
-        {
-          "pt": "mergulhar",
-          "sv": "dyka",
+          "pt": "demitir-se",
+          "sv": "säga upp sig",
           "type": "verb",
-          "example_pt": "Ele aprendeu a mergulhar no verão.",
-          "example_sv": "Han lärde sig dyka på sommaren."
+          "example_pt": "Ela decidiu demitir-se do emprego antigo.",
+          "example_sv": "Hon bestämde sig för att säga upp sig från det gamla jobbet."
         },
         {
-          "pt": "escalar",
-          "sv": "klättra",
-          "type": "verb",
-          "example_pt": "Adoramos escalar montanhas aos fins de semana.",
-          "example_sv": "Vi älskar att klättra på berg på helgerna."
+          "pt": "subsidio",
+          "sv": "bidrag/ersättning",
+          "type": "substantiv",
+          "example_pt": "O subsidio de desemprego dura seis meses.",
+          "example_sv": "Arbetslöshetsersättningen varar sex månader."
+        },
+        {
+          "pt": "colega",
+          "sv": "kollega",
+          "type": "substantiv",
+          "example_pt": "O meu colega ajudou-me com o projeto.",
+          "example_sv": "Min kollega hjälpte mig med projektet."
+        },
+        {
+          "pt": "hierarquia",
+          "sv": "hierarki",
+          "type": "substantiv",
+          "example_pt": "A hierarquia na empresa é muito rígida.",
+          "example_sv": "Hierarkin på företaget är mycket stel."
         }
       ]
     },
     {
-      "theme": "Hem och möbler",
+      "theme": "Kropp och hälsa",
       "words": [
         {
-          "pt": "cabide",
-          "sv": "galge",
+          "pt": "omoplata",
+          "sv": "skulderblad",
           "type": "substantiv",
-          "example_pt": "Pendura o casaco no cabide.",
-          "example_sv": "Häng jackan på galgen."
+          "example_pt": "Ela sentiu dor na omoplata depois do treino.",
+          "example_sv": "Hon kände smärta i skulderbladet efter träningen."
         },
         {
-          "pt": "bancada",
-          "sv": "bänkskiva",
+          "pt": "virilha",
+          "sv": "ljumske",
           "type": "substantiv",
-          "example_pt": "A bancada da cozinha é de mármore.",
-          "example_sv": "Kökets bänkskiva är av marmor."
+          "example_pt": "O atleta sofreu uma lesão na virilha.",
+          "example_sv": "Idrottaren fick en skada i ljumsken."
         },
         {
-          "pt": "escada",
-          "sv": "trappa",
+          "pt": "dieta",
+          "sv": "diet/kost",
           "type": "substantiv",
-          "example_pt": "A escada leva ao primeiro andar.",
-          "example_sv": "Trappan leder till första våningen."
+          "example_pt": "O médico recomendou uma dieta equilibrada.",
+          "example_sv": "Läkaren rekommenderade en balanserad kost."
         },
         {
-          "pt": "quintal",
-          "sv": "bakgård",
+          "pt": "sutura",
+          "sv": "stygn/sutur",
           "type": "substantiv",
-          "example_pt": "As crianças brincam no quintal.",
-          "example_sv": "Barnen leker på bakgården."
+          "example_pt": "O ferimento precisou de sutura.",
+          "example_sv": "Såret behövde stygn."
         },
         {
-          "pt": "dobradiça",
-          "sv": "gångjärn",
+          "pt": "anestesia",
+          "sv": "bedövning/anestesi",
           "type": "substantiv",
-          "example_pt": "A dobradiça da porta está enferrujada.",
-          "example_sv": "Dörrens gångjärn är rostigt."
+          "example_pt": "A operação foi feita com anestesia geral.",
+          "example_sv": "Operationen gjordes under allmän anestesi."
         },
         {
-          "pt": "rodapé",
-          "sv": "golvlist",
+          "pt": "cicatriz",
+          "sv": "ärr",
           "type": "substantiv",
-          "example_pt": "Pintaram o rodapé de branco.",
-          "example_sv": "De målade golvlisten vit."
+          "example_pt": "Ele tem uma cicatriz no joelho desde a infância.",
+          "example_sv": "Han har ett ärr på knäet sedan barndomen."
         },
         {
-          "pt": "janela",
-          "sv": "fönster",
-          "type": "substantiv",
-          "example_pt": "Abre a janela para entrar ar fresco.",
-          "example_sv": "Öppna fönstret för att släppa in frisk luft."
+          "pt": "estalar",
+          "sv": "knäppa/knaka",
+          "type": "verb",
+          "example_pt": "Os joelhos começaram a estalar quando subo as escadas.",
+          "example_sv": "Knäna börjar knaka när jag går upp för trapporna."
         },
         {
-          "pt": "colchão",
-          "sv": "madrass",
-          "type": "substantiv",
-          "example_pt": "Comprámos um colchão novo para o quarto.",
-          "example_sv": "Vi köpte en ny madrass till sovrummet."
+          "pt": "maleável",
+          "sv": "smidig/flexibel",
+          "type": "adjektiv",
+          "example_pt": "O iogue tem um corpo muito maleável.",
+          "example_sv": "Yogaläraren har en mycket smidig kropp."
         }
       ]
     }
