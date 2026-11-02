@@ -1,0 +1,188 @@
+{
+  "date": "2026-11-02",
+  "sets": [
+    {
+      "theme": "familj och relationer",
+      "words": [
+        {
+          "pt": "avô",
+          "sv": "morfar/farfar",
+          "type": "substantiv",
+          "example_pt": "O meu avô conta histórias incríveis.",
+          "example_sv": "Min morfar berättar otroliga historier."
+        },
+        {
+          "pt": "sobrinho",
+          "sv": "nevö",
+          "type": "substantiv",
+          "example_pt": "O meu sobrinho tem cinco anos.",
+          "example_sv": "Min nevö är fem år gammal."
+        },
+        {
+          "pt": "noivo",
+          "sv": "fästman",
+          "type": "substantiv",
+          "example_pt": "O noivo chegou atrasado à cerimónia.",
+          "example_sv": "Fästmannen kom sent till ceremonin."
+        },
+        {
+          "pt": "madrinha",
+          "sv": "gudmor",
+          "type": "substantiv",
+          "example_pt": "A madrinha ofereceu um presente especial.",
+          "example_sv": "Gudmodern gav en speciell present."
+        },
+        {
+          "pt": "padrasto",
+          "sv": "styvfar",
+          "type": "substantiv",
+          "example_pt": "O meu padrasto é muito simpático.",
+          "example_sv": "Min styvfar är mycket trevlig."
+        },
+        {
+          "pt": "gémeos",
+          "sv": "tvillingar",
+          "type": "substantiv",
+          "example_pt": "Os gémeos vestem sempre a mesma roupa.",
+          "example_sv": "Tvillingarna bär alltid samma kläder."
+        },
+        {
+          "pt": "separar-se",
+          "sv": "separera sig",
+          "type": "verb",
+          "example_pt": "Eles decidiram separar-se após anos juntos.",
+          "example_sv": "De bestämde sig för att separera efter år tillsammans."
+        },
+        {
+          "pt": "parentesco",
+          "sv": "släktskap",
+          "type": "substantiv",
+          "example_pt": "Existe um parentesco distante entre nós.",
+          "example_sv": "Det finns ett avlägset släktskap mellan oss."
+        }
+      ]
+    },
+    {
+      "theme": "stad och platser",
+      "words": [
+        {
+          "pt": "chafariz",
+          "sv": "fontän",
+          "type": "substantiv",
+          "example_pt": "As crianças brincam perto do chafariz.",
+          "example_sv": "Barnen leker nära fontänen."
+        },
+        {
+          "pt": "calçada",
+          "sv": "trottoar",
+          "type": "substantiv",
+          "example_pt": "A calçada estava molhada pela chuva.",
+          "example_sv": "Trottoaren var blöt av regnet."
+        },
+        {
+          "pt": "subúrbio",
+          "sv": "förort",
+          "type": "substantiv",
+          "example_pt": "Ele vive num subúrbio tranquilo da cidade.",
+          "example_sv": "Han bor i en lugn förort till staden."
+        },
+        {
+          "pt": "passerela",
+          "sv": "gångbro",
+          "type": "substantiv",
+          "example_pt": "A passerela liga os dois edifícios.",
+          "example_sv": "Gångbroen förbinder de två byggnaderna."
+        },
+        {
+          "pt": "câmara municipal",
+          "sv": "stadshus/kommunhus",
+          "type": "substantiv",
+          "example_pt": "A reunião acontece na câmara municipal.",
+          "example_sv": "Mötet äger rum i kommunhuset."
+        },
+        {
+          "pt": "aterro",
+          "sv": "soptipp/deponi",
+          "type": "substantiv",
+          "example_pt": "O aterro fica fora da cidade.",
+          "example_sv": "Deponin ligger utanför staden."
+        },
+        {
+          "pt": "rotunda",
+          "sv": "rondell",
+          "type": "substantiv",
+          "example_pt": "Vira à esquerda na rotunda.",
+          "example_sv": "Sväng vänster i rondellen."
+        },
+        {
+          "pt": "cais fluvial",
+          "sv": "flodbrygga",
+          "type": "substantiv",
+          "example_pt": "O cais fluvial é muito movimentado ao fim de semana.",
+          "example_sv": "Flodbryggan är mycket livlig på helgen."
+        }
+      ]
+    },
+    {
+      "theme": "teknik",
+      "words": [
+        {
+          "pt": "teclado",
+          "sv": "tangentbord",
+          "type": "substantiv",
+          "example_pt": "O teclado do meu computador está partido.",
+          "example_sv": "Tangentbordet på min dator är trasigt."
+        },
+        {
+          "pt": "cabo",
+          "sv": "kabel",
+          "type": "substantiv",
+          "example_pt": "Preciso de um cabo para ligar o monitor.",
+          "example_sv": "Jag behöver en kabel för att ansluta skärmen."
+        },
+        {
+          "pt": "servidor",
+          "sv": "server",
+          "type": "substantiv",
+          "example_pt": "O servidor caiu durante a noite.",
+          "example_sv": "Servern kraschade under natten."
+        },
+        {
+          "pt": "atualização",
+          "sv": "uppdatering",
+          "type": "substantiv",
+          "example_pt": "A atualização do sistema demorou uma hora.",
+          "example_sv": "Systemuppdateringen tog en timme."
+        },
+        {
+          "pt": "armazenamento",
+          "sv": "lagring",
+          "type": "substantiv",
+          "example_pt": "O armazenamento em nuvem é muito prático.",
+          "example_sv": "Molnlagring är mycket praktiskt."
+        },
+        {
+          "pt": "palavra-passe",
+          "sv": "lösenord",
+          "type": "substantiv",
+          "example_pt": "Não partilhes a tua palavra-passe com ninguém.",
+          "example_sv": "Dela inte ditt lösenord med någon."
+        },
+        {
+          "pt": "digitalizar",
+          "sv": "skanna",
+          "type": "verb",
+          "example_pt": "Preciso de digitalizar este documento.",
+          "example_sv": "Jag behöver skanna det här dokumentet."
+        },
+        {
+          "pt": "rede sem fios",
+          "sv": "trådlöst nätverk",
+          "type": "substantiv",
+          "example_pt": "A rede sem fios não funciona no quarto.",
+          "example_sv": "Det trådlösa nätverket fungerar inte i sovrummet."
+        }
+      ]
+    }
+  ]
+}

@@ -1,186 +1,186 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "sets": [
     {
-      "theme": "Kläder och mode",
+      "theme": "familj och relationer",
       "words": [
         {
-          "pt": "gravata",
-          "sv": "slips",
+          "pt": "avô",
+          "sv": "morfar/farfar",
           "type": "substantiv",
-          "example_pt": "Ele usa uma gravata azul no trabalho.",
-          "example_sv": "Han bär en blå slips på jobbet."
+          "example_pt": "O meu avô conta histórias incríveis.",
+          "example_sv": "Min morfar berättar otroliga historier."
         },
         {
-          "pt": "luvas",
-          "sv": "handskar",
+          "pt": "sobrinho",
+          "sv": "nevö",
           "type": "substantiv",
-          "example_pt": "As luvas de couro são muito elegantes.",
-          "example_sv": "Läderhanskar är mycket eleganta."
+          "example_pt": "O meu sobrinho tem cinco anos.",
+          "example_sv": "Min nevö är fem år gammal."
         },
         {
-          "pt": "cachecol",
-          "sv": "halsduk",
+          "pt": "noivo",
+          "sv": "fästman",
           "type": "substantiv",
-          "example_pt": "Ela enrolou o cachecol em volta do pescoço.",
-          "example_sv": "Hon lindade halsduk runt halsen."
+          "example_pt": "O noivo chegou atrasado à cerimónia.",
+          "example_sv": "Fästmannen kom sent till ceremonin."
         },
         {
-          "pt": "vestido",
-          "sv": "klänning",
+          "pt": "madrinha",
+          "sv": "gudmor",
           "type": "substantiv",
-          "example_pt": "O vestido vermelho ficou muito bem nela.",
-          "example_sv": "Den röda klänningen klädde henne mycket bra."
+          "example_pt": "A madrinha ofereceu um presente especial.",
+          "example_sv": "Gudmodern gav en speciell present."
         },
         {
-          "pt": "fivela",
-          "sv": "spänne",
+          "pt": "padrasto",
+          "sv": "styvfar",
           "type": "substantiv",
-          "example_pt": "A fivela do cinto está partida.",
-          "example_sv": "Spännet på bältet är trasigt."
+          "example_pt": "O meu padrasto é muito simpático.",
+          "example_sv": "Min styvfar är mycket trevlig."
         },
         {
-          "pt": "renda",
-          "sv": "spets",
+          "pt": "gémeos",
+          "sv": "tvillingar",
           "type": "substantiv",
-          "example_pt": "O vestido de noiva tem renda bonita.",
-          "example_sv": "Brudklänningen har vacker spets."
+          "example_pt": "Os gémeos vestem sempre a mesma roupa.",
+          "example_sv": "Tvillingarna bär alltid samma kläder."
         },
         {
-          "pt": "tingir",
-          "sv": "färga",
+          "pt": "separar-se",
+          "sv": "separera sig",
           "type": "verb",
-          "example_pt": "Ela decidiu tingir o cabelo de roxo.",
-          "example_sv": "Hon bestämde sig för att färga håret lila."
+          "example_pt": "Eles decidiram separar-se após anos juntos.",
+          "example_sv": "De bestämde sig för att separera efter år tillsammans."
         },
         {
-          "pt": "justo",
-          "sv": "tajt/åtsittande",
-          "type": "adjektiv",
-          "example_pt": "Estas calças são demasiado justas.",
-          "example_sv": "Dessa byxor är för tajta."
+          "pt": "parentesco",
+          "sv": "släktskap",
+          "type": "substantiv",
+          "example_pt": "Existe um parentesco distante entre nós.",
+          "example_sv": "Det finns ett avlägset släktskap mellan oss."
         }
       ]
     },
     {
-      "theme": "Arbete och karriär",
+      "theme": "stad och platser",
       "words": [
         {
-          "pt": "acionista",
-          "sv": "aktieägare",
+          "pt": "chafariz",
+          "sv": "fontän",
           "type": "substantiv",
-          "example_pt": "Os acionistas votaram na reunião anual.",
-          "example_sv": "Aktieägarna röstade på årsmötet."
+          "example_pt": "As crianças brincam perto do chafariz.",
+          "example_sv": "Barnen leker nära fontänen."
         },
         {
-          "pt": "greve",
-          "sv": "strejk",
+          "pt": "calçada",
+          "sv": "trottoar",
           "type": "substantiv",
-          "example_pt": "Os trabalhadores fizeram greve por melhores salários.",
-          "example_sv": "Arbetarna strejkade för bättre löner."
+          "example_pt": "A calçada estava molhada pela chuva.",
+          "example_sv": "Trottoaren var blöt av regnet."
         },
         {
-          "pt": "orçamento",
-          "sv": "budget",
+          "pt": "subúrbio",
+          "sv": "förort",
           "type": "substantiv",
-          "example_pt": "O orçamento da empresa foi aprovado.",
-          "example_sv": "Företagets budget godkändes."
+          "example_pt": "Ele vive num subúrbio tranquilo da cidade.",
+          "example_sv": "Han bor i en lugn förort till staden."
         },
         {
-          "pt": "cargo",
-          "sv": "befattning/tjänst",
+          "pt": "passerela",
+          "sv": "gångbro",
           "type": "substantiv",
-          "example_pt": "Ele ocupa um cargo de direção.",
-          "example_sv": "Han innehar en ledande befattning."
+          "example_pt": "A passerela liga os dois edifícios.",
+          "example_sv": "Gångbroen förbinder de två byggnaderna."
         },
         {
-          "pt": "demitir-se",
-          "sv": "säga upp sig",
-          "type": "verb",
-          "example_pt": "Ela decidiu demitir-se do emprego antigo.",
-          "example_sv": "Hon bestämde sig för att säga upp sig från det gamla jobbet."
+          "pt": "câmara municipal",
+          "sv": "stadshus/kommunhus",
+          "type": "substantiv",
+          "example_pt": "A reunião acontece na câmara municipal.",
+          "example_sv": "Mötet äger rum i kommunhuset."
         },
         {
-          "pt": "subsidio",
-          "sv": "bidrag/ersättning",
+          "pt": "aterro",
+          "sv": "soptipp/deponi",
           "type": "substantiv",
-          "example_pt": "O subsidio de desemprego dura seis meses.",
-          "example_sv": "Arbetslöshetsersättningen varar sex månader."
+          "example_pt": "O aterro fica fora da cidade.",
+          "example_sv": "Deponin ligger utanför staden."
         },
         {
-          "pt": "colega",
-          "sv": "kollega",
+          "pt": "rotunda",
+          "sv": "rondell",
           "type": "substantiv",
-          "example_pt": "O meu colega ajudou-me com o projeto.",
-          "example_sv": "Min kollega hjälpte mig med projektet."
+          "example_pt": "Vira à esquerda na rotunda.",
+          "example_sv": "Sväng vänster i rondellen."
         },
         {
-          "pt": "hierarquia",
-          "sv": "hierarki",
+          "pt": "cais fluvial",
+          "sv": "flodbrygga",
           "type": "substantiv",
-          "example_pt": "A hierarquia na empresa é muito rígida.",
-          "example_sv": "Hierarkin på företaget är mycket stel."
+          "example_pt": "O cais fluvial é muito movimentado ao fim de semana.",
+          "example_sv": "Flodbryggan är mycket livlig på helgen."
         }
       ]
     },
     {
-      "theme": "Kropp och hälsa",
+      "theme": "teknik",
       "words": [
         {
-          "pt": "omoplata",
-          "sv": "skulderblad",
+          "pt": "teclado",
+          "sv": "tangentbord",
           "type": "substantiv",
-          "example_pt": "Ela sentiu dor na omoplata depois do treino.",
-          "example_sv": "Hon kände smärta i skulderbladet efter träningen."
+          "example_pt": "O teclado do meu computador está partido.",
+          "example_sv": "Tangentbordet på min dator är trasigt."
         },
         {
-          "pt": "virilha",
-          "sv": "ljumske",
+          "pt": "cabo",
+          "sv": "kabel",
           "type": "substantiv",
-          "example_pt": "O atleta sofreu uma lesão na virilha.",
-          "example_sv": "Idrottaren fick en skada i ljumsken."
+          "example_pt": "Preciso de um cabo para ligar o monitor.",
+          "example_sv": "Jag behöver en kabel för att ansluta skärmen."
         },
         {
-          "pt": "dieta",
-          "sv": "diet/kost",
+          "pt": "servidor",
+          "sv": "server",
           "type": "substantiv",
-          "example_pt": "O médico recomendou uma dieta equilibrada.",
-          "example_sv": "Läkaren rekommenderade en balanserad kost."
+          "example_pt": "O servidor caiu durante a noite.",
+          "example_sv": "Servern kraschade under natten."
         },
         {
-          "pt": "sutura",
-          "sv": "stygn/sutur",
+          "pt": "atualização",
+          "sv": "uppdatering",
           "type": "substantiv",
-          "example_pt": "O ferimento precisou de sutura.",
-          "example_sv": "Såret behövde stygn."
+          "example_pt": "A atualização do sistema demorou uma hora.",
+          "example_sv": "Systemuppdateringen tog en timme."
         },
         {
-          "pt": "anestesia",
-          "sv": "bedövning/anestesi",
+          "pt": "armazenamento",
+          "sv": "lagring",
           "type": "substantiv",
-          "example_pt": "A operação foi feita com anestesia geral.",
-          "example_sv": "Operationen gjordes under allmän anestesi."
+          "example_pt": "O armazenamento em nuvem é muito prático.",
+          "example_sv": "Molnlagring är mycket praktiskt."
         },
         {
-          "pt": "cicatriz",
-          "sv": "ärr",
+          "pt": "palavra-passe",
+          "sv": "lösenord",
           "type": "substantiv",
-          "example_pt": "Ele tem uma cicatriz no joelho desde a infância.",
-          "example_sv": "Han har ett ärr på knäet sedan barndomen."
+          "example_pt": "Não partilhes a tua palavra-passe com ninguém.",
+          "example_sv": "Dela inte ditt lösenord med någon."
         },
         {
-          "pt": "estalar",
-          "sv": "knäppa/knaka",
+          "pt": "digitalizar",
+          "sv": "skanna",
           "type": "verb",
-          "example_pt": "Os joelhos começaram a estalar quando subo as escadas.",
-          "example_sv": "Knäna börjar knaka när jag går upp för trapporna."
+          "example_pt": "Preciso de digitalizar este documento.",
+          "example_sv": "Jag behöver skanna det här dokumentet."
         },
         {
-          "pt": "maleável",
-          "sv": "smidig/flexibel",
-          "type": "adjektiv",
-          "example_pt": "O iogue tem um corpo muito maleável.",
-          "example_sv": "Yogaläraren har en mycket smidig kropp."
+          "pt": "rede sem fios",
+          "sv": "trådlöst nätverk",
+          "type": "substantiv",
+          "example_pt": "A rede sem fios não funciona no quarto.",
+          "example_sv": "Det trådlösa nätverket fungerar inte i sovrummet."
         }
       ]
     }
