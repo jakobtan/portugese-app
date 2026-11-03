@@ -1,186 +1,186 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "sets": [
     {
-      "theme": "familj och relationer",
+      "theme": "mat och dryck",
       "words": [
         {
-          "pt": "avô",
-          "sv": "morfar/farfar",
+          "pt": "azeitona",
+          "sv": "oliv",
           "type": "substantiv",
-          "example_pt": "O meu avô conta histórias incríveis.",
-          "example_sv": "Min morfar berättar otroliga historier."
+          "example_pt": "Eu gosto de azeitonas verdes no meu prato.",
+          "example_sv": "Jag gillar gröna oliver på min tallrik."
         },
         {
-          "pt": "sobrinho",
-          "sv": "nevö",
+          "pt": "natas",
+          "sv": "grädde",
           "type": "substantiv",
-          "example_pt": "O meu sobrinho tem cinco anos.",
-          "example_sv": "Min nevö är fem år gammal."
+          "example_pt": "As natas tornam o molho mais cremoso.",
+          "example_sv": "Grädden gör såsen krämigare."
         },
         {
-          "pt": "noivo",
-          "sv": "fästman",
+          "pt": "pão de centeio",
+          "sv": "rågbröd",
           "type": "substantiv",
-          "example_pt": "O noivo chegou atrasado à cerimónia.",
-          "example_sv": "Fästmannen kom sent till ceremonin."
+          "example_pt": "O pão de centeio é muito nutritivo.",
+          "example_sv": "Rågbröd är mycket näringsrikt."
         },
         {
-          "pt": "madrinha",
-          "sv": "gudmor",
+          "pt": "chouriço",
+          "sv": "kryddkorv",
           "type": "substantiv",
-          "example_pt": "A madrinha ofereceu um presente especial.",
-          "example_sv": "Gudmodern gav en speciell present."
+          "example_pt": "O chouriço é um ingrediente típico português.",
+          "example_sv": "Kryddkorv är en typisk portugisisk ingrediens."
         },
         {
-          "pt": "padrasto",
-          "sv": "styvfar",
+          "pt": "sumo de laranja",
+          "sv": "apelsinjuice",
           "type": "substantiv",
-          "example_pt": "O meu padrasto é muito simpático.",
-          "example_sv": "Min styvfar är mycket trevlig."
+          "example_pt": "Bebo sumo de laranja ao pequeno-almoço.",
+          "example_sv": "Jag dricker apelsinjuice till frukost."
         },
         {
-          "pt": "gémeos",
-          "sv": "tvillingar",
+          "pt": "feijão",
+          "sv": "böna",
           "type": "substantiv",
-          "example_pt": "Os gémeos vestem sempre a mesma roupa.",
-          "example_sv": "Tvillingarna bär alltid samma kläder."
+          "example_pt": "O feijão é rico em proteínas e fibras.",
+          "example_sv": "Bönor är rika på proteiner och fibrer."
         },
         {
-          "pt": "separar-se",
-          "sv": "separera sig",
-          "type": "verb",
-          "example_pt": "Eles decidiram separar-se após anos juntos.",
-          "example_sv": "De bestämde sig för att separera efter år tillsammans."
+          "pt": "queijo da serra",
+          "sv": "bergsost",
+          "type": "substantiv",
+          "example_pt": "O queijo da serra é uma especialidade portuguesa.",
+          "example_sv": "Bergsost är en portugisisk specialitet."
         },
         {
-          "pt": "parentesco",
-          "sv": "släktskap",
+          "pt": "caldeirada",
+          "sv": "fiskgryta",
           "type": "substantiv",
-          "example_pt": "Existe um parentesco distante entre nós.",
-          "example_sv": "Det finns ett avlägset släktskap mellan oss."
+          "example_pt": "A caldeirada é um prato tradicional de peixe.",
+          "example_sv": "Fiskgryta är en traditionell fiskrätt."
         }
       ]
     },
     {
-      "theme": "stad och platser",
+      "theme": "natur och väder",
       "words": [
         {
-          "pt": "chafariz",
-          "sv": "fontän",
+          "pt": "granizo",
+          "sv": "hagel",
           "type": "substantiv",
-          "example_pt": "As crianças brincam perto do chafariz.",
-          "example_sv": "Barnen leker nära fontänen."
+          "example_pt": "Caiu granizo durante a tarde de inverno.",
+          "example_sv": "Det föll hagel under vintereftermiddagen."
         },
         {
-          "pt": "calçada",
-          "sv": "trottoar",
+          "pt": "brisa",
+          "sv": "bris",
           "type": "substantiv",
-          "example_pt": "A calçada estava molhada pela chuva.",
-          "example_sv": "Trottoaren var blöt av regnet."
+          "example_pt": "Sinto uma brisa fresca vinda do mar.",
+          "example_sv": "Jag känner en sval bris från havet."
         },
         {
-          "pt": "subúrbio",
-          "sv": "förort",
+          "pt": "ravina",
+          "sv": "ravin",
           "type": "substantiv",
-          "example_pt": "Ele vive num subúrbio tranquilo da cidade.",
-          "example_sv": "Han bor i en lugn förort till staden."
+          "example_pt": "A ravina era profunda e perigosa.",
+          "example_sv": "Ravinen var djup och farlig."
         },
         {
-          "pt": "passerela",
-          "sv": "gångbro",
+          "pt": "geada",
+          "sv": "frost",
           "type": "substantiv",
-          "example_pt": "A passerela liga os dois edifícios.",
-          "example_sv": "Gångbroen förbinder de två byggnaderna."
+          "example_pt": "Houve geada esta manhã e as plantas morreram.",
+          "example_sv": "Det var frost i morse och växterna dog."
         },
         {
-          "pt": "câmara municipal",
-          "sv": "stadshus/kommunhus",
+          "pt": "ribeiro",
+          "sv": "bäck",
           "type": "substantiv",
-          "example_pt": "A reunião acontece na câmara municipal.",
-          "example_sv": "Mötet äger rum i kommunhuset."
+          "example_pt": "As crianças brincavam junto ao ribeiro.",
+          "example_sv": "Barnen lekte vid bäcken."
         },
         {
-          "pt": "aterro",
-          "sv": "soptipp/deponi",
+          "pt": "trovão",
+          "sv": "åska",
           "type": "substantiv",
-          "example_pt": "O aterro fica fora da cidade.",
-          "example_sv": "Deponin ligger utanför staden."
+          "example_pt": "Ouvimos o trovão ao longe durante a tempestade.",
+          "example_sv": "Vi hörde åskan på avstånd under stormen."
         },
         {
-          "pt": "rotunda",
-          "sv": "rondell",
+          "pt": "encosta",
+          "sv": "sluttning",
           "type": "substantiv",
-          "example_pt": "Vira à esquerda na rotunda.",
-          "example_sv": "Sväng vänster i rondellen."
+          "example_pt": "A encosta da montanha estava coberta de neve.",
+          "example_sv": "Bergsluttningen var täckt av snö."
         },
         {
-          "pt": "cais fluvial",
-          "sv": "flodbrygga",
+          "pt": "nevoeiro",
+          "sv": "dimma",
           "type": "substantiv",
-          "example_pt": "O cais fluvial é muito movimentado ao fim de semana.",
-          "example_sv": "Flodbryggan är mycket livlig på helgen."
+          "example_pt": "O nevoeiro espesso dificultava a condução.",
+          "example_sv": "Den täta dimman försvårade körningen."
         }
       ]
     },
     {
-      "theme": "teknik",
+      "theme": "djur",
       "words": [
         {
-          "pt": "teclado",
-          "sv": "tangentbord",
+          "pt": "lince-ibérico",
+          "sv": "iberisk lodjur",
           "type": "substantiv",
-          "example_pt": "O teclado do meu computador está partido.",
-          "example_sv": "Tangentbordet på min dator är trasigt."
+          "example_pt": "O lince-ibérico é uma espécie em perigo de extinção.",
+          "example_sv": "Det iberiska lodjuret är en utrotningshotad art."
         },
         {
-          "pt": "cabo",
-          "sv": "kabel",
+          "pt": "cegonha-branca",
+          "sv": "vit stork",
           "type": "substantiv",
-          "example_pt": "Preciso de um cabo para ligar o monitor.",
-          "example_sv": "Jag behöver en kabel för att ansluta skärmen."
+          "example_pt": "A cegonha-branca volta todos os anos em primavera.",
+          "example_sv": "Den vita storken återvänder varje år på våren."
         },
         {
-          "pt": "servidor",
-          "sv": "server",
+          "pt": "touro",
+          "sv": "tjur",
           "type": "substantiv",
-          "example_pt": "O servidor caiu durante a noite.",
-          "example_sv": "Servern kraschade under natten."
+          "example_pt": "O touro pastava calmamente no campo.",
+          "example_sv": "Tjuren betade lugnt på fältet."
         },
         {
-          "pt": "atualização",
-          "sv": "uppdatering",
+          "pt": "águia",
+          "sv": "örn",
           "type": "substantiv",
-          "example_pt": "A atualização do sistema demorou uma hora.",
-          "example_sv": "Systemuppdateringen tog en timme."
+          "example_pt": "A águia voou alto sobre as montanhas.",
+          "example_sv": "Örnen flög högt över bergen."
         },
         {
-          "pt": "armazenamento",
-          "sv": "lagring",
+          "pt": "raposa",
+          "sv": "räv",
           "type": "substantiv",
-          "example_pt": "O armazenamento em nuvem é muito prático.",
-          "example_sv": "Molnlagring är mycket praktiskt."
+          "example_pt": "A raposa caçava à noite perto da aldeia.",
+          "example_sv": "Räven jagade på natten nära byn."
         },
         {
-          "pt": "palavra-passe",
-          "sv": "lösenord",
+          "pt": "golfinho-comum",
+          "sv": "vanlig delfin",
           "type": "substantiv",
-          "example_pt": "Não partilhes a tua palavra-passe com ninguém.",
-          "example_sv": "Dela inte ditt lösenord med någon."
+          "example_pt": "Vimos um golfinho-comum a saltar no oceano.",
+          "example_sv": "Vi såg en vanlig delfin hoppa i havet."
         },
         {
-          "pt": "digitalizar",
-          "sv": "skanna",
-          "type": "verb",
-          "example_pt": "Preciso de digitalizar este documento.",
-          "example_sv": "Jag behöver skanna det här dokumentet."
+          "pt": "veado",
+          "sv": "hjort",
+          "type": "substantiv",
+          "example_pt": "O veado atravessou a floresta ao amanhecer.",
+          "example_sv": "Hjorten korsade skogen vid gryningen."
         },
         {
-          "pt": "rede sem fios",
-          "sv": "trådlöst nätverk",
+          "pt": "polvinho",
+          "sv": "liten bläckfisk",
           "type": "substantiv",
-          "example_pt": "A rede sem fios não funciona no quarto.",
-          "example_sv": "Det trådlösa nätverket fungerar inte i sovrummet."
+          "example_pt": "O polvinho escondia-se nas rochas submarinas.",
+          "example_sv": "Den lilla bläckfisken gömde sig i undervattensklipporna."
         }
       ]
     }

@@ -1,0 +1,188 @@
+{
+  "date": "2026-11-03",
+  "sets": [
+    {
+      "theme": "mat och dryck",
+      "words": [
+        {
+          "pt": "azeitona",
+          "sv": "oliv",
+          "type": "substantiv",
+          "example_pt": "Eu gosto de azeitonas verdes no meu prato.",
+          "example_sv": "Jag gillar gröna oliver på min tallrik."
+        },
+        {
+          "pt": "natas",
+          "sv": "grädde",
+          "type": "substantiv",
+          "example_pt": "As natas tornam o molho mais cremoso.",
+          "example_sv": "Grädden gör såsen krämigare."
+        },
+        {
+          "pt": "pão de centeio",
+          "sv": "rågbröd",
+          "type": "substantiv",
+          "example_pt": "O pão de centeio é muito nutritivo.",
+          "example_sv": "Rågbröd är mycket näringsrikt."
+        },
+        {
+          "pt": "chouriço",
+          "sv": "kryddkorv",
+          "type": "substantiv",
+          "example_pt": "O chouriço é um ingrediente típico português.",
+          "example_sv": "Kryddkorv är en typisk portugisisk ingrediens."
+        },
+        {
+          "pt": "sumo de laranja",
+          "sv": "apelsinjuice",
+          "type": "substantiv",
+          "example_pt": "Bebo sumo de laranja ao pequeno-almoço.",
+          "example_sv": "Jag dricker apelsinjuice till frukost."
+        },
+        {
+          "pt": "feijão",
+          "sv": "böna",
+          "type": "substantiv",
+          "example_pt": "O feijão é rico em proteínas e fibras.",
+          "example_sv": "Bönor är rika på proteiner och fibrer."
+        },
+        {
+          "pt": "queijo da serra",
+          "sv": "bergsost",
+          "type": "substantiv",
+          "example_pt": "O queijo da serra é uma especialidade portuguesa.",
+          "example_sv": "Bergsost är en portugisisk specialitet."
+        },
+        {
+          "pt": "caldeirada",
+          "sv": "fiskgryta",
+          "type": "substantiv",
+          "example_pt": "A caldeirada é um prato tradicional de peixe.",
+          "example_sv": "Fiskgryta är en traditionell fiskrätt."
+        }
+      ]
+    },
+    {
+      "theme": "natur och väder",
+      "words": [
+        {
+          "pt": "granizo",
+          "sv": "hagel",
+          "type": "substantiv",
+          "example_pt": "Caiu granizo durante a tarde de inverno.",
+          "example_sv": "Det föll hagel under vintereftermiddagen."
+        },
+        {
+          "pt": "brisa",
+          "sv": "bris",
+          "type": "substantiv",
+          "example_pt": "Sinto uma brisa fresca vinda do mar.",
+          "example_sv": "Jag känner en sval bris från havet."
+        },
+        {
+          "pt": "ravina",
+          "sv": "ravin",
+          "type": "substantiv",
+          "example_pt": "A ravina era profunda e perigosa.",
+          "example_sv": "Ravinen var djup och farlig."
+        },
+        {
+          "pt": "geada",
+          "sv": "frost",
+          "type": "substantiv",
+          "example_pt": "Houve geada esta manhã e as plantas morreram.",
+          "example_sv": "Det var frost i morse och växterna dog."
+        },
+        {
+          "pt": "ribeiro",
+          "sv": "bäck",
+          "type": "substantiv",
+          "example_pt": "As crianças brincavam junto ao ribeiro.",
+          "example_sv": "Barnen lekte vid bäcken."
+        },
+        {
+          "pt": "trovão",
+          "sv": "åska",
+          "type": "substantiv",
+          "example_pt": "Ouvimos o trovão ao longe durante a tempestade.",
+          "example_sv": "Vi hörde åskan på avstånd under stormen."
+        },
+        {
+          "pt": "encosta",
+          "sv": "sluttning",
+          "type": "substantiv",
+          "example_pt": "A encosta da montanha estava coberta de neve.",
+          "example_sv": "Bergsluttningen var täckt av snö."
+        },
+        {
+          "pt": "nevoeiro",
+          "sv": "dimma",
+          "type": "substantiv",
+          "example_pt": "O nevoeiro espesso dificultava a condução.",
+          "example_sv": "Den täta dimman försvårade körningen."
+        }
+      ]
+    },
+    {
+      "theme": "djur",
+      "words": [
+        {
+          "pt": "lince-ibérico",
+          "sv": "iberisk lodjur",
+          "type": "substantiv",
+          "example_pt": "O lince-ibérico é uma espécie em perigo de extinção.",
+          "example_sv": "Det iberiska lodjuret är en utrotningshotad art."
+        },
+        {
+          "pt": "cegonha-branca",
+          "sv": "vit stork",
+          "type": "substantiv",
+          "example_pt": "A cegonha-branca volta todos os anos em primavera.",
+          "example_sv": "Den vita storken återvänder varje år på våren."
+        },
+        {
+          "pt": "touro",
+          "sv": "tjur",
+          "type": "substantiv",
+          "example_pt": "O touro pastava calmamente no campo.",
+          "example_sv": "Tjuren betade lugnt på fältet."
+        },
+        {
+          "pt": "águia",
+          "sv": "örn",
+          "type": "substantiv",
+          "example_pt": "A águia voou alto sobre as montanhas.",
+          "example_sv": "Örnen flög högt över bergen."
+        },
+        {
+          "pt": "raposa",
+          "sv": "räv",
+          "type": "substantiv",
+          "example_pt": "A raposa caçava à noite perto da aldeia.",
+          "example_sv": "Räven jagade på natten nära byn."
+        },
+        {
+          "pt": "golfinho-comum",
+          "sv": "vanlig delfin",
+          "type": "substantiv",
+          "example_pt": "Vimos um golfinho-comum a saltar no oceano.",
+          "example_sv": "Vi såg en vanlig delfin hoppa i havet."
+        },
+        {
+          "pt": "veado",
+          "sv": "hjort",
+          "type": "substantiv",
+          "example_pt": "O veado atravessou a floresta ao amanhecer.",
+          "example_sv": "Hjorten korsade skogen vid gryningen."
+        },
+        {
+          "pt": "polvinho",
+          "sv": "liten bläckfisk",
+          "type": "substantiv",
+          "example_pt": "O polvinho escondia-se nas rochas submarinas.",
+          "example_sv": "Den lilla bläckfisken gömde sig i undervattensklipporna."
+        }
+      ]
+    }
+  ]
+}
