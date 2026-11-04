@@ -1,0 +1,188 @@
+{
+  "date": "2026-11-04",
+  "sets": [
+    {
+      "theme": "mat och dryck",
+      "words": [
+        {
+          "pt": "sardinha",
+          "sv": "sardin",
+          "type": "substantiv",
+          "example_pt": "Gosto de comer sardinha grelhada no verão.",
+          "example_sv": "Jag älskar att äta grillad sardin på sommaren."
+        },
+        {
+          "pt": "arroz",
+          "sv": "ris",
+          "type": "substantiv",
+          "example_pt": "O arroz é um acompanhamento muito comum em Portugal.",
+          "example_sv": "Ris är ett mycket vanligt tillbehör i Portugal."
+        },
+        {
+          "pt": "torrada",
+          "sv": "rostat bröd",
+          "type": "substantiv",
+          "example_pt": "Comi uma torrada com manteiga ao pequeno-almoço.",
+          "example_sv": "Jag åt rostat bröd med smör till frukost."
+        },
+        {
+          "pt": "polvo",
+          "sv": "bläckfisk",
+          "type": "substantiv",
+          "example_pt": "O polvo à lagareiro é um prato típico português.",
+          "example_sv": "Polvo à lagareiro är en typisk portugisisk rätt."
+        },
+        {
+          "pt": "vinho tinto",
+          "sv": "rött vin",
+          "type": "substantiv",
+          "example_pt": "Ele pediu um copo de vinho tinto no restaurante.",
+          "example_sv": "Han beställde ett glas rött vin på restaurangen."
+        },
+        {
+          "pt": "noz",
+          "sv": "valnöt",
+          "type": "substantiv",
+          "example_pt": "A noz é muito usada em sobremesas tradicionais.",
+          "example_sv": "Valnöt används mycket i traditionella desserter."
+        },
+        {
+          "pt": "mexilhão",
+          "sv": "mussla",
+          "type": "substantiv",
+          "example_pt": "Comprámos mexilhões frescos no mercado de peixe.",
+          "example_sv": "Vi köpte färska musslor på fiskmarknaden."
+        },
+        {
+          "pt": "caldo verde",
+          "sv": "grönkålssoppa",
+          "type": "substantiv",
+          "example_pt": "O caldo verde é uma sopa tradicional do norte de Portugal.",
+          "example_sv": "Caldo verde är en traditionell soppa från norra Portugal."
+        }
+      ]
+    },
+    {
+      "theme": "resor och transport",
+      "words": [
+        {
+          "pt": "passageiro",
+          "sv": "passagerare",
+          "type": "substantiv",
+          "example_pt": "Os passageiros esperavam na sala de embarque.",
+          "example_sv": "Passagerarna väntade i avgångshallen."
+        },
+        {
+          "pt": "bilhete",
+          "sv": "biljett",
+          "type": "substantiv",
+          "example_pt": "Comprei o bilhete de avião com antecedência.",
+          "example_sv": "Jag köpte flygbiljetten i förväg."
+        },
+        {
+          "pt": "mochila",
+          "sv": "ryggsäck",
+          "type": "substantiv",
+          "example_pt": "Ela carregava uma mochila grande durante a viagem.",
+          "example_sv": "Hon bar en stor ryggsäck under resan."
+        },
+        {
+          "pt": "autocarro",
+          "sv": "buss",
+          "type": "substantiv",
+          "example_pt": "O autocarro partiu da estação às nove horas.",
+          "example_sv": "Bussen avgick från stationen klockan nio."
+        },
+        {
+          "pt": "itinerário",
+          "sv": "resplan",
+          "type": "substantiv",
+          "example_pt": "Preparei um itinerário detalhado para as férias.",
+          "example_sv": "Jag förberedde en detaljerad resplan för semestern."
+        },
+        {
+          "pt": "alugar",
+          "sv": "hyra",
+          "type": "verb",
+          "example_pt": "Vamos alugar um carro para explorar o Alentejo.",
+          "example_sv": "Vi ska hyra en bil för att utforska Alentejo."
+        },
+        {
+          "pt": "mala",
+          "sv": "resväska",
+          "type": "substantiv",
+          "example_pt": "A minha mala ficou perdida no aeroporto.",
+          "example_sv": "Min resväska försvann på flygplatsen."
+        },
+        {
+          "pt": "embarcar",
+          "sv": "gå ombord",
+          "type": "verb",
+          "example_pt": "Os turistas vão embarcar no navio às oito da manhã.",
+          "example_sv": "Turisterna ska gå ombord på fartyget klockan åtta på morgonen."
+        }
+      ]
+    },
+    {
+      "theme": "stad och platser",
+      "words": [
+        {
+          "pt": "padaria",
+          "sv": "bageri",
+          "type": "substantiv",
+          "example_pt": "A padaria abre muito cedo todos os dias.",
+          "example_sv": "Bageriet öppnar mycket tidigt varje dag."
+        },
+        {
+          "pt": "farmácia",
+          "sv": "apotek",
+          "type": "substantiv",
+          "example_pt": "Fui à farmácia comprar medicamentos para a tosse.",
+          "example_sv": "Jag gick till apoteket för att köpa hostmedicin."
+        },
+        {
+          "pt": "hospital",
+          "sv": "sjukhus",
+          "type": "substantiv",
+          "example_pt": "O hospital fica perto do centro da cidade.",
+          "example_sv": "Sjukhuset ligger nära stadens centrum."
+        },
+        {
+          "pt": "parque",
+          "sv": "park",
+          "type": "substantiv",
+          "example_pt": "As crianças brincam no parque ao fim do dia.",
+          "example_sv": "Barnen leker i parken på eftermiddagen."
+        },
+        {
+          "pt": "câmara de comércio",
+          "sv": "handelskammare",
+          "type": "substantiv",
+          "example_pt": "A câmara de comércio organiza eventos para empresas locais.",
+          "example_sv": "Handelskammaren organiserar evenemang för lokala företag."
+        },
+        {
+          "pt": "periferia",
+          "sv": "utkanten",
+          "type": "substantiv",
+          "example_pt": "Ela mora na periferia da cidade há dez anos.",
+          "example_sv": "Hon har bott i utkanten av staden i tio år."
+        },
+        {
+          "pt": "monumento",
+          "sv": "monument",
+          "type": "substantiv",
+          "example_pt": "O monumento histórico atrai muitos turistas.",
+          "example_sv": "Det historiska monumentet lockar många turister."
+        },
+        {
+          "pt": "cruzamento",
+          "sv": "korsning",
+          "type": "substantiv",
+          "example_pt": "Vire à esquerda no próximo cruzamento.",
+          "example_sv": "Sväng till vänster vid nästa korsning."
+        }
+      ]
+    }
+  ]
+}

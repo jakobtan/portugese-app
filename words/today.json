@@ -1,186 +1,186 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "sets": [
     {
       "theme": "mat och dryck",
       "words": [
         {
-          "pt": "azeitona",
-          "sv": "oliv",
+          "pt": "sardinha",
+          "sv": "sardin",
           "type": "substantiv",
-          "example_pt": "Eu gosto de azeitonas verdes no meu prato.",
-          "example_sv": "Jag gillar gröna oliver på min tallrik."
+          "example_pt": "Gosto de comer sardinha grelhada no verão.",
+          "example_sv": "Jag älskar att äta grillad sardin på sommaren."
         },
         {
-          "pt": "natas",
-          "sv": "grädde",
+          "pt": "arroz",
+          "sv": "ris",
           "type": "substantiv",
-          "example_pt": "As natas tornam o molho mais cremoso.",
-          "example_sv": "Grädden gör såsen krämigare."
+          "example_pt": "O arroz é um acompanhamento muito comum em Portugal.",
+          "example_sv": "Ris är ett mycket vanligt tillbehör i Portugal."
         },
         {
-          "pt": "pão de centeio",
-          "sv": "rågbröd",
+          "pt": "torrada",
+          "sv": "rostat bröd",
           "type": "substantiv",
-          "example_pt": "O pão de centeio é muito nutritivo.",
-          "example_sv": "Rågbröd är mycket näringsrikt."
+          "example_pt": "Comi uma torrada com manteiga ao pequeno-almoço.",
+          "example_sv": "Jag åt rostat bröd med smör till frukost."
         },
         {
-          "pt": "chouriço",
-          "sv": "kryddkorv",
+          "pt": "polvo",
+          "sv": "bläckfisk",
           "type": "substantiv",
-          "example_pt": "O chouriço é um ingrediente típico português.",
-          "example_sv": "Kryddkorv är en typisk portugisisk ingrediens."
+          "example_pt": "O polvo à lagareiro é um prato típico português.",
+          "example_sv": "Polvo à lagareiro är en typisk portugisisk rätt."
         },
         {
-          "pt": "sumo de laranja",
-          "sv": "apelsinjuice",
+          "pt": "vinho tinto",
+          "sv": "rött vin",
           "type": "substantiv",
-          "example_pt": "Bebo sumo de laranja ao pequeno-almoço.",
-          "example_sv": "Jag dricker apelsinjuice till frukost."
+          "example_pt": "Ele pediu um copo de vinho tinto no restaurante.",
+          "example_sv": "Han beställde ett glas rött vin på restaurangen."
         },
         {
-          "pt": "feijão",
-          "sv": "böna",
+          "pt": "noz",
+          "sv": "valnöt",
           "type": "substantiv",
-          "example_pt": "O feijão é rico em proteínas e fibras.",
-          "example_sv": "Bönor är rika på proteiner och fibrer."
+          "example_pt": "A noz é muito usada em sobremesas tradicionais.",
+          "example_sv": "Valnöt används mycket i traditionella desserter."
         },
         {
-          "pt": "queijo da serra",
-          "sv": "bergsost",
+          "pt": "mexilhão",
+          "sv": "mussla",
           "type": "substantiv",
-          "example_pt": "O queijo da serra é uma especialidade portuguesa.",
-          "example_sv": "Bergsost är en portugisisk specialitet."
+          "example_pt": "Comprámos mexilhões frescos no mercado de peixe.",
+          "example_sv": "Vi köpte färska musslor på fiskmarknaden."
         },
         {
-          "pt": "caldeirada",
-          "sv": "fiskgryta",
+          "pt": "caldo verde",
+          "sv": "grönkålssoppa",
           "type": "substantiv",
-          "example_pt": "A caldeirada é um prato tradicional de peixe.",
-          "example_sv": "Fiskgryta är en traditionell fiskrätt."
+          "example_pt": "O caldo verde é uma sopa tradicional do norte de Portugal.",
+          "example_sv": "Caldo verde är en traditionell soppa från norra Portugal."
         }
       ]
     },
     {
-      "theme": "natur och väder",
+      "theme": "resor och transport",
       "words": [
         {
-          "pt": "granizo",
-          "sv": "hagel",
+          "pt": "passageiro",
+          "sv": "passagerare",
           "type": "substantiv",
-          "example_pt": "Caiu granizo durante a tarde de inverno.",
-          "example_sv": "Det föll hagel under vintereftermiddagen."
+          "example_pt": "Os passageiros esperavam na sala de embarque.",
+          "example_sv": "Passagerarna väntade i avgångshallen."
         },
         {
-          "pt": "brisa",
-          "sv": "bris",
+          "pt": "bilhete",
+          "sv": "biljett",
           "type": "substantiv",
-          "example_pt": "Sinto uma brisa fresca vinda do mar.",
-          "example_sv": "Jag känner en sval bris från havet."
+          "example_pt": "Comprei o bilhete de avião com antecedência.",
+          "example_sv": "Jag köpte flygbiljetten i förväg."
         },
         {
-          "pt": "ravina",
-          "sv": "ravin",
+          "pt": "mochila",
+          "sv": "ryggsäck",
           "type": "substantiv",
-          "example_pt": "A ravina era profunda e perigosa.",
-          "example_sv": "Ravinen var djup och farlig."
+          "example_pt": "Ela carregava uma mochila grande durante a viagem.",
+          "example_sv": "Hon bar en stor ryggsäck under resan."
         },
         {
-          "pt": "geada",
-          "sv": "frost",
+          "pt": "autocarro",
+          "sv": "buss",
           "type": "substantiv",
-          "example_pt": "Houve geada esta manhã e as plantas morreram.",
-          "example_sv": "Det var frost i morse och växterna dog."
+          "example_pt": "O autocarro partiu da estação às nove horas.",
+          "example_sv": "Bussen avgick från stationen klockan nio."
         },
         {
-          "pt": "ribeiro",
-          "sv": "bäck",
+          "pt": "itinerário",
+          "sv": "resplan",
           "type": "substantiv",
-          "example_pt": "As crianças brincavam junto ao ribeiro.",
-          "example_sv": "Barnen lekte vid bäcken."
+          "example_pt": "Preparei um itinerário detalhado para as férias.",
+          "example_sv": "Jag förberedde en detaljerad resplan för semestern."
         },
         {
-          "pt": "trovão",
-          "sv": "åska",
-          "type": "substantiv",
-          "example_pt": "Ouvimos o trovão ao longe durante a tempestade.",
-          "example_sv": "Vi hörde åskan på avstånd under stormen."
+          "pt": "alugar",
+          "sv": "hyra",
+          "type": "verb",
+          "example_pt": "Vamos alugar um carro para explorar o Alentejo.",
+          "example_sv": "Vi ska hyra en bil för att utforska Alentejo."
         },
         {
-          "pt": "encosta",
-          "sv": "sluttning",
+          "pt": "mala",
+          "sv": "resväska",
           "type": "substantiv",
-          "example_pt": "A encosta da montanha estava coberta de neve.",
-          "example_sv": "Bergsluttningen var täckt av snö."
+          "example_pt": "A minha mala ficou perdida no aeroporto.",
+          "example_sv": "Min resväska försvann på flygplatsen."
         },
         {
-          "pt": "nevoeiro",
-          "sv": "dimma",
-          "type": "substantiv",
-          "example_pt": "O nevoeiro espesso dificultava a condução.",
-          "example_sv": "Den täta dimman försvårade körningen."
+          "pt": "embarcar",
+          "sv": "gå ombord",
+          "type": "verb",
+          "example_pt": "Os turistas vão embarcar no navio às oito da manhã.",
+          "example_sv": "Turisterna ska gå ombord på fartyget klockan åtta på morgonen."
         }
       ]
     },
     {
-      "theme": "djur",
+      "theme": "stad och platser",
       "words": [
         {
-          "pt": "lince-ibérico",
-          "sv": "iberisk lodjur",
+          "pt": "padaria",
+          "sv": "bageri",
           "type": "substantiv",
-          "example_pt": "O lince-ibérico é uma espécie em perigo de extinção.",
-          "example_sv": "Det iberiska lodjuret är en utrotningshotad art."
+          "example_pt": "A padaria abre muito cedo todos os dias.",
+          "example_sv": "Bageriet öppnar mycket tidigt varje dag."
         },
         {
-          "pt": "cegonha-branca",
-          "sv": "vit stork",
+          "pt": "farmácia",
+          "sv": "apotek",
           "type": "substantiv",
-          "example_pt": "A cegonha-branca volta todos os anos em primavera.",
-          "example_sv": "Den vita storken återvänder varje år på våren."
+          "example_pt": "Fui à farmácia comprar medicamentos para a tosse.",
+          "example_sv": "Jag gick till apoteket för att köpa hostmedicin."
         },
         {
-          "pt": "touro",
-          "sv": "tjur",
+          "pt": "hospital",
+          "sv": "sjukhus",
           "type": "substantiv",
-          "example_pt": "O touro pastava calmamente no campo.",
-          "example_sv": "Tjuren betade lugnt på fältet."
+          "example_pt": "O hospital fica perto do centro da cidade.",
+          "example_sv": "Sjukhuset ligger nära stadens centrum."
         },
         {
-          "pt": "águia",
-          "sv": "örn",
+          "pt": "parque",
+          "sv": "park",
           "type": "substantiv",
-          "example_pt": "A águia voou alto sobre as montanhas.",
-          "example_sv": "Örnen flög högt över bergen."
+          "example_pt": "As crianças brincam no parque ao fim do dia.",
+          "example_sv": "Barnen leker i parken på eftermiddagen."
         },
         {
-          "pt": "raposa",
-          "sv": "räv",
+          "pt": "câmara de comércio",
+          "sv": "handelskammare",
           "type": "substantiv",
-          "example_pt": "A raposa caçava à noite perto da aldeia.",
-          "example_sv": "Räven jagade på natten nära byn."
+          "example_pt": "A câmara de comércio organiza eventos para empresas locais.",
+          "example_sv": "Handelskammaren organiserar evenemang för lokala företag."
         },
         {
-          "pt": "golfinho-comum",
-          "sv": "vanlig delfin",
+          "pt": "periferia",
+          "sv": "utkanten",
           "type": "substantiv",
-          "example_pt": "Vimos um golfinho-comum a saltar no oceano.",
-          "example_sv": "Vi såg en vanlig delfin hoppa i havet."
+          "example_pt": "Ela mora na periferia da cidade há dez anos.",
+          "example_sv": "Hon har bott i utkanten av staden i tio år."
         },
         {
-          "pt": "veado",
-          "sv": "hjort",
+          "pt": "monumento",
+          "sv": "monument",
           "type": "substantiv",
-          "example_pt": "O veado atravessou a floresta ao amanhecer.",
-          "example_sv": "Hjorten korsade skogen vid gryningen."
+          "example_pt": "O monumento histórico atrai muitos turistas.",
+          "example_sv": "Det historiska monumentet lockar många turister."
         },
         {
-          "pt": "polvinho",
-          "sv": "liten bläckfisk",
+          "pt": "cruzamento",
+          "sv": "korsning",
           "type": "substantiv",
-          "example_pt": "O polvinho escondia-se nas rochas submarinas.",
-          "example_sv": "Den lilla bläckfisken gömde sig i undervattensklipporna."
+          "example_pt": "Vire à esquerda no próximo cruzamento.",
+          "example_sv": "Sväng till vänster vid nästa korsning."
         }
       ]
     }
