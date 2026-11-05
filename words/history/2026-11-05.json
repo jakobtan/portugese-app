@@ -1,0 +1,188 @@
+{
+  "date": "2026-11-05",
+  "sets": [
+    {
+      "theme": "tid och datum",
+      "words": [
+        {
+          "pt": "trimestre",
+          "sv": "kvartal / termin",
+          "type": "substantiv",
+          "example_pt": "O primeiro trimestre do ano já terminou.",
+          "example_sv": "Årets första kvartal är redan slut."
+        },
+        {
+          "pt": "quinzena",
+          "sv": "fjortondagarsperiod / två veckor",
+          "type": "substantiv",
+          "example_pt": "Recebo o salário a cada quinzena.",
+          "example_sv": "Jag får lön var fjortonde dag."
+        },
+        {
+          "pt": "entardecer",
+          "sv": "skymning / kväll",
+          "type": "substantiv",
+          "example_pt": "Gosto de passear ao entardecer.",
+          "example_sv": "Jag gillar att promenera i skymningen."
+        },
+        {
+          "pt": "alvorada",
+          "sv": "gryning / dagning",
+          "type": "substantiv",
+          "example_pt": "Os pássaros cantam na alvorada.",
+          "example_sv": "Fåglarna sjunger i gryningen."
+        },
+        {
+          "pt": "bimestral",
+          "sv": "tvåmånaders-",
+          "type": "adjektiv",
+          "example_pt": "A reunião é bimestral.",
+          "example_sv": "Mötet är varannan månad."
+        },
+        {
+          "pt": "décimo",
+          "sv": "tionde",
+          "type": "adjektiv",
+          "example_pt": "Hoje é o décimo dia do mês.",
+          "example_sv": "Idag är den tionde dagen i månaden."
+        },
+        {
+          "pt": "prazo limite",
+          "sv": "sista datum / deadline",
+          "type": "substantiv",
+          "example_pt": "O prazo limite para inscrição é amanhã.",
+          "example_sv": "Sista datum för anmälan är imorgon."
+        },
+        {
+          "pt": "intercalar",
+          "sv": "infoga / mellanliggande",
+          "type": "verb",
+          "example_pt": "Fevereiro tem um dia intercalar no ano bissexto.",
+          "example_sv": "Februari har en extra dag på skottår."
+        }
+      ]
+    },
+    {
+      "theme": "djur",
+      "words": [
+        {
+          "pt": "morcego",
+          "sv": "fladdermus",
+          "type": "substantiv",
+          "example_pt": "O morcego voa de noite.",
+          "example_sv": "Fladdermössen flyger på natten."
+        },
+        {
+          "pt": "toupeira",
+          "sv": "mullvad",
+          "type": "substantiv",
+          "example_pt": "A toupeira vive debaixo da terra.",
+          "example_sv": "Mullvaden lever under jord."
+        },
+        {
+          "pt": "cegonha",
+          "sv": "stork",
+          "type": "substantiv",
+          "example_pt": "A cegonha faz o ninho nos telhados.",
+          "example_sv": "Storken bygger bo på taken."
+        },
+        {
+          "pt": "linhaça",
+          "sv": "linfink",
+          "type": "substantiv",
+          "example_pt": "O pintassilgo é um pássaro colorido.",
+          "example_sv": "Steglitsen är en färgglad fågel."
+        },
+        {
+          "pt": "sapo",
+          "sv": "padda",
+          "type": "substantiv",
+          "example_pt": "O sapo vive perto da água.",
+          "example_sv": "Paddan lever nära vatten."
+        },
+        {
+          "pt": "camaleão",
+          "sv": "kameleont",
+          "type": "substantiv",
+          "example_pt": "O camaleão muda de cor para se camuflar.",
+          "example_sv": "Kameleonten byter färg för att kamouflera sig."
+        },
+        {
+          "pt": "esquilo",
+          "sv": "ekorre",
+          "type": "substantiv",
+          "example_pt": "O esquilo guarda bolotas para o inverno.",
+          "example_sv": "Ekorren lagrar ekollon inför vintern."
+        },
+        {
+          "pt": "lontra",
+          "sv": "utter",
+          "type": "substantiv",
+          "example_pt": "A lontra é um excelente nadador.",
+          "example_sv": "Uttern är en utmärkt simmare."
+        }
+      ]
+    },
+    {
+      "theme": "kläder och mode",
+      "words": [
+        {
+          "pt": "saia",
+          "sv": "kjol",
+          "type": "substantiv",
+          "example_pt": "Ela usa uma saia comprida no trabalho.",
+          "example_sv": "Hon bär en lång kjol på jobbet."
+        },
+        {
+          "pt": "impermeável",
+          "sv": "regnrock / vattentät jacka",
+          "type": "substantiv",
+          "example_pt": "Não te esqueças do impermeável, vai chover.",
+          "example_sv": "Glöm inte regnrocken, det kommer att regna."
+        },
+        {
+          "pt": "cinto",
+          "sv": "bälte / skärp",
+          "type": "substantiv",
+          "example_pt": "Ele ajustou o cinto da calça.",
+          "example_sv": "Han justerade byxbältet."
+        },
+        {
+          "pt": "gola",
+          "sv": "krage",
+          "type": "substantiv",
+          "example_pt": "A camisa tem uma gola alta.",
+          "example_sv": "Skjortan har en hög krage."
+        },
+        {
+          "pt": "malha",
+          "sv": "tröja / stickad tröja",
+          "type": "substantiv",
+          "example_pt": "Visto uma malha quente no inverno.",
+          "example_sv": "Jag har på mig en varm stickad tröja på vintern."
+        },
+        {
+          "pt": "sandálias",
+          "sv": "sandaler",
+          "type": "substantiv",
+          "example_pt": "Uso sandálias na praia.",
+          "example_sv": "Jag använder sandaler på stranden."
+        },
+        {
+          "pt": "fato de banho",
+          "sv": "baddräkt / badbyxor",
+          "type": "substantiv",
+          "example_pt": "Não te esqueças do fato de banho para a piscina.",
+          "example_sv": "Glöm inte baddräkten till badet."
+        },
+        {
+          "pt": "chapéu",
+          "sv": "hatt / keps",
+          "type": "substantiv",
+          "example_pt": "Ele usa chapéu para se proteger do sol.",
+          "example_sv": "Han bär hatt för att skydda sig mot solen."
+        }
+      ]
+    }
+  ]
+}

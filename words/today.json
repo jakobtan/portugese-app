@@ -1,186 +1,186 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "sets": [
     {
-      "theme": "mat och dryck",
+      "theme": "tid och datum",
       "words": [
         {
-          "pt": "sardinha",
-          "sv": "sardin",
+          "pt": "trimestre",
+          "sv": "kvartal / termin",
           "type": "substantiv",
-          "example_pt": "Gosto de comer sardinha grelhada no verão.",
-          "example_sv": "Jag älskar att äta grillad sardin på sommaren."
+          "example_pt": "O primeiro trimestre do ano já terminou.",
+          "example_sv": "Årets första kvartal är redan slut."
         },
         {
-          "pt": "arroz",
-          "sv": "ris",
+          "pt": "quinzena",
+          "sv": "fjortondagarsperiod / två veckor",
           "type": "substantiv",
-          "example_pt": "O arroz é um acompanhamento muito comum em Portugal.",
-          "example_sv": "Ris är ett mycket vanligt tillbehör i Portugal."
+          "example_pt": "Recebo o salário a cada quinzena.",
+          "example_sv": "Jag får lön var fjortonde dag."
         },
         {
-          "pt": "torrada",
-          "sv": "rostat bröd",
+          "pt": "entardecer",
+          "sv": "skymning / kväll",
           "type": "substantiv",
-          "example_pt": "Comi uma torrada com manteiga ao pequeno-almoço.",
-          "example_sv": "Jag åt rostat bröd med smör till frukost."
+          "example_pt": "Gosto de passear ao entardecer.",
+          "example_sv": "Jag gillar att promenera i skymningen."
         },
         {
-          "pt": "polvo",
-          "sv": "bläckfisk",
+          "pt": "alvorada",
+          "sv": "gryning / dagning",
           "type": "substantiv",
-          "example_pt": "O polvo à lagareiro é um prato típico português.",
-          "example_sv": "Polvo à lagareiro är en typisk portugisisk rätt."
+          "example_pt": "Os pássaros cantam na alvorada.",
+          "example_sv": "Fåglarna sjunger i gryningen."
         },
         {
-          "pt": "vinho tinto",
-          "sv": "rött vin",
-          "type": "substantiv",
-          "example_pt": "Ele pediu um copo de vinho tinto no restaurante.",
-          "example_sv": "Han beställde ett glas rött vin på restaurangen."
+          "pt": "bimestral",
+          "sv": "tvåmånaders-",
+          "type": "adjektiv",
+          "example_pt": "A reunião é bimestral.",
+          "example_sv": "Mötet är varannan månad."
         },
         {
-          "pt": "noz",
-          "sv": "valnöt",
-          "type": "substantiv",
-          "example_pt": "A noz é muito usada em sobremesas tradicionais.",
-          "example_sv": "Valnöt används mycket i traditionella desserter."
+          "pt": "décimo",
+          "sv": "tionde",
+          "type": "adjektiv",
+          "example_pt": "Hoje é o décimo dia do mês.",
+          "example_sv": "Idag är den tionde dagen i månaden."
         },
         {
-          "pt": "mexilhão",
-          "sv": "mussla",
+          "pt": "prazo limite",
+          "sv": "sista datum / deadline",
           "type": "substantiv",
-          "example_pt": "Comprámos mexilhões frescos no mercado de peixe.",
-          "example_sv": "Vi köpte färska musslor på fiskmarknaden."
+          "example_pt": "O prazo limite para inscrição é amanhã.",
+          "example_sv": "Sista datum för anmälan är imorgon."
         },
         {
-          "pt": "caldo verde",
-          "sv": "grönkålssoppa",
-          "type": "substantiv",
-          "example_pt": "O caldo verde é uma sopa tradicional do norte de Portugal.",
-          "example_sv": "Caldo verde är en traditionell soppa från norra Portugal."
+          "pt": "intercalar",
+          "sv": "infoga / mellanliggande",
+          "type": "verb",
+          "example_pt": "Fevereiro tem um dia intercalar no ano bissexto.",
+          "example_sv": "Februari har en extra dag på skottår."
         }
       ]
     },
     {
-      "theme": "resor och transport",
+      "theme": "djur",
       "words": [
         {
-          "pt": "passageiro",
-          "sv": "passagerare",
+          "pt": "morcego",
+          "sv": "fladdermus",
           "type": "substantiv",
-          "example_pt": "Os passageiros esperavam na sala de embarque.",
-          "example_sv": "Passagerarna väntade i avgångshallen."
+          "example_pt": "O morcego voa de noite.",
+          "example_sv": "Fladdermössen flyger på natten."
         },
         {
-          "pt": "bilhete",
-          "sv": "biljett",
+          "pt": "toupeira",
+          "sv": "mullvad",
           "type": "substantiv",
-          "example_pt": "Comprei o bilhete de avião com antecedência.",
-          "example_sv": "Jag köpte flygbiljetten i förväg."
+          "example_pt": "A toupeira vive debaixo da terra.",
+          "example_sv": "Mullvaden lever under jord."
         },
         {
-          "pt": "mochila",
-          "sv": "ryggsäck",
+          "pt": "cegonha",
+          "sv": "stork",
           "type": "substantiv",
-          "example_pt": "Ela carregava uma mochila grande durante a viagem.",
-          "example_sv": "Hon bar en stor ryggsäck under resan."
+          "example_pt": "A cegonha faz o ninho nos telhados.",
+          "example_sv": "Storken bygger bo på taken."
         },
         {
-          "pt": "autocarro",
-          "sv": "buss",
+          "pt": "linhaça",
+          "sv": "linfink",
           "type": "substantiv",
-          "example_pt": "O autocarro partiu da estação às nove horas.",
-          "example_sv": "Bussen avgick från stationen klockan nio."
+          "example_pt": "O pintassilgo é um pássaro colorido.",
+          "example_sv": "Steglitsen är en färgglad fågel."
         },
         {
-          "pt": "itinerário",
-          "sv": "resplan",
+          "pt": "sapo",
+          "sv": "padda",
           "type": "substantiv",
-          "example_pt": "Preparei um itinerário detalhado para as férias.",
-          "example_sv": "Jag förberedde en detaljerad resplan för semestern."
+          "example_pt": "O sapo vive perto da água.",
+          "example_sv": "Paddan lever nära vatten."
         },
         {
-          "pt": "alugar",
-          "sv": "hyra",
-          "type": "verb",
-          "example_pt": "Vamos alugar um carro para explorar o Alentejo.",
-          "example_sv": "Vi ska hyra en bil för att utforska Alentejo."
-        },
-        {
-          "pt": "mala",
-          "sv": "resväska",
+          "pt": "camaleão",
+          "sv": "kameleont",
           "type": "substantiv",
-          "example_pt": "A minha mala ficou perdida no aeroporto.",
-          "example_sv": "Min resväska försvann på flygplatsen."
+          "example_pt": "O camaleão muda de cor para se camuflar.",
+          "example_sv": "Kameleonten byter färg för att kamouflera sig."
         },
         {
-          "pt": "embarcar",
-          "sv": "gå ombord",
-          "type": "verb",
-          "example_pt": "Os turistas vão embarcar no navio às oito da manhã.",
-          "example_sv": "Turisterna ska gå ombord på fartyget klockan åtta på morgonen."
+          "pt": "esquilo",
+          "sv": "ekorre",
+          "type": "substantiv",
+          "example_pt": "O esquilo guarda bolotas para o inverno.",
+          "example_sv": "Ekorren lagrar ekollon inför vintern."
+        },
+        {
+          "pt": "lontra",
+          "sv": "utter",
+          "type": "substantiv",
+          "example_pt": "A lontra é um excelente nadador.",
+          "example_sv": "Uttern är en utmärkt simmare."
         }
       ]
     },
     {
-      "theme": "stad och platser",
+      "theme": "kläder och mode",
       "words": [
         {
-          "pt": "padaria",
-          "sv": "bageri",
+          "pt": "saia",
+          "sv": "kjol",
           "type": "substantiv",
-          "example_pt": "A padaria abre muito cedo todos os dias.",
-          "example_sv": "Bageriet öppnar mycket tidigt varje dag."
+          "example_pt": "Ela usa uma saia comprida no trabalho.",
+          "example_sv": "Hon bär en lång kjol på jobbet."
         },
         {
-          "pt": "farmácia",
-          "sv": "apotek",
+          "pt": "impermeável",
+          "sv": "regnrock / vattentät jacka",
           "type": "substantiv",
-          "example_pt": "Fui à farmácia comprar medicamentos para a tosse.",
-          "example_sv": "Jag gick till apoteket för att köpa hostmedicin."
+          "example_pt": "Não te esqueças do impermeável, vai chover.",
+          "example_sv": "Glöm inte regnrocken, det kommer att regna."
         },
         {
-          "pt": "hospital",
-          "sv": "sjukhus",
+          "pt": "cinto",
+          "sv": "bälte / skärp",
           "type": "substantiv",
-          "example_pt": "O hospital fica perto do centro da cidade.",
-          "example_sv": "Sjukhuset ligger nära stadens centrum."
+          "example_pt": "Ele ajustou o cinto da calça.",
+          "example_sv": "Han justerade byxbältet."
         },
         {
-          "pt": "parque",
-          "sv": "park",
+          "pt": "gola",
+          "sv": "krage",
           "type": "substantiv",
-          "example_pt": "As crianças brincam no parque ao fim do dia.",
-          "example_sv": "Barnen leker i parken på eftermiddagen."
+          "example_pt": "A camisa tem uma gola alta.",
+          "example_sv": "Skjortan har en hög krage."
         },
         {
-          "pt": "câmara de comércio",
-          "sv": "handelskammare",
+          "pt": "malha",
+          "sv": "tröja / stickad tröja",
           "type": "substantiv",
-          "example_pt": "A câmara de comércio organiza eventos para empresas locais.",
-          "example_sv": "Handelskammaren organiserar evenemang för lokala företag."
+          "example_pt": "Visto uma malha quente no inverno.",
+          "example_sv": "Jag har på mig en varm stickad tröja på vintern."
         },
         {
-          "pt": "periferia",
-          "sv": "utkanten",
+          "pt": "sandálias",
+          "sv": "sandaler",
           "type": "substantiv",
-          "example_pt": "Ela mora na periferia da cidade há dez anos.",
-          "example_sv": "Hon har bott i utkanten av staden i tio år."
+          "example_pt": "Uso sandálias na praia.",
+          "example_sv": "Jag använder sandaler på stranden."
         },
         {
-          "pt": "monumento",
-          "sv": "monument",
+          "pt": "fato de banho",
+          "sv": "baddräkt / badbyxor",
           "type": "substantiv",
-          "example_pt": "O monumento histórico atrai muitos turistas.",
-          "example_sv": "Det historiska monumentet lockar många turister."
+          "example_pt": "Não te esqueças do fato de banho para a piscina.",
+          "example_sv": "Glöm inte baddräkten till badet."
         },
         {
-          "pt": "cruzamento",
-          "sv": "korsning",
+          "pt": "chapéu",
+          "sv": "hatt / keps",
           "type": "substantiv",
-          "example_pt": "Vire à esquerda no próximo cruzamento.",
-          "example_sv": "Sväng till vänster vid nästa korsning."
+          "example_pt": "Ele usa chapéu para se proteger do sol.",
+          "example_sv": "Han bär hatt för att skydda sig mot solen."
         }
       ]
     }
