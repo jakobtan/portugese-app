@@ -1,186 +1,186 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "sets": [
     {
-      "theme": "tid och datum",
+      "theme": "vardagliga fraser",
       "words": [
         {
-          "pt": "trimestre",
-          "sv": "kvartal / termin",
-          "type": "substantiv",
-          "example_pt": "O primeiro trimestre do ano já terminou.",
-          "example_sv": "Årets första kvartal är redan slut."
+          "pt": "desculpe",
+          "sv": "förlåt / ursäkta",
+          "type": "fras",
+          "example_pt": "Desculpe, não entendi o que disse.",
+          "example_sv": "Förlåt, jag förstod inte vad du sa."
         },
         {
-          "pt": "quinzena",
-          "sv": "fjortondagarsperiod / två veckor",
-          "type": "substantiv",
-          "example_pt": "Recebo o salário a cada quinzena.",
-          "example_sv": "Jag får lön var fjortonde dag."
+          "pt": "por favor",
+          "sv": "snälla / vänligen",
+          "type": "fras",
+          "example_pt": "Por favor, pode repetir mais devagar?",
+          "example_sv": "Kan du snälla upprepa lite långsammare?"
         },
         {
-          "pt": "entardecer",
-          "sv": "skymning / kväll",
-          "type": "substantiv",
-          "example_pt": "Gosto de passear ao entardecer.",
-          "example_sv": "Jag gillar att promenera i skymningen."
+          "pt": "obrigado",
+          "sv": "tack",
+          "type": "fras",
+          "example_pt": "Obrigado pela sua ajuda!",
+          "example_sv": "Tack för din hjälp!"
         },
         {
-          "pt": "alvorada",
-          "sv": "gryning / dagning",
-          "type": "substantiv",
-          "example_pt": "Os pássaros cantam na alvorada.",
-          "example_sv": "Fåglarna sjunger i gryningen."
+          "pt": "bom dia",
+          "sv": "god morgon",
+          "type": "fras",
+          "example_pt": "Bom dia, como está?",
+          "example_sv": "God morgon, hur mår du?"
         },
         {
-          "pt": "bimestral",
-          "sv": "tvåmånaders-",
-          "type": "adjektiv",
-          "example_pt": "A reunião é bimestral.",
-          "example_sv": "Mötet är varannan månad."
+          "pt": "boa noite",
+          "sv": "god natt / god kväll",
+          "type": "fras",
+          "example_pt": "Boa noite, durma bem!",
+          "example_sv": "God natt, sov gott!"
         },
         {
-          "pt": "décimo",
-          "sv": "tionde",
-          "type": "adjektiv",
-          "example_pt": "Hoje é o décimo dia do mês.",
-          "example_sv": "Idag är den tionde dagen i månaden."
+          "pt": "tudo bem",
+          "sv": "allt bra / hur är det",
+          "type": "fras",
+          "example_pt": "Tudo bem com você hoje?",
+          "example_sv": "Hur är det med dig idag?"
         },
         {
-          "pt": "prazo limite",
-          "sv": "sista datum / deadline",
-          "type": "substantiv",
-          "example_pt": "O prazo limite para inscrição é amanhã.",
-          "example_sv": "Sista datum för anmälan är imorgon."
+          "pt": "não sei",
+          "sv": "jag vet inte",
+          "type": "fras",
+          "example_pt": "Não sei onde fica a estação.",
+          "example_sv": "Jag vet inte var stationen ligger."
         },
         {
-          "pt": "intercalar",
-          "sv": "infoga / mellanliggande",
-          "type": "verb",
-          "example_pt": "Fevereiro tem um dia intercalar no ano bissexto.",
-          "example_sv": "Februari har en extra dag på skottår."
+          "pt": "pode ajudar-me",
+          "sv": "kan du hjälpa mig",
+          "type": "fras",
+          "example_pt": "Pode ajudar-me a encontrar este endereço?",
+          "example_sv": "Kan du hjälpa mig att hitta den här adressen?"
         }
       ]
     },
     {
-      "theme": "djur",
+      "theme": "känslor och adjektiv",
       "words": [
         {
-          "pt": "morcego",
-          "sv": "fladdermus",
-          "type": "substantiv",
-          "example_pt": "O morcego voa de noite.",
-          "example_sv": "Fladdermössen flyger på natten."
+          "pt": "surpreendido",
+          "sv": "förvånad",
+          "type": "adjektiv",
+          "example_pt": "Fiquei muito surpreendido com a notícia.",
+          "example_sv": "Jag blev väldigt förvånad över nyheten."
         },
         {
-          "pt": "toupeira",
-          "sv": "mullvad",
-          "type": "substantiv",
-          "example_pt": "A toupeira vive debaixo da terra.",
-          "example_sv": "Mullvaden lever under jord."
+          "pt": "saudoso",
+          "sv": "nostalgisk / saknad",
+          "type": "adjektiv",
+          "example_pt": "Estou saudoso da minha terra natal.",
+          "example_sv": "Jag är nostalgisk efter mitt hemland."
         },
         {
-          "pt": "cegonha",
-          "sv": "stork",
-          "type": "substantiv",
-          "example_pt": "A cegonha faz o ninho nos telhados.",
-          "example_sv": "Storken bygger bo på taken."
+          "pt": "irritado",
+          "sv": "irriterad",
+          "type": "adjektiv",
+          "example_pt": "Ele ficou irritado com o barulho.",
+          "example_sv": "Han blev irriterad av bullret."
         },
         {
-          "pt": "linhaça",
-          "sv": "linfink",
-          "type": "substantiv",
-          "example_pt": "O pintassilgo é um pássaro colorido.",
-          "example_sv": "Steglitsen är en färgglad fågel."
+          "pt": "encantado",
+          "sv": "förtjust / förtrollad",
+          "type": "adjektiv",
+          "example_pt": "Estou encantado com esta cidade bonita.",
+          "example_sv": "Jag är förtjust i den här vackra staden."
         },
         {
-          "pt": "sapo",
-          "sv": "padda",
-          "type": "substantiv",
-          "example_pt": "O sapo vive perto da água.",
-          "example_sv": "Paddan lever nära vatten."
+          "pt": "inseguro",
+          "sv": "osäker",
+          "type": "adjektiv",
+          "example_pt": "Sinto-me inseguro quando falo em público.",
+          "example_sv": "Jag känner mig osäker när jag talar inför publik."
         },
         {
-          "pt": "camaleão",
-          "sv": "kameleont",
-          "type": "substantiv",
-          "example_pt": "O camaleão muda de cor para se camuflar.",
-          "example_sv": "Kameleonten byter färg för att kamouflera sig."
+          "pt": "tranquilo",
+          "sv": "lugn / fridfull",
+          "type": "adjektiv",
+          "example_pt": "O jardim é um lugar muito tranquilo.",
+          "example_sv": "Trädgården är en mycket lugn plats."
         },
         {
-          "pt": "esquilo",
-          "sv": "ekorre",
-          "type": "substantiv",
-          "example_pt": "O esquilo guarda bolotas para o inverno.",
-          "example_sv": "Ekorren lagrar ekollon inför vintern."
+          "pt": "magoado",
+          "sv": "sårad / ledsen",
+          "type": "adjektiv",
+          "example_pt": "Fiquei magoado com as palavras dela.",
+          "example_sv": "Jag blev sårad av hennes ord."
         },
         {
-          "pt": "lontra",
-          "sv": "utter",
-          "type": "substantiv",
-          "example_pt": "A lontra é um excelente nadador.",
-          "example_sv": "Uttern är en utmärkt simmare."
+          "pt": "animado",
+          "sv": "glad / upprymd",
+          "type": "adjektiv",
+          "example_pt": "Os alunos estavam animados com a viagem.",
+          "example_sv": "Eleverna var upprymdа inför resan."
         }
       ]
     },
     {
-      "theme": "kläder och mode",
+      "theme": "hem och möbler",
       "words": [
         {
-          "pt": "saia",
-          "sv": "kjol",
+          "pt": "gaveta",
+          "sv": "låda",
           "type": "substantiv",
-          "example_pt": "Ela usa uma saia comprida no trabalho.",
-          "example_sv": "Hon bär en lång kjol på jobbet."
+          "example_pt": "As meias estão na gaveta de cima.",
+          "example_sv": "Strumporna ligger i den översta lådan."
         },
         {
-          "pt": "impermeável",
-          "sv": "regnrock / vattentät jacka",
+          "pt": "sofá",
+          "sv": "soffa",
           "type": "substantiv",
-          "example_pt": "Não te esqueças do impermeável, vai chover.",
-          "example_sv": "Glöm inte regnrocken, det kommer att regna."
+          "example_pt": "Ele adormeceu no sofá a ver televisão.",
+          "example_sv": "Han somnade på soffan framför teven."
         },
         {
-          "pt": "cinto",
-          "sv": "bälte / skärp",
+          "pt": "prateleira",
+          "sv": "hylla",
           "type": "substantiv",
-          "example_pt": "Ele ajustou o cinto da calça.",
-          "example_sv": "Han justerade byxbältet."
+          "example_pt": "Os livros estão organizados na prateleira.",
+          "example_sv": "Böckerna är ordnade på hyllan."
         },
         {
-          "pt": "gola",
-          "sv": "krage",
+          "pt": "candeeiro",
+          "sv": "lampa",
           "type": "substantiv",
-          "example_pt": "A camisa tem uma gola alta.",
-          "example_sv": "Skjortan har en hög krage."
+          "example_pt": "O candeeiro da sala dá uma luz agradável.",
+          "example_sv": "Lampan i vardagsrummet ger ett trevligt ljus."
         },
         {
-          "pt": "malha",
-          "sv": "tröja / stickad tröja",
+          "pt": "tapete",
+          "sv": "matta",
           "type": "substantiv",
-          "example_pt": "Visto uma malha quente no inverno.",
-          "example_sv": "Jag har på mig en varm stickad tröja på vintern."
+          "example_pt": "Comprámos um tapete novo para o quarto.",
+          "example_sv": "Vi köpte en ny matta till sovrummet."
         },
         {
-          "pt": "sandálias",
-          "sv": "sandaler",
+          "pt": "cortina",
+          "sv": "gardin",
           "type": "substantiv",
-          "example_pt": "Uso sandálias na praia.",
-          "example_sv": "Jag använder sandaler på stranden."
+          "example_pt": "Fecha a cortina para não entrar luz.",
+          "example_sv": "Dra för gardinen så att inget ljus kommer in."
         },
         {
-          "pt": "fato de banho",
-          "sv": "baddräkt / badbyxor",
+          "pt": "fogão",
+          "sv": "spis",
           "type": "substantiv",
-          "example_pt": "Não te esqueças do fato de banho para a piscina.",
-          "example_sv": "Glöm inte baddräkten till badet."
+          "example_pt": "O fogão está a precisar de limpeza.",
+          "example_sv": "Spisen behöver rengöras."
         },
         {
-          "pt": "chapéu",
-          "sv": "hatt / keps",
+          "pt": "frigorífico",
+          "sv": "kylskåp",
           "type": "substantiv",
-          "example_pt": "Ele usa chapéu para se proteger do sol.",
-          "example_sv": "Han bär hatt för att skydda sig mot solen."
+          "example_pt": "Mete a manteiga no frigorífico depois de usar.",
+          "example_sv": "Ställ in smöret i kylskåpet efter användning."
         }
       ]
     }
