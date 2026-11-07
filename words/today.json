@@ -1,186 +1,186 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "sets": [
     {
-      "theme": "vardagliga fraser",
+      "theme": "kropp och hälsa",
       "words": [
         {
-          "pt": "desculpe",
-          "sv": "förlåt / ursäkta",
-          "type": "fras",
-          "example_pt": "Desculpe, não entendi o que disse.",
-          "example_sv": "Förlåt, jag förstod inte vad du sa."
+          "pt": "joelho",
+          "sv": "knä",
+          "type": "substantiv",
+          "example_pt": "Ele machucou o joelho a jogar futebol.",
+          "example_sv": "Han skadade knät när han spelade fotboll."
         },
         {
-          "pt": "por favor",
-          "sv": "snälla / vänligen",
-          "type": "fras",
-          "example_pt": "Por favor, pode repetir mais devagar?",
-          "example_sv": "Kan du snälla upprepa lite långsammare?"
+          "pt": "cotovelo",
+          "sv": "armbåge",
+          "type": "substantiv",
+          "example_pt": "Apoiei o cotovelo na mesa.",
+          "example_sv": "Jag vilade armbågen på bordet."
         },
         {
-          "pt": "obrigado",
-          "sv": "tack",
-          "type": "fras",
-          "example_pt": "Obrigado pela sua ajuda!",
-          "example_sv": "Tack för din hjälp!"
+          "pt": "coluna vertebral",
+          "sv": "ryggrad",
+          "type": "substantiv",
+          "example_pt": "É importante ter uma boa postura para a coluna vertebral.",
+          "example_sv": "Det är viktigt att ha en bra hållning för ryggraden."
         },
         {
-          "pt": "bom dia",
-          "sv": "god morgon",
-          "type": "fras",
-          "example_pt": "Bom dia, como está?",
-          "example_sv": "God morgon, hur mår du?"
+          "pt": "constipação",
+          "sv": "förkylning",
+          "type": "substantiv",
+          "example_pt": "Fiquei em casa por causa da constipação.",
+          "example_sv": "Jag stannade hemma på grund av förkylningen."
         },
         {
-          "pt": "boa noite",
-          "sv": "god natt / god kväll",
-          "type": "fras",
-          "example_pt": "Boa noite, durma bem!",
-          "example_sv": "God natt, sov gott!"
+          "pt": "suor",
+          "sv": "svett",
+          "type": "substantiv",
+          "example_pt": "O suor escorria pelo seu rosto durante o treino.",
+          "example_sv": "Svetten rann nerför hans ansikte under träningen."
         },
         {
-          "pt": "tudo bem",
-          "sv": "allt bra / hur är det",
-          "type": "fras",
-          "example_pt": "Tudo bem com você hoje?",
-          "example_sv": "Hur är det med dig idag?"
+          "pt": "engolir",
+          "sv": "svälja",
+          "type": "verb",
+          "example_pt": "É difícil engolir este comprimido grande.",
+          "example_sv": "Det är svårt att svälja den här stora tabletten."
         },
         {
-          "pt": "não sei",
-          "sv": "jag vet inte",
-          "type": "fras",
-          "example_pt": "Não sei onde fica a estação.",
-          "example_sv": "Jag vet inte var stationen ligger."
+          "pt": "consulta",
+          "sv": "läkarbesök",
+          "type": "substantiv",
+          "example_pt": "Tenho uma consulta médica amanhã de manhã.",
+          "example_sv": "Jag har ett läkarbesök imorgon bitti."
         },
         {
-          "pt": "pode ajudar-me",
-          "sv": "kan du hjälpa mig",
-          "type": "fras",
-          "example_pt": "Pode ajudar-me a encontrar este endereço?",
-          "example_sv": "Kan du hjälpa mig att hitta den här adressen?"
+          "pt": "ferida",
+          "sv": "sår",
+          "type": "substantiv",
+          "example_pt": "A ferida no braço ainda não cicatrizou.",
+          "example_sv": "Såret på armen har ännu inte läkt."
         }
       ]
     },
     {
-      "theme": "känslor och adjektiv",
+      "theme": "sport och fritid",
       "words": [
         {
-          "pt": "surpreendido",
-          "sv": "förvånad",
-          "type": "adjektiv",
-          "example_pt": "Fiquei muito surpreendido com a notícia.",
-          "example_sv": "Jag blev väldigt förvånad över nyheten."
+          "pt": "torneio",
+          "sv": "turnering",
+          "type": "substantiv",
+          "example_pt": "A equipa chegou à final do torneio nacional.",
+          "example_sv": "Laget nådde finalen i den nationella turneringen."
         },
         {
-          "pt": "saudoso",
-          "sv": "nostalgisk / saknad",
-          "type": "adjektiv",
-          "example_pt": "Estou saudoso da minha terra natal.",
-          "example_sv": "Jag är nostalgisk efter mitt hemland."
+          "pt": "pontuar",
+          "sv": "poängsätta",
+          "type": "verb",
+          "example_pt": "Ele conseguiu pontuar nos últimos minutos do jogo.",
+          "example_sv": "Han lyckades poängsätta i de sista minuterna av matchen."
         },
         {
-          "pt": "irritado",
-          "sv": "irriterad",
-          "type": "adjektiv",
-          "example_pt": "Ele ficou irritado com o barulho.",
-          "example_sv": "Han blev irriterad av bullret."
+          "pt": "árbitro",
+          "sv": "domare",
+          "type": "substantiv",
+          "example_pt": "O árbitro apitou o final do jogo.",
+          "example_sv": "Domaren blåste av matchens slut."
         },
         {
-          "pt": "encantado",
-          "sv": "förtjust / förtrollad",
-          "type": "adjektiv",
-          "example_pt": "Estou encantado com esta cidade bonita.",
-          "example_sv": "Jag är förtjust i den här vackra staden."
+          "pt": "pista",
+          "sv": "bana",
+          "type": "substantiv",
+          "example_pt": "Os atletas correm na pista do estádio.",
+          "example_sv": "Atleterna springer på stadionens bana."
         },
         {
-          "pt": "inseguro",
-          "sv": "osäker",
-          "type": "adjektiv",
-          "example_pt": "Sinto-me inseguro quando falo em público.",
-          "example_sv": "Jag känner mig osäker när jag talar inför publik."
+          "pt": "campeonato",
+          "sv": "mästerskap",
+          "type": "substantiv",
+          "example_pt": "Portugal ganhou o campeonato europeu de futebol.",
+          "example_sv": "Portugal vann det europeiska fotbollsmästerskapet."
         },
         {
-          "pt": "tranquilo",
-          "sv": "lugn / fridfull",
-          "type": "adjektiv",
-          "example_pt": "O jardim é um lugar muito tranquilo.",
-          "example_sv": "Trädgården är en mycket lugn plats."
+          "pt": "treinar",
+          "sv": "träna",
+          "type": "verb",
+          "example_pt": "Ela treina todos os dias antes do trabalho.",
+          "example_sv": "Hon tränar varje dag innan jobbet."
         },
         {
-          "pt": "magoado",
-          "sv": "sårad / ledsen",
-          "type": "adjektiv",
-          "example_pt": "Fiquei magoado com as palavras dela.",
-          "example_sv": "Jag blev sårad av hennes ord."
+          "pt": "raquete",
+          "sv": "racket",
+          "type": "substantiv",
+          "example_pt": "Esqueci-me da raquete de ténis em casa.",
+          "example_sv": "Jag glömde tennisracketen hemma."
         },
         {
-          "pt": "animado",
-          "sv": "glad / upprymd",
-          "type": "adjektiv",
-          "example_pt": "Os alunos estavam animados com a viagem.",
-          "example_sv": "Eleverna var upprymdа inför resan."
+          "pt": "empate",
+          "sv": "oavgjort",
+          "type": "substantiv",
+          "example_pt": "O jogo terminou em empate com um a um.",
+          "example_sv": "Matchen slutade oavgjort med ett till ett."
         }
       ]
     },
     {
-      "theme": "hem och möbler",
+      "theme": "teknik",
       "words": [
         {
-          "pt": "gaveta",
-          "sv": "låda",
+          "pt": "aplicação",
+          "sv": "app",
           "type": "substantiv",
-          "example_pt": "As meias estão na gaveta de cima.",
-          "example_sv": "Strumporna ligger i den översta lådan."
+          "example_pt": "Descarreguei uma aplicação nova para aprender português.",
+          "example_sv": "Jag laddade ner en ny app för att lära mig portugisiska."
         },
         {
-          "pt": "sofá",
-          "sv": "soffa",
+          "pt": "microfone",
+          "sv": "mikrofon",
           "type": "substantiv",
-          "example_pt": "Ele adormeceu no sofá a ver televisão.",
-          "example_sv": "Han somnade på soffan framför teven."
+          "example_pt": "O microfone do computador não está a funcionar.",
+          "example_sv": "Mikrofonen på datorn fungerar inte."
         },
         {
-          "pt": "prateleira",
-          "sv": "hylla",
+          "pt": "impressora",
+          "sv": "skrivare",
           "type": "substantiv",
-          "example_pt": "Os livros estão organizados na prateleira.",
-          "example_sv": "Böckerna är ordnade på hyllan."
+          "example_pt": "Preciso de imprimir o documento na impressora.",
+          "example_sv": "Jag behöver skriva ut dokumentet på skrivaren."
         },
         {
-          "pt": "candeeiro",
-          "sv": "lampa",
+          "pt": "bateria",
+          "sv": "batteri",
           "type": "substantiv",
-          "example_pt": "O candeeiro da sala dá uma luz agradável.",
-          "example_sv": "Lampan i vardagsrummet ger ett trevligt ljus."
+          "example_pt": "A bateria do telemóvel ficou sem carga.",
+          "example_sv": "Mobilbatteriet tog slut."
         },
         {
-          "pt": "tapete",
-          "sv": "matta",
-          "type": "substantiv",
-          "example_pt": "Comprámos um tapete novo para o quarto.",
-          "example_sv": "Vi köpte en ny matta till sovrummet."
+          "pt": "transferir",
+          "sv": "överföra",
+          "type": "verb",
+          "example_pt": "Vou transferir os ficheiros para o disco externo.",
+          "example_sv": "Jag ska överföra filerna till den externa hårddisken."
         },
         {
-          "pt": "cortina",
-          "sv": "gardin",
-          "type": "substantiv",
-          "example_pt": "Fecha a cortina para não entrar luz.",
-          "example_sv": "Dra för gardinen så att inget ljus kommer in."
+          "pt": "programar",
+          "sv": "programmera",
+          "type": "verb",
+          "example_pt": "Ele aprendeu a programar sozinho pela internet.",
+          "example_sv": "Han lärde sig programmera på egen hand via internet."
         },
         {
-          "pt": "fogão",
-          "sv": "spis",
+          "pt": "ligação",
+          "sv": "anslutning",
           "type": "substantiv",
-          "example_pt": "O fogão está a precisar de limpeza.",
-          "example_sv": "Spisen behöver rengöras."
+          "example_pt": "A ligação à internet está muito lenta hoje.",
+          "example_sv": "Internetanslutningen är mycket långsam idag."
         },
         {
-          "pt": "frigorífico",
-          "sv": "kylskåp",
+          "pt": "ecrã",
+          "sv": "skärm",
           "type": "substantiv",
-          "example_pt": "Mete a manteiga no frigorífico depois de usar.",
-          "example_sv": "Ställ in smöret i kylskåpet efter användning."
+          "example_pt": "O ecrã do meu computador está partido.",
+          "example_sv": "Skärmen på min dator är trasig."
         }
       ]
     }
