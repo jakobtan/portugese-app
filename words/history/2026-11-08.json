@@ -1,0 +1,188 @@
+{
+  "date": "2026-11-08",
+  "sets": [
+    {
+      "theme": "familj och relationer",
+      "words": [
+        {
+          "pt": "primo",
+          "sv": "kusin",
+          "type": "substantiv",
+          "example_pt": "O meu primo mora em Lisboa.",
+          "example_sv": "Min kusin bor i Lissabon."
+        },
+        {
+          "pt": "tia",
+          "sv": "faster/moster/tant",
+          "type": "substantiv",
+          "example_pt": "A minha tia faz anos amanhã.",
+          "example_sv": "Min faster har födelsedag imorgon."
+        },
+        {
+          "pt": "enteado",
+          "sv": "styvson",
+          "type": "substantiv",
+          "example_pt": "O enteado dela tem dez anos.",
+          "example_sv": "Hennes styvson är tio år gammal."
+        },
+        {
+          "pt": "bisneto",
+          "sv": "barnbarnsbarn",
+          "type": "substantiv",
+          "example_pt": "A avó tem um bisneto adorável.",
+          "example_sv": "Farmorn har ett underbart barnbarnsbarn."
+        },
+        {
+          "pt": "namorada",
+          "sv": "flickvän",
+          "type": "substantiv",
+          "example_pt": "Ele apresentou a namorada à família.",
+          "example_sv": "Han presenterade flickvännen för familjen."
+        },
+        {
+          "pt": "reconciliar",
+          "sv": "försonas",
+          "type": "verb",
+          "example_pt": "Os irmãos decidiram reconciliar depois da discussão.",
+          "example_sv": "Bröderna bestämde sig för att försonas efter grälet."
+        },
+        {
+          "pt": "afeto",
+          "sv": "tillgivenhet",
+          "type": "substantiv",
+          "example_pt": "Ela mostrou muito afeto pelos filhos.",
+          "example_sv": "Hon visade stor tillgivenhet för sina barn."
+        },
+        {
+          "pt": "aliança",
+          "sv": "vigselring",
+          "type": "substantiv",
+          "example_pt": "Ele perdeu a aliança no casamento.",
+          "example_sv": "Han tappade vigselringen på bröllopet."
+        }
+      ]
+    },
+    {
+      "theme": "mat och dryck",
+      "words": [
+        {
+          "pt": "cenoura",
+          "sv": "morot",
+          "type": "substantiv",
+          "example_pt": "Ela cortou as cenouras para a sopa.",
+          "example_sv": "Hon skivade morötterna till soppan."
+        },
+        {
+          "pt": "melancia",
+          "sv": "vattenmelon",
+          "type": "substantiv",
+          "example_pt": "A melancia é perfeita no verão.",
+          "example_sv": "Vattenmelon är perfekt på sommaren."
+        },
+        {
+          "pt": "bifanas",
+          "sv": "fläskköttssmörgås (portugisisk)",
+          "type": "substantiv",
+          "example_pt": "As bifanas são muito populares em Portugal.",
+          "example_sv": "Bifanas är mycket populärt i Portugal."
+        },
+        {
+          "pt": "iogurte",
+          "sv": "yoghurt",
+          "type": "substantiv",
+          "example_pt": "Eu como iogurte ao pequeno-almoço.",
+          "example_sv": "Jag äter yoghurt till frukost."
+        },
+        {
+          "pt": "caçarola",
+          "sv": "gryta",
+          "type": "substantiv",
+          "example_pt": "A caçarola ficou no lume durante horas.",
+          "example_sv": "Grytan stod på spisen i flera timmar."
+        },
+        {
+          "pt": "trigo",
+          "sv": "vete",
+          "type": "substantiv",
+          "example_pt": "O pão é feito com farinha de trigo.",
+          "example_sv": "Brödet är gjort på vetemjöl."
+        },
+        {
+          "pt": "mexer",
+          "sv": "röra om",
+          "type": "verb",
+          "example_pt": "Mexe o molho para não queimar.",
+          "example_sv": "Rör om såsen så att den inte bränns."
+        },
+        {
+          "pt": "refeição",
+          "sv": "måltid",
+          "type": "substantiv",
+          "example_pt": "A refeição principal é ao meio-dia.",
+          "example_sv": "Huvudmåltiden är vid middagstid."
+        }
+      ]
+    },
+    {
+      "theme": "stad och platser",
+      "words": [
+        {
+          "pt": "sapataria",
+          "sv": "skoaffär",
+          "type": "substantiv",
+          "example_pt": "Comprei sapatos novos na sapataria.",
+          "example_sv": "Jag köpte nya skor i skoaffären."
+        },
+        {
+          "pt": "relojoaria",
+          "sv": "urmakare/urmakeri",
+          "type": "substantiv",
+          "example_pt": "O relógio foi arranjado na relojoaria.",
+          "example_sv": "Klockan lagades hos urmakaren."
+        },
+        {
+          "pt": "aldeia",
+          "sv": "by",
+          "type": "substantiv",
+          "example_pt": "Ela cresceu numa pequena aldeia no norte.",
+          "example_sv": "Hon växte upp i en liten by i norr."
+        },
+        {
+          "pt": "avenida",
+          "sv": "allé/avenue",
+          "type": "substantiv",
+          "example_pt": "O desfile passou pela avenida principal.",
+          "example_sv": "Paraden gick längs huvudallén."
+        },
+        {
+          "pt": "doca",
+          "sv": "hamndocka/brygga",
+          "type": "substantiv",
+          "example_pt": "Os barcos estão atracados na doca.",
+          "example_sv": "Båtarna är förtöjda vid bryggan."
+        },
+        {
+          "pt": "miradouro",
+          "sv": "utsiktsplats",
+          "type": "substantiv",
+          "example_pt": "O miradouro tem uma vista incrível sobre a cidade.",
+          "example_sv": "Utsiktsplatsen har en fantastisk utsikt över staden."
+        },
+        {
+          "pt": "convento",
+          "sv": "kloster",
+          "type": "substantiv",
+          "example_pt": "O convento foi construído no século XVI.",
+          "example_sv": "Klostret byggdes på 1500-talet."
+        },
+        {
+          "pt": "passeio",
+          "sv": "trottoir/promenad",
+          "type": "substantiv",
+          "example_pt": "As crianças brincam no passeio em frente à escola.",
+          "example_sv": "Barnen leker på trottoaren framför skolan."
+        }
+      ]
+    }
+  ]
+}

@@ -1,186 +1,186 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "sets": [
     {
-      "theme": "kropp och hälsa",
+      "theme": "familj och relationer",
       "words": [
         {
-          "pt": "joelho",
-          "sv": "knä",
+          "pt": "primo",
+          "sv": "kusin",
           "type": "substantiv",
-          "example_pt": "Ele machucou o joelho a jogar futebol.",
-          "example_sv": "Han skadade knät när han spelade fotboll."
+          "example_pt": "O meu primo mora em Lisboa.",
+          "example_sv": "Min kusin bor i Lissabon."
         },
         {
-          "pt": "cotovelo",
-          "sv": "armbåge",
+          "pt": "tia",
+          "sv": "faster/moster/tant",
           "type": "substantiv",
-          "example_pt": "Apoiei o cotovelo na mesa.",
-          "example_sv": "Jag vilade armbågen på bordet."
+          "example_pt": "A minha tia faz anos amanhã.",
+          "example_sv": "Min faster har födelsedag imorgon."
         },
         {
-          "pt": "coluna vertebral",
-          "sv": "ryggrad",
+          "pt": "enteado",
+          "sv": "styvson",
           "type": "substantiv",
-          "example_pt": "É importante ter uma boa postura para a coluna vertebral.",
-          "example_sv": "Det är viktigt att ha en bra hållning för ryggraden."
+          "example_pt": "O enteado dela tem dez anos.",
+          "example_sv": "Hennes styvson är tio år gammal."
         },
         {
-          "pt": "constipação",
-          "sv": "förkylning",
+          "pt": "bisneto",
+          "sv": "barnbarnsbarn",
           "type": "substantiv",
-          "example_pt": "Fiquei em casa por causa da constipação.",
-          "example_sv": "Jag stannade hemma på grund av förkylningen."
+          "example_pt": "A avó tem um bisneto adorável.",
+          "example_sv": "Farmorn har ett underbart barnbarnsbarn."
         },
         {
-          "pt": "suor",
-          "sv": "svett",
+          "pt": "namorada",
+          "sv": "flickvän",
           "type": "substantiv",
-          "example_pt": "O suor escorria pelo seu rosto durante o treino.",
-          "example_sv": "Svetten rann nerför hans ansikte under träningen."
+          "example_pt": "Ele apresentou a namorada à família.",
+          "example_sv": "Han presenterade flickvännen för familjen."
         },
         {
-          "pt": "engolir",
-          "sv": "svälja",
+          "pt": "reconciliar",
+          "sv": "försonas",
           "type": "verb",
-          "example_pt": "É difícil engolir este comprimido grande.",
-          "example_sv": "Det är svårt att svälja den här stora tabletten."
+          "example_pt": "Os irmãos decidiram reconciliar depois da discussão.",
+          "example_sv": "Bröderna bestämde sig för att försonas efter grälet."
         },
         {
-          "pt": "consulta",
-          "sv": "läkarbesök",
+          "pt": "afeto",
+          "sv": "tillgivenhet",
           "type": "substantiv",
-          "example_pt": "Tenho uma consulta médica amanhã de manhã.",
-          "example_sv": "Jag har ett läkarbesök imorgon bitti."
+          "example_pt": "Ela mostrou muito afeto pelos filhos.",
+          "example_sv": "Hon visade stor tillgivenhet för sina barn."
         },
         {
-          "pt": "ferida",
-          "sv": "sår",
+          "pt": "aliança",
+          "sv": "vigselring",
           "type": "substantiv",
-          "example_pt": "A ferida no braço ainda não cicatrizou.",
-          "example_sv": "Såret på armen har ännu inte läkt."
+          "example_pt": "Ele perdeu a aliança no casamento.",
+          "example_sv": "Han tappade vigselringen på bröllopet."
         }
       ]
     },
     {
-      "theme": "sport och fritid",
+      "theme": "mat och dryck",
       "words": [
         {
-          "pt": "torneio",
-          "sv": "turnering",
+          "pt": "cenoura",
+          "sv": "morot",
           "type": "substantiv",
-          "example_pt": "A equipa chegou à final do torneio nacional.",
-          "example_sv": "Laget nådde finalen i den nationella turneringen."
+          "example_pt": "Ela cortou as cenouras para a sopa.",
+          "example_sv": "Hon skivade morötterna till soppan."
         },
         {
-          "pt": "pontuar",
-          "sv": "poängsätta",
+          "pt": "melancia",
+          "sv": "vattenmelon",
+          "type": "substantiv",
+          "example_pt": "A melancia é perfeita no verão.",
+          "example_sv": "Vattenmelon är perfekt på sommaren."
+        },
+        {
+          "pt": "bifanas",
+          "sv": "fläskköttssmörgås (portugisisk)",
+          "type": "substantiv",
+          "example_pt": "As bifanas são muito populares em Portugal.",
+          "example_sv": "Bifanas är mycket populärt i Portugal."
+        },
+        {
+          "pt": "iogurte",
+          "sv": "yoghurt",
+          "type": "substantiv",
+          "example_pt": "Eu como iogurte ao pequeno-almoço.",
+          "example_sv": "Jag äter yoghurt till frukost."
+        },
+        {
+          "pt": "caçarola",
+          "sv": "gryta",
+          "type": "substantiv",
+          "example_pt": "A caçarola ficou no lume durante horas.",
+          "example_sv": "Grytan stod på spisen i flera timmar."
+        },
+        {
+          "pt": "trigo",
+          "sv": "vete",
+          "type": "substantiv",
+          "example_pt": "O pão é feito com farinha de trigo.",
+          "example_sv": "Brödet är gjort på vetemjöl."
+        },
+        {
+          "pt": "mexer",
+          "sv": "röra om",
           "type": "verb",
-          "example_pt": "Ele conseguiu pontuar nos últimos minutos do jogo.",
-          "example_sv": "Han lyckades poängsätta i de sista minuterna av matchen."
+          "example_pt": "Mexe o molho para não queimar.",
+          "example_sv": "Rör om såsen så att den inte bränns."
         },
         {
-          "pt": "árbitro",
-          "sv": "domare",
+          "pt": "refeição",
+          "sv": "måltid",
           "type": "substantiv",
-          "example_pt": "O árbitro apitou o final do jogo.",
-          "example_sv": "Domaren blåste av matchens slut."
-        },
-        {
-          "pt": "pista",
-          "sv": "bana",
-          "type": "substantiv",
-          "example_pt": "Os atletas correm na pista do estádio.",
-          "example_sv": "Atleterna springer på stadionens bana."
-        },
-        {
-          "pt": "campeonato",
-          "sv": "mästerskap",
-          "type": "substantiv",
-          "example_pt": "Portugal ganhou o campeonato europeu de futebol.",
-          "example_sv": "Portugal vann det europeiska fotbollsmästerskapet."
-        },
-        {
-          "pt": "treinar",
-          "sv": "träna",
-          "type": "verb",
-          "example_pt": "Ela treina todos os dias antes do trabalho.",
-          "example_sv": "Hon tränar varje dag innan jobbet."
-        },
-        {
-          "pt": "raquete",
-          "sv": "racket",
-          "type": "substantiv",
-          "example_pt": "Esqueci-me da raquete de ténis em casa.",
-          "example_sv": "Jag glömde tennisracketen hemma."
-        },
-        {
-          "pt": "empate",
-          "sv": "oavgjort",
-          "type": "substantiv",
-          "example_pt": "O jogo terminou em empate com um a um.",
-          "example_sv": "Matchen slutade oavgjort med ett till ett."
+          "example_pt": "A refeição principal é ao meio-dia.",
+          "example_sv": "Huvudmåltiden är vid middagstid."
         }
       ]
     },
     {
-      "theme": "teknik",
+      "theme": "stad och platser",
       "words": [
         {
-          "pt": "aplicação",
-          "sv": "app",
+          "pt": "sapataria",
+          "sv": "skoaffär",
           "type": "substantiv",
-          "example_pt": "Descarreguei uma aplicação nova para aprender português.",
-          "example_sv": "Jag laddade ner en ny app för att lära mig portugisiska."
+          "example_pt": "Comprei sapatos novos na sapataria.",
+          "example_sv": "Jag köpte nya skor i skoaffären."
         },
         {
-          "pt": "microfone",
-          "sv": "mikrofon",
+          "pt": "relojoaria",
+          "sv": "urmakare/urmakeri",
           "type": "substantiv",
-          "example_pt": "O microfone do computador não está a funcionar.",
-          "example_sv": "Mikrofonen på datorn fungerar inte."
+          "example_pt": "O relógio foi arranjado na relojoaria.",
+          "example_sv": "Klockan lagades hos urmakaren."
         },
         {
-          "pt": "impressora",
-          "sv": "skrivare",
+          "pt": "aldeia",
+          "sv": "by",
           "type": "substantiv",
-          "example_pt": "Preciso de imprimir o documento na impressora.",
-          "example_sv": "Jag behöver skriva ut dokumentet på skrivaren."
+          "example_pt": "Ela cresceu numa pequena aldeia no norte.",
+          "example_sv": "Hon växte upp i en liten by i norr."
         },
         {
-          "pt": "bateria",
-          "sv": "batteri",
+          "pt": "avenida",
+          "sv": "allé/avenue",
           "type": "substantiv",
-          "example_pt": "A bateria do telemóvel ficou sem carga.",
-          "example_sv": "Mobilbatteriet tog slut."
+          "example_pt": "O desfile passou pela avenida principal.",
+          "example_sv": "Paraden gick längs huvudallén."
         },
         {
-          "pt": "transferir",
-          "sv": "överföra",
-          "type": "verb",
-          "example_pt": "Vou transferir os ficheiros para o disco externo.",
-          "example_sv": "Jag ska överföra filerna till den externa hårddisken."
-        },
-        {
-          "pt": "programar",
-          "sv": "programmera",
-          "type": "verb",
-          "example_pt": "Ele aprendeu a programar sozinho pela internet.",
-          "example_sv": "Han lärde sig programmera på egen hand via internet."
-        },
-        {
-          "pt": "ligação",
-          "sv": "anslutning",
+          "pt": "doca",
+          "sv": "hamndocka/brygga",
           "type": "substantiv",
-          "example_pt": "A ligação à internet está muito lenta hoje.",
-          "example_sv": "Internetanslutningen är mycket långsam idag."
+          "example_pt": "Os barcos estão atracados na doca.",
+          "example_sv": "Båtarna är förtöjda vid bryggan."
         },
         {
-          "pt": "ecrã",
-          "sv": "skärm",
+          "pt": "miradouro",
+          "sv": "utsiktsplats",
           "type": "substantiv",
-          "example_pt": "O ecrã do meu computador está partido.",
-          "example_sv": "Skärmen på min dator är trasig."
+          "example_pt": "O miradouro tem uma vista incrível sobre a cidade.",
+          "example_sv": "Utsiktsplatsen har en fantastisk utsikt över staden."
+        },
+        {
+          "pt": "convento",
+          "sv": "kloster",
+          "type": "substantiv",
+          "example_pt": "O convento foi construído no século XVI.",
+          "example_sv": "Klostret byggdes på 1500-talet."
+        },
+        {
+          "pt": "passeio",
+          "sv": "trottoir/promenad",
+          "type": "substantiv",
+          "example_pt": "As crianças brincam no passeio em frente à escola.",
+          "example_sv": "Barnen leker på trottoaren framför skolan."
         }
       ]
     }
