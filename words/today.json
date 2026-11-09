@@ -1,186 +1,186 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "sets": [
+    {
+      "theme": "natur och väder",
+      "words": [
+        {
+          "pt": "vulcão",
+          "sv": "vulkan",
+          "type": "substantiv",
+          "example_pt": "O vulcão entrou em erupção ontem.",
+          "example_sv": "Vulkanen utbröt igår."
+        },
+        {
+          "pt": "pântano",
+          "sv": "kärr",
+          "type": "substantiv",
+          "example_pt": "O pântano é cheio de rãs.",
+          "example_sv": "Kärret är fullt av grodor."
+        },
+        {
+          "pt": "precipício",
+          "sv": "stup",
+          "type": "substantiv",
+          "example_pt": "Não te aproximes do precipício.",
+          "example_sv": "Gå inte nära stupet."
+        },
+        {
+          "pt": "monção",
+          "sv": "monsun",
+          "type": "substantiv",
+          "example_pt": "A monção traz muita chuva.",
+          "example_sv": "Monsunen för med sig mycket regn."
+        },
+        {
+          "pt": "avalanche",
+          "sv": "lavin",
+          "type": "substantiv",
+          "example_pt": "A avalanche destruiu a aldeia.",
+          "example_sv": "Lavinen förstörde byn."
+        },
+        {
+          "pt": "crepúsculo",
+          "sv": "skymning",
+          "type": "substantiv",
+          "example_pt": "O céu fica laranja ao crepúsculo.",
+          "example_sv": "Himlen blir orange i skymningen."
+        },
+        {
+          "pt": "seca",
+          "sv": "torka",
+          "type": "substantiv",
+          "example_pt": "A seca afetou as colheitas este ano.",
+          "example_sv": "Torkan påverkade skördarna i år."
+        },
+        {
+          "pt": "orvalho",
+          "sv": "dagg",
+          "type": "substantiv",
+          "example_pt": "Havia orvalho nas folhas de manhã.",
+          "example_sv": "Det fanns dagg på löven på morgonen."
+        }
+      ]
+    },
+    {
+      "theme": "arbete och karriär",
+      "words": [
+        {
+          "pt": "recrutamento",
+          "sv": "rekrytering",
+          "type": "substantiv",
+          "example_pt": "O recrutamento de novos funcionários começa em janeiro.",
+          "example_sv": "Rekryteringen av nya anställda börjar i januari."
+        },
+        {
+          "pt": "remuneração",
+          "sv": "ersättning",
+          "type": "substantiv",
+          "example_pt": "A remuneração inclui bónus anuais.",
+          "example_sv": "Ersättningen inkluderar årliga bonusar."
+        },
+        {
+          "pt": "reunião",
+          "sv": "möte",
+          "type": "substantiv",
+          "example_pt": "Temos uma reunião importante amanhã.",
+          "example_sv": "Vi har ett viktigt möte imorgon."
+        },
+        {
+          "pt": "contrato",
+          "sv": "kontrakt",
+          "type": "substantiv",
+          "example_pt": "Assinei o contrato de trabalho hoje.",
+          "example_sv": "Jag skrev under arbetsavtalet idag."
+        },
+        {
+          "pt": "promover",
+          "sv": "befordra",
+          "type": "verb",
+          "example_pt": "O chefe decidiu promover a Maria.",
+          "example_sv": "Chefen beslutade att befordra Maria."
+        },
+        {
+          "pt": "gestor",
+          "sv": "chef",
+          "type": "substantiv",
+          "example_pt": "O gestor organiza a equipa.",
+          "example_sv": "Chefen organiserar teamet."
+        },
+        {
+          "pt": "escritório",
+          "sv": "kontor",
+          "type": "substantiv",
+          "example_pt": "Trabalho num escritório no centro da cidade.",
+          "example_sv": "Jag arbetar på ett kontor i stadskärnan."
+        },
+        {
+          "pt": "prazo",
+          "sv": "tidsfrist",
+          "type": "substantiv",
+          "example_pt": "O prazo para o projeto é sexta-feira.",
+          "example_sv": "Tidsfristen för projektet är på fredag."
+        }
+      ]
+    },
     {
       "theme": "familj och relationer",
       "words": [
         {
-          "pt": "primo",
-          "sv": "kusin",
+          "pt": "bisavó",
+          "sv": "gammelmormor",
           "type": "substantiv",
-          "example_pt": "O meu primo mora em Lisboa.",
-          "example_sv": "Min kusin bor i Lissabon."
+          "example_pt": "A minha bisavó tem noventa anos.",
+          "example_sv": "Min gammelmormor är nittio år gammal."
         },
         {
-          "pt": "tia",
-          "sv": "faster/moster/tant",
+          "pt": "enteada",
+          "sv": "styvdotter",
           "type": "substantiv",
-          "example_pt": "A minha tia faz anos amanhã.",
-          "example_sv": "Min faster har födelsedag imorgon."
+          "example_pt": "A enteada adora música.",
+          "example_sv": "Styvdottern älskar musik."
         },
         {
-          "pt": "enteado",
-          "sv": "styvson",
+          "pt": "neto",
+          "sv": "barnbarn",
           "type": "substantiv",
-          "example_pt": "O enteado dela tem dez anos.",
-          "example_sv": "Hennes styvson är tio år gammal."
+          "example_pt": "O neto visita os avós ao fim de semana.",
+          "example_sv": "Barnbarnet besöker morföräldrarna på helgen."
         },
         {
-          "pt": "bisneto",
-          "sv": "barnbarnsbarn",
+          "pt": "padrinho",
+          "sv": "gudfar",
           "type": "substantiv",
-          "example_pt": "A avó tem um bisneto adorável.",
-          "example_sv": "Farmorn har ett underbart barnbarnsbarn."
+          "example_pt": "O meu padrinho ofereceu-me um presente.",
+          "example_sv": "Min gudfar gav mig en present."
         },
         {
-          "pt": "namorada",
-          "sv": "flickvän",
+          "pt": "madrastа",
+          "sv": "styvmor",
           "type": "substantiv",
-          "example_pt": "Ele apresentou a namorada à família.",
-          "example_sv": "Han presenterade flickvännen för familjen."
+          "example_pt": "A madrasta preparou o jantar para todos.",
+          "example_sv": "Styvmodern lagade middag åt alla."
         },
         {
-          "pt": "reconciliar",
-          "sv": "försonas",
-          "type": "verb",
-          "example_pt": "Os irmãos decidiram reconciliar depois da discussão.",
-          "example_sv": "Bröderna bestämde sig för att försonas efter grälet."
+          "pt": "cônjuge",
+          "sv": "make/maka",
+          "type": "substantiv",
+          "example_pt": "O cônjuge tem direito a herança.",
+          "example_sv": "Maken/makan har rätt till arv."
         },
         {
-          "pt": "afeto",
-          "sv": "tillgivenhet",
+          "pt": "irmã",
+          "sv": "syster",
           "type": "substantiv",
-          "example_pt": "Ela mostrou muito afeto pelos filhos.",
-          "example_sv": "Hon visade stor tillgivenhet för sina barn."
+          "example_pt": "A minha irmã mora em Lisboa.",
+          "example_sv": "Min syster bor i Lissabon."
         },
         {
-          "pt": "aliança",
-          "sv": "vigselring",
+          "pt": "afilhado",
+          "sv": "gudsон",
           "type": "substantiv",
-          "example_pt": "Ele perdeu a aliança no casamento.",
-          "example_sv": "Han tappade vigselringen på bröllopet."
-        }
-      ]
-    },
-    {
-      "theme": "mat och dryck",
-      "words": [
-        {
-          "pt": "cenoura",
-          "sv": "morot",
-          "type": "substantiv",
-          "example_pt": "Ela cortou as cenouras para a sopa.",
-          "example_sv": "Hon skivade morötterna till soppan."
-        },
-        {
-          "pt": "melancia",
-          "sv": "vattenmelon",
-          "type": "substantiv",
-          "example_pt": "A melancia é perfeita no verão.",
-          "example_sv": "Vattenmelon är perfekt på sommaren."
-        },
-        {
-          "pt": "bifanas",
-          "sv": "fläskköttssmörgås (portugisisk)",
-          "type": "substantiv",
-          "example_pt": "As bifanas são muito populares em Portugal.",
-          "example_sv": "Bifanas är mycket populärt i Portugal."
-        },
-        {
-          "pt": "iogurte",
-          "sv": "yoghurt",
-          "type": "substantiv",
-          "example_pt": "Eu como iogurte ao pequeno-almoço.",
-          "example_sv": "Jag äter yoghurt till frukost."
-        },
-        {
-          "pt": "caçarola",
-          "sv": "gryta",
-          "type": "substantiv",
-          "example_pt": "A caçarola ficou no lume durante horas.",
-          "example_sv": "Grytan stod på spisen i flera timmar."
-        },
-        {
-          "pt": "trigo",
-          "sv": "vete",
-          "type": "substantiv",
-          "example_pt": "O pão é feito com farinha de trigo.",
-          "example_sv": "Brödet är gjort på vetemjöl."
-        },
-        {
-          "pt": "mexer",
-          "sv": "röra om",
-          "type": "verb",
-          "example_pt": "Mexe o molho para não queimar.",
-          "example_sv": "Rör om såsen så att den inte bränns."
-        },
-        {
-          "pt": "refeição",
-          "sv": "måltid",
-          "type": "substantiv",
-          "example_pt": "A refeição principal é ao meio-dia.",
-          "example_sv": "Huvudmåltiden är vid middagstid."
-        }
-      ]
-    },
-    {
-      "theme": "stad och platser",
-      "words": [
-        {
-          "pt": "sapataria",
-          "sv": "skoaffär",
-          "type": "substantiv",
-          "example_pt": "Comprei sapatos novos na sapataria.",
-          "example_sv": "Jag köpte nya skor i skoaffären."
-        },
-        {
-          "pt": "relojoaria",
-          "sv": "urmakare/urmakeri",
-          "type": "substantiv",
-          "example_pt": "O relógio foi arranjado na relojoaria.",
-          "example_sv": "Klockan lagades hos urmakaren."
-        },
-        {
-          "pt": "aldeia",
-          "sv": "by",
-          "type": "substantiv",
-          "example_pt": "Ela cresceu numa pequena aldeia no norte.",
-          "example_sv": "Hon växte upp i en liten by i norr."
-        },
-        {
-          "pt": "avenida",
-          "sv": "allé/avenue",
-          "type": "substantiv",
-          "example_pt": "O desfile passou pela avenida principal.",
-          "example_sv": "Paraden gick längs huvudallén."
-        },
-        {
-          "pt": "doca",
-          "sv": "hamndocka/brygga",
-          "type": "substantiv",
-          "example_pt": "Os barcos estão atracados na doca.",
-          "example_sv": "Båtarna är förtöjda vid bryggan."
-        },
-        {
-          "pt": "miradouro",
-          "sv": "utsiktsplats",
-          "type": "substantiv",
-          "example_pt": "O miradouro tem uma vista incrível sobre a cidade.",
-          "example_sv": "Utsiktsplatsen har en fantastisk utsikt över staden."
-        },
-        {
-          "pt": "convento",
-          "sv": "kloster",
-          "type": "substantiv",
-          "example_pt": "O convento foi construído no século XVI.",
-          "example_sv": "Klostret byggdes på 1500-talet."
-        },
-        {
-          "pt": "passeio",
-          "sv": "trottoir/promenad",
-          "type": "substantiv",
-          "example_pt": "As crianças brincam no passeio em frente à escola.",
-          "example_sv": "Barnen leker på trottoaren framför skolan."
+          "example_pt": "O afilhado vai fazer anos amanhã.",
+          "example_sv": "Gudsonen fyller år imorgon."
         }
       ]
     }
