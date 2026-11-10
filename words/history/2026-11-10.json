@@ -1,0 +1,188 @@
+{
+  "date": "2026-11-10",
+  "sets": [
+    {
+      "theme": "kropp och hälsa",
+      "words": [
+        {
+          "pt": "tornozelo",
+          "sv": "fotled",
+          "type": "substantiv",
+          "example_pt": "Torci o tornozelo a correr.",
+          "example_sv": "Jag vrickade fotleden när jag sprang."
+        },
+        {
+          "pt": "pulso",
+          "sv": "handled",
+          "type": "substantiv",
+          "example_pt": "O médico mediu o meu pulso.",
+          "example_sv": "Läkaren mätte min puls."
+        },
+        {
+          "pt": "nádega",
+          "sv": "skinka/stjärt",
+          "type": "substantiv",
+          "example_pt": "Ele sentiu dor na nádega após a injeção.",
+          "example_sv": "Han kände smärta i skinkan efter injektionen."
+        },
+        {
+          "pt": "tonturas",
+          "sv": "yrsel",
+          "type": "substantiv",
+          "example_pt": "Sinto tonturas quando me levanto depressa.",
+          "example_sv": "Jag känner yrsel när jag reser mig snabbt."
+        },
+        {
+          "pt": "receita",
+          "sv": "recept (medicinskt)",
+          "type": "substantiv",
+          "example_pt": "O médico deu-me uma receita para os antibióticos.",
+          "example_sv": "Läkaren gav mig ett recept för antibiotika."
+        },
+        {
+          "pt": "tosse",
+          "sv": "hosta",
+          "type": "substantiv",
+          "example_pt": "A tosse não me deixa dormir.",
+          "example_sv": "Hostan låter mig inte sova."
+        },
+        {
+          "pt": "sangrar",
+          "sv": "blöda",
+          "type": "verb",
+          "example_pt": "O corte começou a sangrar muito.",
+          "example_sv": "Snittet började blöda mycket."
+        },
+        {
+          "pt": "alérgico",
+          "sv": "allergisk",
+          "type": "adjektiv",
+          "example_pt": "Sou alérgico ao amendoim.",
+          "example_sv": "Jag är allergisk mot jordnötter."
+        }
+      ]
+    },
+    {
+      "theme": "hem och möbler",
+      "words": [
+        {
+          "pt": "alpendre",
+          "sv": "veranda/skärmtak",
+          "type": "substantiv",
+          "example_pt": "Sentámos no alpendre a ver a chuva.",
+          "example_sv": "Vi satt på verandan och tittade på regnet."
+        },
+        {
+          "pt": "despensa",
+          "sv": "skafferi",
+          "type": "substantiv",
+          "example_pt": "A despensa está cheia de conservas.",
+          "example_sv": "Skafferiet är fullt av konserver."
+        },
+        {
+          "pt": "torneira",
+          "sv": "kran",
+          "type": "substantiv",
+          "example_pt": "A torneira da cozinha está a pingar.",
+          "example_sv": "Kranen i köket droppar."
+        },
+        {
+          "pt": "tijolo",
+          "sv": "tegelsten",
+          "type": "substantiv",
+          "example_pt": "A casa foi construída com tijolos vermelhos.",
+          "example_sv": "Huset byggdes med röda tegelstenar."
+        },
+        {
+          "pt": "sótão",
+          "sv": "vind/vindsutrymme",
+          "type": "substantiv",
+          "example_pt": "Guardamos as malas velhas no sótão.",
+          "example_sv": "Vi förvarar de gamla väskorna på vinden."
+        },
+        {
+          "pt": "azulejo",
+          "sv": "kakelplatta",
+          "type": "substantiv",
+          "example_pt": "Os azulejos da casa de banho são azuis.",
+          "example_sv": "Kakelplattorna i badrummet är blå."
+        },
+        {
+          "pt": "campainha",
+          "sv": "dörrklocka",
+          "type": "substantiv",
+          "example_pt": "Alguém tocou a campainha às oito da manhã.",
+          "example_sv": "Någon ringde på dörrklockan klockan åtta på morgonen."
+        },
+        {
+          "pt": "varanda",
+          "sv": "balkong",
+          "type": "substantiv",
+          "example_pt": "Ela rega as plantas na varanda todos os dias.",
+          "example_sv": "Hon vattnar växterna på balkongen varje dag."
+        }
+      ]
+    },
+    {
+      "theme": "djur",
+      "words": [
+        {
+          "pt": "javali",
+          "sv": "vildsvin",
+          "type": "substantiv",
+          "example_pt": "O javali atravessou a estrada à noite.",
+          "example_sv": "Vildsvinet korsade vägen på natten."
+        },
+        {
+          "pt": "cegonha",
+          "sv": "stork",
+          "type": "substantiv",
+          "example_pt": "A cegonha fez o ninho no telhado da igreja.",
+          "example_sv": "Storken byggde sitt bo på kyrkans tak."
+        },
+        {
+          "pt": "tartaruga",
+          "sv": "sköldpadda",
+          "type": "substantiv",
+          "example_pt": "A tartaruga vive muitos anos.",
+          "example_sv": "Sköldpaddan lever många år."
+        },
+        {
+          "pt": "pombo",
+          "sv": "duva",
+          "type": "substantiv",
+          "example_pt": "Os pombos vivem nas praças das cidades.",
+          "example_sv": "Duvorna lever på stadens torg."
+        },
+        {
+          "pt": "enguia",
+          "sv": "ål",
+          "type": "substantiv",
+          "example_pt": "Pescaram uma enguia grande no rio.",
+          "example_sv": "De fiskade en stor ål i floden."
+        },
+        {
+          "pt": "borboleta",
+          "sv": "fjäril",
+          "type": "substantiv",
+          "example_pt": "Uma borboleta pousou na flor.",
+          "example_sv": "En fjäril landade på blomman."
+        },
+        {
+          "pt": "lebre",
+          "sv": "hare",
+          "type": "substantiv",
+          "example_pt": "A lebre correu pelo campo rapidamente.",
+          "example_sv": "Haren sprang snabbt genom fältet."
+        },
+        {
+          "pt": "vespa",
+          "sv": "geting",
+          "type": "substantiv",
+          "example_pt": "Fui picado por uma vespa no jardim.",
+          "example_sv": "Jag blev stucken av en geting i trädgården."
+        }
+      ]
+    }
+  ]
+}
