@@ -1,0 +1,188 @@
+{
+  "date": "2026-11-11",
+  "sets": [
+    {
+      "theme": "kläder och mode",
+      "words": [
+        {
+          "pt": "manga",
+          "sv": "ärm",
+          "type": "substantiv",
+          "example_pt": "Esta camisa tem manga comprida.",
+          "example_sv": "Den här skjortan har lång ärm."
+        },
+        {
+          "pt": "tecido",
+          "sv": "tyg",
+          "type": "substantiv",
+          "example_pt": "O tecido desta saia é muito macio.",
+          "example_sv": "Tyget i den här kjolen är mycket mjukt."
+        },
+        {
+          "pt": "bolso",
+          "sv": "ficka",
+          "type": "substantiv",
+          "example_pt": "Coloquei as chaves no bolso.",
+          "example_sv": "Jag lade nycklarna i fickan."
+        },
+        {
+          "pt": "botão",
+          "sv": "knapp",
+          "type": "substantiv",
+          "example_pt": "O botão da camisa caiu.",
+          "example_sv": "Knappen på skjortan föll av."
+        },
+        {
+          "pt": "estampado",
+          "sv": "mönstrad",
+          "type": "adjektiv",
+          "example_pt": "Ela usa um vestido estampado.",
+          "example_sv": "Hon bär en mönstrad klänning."
+        },
+        {
+          "pt": "decote",
+          "sv": "urringning",
+          "type": "substantiv",
+          "example_pt": "O decote do vestido é muito elegante.",
+          "example_sv": "Urringningen på klänningen är mycket elegant."
+        },
+        {
+          "pt": "alfaiate",
+          "sv": "skräddare",
+          "type": "substantiv",
+          "example_pt": "O alfaiate fez um fato perfeito.",
+          "example_sv": "Skräddaren sydde en perfekt kostym."
+        },
+        {
+          "pt": "desbotado",
+          "sv": "urtvättad",
+          "type": "adjektiv",
+          "example_pt": "Esta camisola está desbotada depois de muitas lavagens.",
+          "example_sv": "Den här tröjan är urtvättad efter många tvättar."
+        }
+      ]
+    },
+    {
+      "theme": "sport och fritid",
+      "words": [
+        {
+          "pt": "escalada",
+          "sv": "klättring",
+          "type": "substantiv",
+          "example_pt": "A escalada é um desporto muito exigente.",
+          "example_sv": "Klättring är en mycket krävande sport."
+        },
+        {
+          "pt": "remo",
+          "sv": "rodd",
+          "type": "substantiv",
+          "example_pt": "O remo é popular nos rios portugueses.",
+          "example_sv": "Rodd är populärt på portugisiska floder."
+        },
+        {
+          "pt": "patinagem",
+          "sv": "skridskoåkning",
+          "type": "substantiv",
+          "example_pt": "Ela pratica patinagem no gelo desde pequena.",
+          "example_sv": "Hon har åkt skridskor sedan hon var liten."
+        },
+        {
+          "pt": "tabuleiro",
+          "sv": "spelplan",
+          "type": "substantiv",
+          "example_pt": "Colocámos as peças no tabuleiro de xadrez.",
+          "example_sv": "Vi lade pjäserna på schackbrädet."
+        },
+        {
+          "pt": "faixa",
+          "sv": "bana",
+          "type": "substantiv",
+          "example_pt": "O corredor ficou na faixa central.",
+          "example_sv": "Löparen höll sig i mittenbanan."
+        },
+        {
+          "pt": "penalidade",
+          "sv": "straff",
+          "type": "substantiv",
+          "example_pt": "O árbitro marcou uma penalidade.",
+          "example_sv": "Domaren dömde ett straff."
+        },
+        {
+          "pt": "vestiário",
+          "sv": "omklädningsrum",
+          "type": "substantiv",
+          "example_pt": "Os jogadores foram para o vestiário ao intervalo.",
+          "example_sv": "Spelarna gick till omklädningsrummet i halvtid."
+        },
+        {
+          "pt": "atletismo",
+          "sv": "friidrott",
+          "type": "substantiv",
+          "example_pt": "O atletismo inclui corrida e salto.",
+          "example_sv": "Friidrott inkluderar löpning och hopp."
+        }
+      ]
+    },
+    {
+      "theme": "tid och datum",
+      "words": [
+        {
+          "pt": "amanhecer",
+          "sv": "gryning",
+          "type": "substantiv",
+          "example_pt": "Acordei ao amanhecer para ver o sol nascer.",
+          "example_sv": "Jag vaknade i gryningen för att se soluppgången."
+        },
+        {
+          "pt": "anoitecer",
+          "sv": "skymning",
+          "type": "substantiv",
+          "example_pt": "As crianças voltaram para casa ao anoitecer.",
+          "example_sv": "Barnen kom hem i skymningen."
+        },
+        {
+          "pt": "pontualmente",
+          "sv": "punktligt",
+          "type": "adverb",
+          "example_pt": "O comboio chegou pontualmente.",
+          "example_sv": "Tåget anlände punktligt."
+        },
+        {
+          "pt": "trimestral",
+          "sv": "kvartalsvis",
+          "type": "adjektiv",
+          "example_pt": "O relatório trimestral foi enviado ontem.",
+          "example_sv": "Kvartalsrapporten skickades igår."
+        },
+        {
+          "pt": "vigésimo",
+          "sv": "tjugonde",
+          "type": "adjektiv",
+          "example_pt": "Hoje é o vigésimo dia do mês.",
+          "example_sv": "Idag är den tjugonde dagen i månaden."
+        },
+        {
+          "pt": "bienal",
+          "sv": "tvåårig",
+          "type": "adjektiv",
+          "example_pt": "O festival bienal acontece de dois em dois anos.",
+          "example_sv": "Det tvååriga festivalen äger rum vartannat år."
+        },
+        {
+          "pt": "instantâneo",
+          "sv": "omedelbar",
+          "type": "adjektiv",
+          "example_pt": "A resposta foi instantânea.",
+          "example_sv": "Svaret var omedelbart."
+        },
+        {
+          "pt": "entretanto",
+          "sv": "under tiden",
+          "type": "adverb",
+          "example_pt": "Entretanto, o jantar ficou frio.",
+          "example_sv": "Under tiden blev middagen kall."
+        }
+      ]
+    }
+  ]
+}
