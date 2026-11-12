@@ -1,0 +1,188 @@
+{
+  "date": "2026-11-12",
+  "sets": [
+    {
+      "theme": "Känslor och adjektiv",
+      "words": [
+        {
+          "pt": "melancólico",
+          "sv": "melankolisk",
+          "type": "adjektiv",
+          "example_pt": "Ele ficou melancólico depois de ouvir a música.",
+          "example_sv": "Han blev melankolisk efter att ha hört musiken."
+        },
+        {
+          "pt": "furioso",
+          "sv": "rasande",
+          "type": "adjektiv",
+          "example_pt": "Ela estava furiosa com a situação.",
+          "example_sv": "Hon var rasande över situationen."
+        },
+        {
+          "pt": "esperançoso",
+          "sv": "hoppfull",
+          "type": "adjektiv",
+          "example_pt": "O aluno estava esperançoso antes do exame.",
+          "example_sv": "Eleven var hoppfull inför provet."
+        },
+        {
+          "pt": "confuso",
+          "sv": "förvirrad",
+          "type": "adjektiv",
+          "example_pt": "Fiquei confuso com as instruções.",
+          "example_sv": "Jag blev förvirrad av instruktionerna."
+        },
+        {
+          "pt": "grato",
+          "sv": "tacksam",
+          "type": "adjektiv",
+          "example_pt": "Estou muito grato pela vossa ajuda.",
+          "example_sv": "Jag är mycket tacksam för er hjälp."
+        },
+        {
+          "pt": "tímido",
+          "sv": "blyg",
+          "type": "adjektiv",
+          "example_pt": "A criança era muito tímida na escola.",
+          "example_sv": "Barnet var väldigt blygt i skolan."
+        },
+        {
+          "pt": "ciumento",
+          "sv": "svartsjuk",
+          "type": "adjektiv",
+          "example_pt": "Ele ficou ciumento quando viu os amigos dela.",
+          "example_sv": "Han blev svartsjuk när han såg hennes vänner."
+        },
+        {
+          "pt": "desiludido",
+          "sv": "besviken",
+          "type": "adjektiv",
+          "example_pt": "Ficámos desiludidos com o resultado do jogo.",
+          "example_sv": "Vi var besvikna på matchresultatet."
+        }
+      ]
+    },
+    {
+      "theme": "Teknik",
+      "words": [
+        {
+          "pt": "carregador",
+          "sv": "laddare",
+          "type": "substantiv",
+          "example_pt": "Esqueci o carregador do telemóvel em casa.",
+          "example_sv": "Jag glömde mobilladdaren hemma."
+        },
+        {
+          "pt": "resolução",
+          "sv": "upplösning",
+          "type": "substantiv",
+          "example_pt": "Este ecrã tem uma resolução muito alta.",
+          "example_sv": "Den här skärmen har mycket hög upplösning."
+        },
+        {
+          "pt": "encriptação",
+          "sv": "kryptering",
+          "type": "substantiv",
+          "example_pt": "A encriptação protege os dados dos utilizadores.",
+          "example_sv": "Kryptering skyddar användarnas data."
+        },
+        {
+          "pt": "interface",
+          "sv": "gränssnitt",
+          "type": "substantiv",
+          "example_pt": "A nova interface é muito fácil de usar.",
+          "example_sv": "Det nya gränssnittet är mycket lätt att använda."
+        },
+        {
+          "pt": "notificação",
+          "sv": "avisering",
+          "type": "substantiv",
+          "example_pt": "Recebi uma notificação no telemóvel.",
+          "example_sv": "Jag fick en avisering på mobilen."
+        },
+        {
+          "pt": "descarregar",
+          "sv": "ladda ner",
+          "type": "verb",
+          "example_pt": "Vou descarregar a aplicação agora.",
+          "example_sv": "Jag ska ladda ner appen nu."
+        },
+        {
+          "pt": "suporte técnico",
+          "sv": "teknisk support",
+          "type": "substantiv",
+          "example_pt": "Liguei ao suporte técnico para resolver o problema.",
+          "example_sv": "Jag ringde teknisk support för att lösa problemet."
+        },
+        {
+          "pt": "sensor",
+          "sv": "sensor",
+          "type": "substantiv",
+          "example_pt": "O sensor de temperatura está avariado.",
+          "example_sv": "Temperatursensorn är trasig."
+        }
+      ]
+    },
+    {
+      "theme": "Mat och dryck",
+      "words": [
+        {
+          "pt": "espargos",
+          "sv": "sparris",
+          "type": "substantiv",
+          "example_pt": "Comi espargos grelhados ao jantar.",
+          "example_sv": "Jag åt grillad sparris till middag."
+        },
+        {
+          "pt": "bacalhau",
+          "sv": "torsk",
+          "type": "substantiv",
+          "example_pt": "O bacalhau é o prato mais famoso de Portugal.",
+          "example_sv": "Torsk är Portugals mest berömda rätt."
+        },
+        {
+          "pt": "figo",
+          "sv": "fikon",
+          "type": "substantiv",
+          "example_pt": "Os figos estão maduros em agosto.",
+          "example_sv": "Fikonen är mogna i augusti."
+        },
+        {
+          "pt": "cerveja",
+          "sv": "öl",
+          "type": "substantiv",
+          "example_pt": "Pedi uma cerveja bem fresca.",
+          "example_sv": "Jag beställde en riktigt kall öl."
+        },
+        {
+          "pt": "tempero",
+          "sv": "krydda",
+          "type": "substantiv",
+          "example_pt": "Este tempero dá muito sabor à carne.",
+          "example_sv": "Den här kryddan ger köttet mycket smak."
+        },
+        {
+          "pt": "couve-flor",
+          "sv": "blomkål",
+          "type": "substantiv",
+          "example_pt": "A couve-flor é muito nutritiva.",
+          "example_sv": "Blomkål är mycket näringsrik."
+        },
+        {
+          "pt": "tâmara",
+          "sv": "dadel",
+          "type": "substantiv",
+          "example_pt": "As tâmaras são muito doces e energéticas.",
+          "example_sv": "Dadlar är mycket söta och energirika."
+        },
+        {
+          "pt": "creme",
+          "sv": "grädde",
+          "type": "substantiv",
+          "example_pt": "Adicionei creme à sopa para ficar mais rica.",
+          "example_sv": "Jag tillsatte grädde i soppan för att göra den fylligare."
+        }
+      ]
+    }
+  ]
+}

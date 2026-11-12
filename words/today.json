@@ -1,186 +1,186 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "sets": [
     {
-      "theme": "kläder och mode",
+      "theme": "Känslor och adjektiv",
       "words": [
         {
-          "pt": "manga",
-          "sv": "ärm",
-          "type": "substantiv",
-          "example_pt": "Esta camisa tem manga comprida.",
-          "example_sv": "Den här skjortan har lång ärm."
-        },
-        {
-          "pt": "tecido",
-          "sv": "tyg",
-          "type": "substantiv",
-          "example_pt": "O tecido desta saia é muito macio.",
-          "example_sv": "Tyget i den här kjolen är mycket mjukt."
-        },
-        {
-          "pt": "bolso",
-          "sv": "ficka",
-          "type": "substantiv",
-          "example_pt": "Coloquei as chaves no bolso.",
-          "example_sv": "Jag lade nycklarna i fickan."
-        },
-        {
-          "pt": "botão",
-          "sv": "knapp",
-          "type": "substantiv",
-          "example_pt": "O botão da camisa caiu.",
-          "example_sv": "Knappen på skjortan föll av."
-        },
-        {
-          "pt": "estampado",
-          "sv": "mönstrad",
+          "pt": "melancólico",
+          "sv": "melankolisk",
           "type": "adjektiv",
-          "example_pt": "Ela usa um vestido estampado.",
-          "example_sv": "Hon bär en mönstrad klänning."
+          "example_pt": "Ele ficou melancólico depois de ouvir a música.",
+          "example_sv": "Han blev melankolisk efter att ha hört musiken."
         },
         {
-          "pt": "decote",
-          "sv": "urringning",
-          "type": "substantiv",
-          "example_pt": "O decote do vestido é muito elegante.",
-          "example_sv": "Urringningen på klänningen är mycket elegant."
-        },
-        {
-          "pt": "alfaiate",
-          "sv": "skräddare",
-          "type": "substantiv",
-          "example_pt": "O alfaiate fez um fato perfeito.",
-          "example_sv": "Skräddaren sydde en perfekt kostym."
-        },
-        {
-          "pt": "desbotado",
-          "sv": "urtvättad",
+          "pt": "furioso",
+          "sv": "rasande",
           "type": "adjektiv",
-          "example_pt": "Esta camisola está desbotada depois de muitas lavagens.",
-          "example_sv": "Den här tröjan är urtvättad efter många tvättar."
+          "example_pt": "Ela estava furiosa com a situação.",
+          "example_sv": "Hon var rasande över situationen."
+        },
+        {
+          "pt": "esperançoso",
+          "sv": "hoppfull",
+          "type": "adjektiv",
+          "example_pt": "O aluno estava esperançoso antes do exame.",
+          "example_sv": "Eleven var hoppfull inför provet."
+        },
+        {
+          "pt": "confuso",
+          "sv": "förvirrad",
+          "type": "adjektiv",
+          "example_pt": "Fiquei confuso com as instruções.",
+          "example_sv": "Jag blev förvirrad av instruktionerna."
+        },
+        {
+          "pt": "grato",
+          "sv": "tacksam",
+          "type": "adjektiv",
+          "example_pt": "Estou muito grato pela vossa ajuda.",
+          "example_sv": "Jag är mycket tacksam för er hjälp."
+        },
+        {
+          "pt": "tímido",
+          "sv": "blyg",
+          "type": "adjektiv",
+          "example_pt": "A criança era muito tímida na escola.",
+          "example_sv": "Barnet var väldigt blygt i skolan."
+        },
+        {
+          "pt": "ciumento",
+          "sv": "svartsjuk",
+          "type": "adjektiv",
+          "example_pt": "Ele ficou ciumento quando viu os amigos dela.",
+          "example_sv": "Han blev svartsjuk när han såg hennes vänner."
+        },
+        {
+          "pt": "desiludido",
+          "sv": "besviken",
+          "type": "adjektiv",
+          "example_pt": "Ficámos desiludidos com o resultado do jogo.",
+          "example_sv": "Vi var besvikna på matchresultatet."
         }
       ]
     },
     {
-      "theme": "sport och fritid",
+      "theme": "Teknik",
       "words": [
         {
-          "pt": "escalada",
-          "sv": "klättring",
+          "pt": "carregador",
+          "sv": "laddare",
           "type": "substantiv",
-          "example_pt": "A escalada é um desporto muito exigente.",
-          "example_sv": "Klättring är en mycket krävande sport."
+          "example_pt": "Esqueci o carregador do telemóvel em casa.",
+          "example_sv": "Jag glömde mobilladdaren hemma."
         },
         {
-          "pt": "remo",
-          "sv": "rodd",
+          "pt": "resolução",
+          "sv": "upplösning",
           "type": "substantiv",
-          "example_pt": "O remo é popular nos rios portugueses.",
-          "example_sv": "Rodd är populärt på portugisiska floder."
+          "example_pt": "Este ecrã tem uma resolução muito alta.",
+          "example_sv": "Den här skärmen har mycket hög upplösning."
         },
         {
-          "pt": "patinagem",
-          "sv": "skridskoåkning",
+          "pt": "encriptação",
+          "sv": "kryptering",
           "type": "substantiv",
-          "example_pt": "Ela pratica patinagem no gelo desde pequena.",
-          "example_sv": "Hon har åkt skridskor sedan hon var liten."
+          "example_pt": "A encriptação protege os dados dos utilizadores.",
+          "example_sv": "Kryptering skyddar användarnas data."
         },
         {
-          "pt": "tabuleiro",
-          "sv": "spelplan",
+          "pt": "interface",
+          "sv": "gränssnitt",
           "type": "substantiv",
-          "example_pt": "Colocámos as peças no tabuleiro de xadrez.",
-          "example_sv": "Vi lade pjäserna på schackbrädet."
+          "example_pt": "A nova interface é muito fácil de usar.",
+          "example_sv": "Det nya gränssnittet är mycket lätt att använda."
         },
         {
-          "pt": "faixa",
-          "sv": "bana",
+          "pt": "notificação",
+          "sv": "avisering",
           "type": "substantiv",
-          "example_pt": "O corredor ficou na faixa central.",
-          "example_sv": "Löparen höll sig i mittenbanan."
+          "example_pt": "Recebi uma notificação no telemóvel.",
+          "example_sv": "Jag fick en avisering på mobilen."
         },
         {
-          "pt": "penalidade",
-          "sv": "straff",
-          "type": "substantiv",
-          "example_pt": "O árbitro marcou uma penalidade.",
-          "example_sv": "Domaren dömde ett straff."
+          "pt": "descarregar",
+          "sv": "ladda ner",
+          "type": "verb",
+          "example_pt": "Vou descarregar a aplicação agora.",
+          "example_sv": "Jag ska ladda ner appen nu."
         },
         {
-          "pt": "vestiário",
-          "sv": "omklädningsrum",
+          "pt": "suporte técnico",
+          "sv": "teknisk support",
           "type": "substantiv",
-          "example_pt": "Os jogadores foram para o vestiário ao intervalo.",
-          "example_sv": "Spelarna gick till omklädningsrummet i halvtid."
+          "example_pt": "Liguei ao suporte técnico para resolver o problema.",
+          "example_sv": "Jag ringde teknisk support för att lösa problemet."
         },
         {
-          "pt": "atletismo",
-          "sv": "friidrott",
+          "pt": "sensor",
+          "sv": "sensor",
           "type": "substantiv",
-          "example_pt": "O atletismo inclui corrida e salto.",
-          "example_sv": "Friidrott inkluderar löpning och hopp."
+          "example_pt": "O sensor de temperatura está avariado.",
+          "example_sv": "Temperatursensorn är trasig."
         }
       ]
     },
     {
-      "theme": "tid och datum",
+      "theme": "Mat och dryck",
       "words": [
         {
-          "pt": "amanhecer",
-          "sv": "gryning",
+          "pt": "espargos",
+          "sv": "sparris",
           "type": "substantiv",
-          "example_pt": "Acordei ao amanhecer para ver o sol nascer.",
-          "example_sv": "Jag vaknade i gryningen för att se soluppgången."
+          "example_pt": "Comi espargos grelhados ao jantar.",
+          "example_sv": "Jag åt grillad sparris till middag."
         },
         {
-          "pt": "anoitecer",
-          "sv": "skymning",
+          "pt": "bacalhau",
+          "sv": "torsk",
           "type": "substantiv",
-          "example_pt": "As crianças voltaram para casa ao anoitecer.",
-          "example_sv": "Barnen kom hem i skymningen."
+          "example_pt": "O bacalhau é o prato mais famoso de Portugal.",
+          "example_sv": "Torsk är Portugals mest berömda rätt."
         },
         {
-          "pt": "pontualmente",
-          "sv": "punktligt",
-          "type": "adverb",
-          "example_pt": "O comboio chegou pontualmente.",
-          "example_sv": "Tåget anlände punktligt."
+          "pt": "figo",
+          "sv": "fikon",
+          "type": "substantiv",
+          "example_pt": "Os figos estão maduros em agosto.",
+          "example_sv": "Fikonen är mogna i augusti."
         },
         {
-          "pt": "trimestral",
-          "sv": "kvartalsvis",
-          "type": "adjektiv",
-          "example_pt": "O relatório trimestral foi enviado ontem.",
-          "example_sv": "Kvartalsrapporten skickades igår."
+          "pt": "cerveja",
+          "sv": "öl",
+          "type": "substantiv",
+          "example_pt": "Pedi uma cerveja bem fresca.",
+          "example_sv": "Jag beställde en riktigt kall öl."
         },
         {
-          "pt": "vigésimo",
-          "sv": "tjugonde",
-          "type": "adjektiv",
-          "example_pt": "Hoje é o vigésimo dia do mês.",
-          "example_sv": "Idag är den tjugonde dagen i månaden."
+          "pt": "tempero",
+          "sv": "krydda",
+          "type": "substantiv",
+          "example_pt": "Este tempero dá muito sabor à carne.",
+          "example_sv": "Den här kryddan ger köttet mycket smak."
         },
         {
-          "pt": "bienal",
-          "sv": "tvåårig",
-          "type": "adjektiv",
-          "example_pt": "O festival bienal acontece de dois em dois anos.",
-          "example_sv": "Det tvååriga festivalen äger rum vartannat år."
+          "pt": "couve-flor",
+          "sv": "blomkål",
+          "type": "substantiv",
+          "example_pt": "A couve-flor é muito nutritiva.",
+          "example_sv": "Blomkål är mycket näringsrik."
         },
         {
-          "pt": "instantâneo",
-          "sv": "omedelbar",
-          "type": "adjektiv",
-          "example_pt": "A resposta foi instantânea.",
-          "example_sv": "Svaret var omedelbart."
+          "pt": "tâmara",
+          "sv": "dadel",
+          "type": "substantiv",
+          "example_pt": "As tâmaras são muito doces e energéticas.",
+          "example_sv": "Dadlar är mycket söta och energirika."
         },
         {
-          "pt": "entretanto",
-          "sv": "under tiden",
-          "type": "adverb",
-          "example_pt": "Entretanto, o jantar ficou frio.",
-          "example_sv": "Under tiden blev middagen kall."
+          "pt": "creme",
+          "sv": "grädde",
+          "type": "substantiv",
+          "example_pt": "Adicionei creme à sopa para ficar mais rica.",
+          "example_sv": "Jag tillsatte grädde i soppan för att göra den fylligare."
         }
       ]
     }
