@@ -1,186 +1,186 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "sets": [
     {
-      "theme": "Känslor och adjektiv",
+      "theme": "mat och dryck",
       "words": [
         {
-          "pt": "melancólico",
-          "sv": "melankolisk",
-          "type": "adjektiv",
-          "example_pt": "Ele ficou melancólico depois de ouvir a música.",
-          "example_sv": "Han blev melankolisk efter att ha hört musiken."
+          "pt": "camarão",
+          "sv": "räka",
+          "type": "substantiv",
+          "example_pt": "O camarão grelhado é delicioso.",
+          "example_sv": "Den grillade räkan är läcker."
         },
         {
-          "pt": "furioso",
-          "sv": "rasande",
-          "type": "adjektiv",
-          "example_pt": "Ela estava furiosa com a situação.",
-          "example_sv": "Hon var rasande över situationen."
+          "pt": "abacate",
+          "sv": "avokado",
+          "type": "substantiv",
+          "example_pt": "Coloquei abacate na salada.",
+          "example_sv": "Jag lade avokado i salladen."
         },
         {
-          "pt": "esperançoso",
-          "sv": "hoppfull",
-          "type": "adjektiv",
-          "example_pt": "O aluno estava esperançoso antes do exame.",
-          "example_sv": "Eleven var hoppfull inför provet."
+          "pt": "canela",
+          "sv": "kanel",
+          "type": "substantiv",
+          "example_pt": "Adicionei canela ao café.",
+          "example_sv": "Jag tillsatte kanel i kaffet."
         },
         {
-          "pt": "confuso",
-          "sv": "förvirrad",
-          "type": "adjektiv",
-          "example_pt": "Fiquei confuso com as instruções.",
-          "example_sv": "Jag blev förvirrad av instruktionerna."
+          "pt": "leitão",
+          "sv": "spädgris",
+          "type": "substantiv",
+          "example_pt": "O leitão assado é típico de Coimbra.",
+          "example_sv": "Den stekta spädgrisen är typisk för Coimbra."
         },
         {
-          "pt": "grato",
-          "sv": "tacksam",
-          "type": "adjektiv",
-          "example_pt": "Estou muito grato pela vossa ajuda.",
-          "example_sv": "Jag är mycket tacksam för er hjälp."
+          "pt": "manteiga",
+          "sv": "smör",
+          "type": "substantiv",
+          "example_pt": "Passei manteiga no pão.",
+          "example_sv": "Jag bredde smör på brödet."
         },
         {
-          "pt": "tímido",
-          "sv": "blyg",
-          "type": "adjektiv",
-          "example_pt": "A criança era muito tímida na escola.",
-          "example_sv": "Barnet var väldigt blygt i skolan."
+          "pt": "pêssego",
+          "sv": "persika",
+          "type": "substantiv",
+          "example_pt": "O pêssego está muito maduro.",
+          "example_sv": "Persikan är mycket mogen."
         },
         {
-          "pt": "ciumento",
-          "sv": "svartsjuk",
-          "type": "adjektiv",
-          "example_pt": "Ele ficou ciumento quando viu os amigos dela.",
-          "example_sv": "Han blev svartsjuk när han såg hennes vänner."
+          "pt": "alho",
+          "sv": "vitlök",
+          "type": "substantiv",
+          "example_pt": "O alho dá sabor ao molho.",
+          "example_sv": "Vitlöken ger smak åt såsen."
         },
         {
-          "pt": "desiludido",
-          "sv": "besviken",
-          "type": "adjektiv",
-          "example_pt": "Ficámos desiludidos com o resultado do jogo.",
-          "example_sv": "Vi var besvikna på matchresultatet."
+          "pt": "atum",
+          "sv": "tonfisk",
+          "type": "substantiv",
+          "example_pt": "Comprei uma lata de atum no supermercado.",
+          "example_sv": "Jag köpte en burk tonfisk i snabbköpet."
         }
       ]
     },
     {
-      "theme": "Teknik",
+      "theme": "resor och transport",
       "words": [
         {
-          "pt": "carregador",
-          "sv": "laddare",
+          "pt": "ferrovia",
+          "sv": "järnväg",
           "type": "substantiv",
-          "example_pt": "Esqueci o carregador do telemóvel em casa.",
-          "example_sv": "Jag glömde mobilladdaren hemma."
+          "example_pt": "A ferrovia liga as duas cidades.",
+          "example_sv": "Järnvägen förbinder de två städerna."
         },
         {
-          "pt": "resolução",
-          "sv": "upplösning",
+          "pt": "alfândega",
+          "sv": "tull",
           "type": "substantiv",
-          "example_pt": "Este ecrã tem uma resolução muito alta.",
-          "example_sv": "Den här skärmen har mycket hög upplösning."
+          "example_pt": "Passei pela alfândega sem problemas.",
+          "example_sv": "Jag gick igenom tullen utan problem."
         },
         {
-          "pt": "encriptação",
-          "sv": "kryptering",
-          "type": "substantiv",
-          "example_pt": "A encriptação protege os dados dos utilizadores.",
-          "example_sv": "Kryptering skyddar användarnas data."
+          "pt": "transatlântico",
+          "sv": "transatlantisk",
+          "type": "adjektiv",
+          "example_pt": "O voo transatlântico dura muitas horas.",
+          "example_sv": "Det transatlantiska flyget tar många timmar."
         },
         {
-          "pt": "interface",
-          "sv": "gränssnitt",
+          "pt": "escala",
+          "sv": "mellanlandning",
           "type": "substantiv",
-          "example_pt": "A nova interface é muito fácil de usar.",
-          "example_sv": "Det nya gränssnittet är mycket lätt att använda."
+          "example_pt": "Temos uma escala em Lisboa.",
+          "example_sv": "Vi har en mellanlandning i Lissabon."
         },
         {
-          "pt": "notificação",
-          "sv": "avisering",
+          "pt": "condutor",
+          "sv": "förare",
           "type": "substantiv",
-          "example_pt": "Recebi uma notificação no telemóvel.",
-          "example_sv": "Jag fick en avisering på mobilen."
+          "example_pt": "O condutor parou o autocarro.",
+          "example_sv": "Föraren stannade bussen."
         },
         {
-          "pt": "descarregar",
-          "sv": "ladda ner",
+          "pt": "cais",
+          "sv": "kajplats",
+          "type": "substantiv",
+          "example_pt": "O barco atracou no cais.",
+          "example_sv": "Båten lade till vid kajplatsen."
+        },
+        {
+          "pt": "roteiro",
+          "sv": "resrutt",
+          "type": "substantiv",
+          "example_pt": "Planeámos um roteiro pela Europa.",
+          "example_sv": "Vi planerade en resrutt genom Europa."
+        },
+        {
+          "pt": "travessia",
+          "sv": "överfart",
+          "type": "substantiv",
+          "example_pt": "A travessia de barco levou duas horas.",
+          "example_sv": "Överfarten med båt tog två timmar."
+        }
+      ]
+    },
+    {
+      "theme": "familj och relationer",
+      "words": [
+        {
+          "pt": "cunhada",
+          "sv": "svägerska",
+          "type": "substantiv",
+          "example_pt": "A minha cunhada mora no Porto.",
+          "example_sv": "Min svägerska bor i Porto."
+        },
+        {
+          "pt": "sogro",
+          "sv": "svärfar",
+          "type": "substantiv",
+          "example_pt": "O meu sogro é muito simpático.",
+          "example_sv": "Min svärfar är mycket trevlig."
+        },
+        {
+          "pt": "adotar",
+          "sv": "adoptera",
           "type": "verb",
-          "example_pt": "Vou descarregar a aplicação agora.",
-          "example_sv": "Jag ska ladda ner appen nu."
+          "example_pt": "Decidiram adotar uma criança.",
+          "example_sv": "De bestämde sig för att adoptera ett barn."
         },
         {
-          "pt": "suporte técnico",
-          "sv": "teknisk support",
+          "pt": "viúvo",
+          "sv": "änkling",
           "type": "substantiv",
-          "example_pt": "Liguei ao suporte técnico para resolver o problema.",
-          "example_sv": "Jag ringde teknisk support för att lösa problemet."
+          "example_pt": "O viúvo ficou muito triste.",
+          "example_sv": "Änklingen var mycket ledsen."
         },
         {
-          "pt": "sensor",
-          "sv": "sensor",
+          "pt": "laço",
+          "sv": "band",
           "type": "substantiv",
-          "example_pt": "O sensor de temperatura está avariado.",
-          "example_sv": "Temperatursensorn är trasig."
-        }
-      ]
-    },
-    {
-      "theme": "Mat och dryck",
-      "words": [
-        {
-          "pt": "espargos",
-          "sv": "sparris",
-          "type": "substantiv",
-          "example_pt": "Comi espargos grelhados ao jantar.",
-          "example_sv": "Jag åt grillad sparris till middag."
+          "example_pt": "Temos um laço muito forte.",
+          "example_sv": "Vi har ett mycket starkt band."
         },
         {
-          "pt": "bacalhau",
-          "sv": "torsk",
+          "pt": "sobrinha",
+          "sv": "brorsdotter/systerdotter",
           "type": "substantiv",
-          "example_pt": "O bacalhau é o prato mais famoso de Portugal.",
-          "example_sv": "Torsk är Portugals mest berömda rätt."
+          "example_pt": "A minha sobrinha tem cinco anos.",
+          "example_sv": "Min brorsdotter är fem år gammal."
         },
         {
-          "pt": "figo",
-          "sv": "fikon",
+          "pt": "confiança",
+          "sv": "förtroende",
           "type": "substantiv",
-          "example_pt": "Os figos estão maduros em agosto.",
-          "example_sv": "Fikonen är mogna i augusti."
+          "example_pt": "A confiança é importante numa relação.",
+          "example_sv": "Förtroende är viktigt i en relation."
         },
         {
-          "pt": "cerveja",
-          "sv": "öl",
+          "pt": "cumplicidade",
+          "sv": "samförstånd",
           "type": "substantiv",
-          "example_pt": "Pedi uma cerveja bem fresca.",
-          "example_sv": "Jag beställde en riktigt kall öl."
-        },
-        {
-          "pt": "tempero",
-          "sv": "krydda",
-          "type": "substantiv",
-          "example_pt": "Este tempero dá muito sabor à carne.",
-          "example_sv": "Den här kryddan ger köttet mycket smak."
-        },
-        {
-          "pt": "couve-flor",
-          "sv": "blomkål",
-          "type": "substantiv",
-          "example_pt": "A couve-flor é muito nutritiva.",
-          "example_sv": "Blomkål är mycket näringsrik."
-        },
-        {
-          "pt": "tâmara",
-          "sv": "dadel",
-          "type": "substantiv",
-          "example_pt": "As tâmaras são muito doces e energéticas.",
-          "example_sv": "Dadlar är mycket söta och energirika."
-        },
-        {
-          "pt": "creme",
-          "sv": "grädde",
-          "type": "substantiv",
-          "example_pt": "Adicionei creme à sopa para ficar mais rica.",
-          "example_sv": "Jag tillsatte grädde i soppan för att göra den fylligare."
+          "example_pt": "Existe cumplicidade entre os irmãos.",
+          "example_sv": "Det finns ett samförstånd mellan syskonen."
         }
       ]
     }

@@ -1,0 +1,188 @@
+{
+  "date": "2026-11-13",
+  "sets": [
+    {
+      "theme": "mat och dryck",
+      "words": [
+        {
+          "pt": "camarão",
+          "sv": "räka",
+          "type": "substantiv",
+          "example_pt": "O camarão grelhado é delicioso.",
+          "example_sv": "Den grillade räkan är läcker."
+        },
+        {
+          "pt": "abacate",
+          "sv": "avokado",
+          "type": "substantiv",
+          "example_pt": "Coloquei abacate na salada.",
+          "example_sv": "Jag lade avokado i salladen."
+        },
+        {
+          "pt": "canela",
+          "sv": "kanel",
+          "type": "substantiv",
+          "example_pt": "Adicionei canela ao café.",
+          "example_sv": "Jag tillsatte kanel i kaffet."
+        },
+        {
+          "pt": "leitão",
+          "sv": "spädgris",
+          "type": "substantiv",
+          "example_pt": "O leitão assado é típico de Coimbra.",
+          "example_sv": "Den stekta spädgrisen är typisk för Coimbra."
+        },
+        {
+          "pt": "manteiga",
+          "sv": "smör",
+          "type": "substantiv",
+          "example_pt": "Passei manteiga no pão.",
+          "example_sv": "Jag bredde smör på brödet."
+        },
+        {
+          "pt": "pêssego",
+          "sv": "persika",
+          "type": "substantiv",
+          "example_pt": "O pêssego está muito maduro.",
+          "example_sv": "Persikan är mycket mogen."
+        },
+        {
+          "pt": "alho",
+          "sv": "vitlök",
+          "type": "substantiv",
+          "example_pt": "O alho dá sabor ao molho.",
+          "example_sv": "Vitlöken ger smak åt såsen."
+        },
+        {
+          "pt": "atum",
+          "sv": "tonfisk",
+          "type": "substantiv",
+          "example_pt": "Comprei uma lata de atum no supermercado.",
+          "example_sv": "Jag köpte en burk tonfisk i snabbköpet."
+        }
+      ]
+    },
+    {
+      "theme": "resor och transport",
+      "words": [
+        {
+          "pt": "ferrovia",
+          "sv": "järnväg",
+          "type": "substantiv",
+          "example_pt": "A ferrovia liga as duas cidades.",
+          "example_sv": "Järnvägen förbinder de två städerna."
+        },
+        {
+          "pt": "alfândega",
+          "sv": "tull",
+          "type": "substantiv",
+          "example_pt": "Passei pela alfândega sem problemas.",
+          "example_sv": "Jag gick igenom tullen utan problem."
+        },
+        {
+          "pt": "transatlântico",
+          "sv": "transatlantisk",
+          "type": "adjektiv",
+          "example_pt": "O voo transatlântico dura muitas horas.",
+          "example_sv": "Det transatlantiska flyget tar många timmar."
+        },
+        {
+          "pt": "escala",
+          "sv": "mellanlandning",
+          "type": "substantiv",
+          "example_pt": "Temos uma escala em Lisboa.",
+          "example_sv": "Vi har en mellanlandning i Lissabon."
+        },
+        {
+          "pt": "condutor",
+          "sv": "förare",
+          "type": "substantiv",
+          "example_pt": "O condutor parou o autocarro.",
+          "example_sv": "Föraren stannade bussen."
+        },
+        {
+          "pt": "cais",
+          "sv": "kajplats",
+          "type": "substantiv",
+          "example_pt": "O barco atracou no cais.",
+          "example_sv": "Båten lade till vid kajplatsen."
+        },
+        {
+          "pt": "roteiro",
+          "sv": "resrutt",
+          "type": "substantiv",
+          "example_pt": "Planeámos um roteiro pela Europa.",
+          "example_sv": "Vi planerade en resrutt genom Europa."
+        },
+        {
+          "pt": "travessia",
+          "sv": "överfart",
+          "type": "substantiv",
+          "example_pt": "A travessia de barco levou duas horas.",
+          "example_sv": "Överfarten med båt tog två timmar."
+        }
+      ]
+    },
+    {
+      "theme": "familj och relationer",
+      "words": [
+        {
+          "pt": "cunhada",
+          "sv": "svägerska",
+          "type": "substantiv",
+          "example_pt": "A minha cunhada mora no Porto.",
+          "example_sv": "Min svägerska bor i Porto."
+        },
+        {
+          "pt": "sogro",
+          "sv": "svärfar",
+          "type": "substantiv",
+          "example_pt": "O meu sogro é muito simpático.",
+          "example_sv": "Min svärfar är mycket trevlig."
+        },
+        {
+          "pt": "adotar",
+          "sv": "adoptera",
+          "type": "verb",
+          "example_pt": "Decidiram adotar uma criança.",
+          "example_sv": "De bestämde sig för att adoptera ett barn."
+        },
+        {
+          "pt": "viúvo",
+          "sv": "änkling",
+          "type": "substantiv",
+          "example_pt": "O viúvo ficou muito triste.",
+          "example_sv": "Änklingen var mycket ledsen."
+        },
+        {
+          "pt": "laço",
+          "sv": "band",
+          "type": "substantiv",
+          "example_pt": "Temos um laço muito forte.",
+          "example_sv": "Vi har ett mycket starkt band."
+        },
+        {
+          "pt": "sobrinha",
+          "sv": "brorsdotter/systerdotter",
+          "type": "substantiv",
+          "example_pt": "A minha sobrinha tem cinco anos.",
+          "example_sv": "Min brorsdotter är fem år gammal."
+        },
+        {
+          "pt": "confiança",
+          "sv": "förtroende",
+          "type": "substantiv",
+          "example_pt": "A confiança é importante numa relação.",
+          "example_sv": "Förtroende är viktigt i en relation."
+        },
+        {
+          "pt": "cumplicidade",
+          "sv": "samförstånd",
+          "type": "substantiv",
+          "example_pt": "Existe cumplicidade entre os irmãos.",
+          "example_sv": "Det finns ett samförstånd mellan syskonen."
+        }
+      ]
+    }
+  ]
+}
