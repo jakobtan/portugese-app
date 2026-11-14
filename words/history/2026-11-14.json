@@ -1,0 +1,188 @@
+{
+  "date": "2026-11-14",
+  "sets": [
+    {
+      "theme": "mat och dryck",
+      "words": [
+        {
+          "pt": "espinafre",
+          "sv": "spenat",
+          "type": "substantiv",
+          "example_pt": "Eu como espinafre todos os dias.",
+          "example_sv": "Jag äter spenat varje dag."
+        },
+        {
+          "pt": "framboesa",
+          "sv": "hallon",
+          "type": "substantiv",
+          "example_pt": "As framboesas são muito doces.",
+          "example_sv": "Hallonen är mycket söta."
+        },
+        {
+          "pt": "alheira",
+          "sv": "rökt korv av bröd och kött",
+          "type": "substantiv",
+          "example_pt": "A alheira é uma especialidade portuguesa.",
+          "example_sv": "Alheira är en portugisisk specialitet."
+        },
+        {
+          "pt": "pepino",
+          "sv": "gurka",
+          "type": "substantiv",
+          "example_pt": "Quero pepino na minha salada.",
+          "example_sv": "Jag vill ha gurka i min sallad."
+        },
+        {
+          "pt": "tarte",
+          "sv": "paj",
+          "type": "substantiv",
+          "example_pt": "A tarte de maçã é deliciosa.",
+          "example_sv": "Äppelpajen är utsökt."
+        },
+        {
+          "pt": "sumo de maçã",
+          "sv": "äppeljuice",
+          "type": "substantiv",
+          "example_pt": "Ele bebe sumo de maçã ao pequeno-almoço.",
+          "example_sv": "Han dricker äppeljuice till frukost."
+        },
+        {
+          "pt": "grão-de-bico",
+          "sv": "kikärtor",
+          "type": "substantiv",
+          "example_pt": "O grão-de-bico é rico em proteína.",
+          "example_sv": "Kikärtor är rika på protein."
+        },
+        {
+          "pt": "caneca",
+          "sv": "mugg",
+          "type": "substantiv",
+          "example_pt": "Ela bebeu uma caneca de chá quente.",
+          "example_sv": "Hon drack en mugg varmt te."
+        }
+      ]
+    },
+    {
+      "theme": "stad och platser",
+      "words": [
+        {
+          "pt": "anfiteatro",
+          "sv": "amfiteater",
+          "type": "substantiv",
+          "example_pt": "Visitámos o anfiteatro romano.",
+          "example_sv": "Vi besökte det romerska amfiteatret."
+        },
+        {
+          "pt": "porto de pesca",
+          "sv": "fiskehamn",
+          "type": "substantiv",
+          "example_pt": "O porto de pesca estava cheio de barcos.",
+          "example_sv": "Fiskehamnen var full av båtar."
+        },
+        {
+          "pt": "mercado",
+          "sv": "marknad",
+          "type": "substantiv",
+          "example_pt": "Compramos frutas no mercado.",
+          "example_sv": "Vi köpte frukt på marknaden."
+        },
+        {
+          "pt": "tribunal",
+          "sv": "domstol",
+          "type": "substantiv",
+          "example_pt": "O tribunal fica no centro da cidade.",
+          "example_sv": "Domstolen ligger i stadens centrum."
+        },
+        {
+          "pt": "aqueduto",
+          "sv": "akvedukt",
+          "type": "substantiv",
+          "example_pt": "O aqueduto foi construído pelos romanos.",
+          "example_sv": "Akvedukten byggdes av romarna."
+        },
+        {
+          "pt": "bairro",
+          "sv": "stadsdel",
+          "type": "substantiv",
+          "example_pt": "Moro num bairro tranquilo.",
+          "example_sv": "Jag bor i en lugn stadsdel."
+        },
+        {
+          "pt": "largo",
+          "sv": "liten torg",
+          "type": "substantiv",
+          "example_pt": "As crianças brincam no largo.",
+          "example_sv": "Barnen leker på den lilla torget."
+        },
+        {
+          "pt": "museu",
+          "sv": "museum",
+          "type": "substantiv",
+          "example_pt": "O museu está aberto ao fim de semana.",
+          "example_sv": "Museet är öppet på helgen."
+        }
+      ]
+    },
+    {
+      "theme": "arbete och karriär",
+      "words": [
+        {
+          "pt": "candidatura",
+          "sv": "ansökan",
+          "type": "substantiv",
+          "example_pt": "Enviei a minha candidatura ontem.",
+          "example_sv": "Jag skickade min ansökan igår."
+        },
+        {
+          "pt": "entrevista",
+          "sv": "intervju",
+          "type": "substantiv",
+          "example_pt": "A entrevista correu muito bem.",
+          "example_sv": "Intervjun gick mycket bra."
+        },
+        {
+          "pt": "formação",
+          "sv": "utbildning",
+          "type": "substantiv",
+          "example_pt": "A empresa oferece formação gratuita.",
+          "example_sv": "Företaget erbjuder gratis utbildning."
+        },
+        {
+          "pt": "salário",
+          "sv": "lön",
+          "type": "substantiv",
+          "example_pt": "O salário será pago no fim do mês.",
+          "example_sv": "Lönen betalas ut i slutet av månaden."
+        },
+        {
+          "pt": "projeto",
+          "sv": "projekt",
+          "type": "substantiv",
+          "example_pt": "Estamos a trabalhar num projeto importante.",
+          "example_sv": "Vi arbetar med ett viktigt projekt."
+        },
+        {
+          "pt": "teletrabalho",
+          "sv": "distansarbete",
+          "type": "substantiv",
+          "example_pt": "O teletrabalho tornou-se muito comum.",
+          "example_sv": "Distansarbete har blivit mycket vanligt."
+        },
+        {
+          "pt": "negociar",
+          "sv": "förhandla",
+          "type": "verb",
+          "example_pt": "Precisamos de negociar o contrato.",
+          "example_sv": "Vi behöver förhandla om kontraktet."
+        },
+        {
+          "pt": "empreendedor",
+          "sv": "entreprenör",
+          "type": "substantiv",
+          "example_pt": "Ela é uma empreendedora de sucesso.",
+          "example_sv": "Hon är en framgångsrik entreprenör."
+        }
+      ]
+    }
+  ]
+}
