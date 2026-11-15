@@ -1,0 +1,188 @@
+{
+  "date": "2026-11-15",
+  "sets": [
+    {
+      "theme": "mat och dryck",
+      "words": [
+        {
+          "pt": "linguiça",
+          "sv": "kryddad korv",
+          "type": "substantiv",
+          "example_pt": "A linguiça é muito usada na culinária portuguesa.",
+          "example_sv": "Kryddad korv används mycket i det portugisiska köket."
+        },
+        {
+          "pt": "farinha",
+          "sv": "mjöl",
+          "type": "substantiv",
+          "example_pt": "Preciso de farinha para fazer o pão.",
+          "example_sv": "Jag behöver mjöl för att baka brödet."
+        },
+        {
+          "pt": "azeite",
+          "sv": "olivolja",
+          "type": "substantiv",
+          "example_pt": "O azeite português é famoso no mundo inteiro.",
+          "example_sv": "Portugisisk olivolja är världsberömd."
+        },
+        {
+          "pt": "borrego",
+          "sv": "lamm",
+          "type": "substantiv",
+          "example_pt": "O borrego assado é um prato tradicional.",
+          "example_sv": "Stekt lamm är en traditionell rätt."
+        },
+        {
+          "pt": "mel",
+          "sv": "honung",
+          "type": "substantiv",
+          "example_pt": "Coloco mel no iogurte todas as manhãs.",
+          "example_sv": "Jag lägger honung i yoghurten varje morgon."
+        },
+        {
+          "pt": "pimento",
+          "sv": "paprika",
+          "type": "substantiv",
+          "example_pt": "O pimento vermelho é muito saboroso na salada.",
+          "example_sv": "Röd paprika är mycket god i salladen."
+        },
+        {
+          "pt": "castanha",
+          "sv": "kastanj",
+          "type": "substantiv",
+          "example_pt": "As castanhas assadas são populares no outono.",
+          "example_sv": "Rostade kastanjer är populära på hösten."
+        },
+        {
+          "pt": "leitelho",
+          "sv": "kärnmjölk",
+          "type": "substantiv",
+          "example_pt": "O leitelho é usado em algumas receitas tradicionais.",
+          "example_sv": "Kärnmjölk används i vissa traditionella recept."
+        }
+      ]
+    },
+    {
+      "theme": "natur och väder",
+      "words": [
+        {
+          "pt": "maré",
+          "sv": "tidvatten",
+          "type": "substantiv",
+          "example_pt": "A maré está alta esta manhã.",
+          "example_sv": "Tidvattnet är högt i morse."
+        },
+        {
+          "pt": "penhasco",
+          "sv": "klippa/stup",
+          "type": "substantiv",
+          "example_pt": "O penhasco cai abruptamente sobre o mar.",
+          "example_sv": "Stupet faller brant ner mot havet."
+        },
+        {
+          "pt": "mangue",
+          "sv": "mangroveskog",
+          "type": "substantiv",
+          "example_pt": "O mangue é um ecossistema muito rico em biodiversidade.",
+          "example_sv": "Mangroveskogen är ett ekosystem rikt på biologisk mångfald."
+        },
+        {
+          "pt": "chuvisco",
+          "sv": "duggregn",
+          "type": "substantiv",
+          "example_pt": "Havia um chuvisco fraco durante a manhã.",
+          "example_sv": "Det var ett svagt duggregn under förmiddagen."
+        },
+        {
+          "pt": "planície",
+          "sv": "slätt",
+          "type": "substantiv",
+          "example_pt": "O Alentejo é conhecido pelas suas grandes planícies.",
+          "example_sv": "Alentejo är känt för sina stora slätter."
+        },
+        {
+          "pt": "tempestade",
+          "sv": "storm",
+          "type": "substantiv",
+          "example_pt": "A tempestade destruiu várias árvores no parque.",
+          "example_sv": "Stormen förstörde flera träd i parken."
+        },
+        {
+          "pt": "arco-íris",
+          "sv": "regnbåge",
+          "type": "substantiv",
+          "example_pt": "Apareceu um lindo arco-íris depois da chuva.",
+          "example_sv": "En vacker regnbåge dök upp efter regnet."
+        },
+        {
+          "pt": "floresta",
+          "sv": "skog",
+          "type": "substantiv",
+          "example_pt": "A floresta tropical é o pulmão do planeta.",
+          "example_sv": "Den tropiska skogen är planetens lunga."
+        }
+      ]
+    },
+    {
+      "theme": "sport och fritid",
+      "words": [
+        {
+          "pt": "natação",
+          "sv": "simning",
+          "type": "substantiv",
+          "example_pt": "A natação é um desporto excelente para a saúde.",
+          "example_sv": "Simning är en utmärkt sport för hälsan."
+        },
+        {
+          "pt": "ciclismo",
+          "sv": "cykling",
+          "type": "substantiv",
+          "example_pt": "O ciclismo é popular em Portugal, especialmente nas montanhas.",
+          "example_sv": "Cykling är populärt i Portugal, särskilt i bergen."
+        },
+        {
+          "pt": "mergulho",
+          "sv": "dykning",
+          "type": "substantiv",
+          "example_pt": "Fizemos mergulho junto ao recife de coral.",
+          "example_sv": "Vi dök vid korallrevet."
+        },
+        {
+          "pt": "acampar",
+          "sv": "campa/tälta",
+          "type": "verb",
+          "example_pt": "Gosto de acampar nas férias de verão.",
+          "example_sv": "Jag gillar att tälta under sommarlovet."
+        },
+        {
+          "pt": "surf",
+          "sv": "surfing",
+          "type": "substantiv",
+          "example_pt": "O surf é muito praticado na costa atlântica portuguesa.",
+          "example_sv": "Surfing utövas flitigt längs den portugisiska atlantkusten."
+        },
+        {
+          "pt": "golo",
+          "sv": "mål",
+          "type": "substantiv",
+          "example_pt": "O jogador marcou um golo no último minuto.",
+          "example_sv": "Spelaren gjorde mål på sista minuten."
+        },
+        {
+          "pt": "ginásio",
+          "sv": "gym",
+          "type": "substantiv",
+          "example_pt": "Vou ao ginásio três vezes por semana.",
+          "example_sv": "Jag går på gymmet tre gånger i veckan."
+        },
+        {
+          "pt": "equipa",
+          "sv": "lag",
+          "type": "substantiv",
+          "example_pt": "A nossa equipa ganhou o campeonato este ano.",
+          "example_sv": "Vårt lag vann mästerskapet i år."
+        }
+      ]
+    }
+  ]
+}
