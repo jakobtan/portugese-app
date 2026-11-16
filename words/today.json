@@ -1,186 +1,186 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "sets": [
     {
-      "theme": "mat och dryck",
+      "theme": "Kropp och hälsa",
       "words": [
         {
-          "pt": "linguiça",
-          "sv": "kryddad korv",
+          "pt": "sobrancelha",
+          "sv": "ögonbryn",
           "type": "substantiv",
-          "example_pt": "A linguiça é muito usada na culinária portuguesa.",
-          "example_sv": "Kryddad korv används mycket i det portugisiska köket."
+          "example_pt": "Ela tem sobrancelhas escuras e expressivas.",
+          "example_sv": "Hon har mörka och uttrycksfulla ögonbryn."
         },
         {
-          "pt": "farinha",
-          "sv": "mjöl",
+          "pt": "bocejo",
+          "sv": "gäspning",
           "type": "substantiv",
-          "example_pt": "Preciso de farinha para fazer o pão.",
-          "example_sv": "Jag behöver mjöl för att baka brödet."
+          "example_pt": "O bocejo dele acordou toda a sala.",
+          "example_sv": "Hans gäspning väckte hela rummet."
         },
         {
-          "pt": "azeite",
-          "sv": "olivolja",
+          "pt": "maxilar",
+          "sv": "käke",
           "type": "substantiv",
-          "example_pt": "O azeite português é famoso no mundo inteiro.",
-          "example_sv": "Portugisisk olivolja är världsberömd."
+          "example_pt": "O dentista examinou o meu maxilar com cuidado.",
+          "example_sv": "Tandläkaren undersökte min käke noggrant."
         },
         {
-          "pt": "borrego",
-          "sv": "lamm",
+          "pt": "cicatriz",
+          "sv": "ärr",
           "type": "substantiv",
-          "example_pt": "O borrego assado é um prato tradicional.",
-          "example_sv": "Stekt lamm är en traditionell rätt."
+          "example_pt": "A cicatriz no seu braço já está quase invisível.",
+          "example_sv": "Ärret på hennes arm är nästan osynligt nu."
         },
         {
-          "pt": "mel",
-          "sv": "honung",
+          "pt": "dor de cabeça",
+          "sv": "huvudvärk",
           "type": "substantiv",
-          "example_pt": "Coloco mel no iogurte todas as manhãs.",
-          "example_sv": "Jag lägger honung i yoghurten varje morgon."
+          "example_pt": "Tenho uma forte dor de cabeça desde manhã.",
+          "example_sv": "Jag har haft kraftig huvudvärk sedan i morse."
         },
         {
-          "pt": "pimento",
-          "sv": "paprika",
+          "pt": "vacina",
+          "sv": "vaccin",
           "type": "substantiv",
-          "example_pt": "O pimento vermelho é muito saboroso na salada.",
-          "example_sv": "Röd paprika är mycket god i salladen."
+          "example_pt": "A vacina contra a gripe está disponível na farmácia.",
+          "example_sv": "Vaccinet mot influensa finns på apoteket."
         },
         {
-          "pt": "castanha",
-          "sv": "kastanj",
-          "type": "substantiv",
-          "example_pt": "As castanhas assadas são populares no outono.",
-          "example_sv": "Rostade kastanjer är populära på hösten."
-        },
-        {
-          "pt": "leitelho",
-          "sv": "kärnmjölk",
-          "type": "substantiv",
-          "example_pt": "O leitelho é usado em algumas receitas tradicionais.",
-          "example_sv": "Kärnmjölk används i vissa traditionella recept."
-        }
-      ]
-    },
-    {
-      "theme": "natur och väder",
-      "words": [
-        {
-          "pt": "maré",
-          "sv": "tidvatten",
-          "type": "substantiv",
-          "example_pt": "A maré está alta esta manhã.",
-          "example_sv": "Tidvattnet är högt i morse."
-        },
-        {
-          "pt": "penhasco",
-          "sv": "klippa/stup",
-          "type": "substantiv",
-          "example_pt": "O penhasco cai abruptamente sobre o mar.",
-          "example_sv": "Stupet faller brant ner mot havet."
-        },
-        {
-          "pt": "mangue",
-          "sv": "mangroveskog",
-          "type": "substantiv",
-          "example_pt": "O mangue é um ecossistema muito rico em biodiversidade.",
-          "example_sv": "Mangroveskogen är ett ekosystem rikt på biologisk mångfald."
-        },
-        {
-          "pt": "chuvisco",
-          "sv": "duggregn",
-          "type": "substantiv",
-          "example_pt": "Havia um chuvisco fraco durante a manhã.",
-          "example_sv": "Det var ett svagt duggregn under förmiddagen."
-        },
-        {
-          "pt": "planície",
-          "sv": "slätt",
-          "type": "substantiv",
-          "example_pt": "O Alentejo é conhecido pelas suas grandes planícies.",
-          "example_sv": "Alentejo är känt för sina stora slätter."
-        },
-        {
-          "pt": "tempestade",
-          "sv": "storm",
-          "type": "substantiv",
-          "example_pt": "A tempestade destruiu várias árvores no parque.",
-          "example_sv": "Stormen förstörde flera träd i parken."
-        },
-        {
-          "pt": "arco-íris",
-          "sv": "regnbåge",
-          "type": "substantiv",
-          "example_pt": "Apareceu um lindo arco-íris depois da chuva.",
-          "example_sv": "En vacker regnbåge dök upp efter regnet."
-        },
-        {
-          "pt": "floresta",
-          "sv": "skog",
-          "type": "substantiv",
-          "example_pt": "A floresta tropical é o pulmão do planeta.",
-          "example_sv": "Den tropiska skogen är planetens lunga."
-        }
-      ]
-    },
-    {
-      "theme": "sport och fritid",
-      "words": [
-        {
-          "pt": "natação",
-          "sv": "simning",
-          "type": "substantiv",
-          "example_pt": "A natação é um desporto excelente para a saúde.",
-          "example_sv": "Simning är en utmärkt sport för hälsan."
-        },
-        {
-          "pt": "ciclismo",
-          "sv": "cykling",
-          "type": "substantiv",
-          "example_pt": "O ciclismo é popular em Portugal, especialmente nas montanhas.",
-          "example_sv": "Cykling är populärt i Portugal, särskilt i bergen."
-        },
-        {
-          "pt": "mergulho",
-          "sv": "dykning",
-          "type": "substantiv",
-          "example_pt": "Fizemos mergulho junto ao recife de coral.",
-          "example_sv": "Vi dök vid korallrevet."
-        },
-        {
-          "pt": "acampar",
-          "sv": "campa/tälta",
+          "pt": "deitar-se",
+          "sv": "lägga sig ner",
           "type": "verb",
-          "example_pt": "Gosto de acampar nas férias de verão.",
-          "example_sv": "Jag gillar att tälta under sommarlovet."
+          "example_pt": "O médico pediu-me para me deitar na maca.",
+          "example_sv": "Läkaren bad mig lägga mig på britsen."
         },
         {
-          "pt": "surf",
-          "sv": "surfing",
+          "pt": "pálpebra",
+          "sv": "ögonlock",
           "type": "substantiv",
-          "example_pt": "O surf é muito praticado na costa atlântica portuguesa.",
-          "example_sv": "Surfing utövas flitigt längs den portugisiska atlantkusten."
+          "example_pt": "As suas pálpebras pesadas mostravam que estava cansado.",
+          "example_sv": "Hans tunga ögonlock visade att han var trött."
+        }
+      ]
+    },
+    {
+      "theme": "Tid och datum",
+      "words": [
+        {
+          "pt": "madrugada",
+          "sv": "gryning / tidig morgon",
+          "type": "substantiv",
+          "example_pt": "Ele chegou a casa de madrugada.",
+          "example_sv": "Han kom hem tidigt på morgonen."
         },
         {
-          "pt": "golo",
-          "sv": "mål",
+          "pt": "século",
+          "sv": "århundrade",
           "type": "substantiv",
-          "example_pt": "O jogador marcou um golo no último minuto.",
-          "example_sv": "Spelaren gjorde mål på sista minuten."
+          "example_pt": "Este edifício foi construído no século XVIII.",
+          "example_sv": "Den här byggnaden uppfördes på 1700-talet."
         },
         {
-          "pt": "ginásio",
-          "sv": "gym",
+          "pt": "vencimento",
+          "sv": "förfallodag / lönedag",
           "type": "substantiv",
-          "example_pt": "Vou ao ginásio três vezes por semana.",
-          "example_sv": "Jag går på gymmet tre gånger i veckan."
+          "example_pt": "O vencimento do contrato é no fim do mês.",
+          "example_sv": "Kontraktets förfallodag är i slutet av månaden."
         },
         {
-          "pt": "equipa",
-          "sv": "lag",
+          "pt": "anual",
+          "sv": "årlig",
+          "type": "adjektiv",
+          "example_pt": "O relatório anual será apresentado amanhã.",
+          "example_sv": "Den årliga rapporten presenteras imorgon."
+        },
+        {
+          "pt": "adiado",
+          "sv": "uppskjuten",
+          "type": "adjektiv",
+          "example_pt": "A reunião foi adiada para a próxima semana.",
+          "example_sv": "Mötet sköts upp till nästa vecka."
+        },
+        {
+          "pt": "entretanto",
+          "sv": "under tiden / emellertid",
+          "type": "fras",
+          "example_pt": "Podes esperar aqui; entretanto eu busco o documento.",
+          "example_sv": "Du kan vänta här; under tiden hämtar jag dokumentet."
+        },
+        {
+          "pt": "calendário",
+          "sv": "kalender",
           "type": "substantiv",
-          "example_pt": "A nossa equipa ganhou o campeonato este ano.",
-          "example_sv": "Vårt lag vann mästerskapet i år."
+          "example_pt": "Marquia todas as reuniões no calendário.",
+          "example_sv": "Hon markerade alla möten i kalendern."
+        },
+        {
+          "pt": "fuso horário",
+          "sv": "tidszon",
+          "type": "substantiv",
+          "example_pt": "Portugal está num fuso horário diferente do Brasil.",
+          "example_sv": "Portugal befinner sig i en annan tidszon än Brasilien."
+        }
+      ]
+    },
+    {
+      "theme": "Djur",
+      "words": [
+        {
+          "pt": "corvo",
+          "sv": "korp",
+          "type": "substantiv",
+          "example_pt": "O corvo pousou no telhado da casa velha.",
+          "example_sv": "Korpen landade på taket av det gamla huset."
+        },
+        {
+          "pt": "lagarto",
+          "sv": "ödla",
+          "type": "substantiv",
+          "example_pt": "Um lagarto pequeno descansava na pedra ao sol.",
+          "example_sv": "En liten ödla vilade på stenen i solen."
+        },
+        {
+          "pt": "golfinho",
+          "sv": "delfin",
+          "type": "substantiv",
+          "example_pt": "Vimos um golfinho a saltar perto do barco.",
+          "example_sv": "Vi såg en delfin hoppa nära båten."
+        },
+        {
+          "pt": "texugo",
+          "sv": "grävling",
+          "type": "substantiv",
+          "example_pt": "O texugo escava tocas profundas na floresta.",
+          "example_sv": "Grävlingen gräver djupa hålor i skogen."
+        },
+        {
+          "pt": "cegonha",
+          "sv": "stork",
+          "type": "substantiv",
+          "example_pt": "A cegonha construiu o ninho em cima da chaminé.",
+          "example_sv": "Storken byggde sitt bo ovanpå skorstenen."
+        },
+        {
+          "pt": "pato",
+          "sv": "anka",
+          "type": "substantiv",
+          "example_pt": "O pato nadava tranquilamente no lago.",
+          "example_sv": "Ankan simmade lugnt på sjön."
+        },
+        {
+          "pt": "lobo",
+          "sv": "varg",
+          "type": "substantiv",
+          "example_pt": "O lobo uivou para a lua cheia.",
+          "example_sv": "Vargen ylade mot fullmånen."
+        },
+        {
+          "pt": "andorinha",
+          "sv": "svala",
+          "type": "substantiv",
+          "example_pt": "As andorinhas regressam a Portugal na primavera.",
+          "example_sv": "Svalorna återvänder till Portugal på våren."
         }
       ]
     }
