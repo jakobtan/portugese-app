@@ -1,186 +1,186 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "sets": [
     {
-      "theme": "kläder och mode",
+      "theme": "känslor och adjektiv",
       "words": [
         {
-          "pt": "casaco",
-          "sv": "kappa/jacka",
-          "type": "substantiv",
-          "example_pt": "Ela vestiu o casaco porque estava frio.",
-          "example_sv": "Hon tog på sig kappan eftersom det var kallt."
+          "pt": "orgulhoso",
+          "sv": "stolt",
+          "type": "adjektiv",
+          "example_pt": "Ele ficou orgulhoso com o resultado.",
+          "example_sv": "Han blev stolt över resultatet."
         },
         {
-          "pt": "gravata",
-          "sv": "slips",
-          "type": "substantiv",
-          "example_pt": "Ele usa gravata no trabalho todos os dias.",
-          "example_sv": "Han bär slips på jobbet varje dag."
+          "pt": "envergonhado",
+          "sv": "skamsen",
+          "type": "adjektiv",
+          "example_pt": "Ela ficou envergonhada depois do erro.",
+          "example_sv": "Hon kände sig skamsen efter misstaget."
         },
         {
-          "pt": "colete",
-          "sv": "väst",
-          "type": "substantiv",
-          "example_pt": "O colete azul combina bem com as calças.",
-          "example_sv": "Den blå västen passar bra till byxorna."
+          "pt": "aliviado",
+          "sv": "lättad",
+          "type": "adjektiv",
+          "example_pt": "Fiquei aliviado quando soube a notícia.",
+          "example_sv": "Jag kände mig lättad när jag fick höra nyheten."
         },
         {
-          "pt": "calcões",
-          "sv": "shorts",
-          "type": "substantiv",
-          "example_pt": "Ele usa calcões quando faz calor.",
-          "example_sv": "Han använder shorts när det är varmt."
+          "pt": "amoroso",
+          "sv": "kärleksfull",
+          "type": "adjektiv",
+          "example_pt": "Ele é muito amoroso com a família.",
+          "example_sv": "Han är mycket kärleksfull mot sin familj."
         },
         {
-          "pt": "luvas",
-          "sv": "handskar",
-          "type": "substantiv",
-          "example_pt": "Não te esqueças das luvas, está muito frio.",
-          "example_sv": "Glöm inte handskarna, det är mycket kallt."
+          "pt": "entusiasmado",
+          "sv": "entusiastisk",
+          "type": "adjektiv",
+          "example_pt": "Estou entusiasmado com o novo projeto.",
+          "example_sv": "Jag är entusiastisk inför det nya projektet."
         },
         {
-          "pt": "colarinho",
-          "sv": "krage",
-          "type": "substantiv",
-          "example_pt": "O colarinho da camisa estava sujo.",
-          "example_sv": "Skjortkragen var smutsig."
+          "pt": "angustiado",
+          "sv": "ångestfylld",
+          "type": "adjektiv",
+          "example_pt": "Ela estava angustiada antes do exame.",
+          "example_sv": "Hon var ångestfylld innan provet."
         },
         {
-          "pt": "fivela",
-          "sv": "spänne",
-          "type": "substantiv",
-          "example_pt": "A fivela do cinto partiu-se.",
-          "example_sv": "Spännet på bältet gick sönder."
+          "pt": "desconfiado",
+          "sv": "misstänksam",
+          "type": "adjektiv",
+          "example_pt": "Ele ficou desconfiado com a resposta estranha.",
+          "example_sv": "Han blev misstänksam av det konstiga svaret."
         },
         {
-          "pt": "riscas",
-          "sv": "ränder",
-          "type": "substantiv",
-          "example_pt": "Gosto muito de camisas às riscas.",
-          "example_sv": "Jag gillar verkligen randiga skjortor."
+          "pt": "comovido",
+          "sv": "rörd",
+          "type": "adjektiv",
+          "example_pt": "Fiquei comovido com o discurso dela.",
+          "example_sv": "Jag blev rörd av hennes tal."
         }
       ]
     },
     {
-      "theme": "stad och platser",
+      "theme": "teknik",
       "words": [
         {
-          "pt": "rotunda",
-          "sv": "rondell/cirkulationsplats",
+          "pt": "teclado",
+          "sv": "tangentbord",
           "type": "substantiv",
-          "example_pt": "Vira à esquerda na rotunda.",
-          "example_sv": "Sväng vänster i rondellen."
+          "example_pt": "O teclado do computador está partido.",
+          "example_sv": "Datorns tangentbord är trasigt."
         },
         {
-          "pt": "calçada",
-          "sv": "trottoar/stenlagd gata",
+          "pt": "rato",
+          "sv": "datormus",
           "type": "substantiv",
-          "example_pt": "As crianças brincavam na calçada.",
-          "example_sv": "Barnen lekte på trottoaren."
+          "example_pt": "Preciso de um novo rato para o computador.",
+          "example_sv": "Jag behöver en ny datormus."
         },
         {
-          "pt": "armazém",
-          "sv": "lager/varuhus",
+          "pt": "servidor",
+          "sv": "server",
           "type": "substantiv",
-          "example_pt": "O armazém fica perto do porto.",
-          "example_sv": "Lagerhuset ligger nära hamnen."
+          "example_pt": "O servidor está em manutenção hoje.",
+          "example_sv": "Servern är under underhåll idag."
         },
         {
-          "pt": "praça",
-          "sv": "torg",
+          "pt": "palavra-passe",
+          "sv": "lösenord",
           "type": "substantiv",
-          "example_pt": "Encontramo-nos na praça central às três.",
-          "example_sv": "Vi möts på torget klockan tre."
+          "example_pt": "Esqueci-me da minha palavra-passe.",
+          "example_sv": "Jag har glömt mitt lösenord."
         },
         {
-          "pt": "estádio",
-          "sv": "stadion",
-          "type": "substantiv",
-          "example_pt": "O estádio tem capacidade para cinquenta mil pessoas.",
-          "example_sv": "Stadion har kapacitet för femtiotusen personer."
+          "pt": "atualizar",
+          "sv": "uppdatera",
+          "type": "verb",
+          "example_pt": "Tens de atualizar o sistema operativo.",
+          "example_sv": "Du måste uppdatera operativsystemet."
         },
         {
-          "pt": "embaixada",
-          "sv": "ambassad",
+          "pt": "armazenamento",
+          "sv": "lagring",
           "type": "substantiv",
-          "example_pt": "Preciso de ir à embaixada renovar o passaporte.",
-          "example_sv": "Jag behöver gå till ambassaden för att förnya passet."
+          "example_pt": "O armazenamento do telemóvel está cheio.",
+          "example_sv": "Telefonens lagring är full."
         },
         {
-          "pt": "subúrbio",
-          "sv": "förort",
+          "pt": "cabo",
+          "sv": "kabel",
           "type": "substantiv",
-          "example_pt": "Eles moram num subúrbio tranquilo.",
-          "example_sv": "De bor i en lugn förort."
+          "example_pt": "Onde está o cabo de carregamento?",
+          "example_sv": "Var är laddningskabeln?"
         },
         {
-          "pt": "cais fluvial",
-          "sv": "flodbrygga/flodhamn",
+          "pt": "rede",
+          "sv": "nätverk",
           "type": "substantiv",
-          "example_pt": "O cais fluvial é um lugar agradável para passear.",
-          "example_sv": "Flodhamnen är ett trevligt ställe att promenera på."
+          "example_pt": "A rede sem fios está lenta hoje.",
+          "example_sv": "Det trådlösa nätverket är långsamt idag."
         }
       ]
     },
     {
-      "theme": "arbete och karriär",
+      "theme": "natur och väder",
       "words": [
         {
-          "pt": "colega",
-          "sv": "kollega",
+          "pt": "geada",
+          "sv": "frost",
           "type": "substantiv",
-          "example_pt": "A minha colega ajudou-me com o relatório.",
-          "example_sv": "Min kollega hjälpte mig med rapporten."
+          "example_pt": "Houve geada esta manhã no jardim.",
+          "example_sv": "Det var frost i trädgården den här morgonen."
         },
         {
-          "pt": "candidato",
-          "sv": "kandidat/sökande",
+          "pt": "granizo",
+          "sv": "hagel",
           "type": "substantiv",
-          "example_pt": "O candidato fez uma boa apresentação.",
-          "example_sv": "Kandidaten höll en bra presentation."
+          "example_pt": "O granizo danificou o telhado.",
+          "example_sv": "Haglet skadade taket."
         },
         {
-          "pt": "chefia",
-          "sv": "ledning/chef",
+          "pt": "bruma",
+          "sv": "dimma",
           "type": "substantiv",
-          "example_pt": "A chefia aprovou o novo projeto.",
-          "example_sv": "Ledningen godkände det nya projektet."
+          "example_pt": "A bruma cobriu o vale ao amanhecer.",
+          "example_sv": "Dimman täckte dalen vid gryningen."
         },
         {
-          "pt": "demissão",
-          "sv": "avsked/uppsägning",
+          "pt": "ravina",
+          "sv": "ravin",
           "type": "substantiv",
-          "example_pt": "Ele pediu a demissão após dez anos na empresa.",
-          "example_sv": "Han sade upp sig efter tio år på företaget."
+          "example_pt": "A ravina era muito profunda e perigosa.",
+          "example_sv": "Ravinen var mycket djup och farlig."
         },
         {
-          "pt": "cargo",
-          "sv": "tjänst/befattning",
+          "pt": "savana",
+          "sv": "savann",
           "type": "substantiv",
-          "example_pt": "Ela foi promovida a um cargo de liderança.",
-          "example_sv": "Hon befordrades till en ledarposition."
+          "example_pt": "A savana africana tem muitos animais.",
+          "example_sv": "Den afrikanska savannen har många djur."
         },
         {
-          "pt": "turno",
-          "sv": "skift",
+          "pt": "onda de calor",
+          "sv": "värmebölja",
           "type": "substantiv",
-          "example_pt": "Trabalho no turno da noite esta semana.",
-          "example_sv": "Jag arbetar nattskiftet den här veckan."
+          "example_pt": "A onda de calor durou duas semanas.",
+          "example_sv": "Värmeböljor varade i två veckor."
         },
         {
-          "pt": "orçamento",
-          "sv": "budget",
+          "pt": "encosta",
+          "sv": "sluttning",
           "type": "substantiv",
-          "example_pt": "O orçamento para o próximo ano foi aprovado.",
-          "example_sv": "Budgeten för nästa år godkändes."
+          "example_pt": "A encosta da montanha era coberta de neve.",
+          "example_sv": "Bergsluttningen var täckt av snö."
         },
         {
-          "pt": "licença",
-          "sv": "ledighet/tillstånd",
+          "pt": "trovoada",
+          "sv": "åskväder",
           "type": "substantiv",
-          "example_pt": "Ela está de licença de maternidade.",
-          "example_sv": "Hon är föräldraledig."
+          "example_pt": "A trovoada assustou as crianças.",
+          "example_sv": "Åskvädrет skrämde barnen."
         }
       ]
     }

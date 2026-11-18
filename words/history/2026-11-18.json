@@ -1,0 +1,188 @@
+{
+  "date": "2026-11-18",
+  "sets": [
+    {
+      "theme": "känslor och adjektiv",
+      "words": [
+        {
+          "pt": "orgulhoso",
+          "sv": "stolt",
+          "type": "adjektiv",
+          "example_pt": "Ele ficou orgulhoso com o resultado.",
+          "example_sv": "Han blev stolt över resultatet."
+        },
+        {
+          "pt": "envergonhado",
+          "sv": "skamsen",
+          "type": "adjektiv",
+          "example_pt": "Ela ficou envergonhada depois do erro.",
+          "example_sv": "Hon kände sig skamsen efter misstaget."
+        },
+        {
+          "pt": "aliviado",
+          "sv": "lättad",
+          "type": "adjektiv",
+          "example_pt": "Fiquei aliviado quando soube a notícia.",
+          "example_sv": "Jag kände mig lättad när jag fick höra nyheten."
+        },
+        {
+          "pt": "amoroso",
+          "sv": "kärleksfull",
+          "type": "adjektiv",
+          "example_pt": "Ele é muito amoroso com a família.",
+          "example_sv": "Han är mycket kärleksfull mot sin familj."
+        },
+        {
+          "pt": "entusiasmado",
+          "sv": "entusiastisk",
+          "type": "adjektiv",
+          "example_pt": "Estou entusiasmado com o novo projeto.",
+          "example_sv": "Jag är entusiastisk inför det nya projektet."
+        },
+        {
+          "pt": "angustiado",
+          "sv": "ångestfylld",
+          "type": "adjektiv",
+          "example_pt": "Ela estava angustiada antes do exame.",
+          "example_sv": "Hon var ångestfylld innan provet."
+        },
+        {
+          "pt": "desconfiado",
+          "sv": "misstänksam",
+          "type": "adjektiv",
+          "example_pt": "Ele ficou desconfiado com a resposta estranha.",
+          "example_sv": "Han blev misstänksam av det konstiga svaret."
+        },
+        {
+          "pt": "comovido",
+          "sv": "rörd",
+          "type": "adjektiv",
+          "example_pt": "Fiquei comovido com o discurso dela.",
+          "example_sv": "Jag blev rörd av hennes tal."
+        }
+      ]
+    },
+    {
+      "theme": "teknik",
+      "words": [
+        {
+          "pt": "teclado",
+          "sv": "tangentbord",
+          "type": "substantiv",
+          "example_pt": "O teclado do computador está partido.",
+          "example_sv": "Datorns tangentbord är trasigt."
+        },
+        {
+          "pt": "rato",
+          "sv": "datormus",
+          "type": "substantiv",
+          "example_pt": "Preciso de um novo rato para o computador.",
+          "example_sv": "Jag behöver en ny datormus."
+        },
+        {
+          "pt": "servidor",
+          "sv": "server",
+          "type": "substantiv",
+          "example_pt": "O servidor está em manutenção hoje.",
+          "example_sv": "Servern är under underhåll idag."
+        },
+        {
+          "pt": "palavra-passe",
+          "sv": "lösenord",
+          "type": "substantiv",
+          "example_pt": "Esqueci-me da minha palavra-passe.",
+          "example_sv": "Jag har glömt mitt lösenord."
+        },
+        {
+          "pt": "atualizar",
+          "sv": "uppdatera",
+          "type": "verb",
+          "example_pt": "Tens de atualizar o sistema operativo.",
+          "example_sv": "Du måste uppdatera operativsystemet."
+        },
+        {
+          "pt": "armazenamento",
+          "sv": "lagring",
+          "type": "substantiv",
+          "example_pt": "O armazenamento do telemóvel está cheio.",
+          "example_sv": "Telefonens lagring är full."
+        },
+        {
+          "pt": "cabo",
+          "sv": "kabel",
+          "type": "substantiv",
+          "example_pt": "Onde está o cabo de carregamento?",
+          "example_sv": "Var är laddningskabeln?"
+        },
+        {
+          "pt": "rede",
+          "sv": "nätverk",
+          "type": "substantiv",
+          "example_pt": "A rede sem fios está lenta hoje.",
+          "example_sv": "Det trådlösa nätverket är långsamt idag."
+        }
+      ]
+    },
+    {
+      "theme": "natur och väder",
+      "words": [
+        {
+          "pt": "geada",
+          "sv": "frost",
+          "type": "substantiv",
+          "example_pt": "Houve geada esta manhã no jardim.",
+          "example_sv": "Det var frost i trädgården den här morgonen."
+        },
+        {
+          "pt": "granizo",
+          "sv": "hagel",
+          "type": "substantiv",
+          "example_pt": "O granizo danificou o telhado.",
+          "example_sv": "Haglet skadade taket."
+        },
+        {
+          "pt": "bruma",
+          "sv": "dimma",
+          "type": "substantiv",
+          "example_pt": "A bruma cobriu o vale ao amanhecer.",
+          "example_sv": "Dimman täckte dalen vid gryningen."
+        },
+        {
+          "pt": "ravina",
+          "sv": "ravin",
+          "type": "substantiv",
+          "example_pt": "A ravina era muito profunda e perigosa.",
+          "example_sv": "Ravinen var mycket djup och farlig."
+        },
+        {
+          "pt": "savana",
+          "sv": "savann",
+          "type": "substantiv",
+          "example_pt": "A savana africana tem muitos animais.",
+          "example_sv": "Den afrikanska savannen har många djur."
+        },
+        {
+          "pt": "onda de calor",
+          "sv": "värmebölja",
+          "type": "substantiv",
+          "example_pt": "A onda de calor durou duas semanas.",
+          "example_sv": "Värmeböljor varade i två veckor."
+        },
+        {
+          "pt": "encosta",
+          "sv": "sluttning",
+          "type": "substantiv",
+          "example_pt": "A encosta da montanha era coberta de neve.",
+          "example_sv": "Bergsluttningen var täckt av snö."
+        },
+        {
+          "pt": "trovoada",
+          "sv": "åskväder",
+          "type": "substantiv",
+          "example_pt": "A trovoada assustou as crianças.",
+          "example_sv": "Åskvädrет skrämde barnen."
+        }
+      ]
+    }
+  ]
+}
