@@ -1,0 +1,188 @@
+{
+  "date": "2026-11-19",
+  "sets": [
+    {
+      "theme": "mat och dryck",
+      "words": [
+        {
+          "pt": "cogumelo",
+          "sv": "svamp",
+          "type": "substantiv",
+          "example_pt": "Eu adicionei cogumelo à sopa.",
+          "example_sv": "Jag lade till svamp i soppan."
+        },
+        {
+          "pt": "lagosta",
+          "sv": "hummer",
+          "type": "substantiv",
+          "example_pt": "A lagosta é um prato muito caro.",
+          "example_sv": "Hummer är en mycket dyr rätt."
+        },
+        {
+          "pt": "nata",
+          "sv": "grädde",
+          "type": "substantiv",
+          "example_pt": "Quero café com nata, por favor.",
+          "example_sv": "Jag vill ha kaffe med grädde, tack."
+        },
+        {
+          "pt": "feijão",
+          "sv": "böna",
+          "type": "substantiv",
+          "example_pt": "O feijão é rico em proteína.",
+          "example_sv": "Bönan är rik på protein."
+        },
+        {
+          "pt": "maionese",
+          "sv": "majonnäs",
+          "type": "substantiv",
+          "example_pt": "Podes passar a maionese?",
+          "example_sv": "Kan du skicka majonnäsen?"
+        },
+        {
+          "pt": "torrada",
+          "sv": "rostat bröd",
+          "type": "substantiv",
+          "example_pt": "Comi uma torrada ao pequeno-almoço.",
+          "example_sv": "Jag åt rostat bröd till frukost."
+        },
+        {
+          "pt": "polvo",
+          "sv": "bläckfisk",
+          "type": "substantiv",
+          "example_pt": "O polvo grelhado é delicioso.",
+          "example_sv": "Grillad bläckfisk är läckert."
+        },
+        {
+          "pt": "vinagre",
+          "sv": "vinäger",
+          "type": "substantiv",
+          "example_pt": "Adicionei vinagre à salada.",
+          "example_sv": "Jag tillsatte vinäger i salladen."
+        }
+      ]
+    },
+    {
+      "theme": "resor och transport",
+      "words": [
+        {
+          "pt": "embarque",
+          "sv": "ombordstigning",
+          "type": "substantiv",
+          "example_pt": "O embarque começa às dez horas.",
+          "example_sv": "Ombordstigningen börjar klockan tio."
+        },
+        {
+          "pt": "mochila",
+          "sv": "ryggsäck",
+          "type": "substantiv",
+          "example_pt": "Coloquei tudo na mochila antes de viajar.",
+          "example_sv": "Jag packade allt i ryggsäcken innan resan."
+        },
+        {
+          "pt": "atraso",
+          "sv": "försening",
+          "type": "substantiv",
+          "example_pt": "O comboio teve um atraso de meia hora.",
+          "example_sv": "Tåget hade en halvtimmes försening."
+        },
+        {
+          "pt": "itinerário",
+          "sv": "resplan",
+          "type": "substantiv",
+          "example_pt": "O nosso itinerário inclui três cidades.",
+          "example_sv": "Vår resplan inkluderar tre städer."
+        },
+        {
+          "pt": "passageiro",
+          "sv": "passagerare",
+          "type": "substantiv",
+          "example_pt": "Os passageiros esperaram no aeroporto.",
+          "example_sv": "Passagerarna väntade på flygplatsen."
+        },
+        {
+          "pt": "teleférico",
+          "sv": "linbana",
+          "type": "substantiv",
+          "example_pt": "Subimos a montanha de teleférico.",
+          "example_sv": "Vi åkte linbana upp för berget."
+        },
+        {
+          "pt": "desconto",
+          "sv": "rabatt",
+          "type": "substantiv",
+          "example_pt": "Consegui um desconto no bilhete.",
+          "example_sv": "Jag fick rabatt på biljetten."
+        },
+        {
+          "pt": "fronteira",
+          "sv": "gräns",
+          "type": "substantiv",
+          "example_pt": "Atravessámos a fronteira ao meio-dia.",
+          "example_sv": "Vi korsade gränsen vid middagstid."
+        }
+      ]
+    },
+    {
+      "theme": "familj och relationer",
+      "words": [
+        {
+          "pt": "avô",
+          "sv": "morfar/farfar",
+          "type": "substantiv",
+          "example_pt": "O meu avô conta histórias incríveis.",
+          "example_sv": "Min morfar berättar otroliga historier."
+        },
+        {
+          "pt": "gémeos",
+          "sv": "tvillingar",
+          "type": "substantiv",
+          "example_pt": "Os gémeos têm o mesmo sorriso.",
+          "example_sv": "Tvillingarna har samma leende."
+        },
+        {
+          "pt": "noivo",
+          "sv": "fästman",
+          "type": "substantiv",
+          "example_pt": "O noivo chegou antes da cerimónia.",
+          "example_sv": "Fästmannen anlände före ceremonin."
+        },
+        {
+          "pt": "separar-se",
+          "sv": "separera sig",
+          "type": "verb",
+          "example_pt": "Eles decidiram separar-se após anos juntos.",
+          "example_sv": "De beslutade att separera sig efter år tillsammans."
+        },
+        {
+          "pt": "herança",
+          "sv": "arv",
+          "type": "substantiv",
+          "example_pt": "A família discutiu a herança do avô.",
+          "example_sv": "Familjen diskuterade morfarns arv."
+        },
+        {
+          "pt": "adultério",
+          "sv": "otrohet",
+          "type": "substantiv",
+          "example_pt": "O adultério destruiu o casamento deles.",
+          "example_sv": "Otroheten förstörde deras äktenskap."
+        },
+        {
+          "pt": "nora",
+          "sv": "svärdotter",
+          "type": "substantiv",
+          "example_pt": "A minha nora é muito simpática.",
+          "example_sv": "Min svärdotter är mycket trevlig."
+        },
+        {
+          "pt": "tio",
+          "sv": "farbror/morbror",
+          "type": "substantiv",
+          "example_pt": "O meu tio mora no Porto.",
+          "example_sv": "Min farbror bor i Porto."
+        }
+      ]
+    }
+  ]
+}

@@ -1,186 +1,186 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "sets": [
     {
-      "theme": "känslor och adjektiv",
+      "theme": "mat och dryck",
       "words": [
         {
-          "pt": "orgulhoso",
-          "sv": "stolt",
-          "type": "adjektiv",
-          "example_pt": "Ele ficou orgulhoso com o resultado.",
-          "example_sv": "Han blev stolt över resultatet."
+          "pt": "cogumelo",
+          "sv": "svamp",
+          "type": "substantiv",
+          "example_pt": "Eu adicionei cogumelo à sopa.",
+          "example_sv": "Jag lade till svamp i soppan."
         },
         {
-          "pt": "envergonhado",
-          "sv": "skamsen",
-          "type": "adjektiv",
-          "example_pt": "Ela ficou envergonhada depois do erro.",
-          "example_sv": "Hon kände sig skamsen efter misstaget."
+          "pt": "lagosta",
+          "sv": "hummer",
+          "type": "substantiv",
+          "example_pt": "A lagosta é um prato muito caro.",
+          "example_sv": "Hummer är en mycket dyr rätt."
         },
         {
-          "pt": "aliviado",
-          "sv": "lättad",
-          "type": "adjektiv",
-          "example_pt": "Fiquei aliviado quando soube a notícia.",
-          "example_sv": "Jag kände mig lättad när jag fick höra nyheten."
+          "pt": "nata",
+          "sv": "grädde",
+          "type": "substantiv",
+          "example_pt": "Quero café com nata, por favor.",
+          "example_sv": "Jag vill ha kaffe med grädde, tack."
         },
         {
-          "pt": "amoroso",
-          "sv": "kärleksfull",
-          "type": "adjektiv",
-          "example_pt": "Ele é muito amoroso com a família.",
-          "example_sv": "Han är mycket kärleksfull mot sin familj."
+          "pt": "feijão",
+          "sv": "böna",
+          "type": "substantiv",
+          "example_pt": "O feijão é rico em proteína.",
+          "example_sv": "Bönan är rik på protein."
         },
         {
-          "pt": "entusiasmado",
-          "sv": "entusiastisk",
-          "type": "adjektiv",
-          "example_pt": "Estou entusiasmado com o novo projeto.",
-          "example_sv": "Jag är entusiastisk inför det nya projektet."
+          "pt": "maionese",
+          "sv": "majonnäs",
+          "type": "substantiv",
+          "example_pt": "Podes passar a maionese?",
+          "example_sv": "Kan du skicka majonnäsen?"
         },
         {
-          "pt": "angustiado",
-          "sv": "ångestfylld",
-          "type": "adjektiv",
-          "example_pt": "Ela estava angustiada antes do exame.",
-          "example_sv": "Hon var ångestfylld innan provet."
+          "pt": "torrada",
+          "sv": "rostat bröd",
+          "type": "substantiv",
+          "example_pt": "Comi uma torrada ao pequeno-almoço.",
+          "example_sv": "Jag åt rostat bröd till frukost."
         },
         {
-          "pt": "desconfiado",
-          "sv": "misstänksam",
-          "type": "adjektiv",
-          "example_pt": "Ele ficou desconfiado com a resposta estranha.",
-          "example_sv": "Han blev misstänksam av det konstiga svaret."
+          "pt": "polvo",
+          "sv": "bläckfisk",
+          "type": "substantiv",
+          "example_pt": "O polvo grelhado é delicioso.",
+          "example_sv": "Grillad bläckfisk är läckert."
         },
         {
-          "pt": "comovido",
-          "sv": "rörd",
-          "type": "adjektiv",
-          "example_pt": "Fiquei comovido com o discurso dela.",
-          "example_sv": "Jag blev rörd av hennes tal."
+          "pt": "vinagre",
+          "sv": "vinäger",
+          "type": "substantiv",
+          "example_pt": "Adicionei vinagre à salada.",
+          "example_sv": "Jag tillsatte vinäger i salladen."
         }
       ]
     },
     {
-      "theme": "teknik",
+      "theme": "resor och transport",
       "words": [
         {
-          "pt": "teclado",
-          "sv": "tangentbord",
+          "pt": "embarque",
+          "sv": "ombordstigning",
           "type": "substantiv",
-          "example_pt": "O teclado do computador está partido.",
-          "example_sv": "Datorns tangentbord är trasigt."
+          "example_pt": "O embarque começa às dez horas.",
+          "example_sv": "Ombordstigningen börjar klockan tio."
         },
         {
-          "pt": "rato",
-          "sv": "datormus",
+          "pt": "mochila",
+          "sv": "ryggsäck",
           "type": "substantiv",
-          "example_pt": "Preciso de um novo rato para o computador.",
-          "example_sv": "Jag behöver en ny datormus."
+          "example_pt": "Coloquei tudo na mochila antes de viajar.",
+          "example_sv": "Jag packade allt i ryggsäcken innan resan."
         },
         {
-          "pt": "servidor",
-          "sv": "server",
+          "pt": "atraso",
+          "sv": "försening",
           "type": "substantiv",
-          "example_pt": "O servidor está em manutenção hoje.",
-          "example_sv": "Servern är under underhåll idag."
+          "example_pt": "O comboio teve um atraso de meia hora.",
+          "example_sv": "Tåget hade en halvtimmes försening."
         },
         {
-          "pt": "palavra-passe",
-          "sv": "lösenord",
+          "pt": "itinerário",
+          "sv": "resplan",
           "type": "substantiv",
-          "example_pt": "Esqueci-me da minha palavra-passe.",
-          "example_sv": "Jag har glömt mitt lösenord."
+          "example_pt": "O nosso itinerário inclui três cidades.",
+          "example_sv": "Vår resplan inkluderar tre städer."
         },
         {
-          "pt": "atualizar",
-          "sv": "uppdatera",
+          "pt": "passageiro",
+          "sv": "passagerare",
+          "type": "substantiv",
+          "example_pt": "Os passageiros esperaram no aeroporto.",
+          "example_sv": "Passagerarna väntade på flygplatsen."
+        },
+        {
+          "pt": "teleférico",
+          "sv": "linbana",
+          "type": "substantiv",
+          "example_pt": "Subimos a montanha de teleférico.",
+          "example_sv": "Vi åkte linbana upp för berget."
+        },
+        {
+          "pt": "desconto",
+          "sv": "rabatt",
+          "type": "substantiv",
+          "example_pt": "Consegui um desconto no bilhete.",
+          "example_sv": "Jag fick rabatt på biljetten."
+        },
+        {
+          "pt": "fronteira",
+          "sv": "gräns",
+          "type": "substantiv",
+          "example_pt": "Atravessámos a fronteira ao meio-dia.",
+          "example_sv": "Vi korsade gränsen vid middagstid."
+        }
+      ]
+    },
+    {
+      "theme": "familj och relationer",
+      "words": [
+        {
+          "pt": "avô",
+          "sv": "morfar/farfar",
+          "type": "substantiv",
+          "example_pt": "O meu avô conta histórias incríveis.",
+          "example_sv": "Min morfar berättar otroliga historier."
+        },
+        {
+          "pt": "gémeos",
+          "sv": "tvillingar",
+          "type": "substantiv",
+          "example_pt": "Os gémeos têm o mesmo sorriso.",
+          "example_sv": "Tvillingarna har samma leende."
+        },
+        {
+          "pt": "noivo",
+          "sv": "fästman",
+          "type": "substantiv",
+          "example_pt": "O noivo chegou antes da cerimónia.",
+          "example_sv": "Fästmannen anlände före ceremonin."
+        },
+        {
+          "pt": "separar-se",
+          "sv": "separera sig",
           "type": "verb",
-          "example_pt": "Tens de atualizar o sistema operativo.",
-          "example_sv": "Du måste uppdatera operativsystemet."
+          "example_pt": "Eles decidiram separar-se após anos juntos.",
+          "example_sv": "De beslutade att separera sig efter år tillsammans."
         },
         {
-          "pt": "armazenamento",
-          "sv": "lagring",
+          "pt": "herança",
+          "sv": "arv",
           "type": "substantiv",
-          "example_pt": "O armazenamento do telemóvel está cheio.",
-          "example_sv": "Telefonens lagring är full."
+          "example_pt": "A família discutiu a herança do avô.",
+          "example_sv": "Familjen diskuterade morfarns arv."
         },
         {
-          "pt": "cabo",
-          "sv": "kabel",
+          "pt": "adultério",
+          "sv": "otrohet",
           "type": "substantiv",
-          "example_pt": "Onde está o cabo de carregamento?",
-          "example_sv": "Var är laddningskabeln?"
+          "example_pt": "O adultério destruiu o casamento deles.",
+          "example_sv": "Otroheten förstörde deras äktenskap."
         },
         {
-          "pt": "rede",
-          "sv": "nätverk",
+          "pt": "nora",
+          "sv": "svärdotter",
           "type": "substantiv",
-          "example_pt": "A rede sem fios está lenta hoje.",
-          "example_sv": "Det trådlösa nätverket är långsamt idag."
-        }
-      ]
-    },
-    {
-      "theme": "natur och väder",
-      "words": [
-        {
-          "pt": "geada",
-          "sv": "frost",
-          "type": "substantiv",
-          "example_pt": "Houve geada esta manhã no jardim.",
-          "example_sv": "Det var frost i trädgården den här morgonen."
+          "example_pt": "A minha nora é muito simpática.",
+          "example_sv": "Min svärdotter är mycket trevlig."
         },
         {
-          "pt": "granizo",
-          "sv": "hagel",
+          "pt": "tio",
+          "sv": "farbror/morbror",
           "type": "substantiv",
-          "example_pt": "O granizo danificou o telhado.",
-          "example_sv": "Haglet skadade taket."
-        },
-        {
-          "pt": "bruma",
-          "sv": "dimma",
-          "type": "substantiv",
-          "example_pt": "A bruma cobriu o vale ao amanhecer.",
-          "example_sv": "Dimman täckte dalen vid gryningen."
-        },
-        {
-          "pt": "ravina",
-          "sv": "ravin",
-          "type": "substantiv",
-          "example_pt": "A ravina era muito profunda e perigosa.",
-          "example_sv": "Ravinen var mycket djup och farlig."
-        },
-        {
-          "pt": "savana",
-          "sv": "savann",
-          "type": "substantiv",
-          "example_pt": "A savana africana tem muitos animais.",
-          "example_sv": "Den afrikanska savannen har många djur."
-        },
-        {
-          "pt": "onda de calor",
-          "sv": "värmebölja",
-          "type": "substantiv",
-          "example_pt": "A onda de calor durou duas semanas.",
-          "example_sv": "Värmeböljor varade i två veckor."
-        },
-        {
-          "pt": "encosta",
-          "sv": "sluttning",
-          "type": "substantiv",
-          "example_pt": "A encosta da montanha era coberta de neve.",
-          "example_sv": "Bergsluttningen var täckt av snö."
-        },
-        {
-          "pt": "trovoada",
-          "sv": "åskväder",
-          "type": "substantiv",
-          "example_pt": "A trovoada assustou as crianças.",
-          "example_sv": "Åskvädrет skrämde barnen."
+          "example_pt": "O meu tio mora no Porto.",
+          "example_sv": "Min farbror bor i Porto."
         }
       ]
     }
