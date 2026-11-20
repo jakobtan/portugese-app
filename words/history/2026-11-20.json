@@ -1,0 +1,188 @@
+{
+  "date": "2026-11-20",
+  "sets": [
+    {
+      "theme": "Mat och dryck",
+      "words": [
+        {
+          "pt": "alcachofra",
+          "sv": "kronärtskocka",
+          "type": "substantiv",
+          "example_pt": "A alcachofra é um legume delicioso.",
+          "example_sv": "Kronärtskockan är ett läckert grönsak."
+        },
+        {
+          "pt": "noz",
+          "sv": "valnöt",
+          "type": "substantiv",
+          "example_pt": "Coloquei nozes na salada.",
+          "example_sv": "Jag lade valnötter i salladen."
+        },
+        {
+          "pt": "ruibarbo",
+          "sv": "rabarber",
+          "type": "substantiv",
+          "example_pt": "O ruibarbo é ideal para fazer sobremesas.",
+          "example_sv": "Rabarber är perfekt för att göra desserter."
+        },
+        {
+          "pt": "chá de ervas",
+          "sv": "örtté",
+          "type": "substantiv",
+          "example_pt": "Bebo chá de ervas todas as noites.",
+          "example_sv": "Jag dricker örtté varje kväll."
+        },
+        {
+          "pt": "presunto",
+          "sv": "skinka",
+          "type": "substantiv",
+          "example_pt": "O presunto ibérico é muito famoso.",
+          "example_sv": "Den iberiska skinkan är mycket berömd."
+        },
+        {
+          "pt": "pera",
+          "sv": "päron",
+          "type": "substantiv",
+          "example_pt": "A pera está madura e doce.",
+          "example_sv": "Päronet är moget och sött."
+        },
+        {
+          "pt": "molho",
+          "sv": "sås",
+          "type": "substantiv",
+          "example_pt": "Este molho tem um sabor picante.",
+          "example_sv": "Denna sås har en stark smak."
+        },
+        {
+          "pt": "requeijão",
+          "sv": "färskost",
+          "type": "substantiv",
+          "example_pt": "O requeijão é feito com soro de leite.",
+          "example_sv": "Färskosten är gjord av vassle."
+        }
+      ]
+    },
+    {
+      "theme": "Djur",
+      "words": [
+        {
+          "pt": "corço",
+          "sv": "rådjur",
+          "type": "substantiv",
+          "example_pt": "Vi um corço na floresta esta manhã.",
+          "example_sv": "Jag såg ett rådjur i skogen den här morgonen."
+        },
+        {
+          "pt": "ouriço",
+          "sv": "igelkott",
+          "type": "substantiv",
+          "example_pt": "O ouriço enrolou-se em bola.",
+          "example_sv": "Igelkotten rullade ihop sig till en boll."
+        },
+        {
+          "pt": "lontra",
+          "sv": "utter",
+          "type": "substantiv",
+          "example_pt": "A lontra nada muito bem no rio.",
+          "example_sv": "Uttern simmar mycket bra i floden."
+        },
+        {
+          "pt": "falcão",
+          "sv": "falk",
+          "type": "substantiv",
+          "example_pt": "O falcão voou alto no céu azul.",
+          "example_sv": "Falken flög högt på den blå himlen."
+        },
+        {
+          "pt": "caracol",
+          "sv": "snigel",
+          "type": "substantiv",
+          "example_pt": "O caracol move-se muito lentamente.",
+          "example_sv": "Snigeln rör sig mycket långsamt."
+        },
+        {
+          "pt": "raposa",
+          "sv": "räv",
+          "type": "substantiv",
+          "example_pt": "A raposa encontrou comida no jardim.",
+          "example_sv": "Räven hittade mat i trädgården."
+        },
+        {
+          "pt": "grou",
+          "sv": "trana",
+          "type": "substantiv",
+          "example_pt": "O grou migra para sul no inverno.",
+          "example_sv": "Tranan migrerar söderut på vintern."
+        },
+        {
+          "pt": "toupeira",
+          "sv": "mullvad",
+          "type": "substantiv",
+          "example_pt": "A toupeira cava túneis no jardim.",
+          "example_sv": "Mullvaden gräver tunnlar i trädgården."
+        }
+      ]
+    },
+    {
+      "theme": "Hem och möbler",
+      "words": [
+        {
+          "pt": "cabide",
+          "sv": "klädhängare",
+          "type": "substantiv",
+          "example_pt": "Coloquei o casaco no cabide.",
+          "example_sv": "Jag hängde rocken på klädhängaren."
+        },
+        {
+          "pt": "lençol",
+          "sv": "lakan",
+          "type": "substantiv",
+          "example_pt": "Mudei os lençóis da cama hoje.",
+          "example_sv": "Jag bytte lakanen på sängen idag."
+        },
+        {
+          "pt": "lavatório",
+          "sv": "handfat",
+          "type": "substantiv",
+          "example_pt": "O lavatório da casa de banho está partido.",
+          "example_sv": "Handfatet i badrummet är trasigt."
+        },
+        {
+          "pt": "almofada",
+          "sv": "kudde",
+          "type": "substantiv",
+          "example_pt": "Esta almofada é muito confortável.",
+          "example_sv": "Den här kudden är mycket bekväm."
+        },
+        {
+          "pt": "escada",
+          "sv": "trappa",
+          "type": "substantiv",
+          "example_pt": "A escada leva ao primeiro andar.",
+          "example_sv": "Trappan leder till första våningen."
+        },
+        {
+          "pt": "quadro",
+          "sv": "tavla",
+          "type": "substantiv",
+          "example_pt": "Pendurei um quadro bonito na parede.",
+          "example_sv": "Jag hängde upp en fin tavla på väggen."
+        },
+        {
+          "pt": "banheira",
+          "sv": "badkar",
+          "type": "substantiv",
+          "example_pt": "Tomei um banho relaxante na banheira.",
+          "example_sv": "Jag tog ett avslappnande bad i badkaret."
+        },
+        {
+          "pt": "porta-chaves",
+          "sv": "nyckelhållare",
+          "type": "substantiv",
+          "example_pt": "O porta-chaves está perto da entrada.",
+          "example_sv": "Nyckelhållaren är nära ingången."
+        }
+      ]
+    }
+  ]
+}

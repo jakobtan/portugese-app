@@ -1,186 +1,186 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "sets": [
     {
-      "theme": "mat och dryck",
+      "theme": "Mat och dryck",
       "words": [
         {
-          "pt": "cogumelo",
-          "sv": "svamp",
+          "pt": "alcachofra",
+          "sv": "kronärtskocka",
           "type": "substantiv",
-          "example_pt": "Eu adicionei cogumelo à sopa.",
-          "example_sv": "Jag lade till svamp i soppan."
+          "example_pt": "A alcachofra é um legume delicioso.",
+          "example_sv": "Kronärtskockan är ett läckert grönsak."
         },
         {
-          "pt": "lagosta",
-          "sv": "hummer",
+          "pt": "noz",
+          "sv": "valnöt",
           "type": "substantiv",
-          "example_pt": "A lagosta é um prato muito caro.",
-          "example_sv": "Hummer är en mycket dyr rätt."
+          "example_pt": "Coloquei nozes na salada.",
+          "example_sv": "Jag lade valnötter i salladen."
         },
         {
-          "pt": "nata",
-          "sv": "grädde",
+          "pt": "ruibarbo",
+          "sv": "rabarber",
           "type": "substantiv",
-          "example_pt": "Quero café com nata, por favor.",
-          "example_sv": "Jag vill ha kaffe med grädde, tack."
+          "example_pt": "O ruibarbo é ideal para fazer sobremesas.",
+          "example_sv": "Rabarber är perfekt för att göra desserter."
         },
         {
-          "pt": "feijão",
-          "sv": "böna",
+          "pt": "chá de ervas",
+          "sv": "örtté",
           "type": "substantiv",
-          "example_pt": "O feijão é rico em proteína.",
-          "example_sv": "Bönan är rik på protein."
+          "example_pt": "Bebo chá de ervas todas as noites.",
+          "example_sv": "Jag dricker örtté varje kväll."
         },
         {
-          "pt": "maionese",
-          "sv": "majonnäs",
+          "pt": "presunto",
+          "sv": "skinka",
           "type": "substantiv",
-          "example_pt": "Podes passar a maionese?",
-          "example_sv": "Kan du skicka majonnäsen?"
+          "example_pt": "O presunto ibérico é muito famoso.",
+          "example_sv": "Den iberiska skinkan är mycket berömd."
         },
         {
-          "pt": "torrada",
-          "sv": "rostat bröd",
+          "pt": "pera",
+          "sv": "päron",
           "type": "substantiv",
-          "example_pt": "Comi uma torrada ao pequeno-almoço.",
-          "example_sv": "Jag åt rostat bröd till frukost."
+          "example_pt": "A pera está madura e doce.",
+          "example_sv": "Päronet är moget och sött."
         },
         {
-          "pt": "polvo",
-          "sv": "bläckfisk",
+          "pt": "molho",
+          "sv": "sås",
           "type": "substantiv",
-          "example_pt": "O polvo grelhado é delicioso.",
-          "example_sv": "Grillad bläckfisk är läckert."
+          "example_pt": "Este molho tem um sabor picante.",
+          "example_sv": "Denna sås har en stark smak."
         },
         {
-          "pt": "vinagre",
-          "sv": "vinäger",
+          "pt": "requeijão",
+          "sv": "färskost",
           "type": "substantiv",
-          "example_pt": "Adicionei vinagre à salada.",
-          "example_sv": "Jag tillsatte vinäger i salladen."
+          "example_pt": "O requeijão é feito com soro de leite.",
+          "example_sv": "Färskosten är gjord av vassle."
         }
       ]
     },
     {
-      "theme": "resor och transport",
+      "theme": "Djur",
       "words": [
         {
-          "pt": "embarque",
-          "sv": "ombordstigning",
+          "pt": "corço",
+          "sv": "rådjur",
           "type": "substantiv",
-          "example_pt": "O embarque começa às dez horas.",
-          "example_sv": "Ombordstigningen börjar klockan tio."
+          "example_pt": "Vi um corço na floresta esta manhã.",
+          "example_sv": "Jag såg ett rådjur i skogen den här morgonen."
         },
         {
-          "pt": "mochila",
-          "sv": "ryggsäck",
+          "pt": "ouriço",
+          "sv": "igelkott",
           "type": "substantiv",
-          "example_pt": "Coloquei tudo na mochila antes de viajar.",
-          "example_sv": "Jag packade allt i ryggsäcken innan resan."
+          "example_pt": "O ouriço enrolou-se em bola.",
+          "example_sv": "Igelkotten rullade ihop sig till en boll."
         },
         {
-          "pt": "atraso",
-          "sv": "försening",
+          "pt": "lontra",
+          "sv": "utter",
           "type": "substantiv",
-          "example_pt": "O comboio teve um atraso de meia hora.",
-          "example_sv": "Tåget hade en halvtimmes försening."
+          "example_pt": "A lontra nada muito bem no rio.",
+          "example_sv": "Uttern simmar mycket bra i floden."
         },
         {
-          "pt": "itinerário",
-          "sv": "resplan",
+          "pt": "falcão",
+          "sv": "falk",
           "type": "substantiv",
-          "example_pt": "O nosso itinerário inclui três cidades.",
-          "example_sv": "Vår resplan inkluderar tre städer."
+          "example_pt": "O falcão voou alto no céu azul.",
+          "example_sv": "Falken flög högt på den blå himlen."
         },
         {
-          "pt": "passageiro",
-          "sv": "passagerare",
+          "pt": "caracol",
+          "sv": "snigel",
           "type": "substantiv",
-          "example_pt": "Os passageiros esperaram no aeroporto.",
-          "example_sv": "Passagerarna väntade på flygplatsen."
+          "example_pt": "O caracol move-se muito lentamente.",
+          "example_sv": "Snigeln rör sig mycket långsamt."
         },
         {
-          "pt": "teleférico",
-          "sv": "linbana",
+          "pt": "raposa",
+          "sv": "räv",
           "type": "substantiv",
-          "example_pt": "Subimos a montanha de teleférico.",
-          "example_sv": "Vi åkte linbana upp för berget."
+          "example_pt": "A raposa encontrou comida no jardim.",
+          "example_sv": "Räven hittade mat i trädgården."
         },
         {
-          "pt": "desconto",
-          "sv": "rabatt",
+          "pt": "grou",
+          "sv": "trana",
           "type": "substantiv",
-          "example_pt": "Consegui um desconto no bilhete.",
-          "example_sv": "Jag fick rabatt på biljetten."
+          "example_pt": "O grou migra para sul no inverno.",
+          "example_sv": "Tranan migrerar söderut på vintern."
         },
         {
-          "pt": "fronteira",
-          "sv": "gräns",
+          "pt": "toupeira",
+          "sv": "mullvad",
           "type": "substantiv",
-          "example_pt": "Atravessámos a fronteira ao meio-dia.",
-          "example_sv": "Vi korsade gränsen vid middagstid."
+          "example_pt": "A toupeira cava túneis no jardim.",
+          "example_sv": "Mullvaden gräver tunnlar i trädgården."
         }
       ]
     },
     {
-      "theme": "familj och relationer",
+      "theme": "Hem och möbler",
       "words": [
         {
-          "pt": "avô",
-          "sv": "morfar/farfar",
+          "pt": "cabide",
+          "sv": "klädhängare",
           "type": "substantiv",
-          "example_pt": "O meu avô conta histórias incríveis.",
-          "example_sv": "Min morfar berättar otroliga historier."
+          "example_pt": "Coloquei o casaco no cabide.",
+          "example_sv": "Jag hängde rocken på klädhängaren."
         },
         {
-          "pt": "gémeos",
-          "sv": "tvillingar",
+          "pt": "lençol",
+          "sv": "lakan",
           "type": "substantiv",
-          "example_pt": "Os gémeos têm o mesmo sorriso.",
-          "example_sv": "Tvillingarna har samma leende."
+          "example_pt": "Mudei os lençóis da cama hoje.",
+          "example_sv": "Jag bytte lakanen på sängen idag."
         },
         {
-          "pt": "noivo",
-          "sv": "fästman",
+          "pt": "lavatório",
+          "sv": "handfat",
           "type": "substantiv",
-          "example_pt": "O noivo chegou antes da cerimónia.",
-          "example_sv": "Fästmannen anlände före ceremonin."
+          "example_pt": "O lavatório da casa de banho está partido.",
+          "example_sv": "Handfatet i badrummet är trasigt."
         },
         {
-          "pt": "separar-se",
-          "sv": "separera sig",
-          "type": "verb",
-          "example_pt": "Eles decidiram separar-se após anos juntos.",
-          "example_sv": "De beslutade att separera sig efter år tillsammans."
+          "pt": "almofada",
+          "sv": "kudde",
+          "type": "substantiv",
+          "example_pt": "Esta almofada é muito confortável.",
+          "example_sv": "Den här kudden är mycket bekväm."
         },
         {
-          "pt": "herança",
-          "sv": "arv",
+          "pt": "escada",
+          "sv": "trappa",
           "type": "substantiv",
-          "example_pt": "A família discutiu a herança do avô.",
-          "example_sv": "Familjen diskuterade morfarns arv."
+          "example_pt": "A escada leva ao primeiro andar.",
+          "example_sv": "Trappan leder till första våningen."
         },
         {
-          "pt": "adultério",
-          "sv": "otrohet",
+          "pt": "quadro",
+          "sv": "tavla",
           "type": "substantiv",
-          "example_pt": "O adultério destruiu o casamento deles.",
-          "example_sv": "Otroheten förstörde deras äktenskap."
+          "example_pt": "Pendurei um quadro bonito na parede.",
+          "example_sv": "Jag hängde upp en fin tavla på väggen."
         },
         {
-          "pt": "nora",
-          "sv": "svärdotter",
+          "pt": "banheira",
+          "sv": "badkar",
           "type": "substantiv",
-          "example_pt": "A minha nora é muito simpática.",
-          "example_sv": "Min svärdotter är mycket trevlig."
+          "example_pt": "Tomei um banho relaxante na banheira.",
+          "example_sv": "Jag tog ett avslappnande bad i badkaret."
         },
         {
-          "pt": "tio",
-          "sv": "farbror/morbror",
+          "pt": "porta-chaves",
+          "sv": "nyckelhållare",
           "type": "substantiv",
-          "example_pt": "O meu tio mora no Porto.",
-          "example_sv": "Min farbror bor i Porto."
+          "example_pt": "O porta-chaves está perto da entrada.",
+          "example_sv": "Nyckelhållaren är nära ingången."
         }
       ]
     }
