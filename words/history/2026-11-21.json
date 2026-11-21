@@ -1,0 +1,188 @@
+{
+  "date": "2026-11-21",
+  "sets": [
+    {
+      "theme": "mat och dryck",
+      "words": [
+        {
+          "pt": "alcaparras",
+          "sv": "kapris",
+          "type": "substantiv",
+          "example_pt": "Coloquei alcaparras na salada para dar mais sabor.",
+          "example_sv": "Jag lade kapris i salladen för mer smak."
+        },
+        {
+          "pt": "rucula",
+          "sv": "rucola",
+          "type": "substantiv",
+          "example_pt": "A rucula tem um sabor ligeiramente amargo.",
+          "example_sv": "Rucola har en lätt bitter smak."
+        },
+        {
+          "pt": "toucinho",
+          "sv": "sidfläsk",
+          "type": "substantiv",
+          "example_pt": "O toucinho frito é muito popular ao pequeno-almoço.",
+          "example_sv": "Stekt sidfläsk är mycket populärt till frukost."
+        },
+        {
+          "pt": "malagueta",
+          "sv": "chilipeppar",
+          "type": "substantiv",
+          "example_pt": "Esta malagueta é muito picante.",
+          "example_sv": "Den här chilipepparn är mycket stark."
+        },
+        {
+          "pt": "caldo",
+          "sv": "buljong",
+          "type": "substantiv",
+          "example_pt": "Preparei um caldo de galinha para a sopa.",
+          "example_sv": "Jag beredde en hönsbuljonng till soppan."
+        },
+        {
+          "pt": "groselha",
+          "sv": "vinbär",
+          "type": "substantiv",
+          "example_pt": "As groselhas negras são ricas em vitamina C.",
+          "example_sv": "Svarta vinbär är rika på C-vitamin."
+        },
+        {
+          "pt": "natas batidas",
+          "sv": "vispgrädde",
+          "type": "substantiv",
+          "example_pt": "Adicionei natas batidas ao bolo de chocolate.",
+          "example_sv": "Jag lade vispgrädde på chokladkakan."
+        },
+        {
+          "pt": "cereja",
+          "sv": "körsbär",
+          "type": "substantiv",
+          "example_pt": "As cerejas estão maduras em junho.",
+          "example_sv": "Körsbären är mogna i juni."
+        }
+      ]
+    },
+    {
+      "theme": "stad och platser",
+      "words": [
+        {
+          "pt": "cemitério",
+          "sv": "kyrkogård",
+          "type": "substantiv",
+          "example_pt": "O cemitério fica no extremo da aldeia.",
+          "example_sv": "Kyrkogården ligger i utkanten av byn."
+        },
+        {
+          "pt": "fonte",
+          "sv": "fontän",
+          "type": "substantiv",
+          "example_pt": "As crianças brincam junto à fonte da praça.",
+          "example_sv": "Barnen leker vid torgets fontän."
+        },
+        {
+          "pt": "fábrica",
+          "sv": "fabrik",
+          "type": "substantiv",
+          "example_pt": "A fábrica produz automóveis há décadas.",
+          "example_sv": "Fabriken har tillverkat bilar i decennier."
+        },
+        {
+          "pt": "ponte",
+          "sv": "bro",
+          "type": "substantiv",
+          "example_pt": "Atravessámos a ponte sobre o rio Tejo.",
+          "example_sv": "Vi korsade bron över floden Tejo."
+        },
+        {
+          "pt": "claustro",
+          "sv": "klostergård",
+          "type": "substantiv",
+          "example_pt": "O claustro do mosteiro é muito bonito.",
+          "example_sv": "Klostrets klostergård är mycket vacker."
+        },
+        {
+          "pt": "aterro",
+          "sv": "soptipp",
+          "type": "substantiv",
+          "example_pt": "O aterro sanitário fica fora da cidade.",
+          "example_sv": "Soptippen ligger utanför staden."
+        },
+        {
+          "pt": "quartel",
+          "sv": "kasern",
+          "type": "substantiv",
+          "example_pt": "O quartel dos bombeiros fica perto da escola.",
+          "example_sv": "Brandstationen ligger nära skolan."
+        },
+        {
+          "pt": "estalagem",
+          "sv": "gästgivargård",
+          "type": "substantiv",
+          "example_pt": "Ficámos numa estalagem charmosa no campo.",
+          "example_sv": "Vi bodde på en charmig gästgivargård på landet."
+        }
+      ]
+    },
+    {
+      "theme": "tid och datum",
+      "words": [
+        {
+          "pt": "alvorada",
+          "sv": "gryning",
+          "type": "substantiv",
+          "example_pt": "Os pássaros cantam à alvorada.",
+          "example_sv": "Fåglarna sjunger vid gryningen."
+        },
+        {
+          "pt": "prazo",
+          "sv": "tidsfrist",
+          "type": "substantiv",
+          "example_pt": "Temos de entregar o trabalho antes do prazo.",
+          "example_sv": "Vi måste lämna in arbetet innan tidsfristen."
+        },
+        {
+          "pt": "quinzenal",
+          "sv": "varannan vecka",
+          "type": "adjektiv",
+          "example_pt": "A reunião quinzenal acontece às segundas-feiras.",
+          "example_sv": "Det varannan vecka-mötet sker på måndagar."
+        },
+        {
+          "pt": "época",
+          "sv": "säsong",
+          "type": "substantiv",
+          "example_pt": "A época de verão é a mais movimentada para o turismo.",
+          "example_sv": "Sommarsäsongen är den mest hektiska för turismen."
+        },
+        {
+          "pt": "imediato",
+          "sv": "omedelbar",
+          "type": "adjektiv",
+          "example_pt": "Precisamos de uma resposta imediata.",
+          "example_sv": "Vi behöver ett omedelbart svar."
+        },
+        {
+          "pt": "vespertino",
+          "sv": "eftermiddags-",
+          "type": "adjektiv",
+          "example_pt": "O jornal vespertino chega às seis horas.",
+          "example_sv": "Eftermiddagstidningen kommer klockan sex."
+        },
+        {
+          "pt": "décadas",
+          "sv": "decennier",
+          "type": "substantiv",
+          "example_pt": "Há décadas que não o via.",
+          "example_sv": "Jag hade inte sett honom på decennier."
+        },
+        {
+          "pt": "cronograma",
+          "sv": "tidsplan",
+          "type": "substantiv",
+          "example_pt": "O cronograma do projeto está pronto.",
+          "example_sv": "Projektets tidsplan är klar."
+        }
+      ]
+    }
+  ]
+}
