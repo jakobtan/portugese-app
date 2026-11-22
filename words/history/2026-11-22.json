@@ -1,0 +1,188 @@
+{
+  "date": "2026-11-22",
+  "sets": [
+    {
+      "theme": "Känslor och adjektiv",
+      "words": [
+        {
+          "pt": "animado",
+          "sv": "upprymd",
+          "type": "adjektiv",
+          "example_pt": "Ele está muito animado com a festa.",
+          "example_sv": "Han är väldigt upprymd inför festen."
+        },
+        {
+          "pt": "irritado",
+          "sv": "irriterad",
+          "type": "adjektiv",
+          "example_pt": "Ela ficou irritada com o barulho.",
+          "example_sv": "Hon blev irriterad av bullret."
+        },
+        {
+          "pt": "surpreso",
+          "sv": "förvånad",
+          "type": "adjektiv",
+          "example_pt": "Fiquei surpreso com a notícia.",
+          "example_sv": "Jag blev förvånad över nyheten."
+        },
+        {
+          "pt": "saudoso",
+          "sv": "nostalgisk",
+          "type": "adjektiv",
+          "example_pt": "Ele ficou saudoso da sua infância.",
+          "example_sv": "Han blev nostalgisk över sin barndom."
+        },
+        {
+          "pt": "assustado",
+          "sv": "rädd",
+          "type": "adjektiv",
+          "example_pt": "A criança ficou assustada com o trovão.",
+          "example_sv": "Barnet blev rädd för åskan."
+        },
+        {
+          "pt": "encantado",
+          "sv": "förtjust",
+          "type": "adjektiv",
+          "example_pt": "Estou encantado com esta cidade.",
+          "example_sv": "Jag är förtjust i den här staden."
+        },
+        {
+          "pt": "preocupado",
+          "sv": "orolig",
+          "type": "adjektiv",
+          "example_pt": "Ela está preocupada com o exame.",
+          "example_sv": "Hon är orolig för provet."
+        },
+        {
+          "pt": "satisfeito",
+          "sv": "nöjd",
+          "type": "adjektiv",
+          "example_pt": "Ele ficou satisfeito com o resultado.",
+          "example_sv": "Han var nöjd med resultatet."
+        }
+      ]
+    },
+    {
+      "theme": "Djur",
+      "words": [
+        {
+          "pt": "lince",
+          "sv": "lodjur",
+          "type": "substantiv",
+          "example_pt": "O lince é um animal raro em Portugal.",
+          "example_sv": "Lodjuret är ett sällsynt djur i Portugal."
+        },
+        {
+          "pt": "morcego",
+          "sv": "fladdermus",
+          "type": "substantiv",
+          "example_pt": "Os morcegos saem à noite para caçar.",
+          "example_sv": "Fladdermössen flyger ut på natten för att jaga."
+        },
+        {
+          "pt": "cegonha",
+          "sv": "stork",
+          "type": "substantiv",
+          "example_pt": "A cegonha fez o ninho no telhado.",
+          "example_sv": "Storken byggde sitt bo på taket."
+        },
+        {
+          "pt": "polveira",
+          "sv": "bläckfisk",
+          "type": "substantiv",
+          "example_pt": "Vimos uma polveira no aquário.",
+          "example_sv": "Vi såg en bläckfisk på akvariet."
+        },
+        {
+          "pt": "coruja",
+          "sv": "uggla",
+          "type": "substantiv",
+          "example_pt": "A coruja caça ratos durante a noite.",
+          "example_sv": "Ugglor jagar råttor under natten."
+        },
+        {
+          "pt": "touro",
+          "sv": "tjur",
+          "type": "substantiv",
+          "example_pt": "O touro pastava no campo verde.",
+          "example_sv": "Tjuren betade på det gröna fältet."
+        },
+        {
+          "pt": "sardinha",
+          "sv": "sardin",
+          "type": "substantiv",
+          "example_pt": "As sardinhas são muito populares em Portugal.",
+          "example_sv": "Sardiner är mycket populära i Portugal."
+        },
+        {
+          "pt": "aguia",
+          "sv": "örn",
+          "type": "substantiv",
+          "example_pt": "A águia voou alto sobre as montanhas.",
+          "example_sv": "Örnen flög högt över bergen."
+        }
+      ]
+    },
+    {
+      "theme": "Sport och fritid",
+      "words": [
+        {
+          "pt": "corrida",
+          "sv": "löpning",
+          "type": "substantiv",
+          "example_pt": "Ela faz corrida todas as manhãs.",
+          "example_sv": "Hon springer varje morgon."
+        },
+        {
+          "pt": "treinar",
+          "sv": "träna",
+          "type": "verb",
+          "example_pt": "Ele treina futebol três vezes por semana.",
+          "example_sv": "Han tränar fotboll tre gånger i veckan."
+        },
+        {
+          "pt": "caminhada",
+          "sv": "vandring",
+          "type": "substantiv",
+          "example_pt": "Fizemos uma caminhada pela serra.",
+          "example_sv": "Vi gjorde en vandring i bergstrakten."
+        },
+        {
+          "pt": "torneio",
+          "sv": "turnering",
+          "type": "substantiv",
+          "example_pt": "O torneio começa na próxima semana.",
+          "example_sv": "Turneringen börjar nästa vecka."
+        },
+        {
+          "pt": "adversário",
+          "sv": "motståndare",
+          "type": "substantiv",
+          "example_pt": "O adversário era muito forte.",
+          "example_sv": "Motståndaren var väldigt stark."
+        },
+        {
+          "pt": "árbitro",
+          "sv": "domare",
+          "type": "substantiv",
+          "example_pt": "O árbitro apitou o fim do jogo.",
+          "example_sv": "Domaren blåste av matchen."
+        },
+        {
+          "pt": "descanso",
+          "sv": "vila",
+          "type": "substantiv",
+          "example_pt": "O atleta precisa de descanso após a corrida.",
+          "example_sv": "Atleten behöver vila efter loppet."
+        },
+        {
+          "pt": "campeonato",
+          "sv": "mästerskap",
+          "type": "substantiv",
+          "example_pt": "Portugal ganhou o campeonato europeu.",
+          "example_sv": "Portugal vann det europeiska mästerskapet."
+        }
+      ]
+    }
+  ]
+}
