@@ -1,186 +1,186 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "sets": [
     {
-      "theme": "Känslor och adjektiv",
+      "theme": "Kläder och mode",
       "words": [
         {
-          "pt": "animado",
-          "sv": "upprymd",
-          "type": "adjektiv",
-          "example_pt": "Ele está muito animado com a festa.",
-          "example_sv": "Han är väldigt upprymd inför festen."
+          "pt": "saia",
+          "sv": "kjol",
+          "type": "substantiv",
+          "example_pt": "Ela usa uma saia azul no trabalho.",
+          "example_sv": "Hon bär en blå kjol på jobbet."
         },
         {
-          "pt": "irritado",
-          "sv": "irriterad",
-          "type": "adjektiv",
-          "example_pt": "Ela ficou irritada com o barulho.",
-          "example_sv": "Hon blev irriterad av bullret."
+          "pt": "cinto",
+          "sv": "bälte",
+          "type": "substantiv",
+          "example_pt": "O cinto de couro é muito elegante.",
+          "example_sv": "Läderbältet är mycket elegant."
         },
         {
-          "pt": "surpreso",
-          "sv": "förvånad",
-          "type": "adjektiv",
-          "example_pt": "Fiquei surpreso com a notícia.",
-          "example_sv": "Jag blev förvånad över nyheten."
+          "pt": "chapéu",
+          "sv": "hatt",
+          "type": "substantiv",
+          "example_pt": "Ele comprou um chapéu novo para o verão.",
+          "example_sv": "Han köpte en ny hatt till sommaren."
         },
         {
-          "pt": "saudoso",
-          "sv": "nostalgisk",
-          "type": "adjektiv",
-          "example_pt": "Ele ficou saudoso da sua infância.",
-          "example_sv": "Han blev nostalgisk över sin barndom."
+          "pt": "meias",
+          "sv": "strumpor",
+          "type": "substantiv",
+          "example_pt": "As meias estão na gaveta.",
+          "example_sv": "Strumporna ligger i lådan."
         },
         {
-          "pt": "assustado",
-          "sv": "rädd",
-          "type": "adjektiv",
-          "example_pt": "A criança ficou assustada com o trovão.",
-          "example_sv": "Barnet blev rädd för åskan."
+          "pt": "vestido",
+          "sv": "klänning",
+          "type": "substantiv",
+          "example_pt": "O vestido vermelho ficou muito bem nela.",
+          "example_sv": "Den röda klänningen passade henne mycket bra."
         },
         {
-          "pt": "encantado",
-          "sv": "förtjust",
-          "type": "adjektiv",
-          "example_pt": "Estou encantado com esta cidade.",
-          "example_sv": "Jag är förtjust i den här staden."
+          "pt": "manga comprida",
+          "sv": "lång ärm",
+          "type": "substantiv",
+          "example_pt": "Prefiro camisolas de manga comprida no inverno.",
+          "example_sv": "Jag föredrar tröjor med lång ärm på vintern."
         },
         {
-          "pt": "preocupado",
-          "sv": "orolig",
+          "pt": "às riscas",
+          "sv": "randig",
           "type": "adjektiv",
-          "example_pt": "Ela está preocupada com o exame.",
-          "example_sv": "Hon är orolig för provet."
+          "example_pt": "Ele tem uma camisa às riscas muito bonita.",
+          "example_sv": "Han har en mycket fin randig skjorta."
         },
         {
-          "pt": "satisfeito",
-          "sv": "nöjd",
+          "pt": "apertado",
+          "sv": "trång/åtsittande",
           "type": "adjektiv",
-          "example_pt": "Ele ficou satisfeito com o resultado.",
-          "example_sv": "Han var nöjd med resultatet."
+          "example_pt": "Estas calças estão muito apertadas.",
+          "example_sv": "De här byxorna är för trånga."
         }
       ]
     },
     {
-      "theme": "Djur",
+      "theme": "Teknik",
       "words": [
         {
-          "pt": "lince",
-          "sv": "lodjur",
+          "pt": "ecrã",
+          "sv": "skärm",
           "type": "substantiv",
-          "example_pt": "O lince é um animal raro em Portugal.",
-          "example_sv": "Lodjuret är ett sällsynt djur i Portugal."
+          "example_pt": "O ecrã do meu telemóvel partiu-se.",
+          "example_sv": "Skärmen på min mobil gick sönder."
         },
         {
-          "pt": "morcego",
-          "sv": "fladdermus",
+          "pt": "bateria",
+          "sv": "batteri",
           "type": "substantiv",
-          "example_pt": "Os morcegos saem à noite para caçar.",
-          "example_sv": "Fladdermössen flyger ut på natten för att jaga."
+          "example_pt": "A bateria do portátil dura oito horas.",
+          "example_sv": "Batteriet i laptopen håller i åtta timmar."
         },
         {
-          "pt": "cegonha",
-          "sv": "stork",
+          "pt": "impressora",
+          "sv": "skrivare",
           "type": "substantiv",
-          "example_pt": "A cegonha fez o ninho no telhado.",
-          "example_sv": "Storken byggde sitt bo på taket."
+          "example_pt": "A impressora está sem papel.",
+          "example_sv": "Skrivaren har slut på papper."
         },
         {
-          "pt": "polveira",
-          "sv": "bläckfisk",
+          "pt": "ligação",
+          "sv": "anslutning/uppkoppling",
           "type": "substantiv",
-          "example_pt": "Vimos uma polveira no aquário.",
-          "example_sv": "Vi såg en bläckfisk på akvariet."
+          "example_pt": "A ligação à internet é muito lenta hoje.",
+          "example_sv": "Internetuppkopplingen är mycket långsam idag."
         },
         {
-          "pt": "coruja",
-          "sv": "uggla",
+          "pt": "aplicação",
+          "sv": "app/applikation",
           "type": "substantiv",
-          "example_pt": "A coruja caça ratos durante a noite.",
-          "example_sv": "Ugglor jagar råttor under natten."
+          "example_pt": "Descarreguei uma nova aplicação para o telemóvel.",
+          "example_sv": "Jag laddade ner en ny app till mobilen."
         },
         {
-          "pt": "touro",
-          "sv": "tjur",
-          "type": "substantiv",
-          "example_pt": "O touro pastava no campo verde.",
-          "example_sv": "Tjuren betade på det gröna fältet."
-        },
-        {
-          "pt": "sardinha",
-          "sv": "sardin",
-          "type": "substantiv",
-          "example_pt": "As sardinhas são muito populares em Portugal.",
-          "example_sv": "Sardiner är mycket populära i Portugal."
-        },
-        {
-          "pt": "aguia",
-          "sv": "örn",
-          "type": "substantiv",
-          "example_pt": "A águia voou alto sobre as montanhas.",
-          "example_sv": "Örnen flög högt över bergen."
-        }
-      ]
-    },
-    {
-      "theme": "Sport och fritid",
-      "words": [
-        {
-          "pt": "corrida",
-          "sv": "löpning",
-          "type": "substantiv",
-          "example_pt": "Ela faz corrida todas as manhãs.",
-          "example_sv": "Hon springer varje morgon."
-        },
-        {
-          "pt": "treinar",
-          "sv": "träna",
+          "pt": "programar",
+          "sv": "programmera",
           "type": "verb",
-          "example_pt": "Ele treina futebol três vezes por semana.",
-          "example_sv": "Han tränar fotboll tre gånger i veckan."
+          "example_pt": "Ela aprendeu a programar na universidade.",
+          "example_sv": "Hon lärde sig programmera på universitetet."
         },
         {
-          "pt": "caminhada",
-          "sv": "vandring",
-          "type": "substantiv",
-          "example_pt": "Fizemos uma caminhada pela serra.",
-          "example_sv": "Vi gjorde en vandring i bergstrakten."
+          "pt": "sem fios",
+          "sv": "trådlös",
+          "type": "adjektiv",
+          "example_pt": "Tenho uns auscultadores sem fios muito bons.",
+          "example_sv": "Jag har ett mycket bra par trådlösa hörlurar."
         },
         {
-          "pt": "torneio",
-          "sv": "turnering",
+          "pt": "acesso",
+          "sv": "åtkomst/tillgång",
           "type": "substantiv",
-          "example_pt": "O torneio começa na próxima semana.",
-          "example_sv": "Turneringen börjar nästa vecka."
+          "example_pt": "Precisas de acesso especial para abrir esse ficheiro.",
+          "example_sv": "Du behöver särskild åtkomst för att öppna den filen."
+        }
+      ]
+    },
+    {
+      "theme": "Kropp och hälsa",
+      "words": [
+        {
+          "pt": "joelho",
+          "sv": "knä",
+          "type": "substantiv",
+          "example_pt": "Ele magoou o joelho a jogar futebol.",
+          "example_sv": "Han skadade knäet när han spelade fotboll."
         },
         {
-          "pt": "adversário",
-          "sv": "motståndare",
+          "pt": "cotovelo",
+          "sv": "armbåge",
           "type": "substantiv",
-          "example_pt": "O adversário era muito forte.",
-          "example_sv": "Motståndaren var väldigt stark."
+          "example_pt": "Bati com o cotovelo na mesa.",
+          "example_sv": "Jag slog armbågen i bordet."
         },
         {
-          "pt": "árbitro",
-          "sv": "domare",
+          "pt": "garganta",
+          "sv": "hals/strupe",
           "type": "substantiv",
-          "example_pt": "O árbitro apitou o fim do jogo.",
-          "example_sv": "Domaren blåste av matchen."
+          "example_pt": "Tenho a garganta inflamada desde ontem.",
+          "example_sv": "Jag har haft ont i halsen sedan igår."
         },
         {
-          "pt": "descanso",
-          "sv": "vila",
+          "pt": "febre",
+          "sv": "feber",
           "type": "substantiv",
-          "example_pt": "O atleta precisa de descanso após a corrida.",
-          "example_sv": "Atleten behöver vila efter loppet."
+          "example_pt": "A criança tem muita febre esta noite.",
+          "example_sv": "Barnet har hög feber i kväll."
         },
         {
-          "pt": "campeonato",
-          "sv": "mästerskap",
+          "pt": "respirar",
+          "sv": "andas",
+          "type": "verb",
+          "example_pt": "Respira fundo antes de responder.",
+          "example_sv": "Andas djupt innan du svarar."
+        },
+        {
+          "pt": "comprimido",
+          "sv": "tablett/piller",
           "type": "substantiv",
-          "example_pt": "Portugal ganhou o campeonato europeu.",
-          "example_sv": "Portugal vann det europeiska mästerskapet."
+          "example_pt": "O médico receitou-me comprimidos para a dor.",
+          "example_sv": "Läkaren ordinerade mig tabletter mot smärtan."
+        },
+        {
+          "pt": "ombro",
+          "sv": "axel",
+          "type": "substantiv",
+          "example_pt": "Ela tem dores no ombro direito.",
+          "example_sv": "Hon har ont i höger axel."
+        },
+        {
+          "pt": "alergia",
+          "sv": "allergi",
+          "type": "substantiv",
+          "example_pt": "Tenho alergia ao pólen na primavera.",
+          "example_sv": "Jag är allergisk mot pollen på våren."
         }
       ]
     }

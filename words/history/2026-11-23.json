@@ -1,0 +1,188 @@
+{
+  "date": "2026-11-23",
+  "sets": [
+    {
+      "theme": "Kläder och mode",
+      "words": [
+        {
+          "pt": "saia",
+          "sv": "kjol",
+          "type": "substantiv",
+          "example_pt": "Ela usa uma saia azul no trabalho.",
+          "example_sv": "Hon bär en blå kjol på jobbet."
+        },
+        {
+          "pt": "cinto",
+          "sv": "bälte",
+          "type": "substantiv",
+          "example_pt": "O cinto de couro é muito elegante.",
+          "example_sv": "Läderbältet är mycket elegant."
+        },
+        {
+          "pt": "chapéu",
+          "sv": "hatt",
+          "type": "substantiv",
+          "example_pt": "Ele comprou um chapéu novo para o verão.",
+          "example_sv": "Han köpte en ny hatt till sommaren."
+        },
+        {
+          "pt": "meias",
+          "sv": "strumpor",
+          "type": "substantiv",
+          "example_pt": "As meias estão na gaveta.",
+          "example_sv": "Strumporna ligger i lådan."
+        },
+        {
+          "pt": "vestido",
+          "sv": "klänning",
+          "type": "substantiv",
+          "example_pt": "O vestido vermelho ficou muito bem nela.",
+          "example_sv": "Den röda klänningen passade henne mycket bra."
+        },
+        {
+          "pt": "manga comprida",
+          "sv": "lång ärm",
+          "type": "substantiv",
+          "example_pt": "Prefiro camisolas de manga comprida no inverno.",
+          "example_sv": "Jag föredrar tröjor med lång ärm på vintern."
+        },
+        {
+          "pt": "às riscas",
+          "sv": "randig",
+          "type": "adjektiv",
+          "example_pt": "Ele tem uma camisa às riscas muito bonita.",
+          "example_sv": "Han har en mycket fin randig skjorta."
+        },
+        {
+          "pt": "apertado",
+          "sv": "trång/åtsittande",
+          "type": "adjektiv",
+          "example_pt": "Estas calças estão muito apertadas.",
+          "example_sv": "De här byxorna är för trånga."
+        }
+      ]
+    },
+    {
+      "theme": "Teknik",
+      "words": [
+        {
+          "pt": "ecrã",
+          "sv": "skärm",
+          "type": "substantiv",
+          "example_pt": "O ecrã do meu telemóvel partiu-se.",
+          "example_sv": "Skärmen på min mobil gick sönder."
+        },
+        {
+          "pt": "bateria",
+          "sv": "batteri",
+          "type": "substantiv",
+          "example_pt": "A bateria do portátil dura oito horas.",
+          "example_sv": "Batteriet i laptopen håller i åtta timmar."
+        },
+        {
+          "pt": "impressora",
+          "sv": "skrivare",
+          "type": "substantiv",
+          "example_pt": "A impressora está sem papel.",
+          "example_sv": "Skrivaren har slut på papper."
+        },
+        {
+          "pt": "ligação",
+          "sv": "anslutning/uppkoppling",
+          "type": "substantiv",
+          "example_pt": "A ligação à internet é muito lenta hoje.",
+          "example_sv": "Internetuppkopplingen är mycket långsam idag."
+        },
+        {
+          "pt": "aplicação",
+          "sv": "app/applikation",
+          "type": "substantiv",
+          "example_pt": "Descarreguei uma nova aplicação para o telemóvel.",
+          "example_sv": "Jag laddade ner en ny app till mobilen."
+        },
+        {
+          "pt": "programar",
+          "sv": "programmera",
+          "type": "verb",
+          "example_pt": "Ela aprendeu a programar na universidade.",
+          "example_sv": "Hon lärde sig programmera på universitetet."
+        },
+        {
+          "pt": "sem fios",
+          "sv": "trådlös",
+          "type": "adjektiv",
+          "example_pt": "Tenho uns auscultadores sem fios muito bons.",
+          "example_sv": "Jag har ett mycket bra par trådlösa hörlurar."
+        },
+        {
+          "pt": "acesso",
+          "sv": "åtkomst/tillgång",
+          "type": "substantiv",
+          "example_pt": "Precisas de acesso especial para abrir esse ficheiro.",
+          "example_sv": "Du behöver särskild åtkomst för att öppna den filen."
+        }
+      ]
+    },
+    {
+      "theme": "Kropp och hälsa",
+      "words": [
+        {
+          "pt": "joelho",
+          "sv": "knä",
+          "type": "substantiv",
+          "example_pt": "Ele magoou o joelho a jogar futebol.",
+          "example_sv": "Han skadade knäet när han spelade fotboll."
+        },
+        {
+          "pt": "cotovelo",
+          "sv": "armbåge",
+          "type": "substantiv",
+          "example_pt": "Bati com o cotovelo na mesa.",
+          "example_sv": "Jag slog armbågen i bordet."
+        },
+        {
+          "pt": "garganta",
+          "sv": "hals/strupe",
+          "type": "substantiv",
+          "example_pt": "Tenho a garganta inflamada desde ontem.",
+          "example_sv": "Jag har haft ont i halsen sedan igår."
+        },
+        {
+          "pt": "febre",
+          "sv": "feber",
+          "type": "substantiv",
+          "example_pt": "A criança tem muita febre esta noite.",
+          "example_sv": "Barnet har hög feber i kväll."
+        },
+        {
+          "pt": "respirar",
+          "sv": "andas",
+          "type": "verb",
+          "example_pt": "Respira fundo antes de responder.",
+          "example_sv": "Andas djupt innan du svarar."
+        },
+        {
+          "pt": "comprimido",
+          "sv": "tablett/piller",
+          "type": "substantiv",
+          "example_pt": "O médico receitou-me comprimidos para a dor.",
+          "example_sv": "Läkaren ordinerade mig tabletter mot smärtan."
+        },
+        {
+          "pt": "ombro",
+          "sv": "axel",
+          "type": "substantiv",
+          "example_pt": "Ela tem dores no ombro direito.",
+          "example_sv": "Hon har ont i höger axel."
+        },
+        {
+          "pt": "alergia",
+          "sv": "allergi",
+          "type": "substantiv",
+          "example_pt": "Tenho alergia ao pólen na primavera.",
+          "example_sv": "Jag är allergisk mot pollen på våren."
+        }
+      ]
+    }
+  ]
+}
