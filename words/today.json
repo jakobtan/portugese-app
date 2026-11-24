@@ -1,186 +1,186 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "sets": [
     {
-      "theme": "Kläder och mode",
+      "theme": "familj och relationer",
       "words": [
         {
-          "pt": "saia",
-          "sv": "kjol",
+          "pt": "primo",
+          "sv": "kusin",
           "type": "substantiv",
-          "example_pt": "Ela usa uma saia azul no trabalho.",
-          "example_sv": "Hon bär en blå kjol på jobbet."
+          "example_pt": "O meu primo mora em Lisboa.",
+          "example_sv": "Min kusin bor i Lissabon."
         },
         {
-          "pt": "cinto",
-          "sv": "bälte",
+          "pt": "marido",
+          "sv": "make/man",
           "type": "substantiv",
-          "example_pt": "O cinto de couro é muito elegante.",
-          "example_sv": "Läderbältet är mycket elegant."
+          "example_pt": "O marido dela é muito simpático.",
+          "example_sv": "Hennes man är mycket trevlig."
         },
         {
-          "pt": "chapéu",
-          "sv": "hatt",
+          "pt": "esposa",
+          "sv": "fru/maka",
           "type": "substantiv",
-          "example_pt": "Ele comprou um chapéu novo para o verão.",
-          "example_sv": "Han köpte en ny hatt till sommaren."
+          "example_pt": "A esposa dele trabalha num hospital.",
+          "example_sv": "Hans fru arbetar på ett sjukhus."
         },
         {
-          "pt": "meias",
-          "sv": "strumpor",
+          "pt": "enteado",
+          "sv": "styvson",
           "type": "substantiv",
-          "example_pt": "As meias estão na gaveta.",
-          "example_sv": "Strumporna ligger i lådan."
+          "example_pt": "O enteado tem dez anos.",
+          "example_sv": "Styvsoonen är tio år gammal."
         },
         {
-          "pt": "vestido",
-          "sv": "klänning",
+          "pt": "bisneto",
+          "sv": "barnbarnsbarn",
           "type": "substantiv",
-          "example_pt": "O vestido vermelho ficou muito bem nela.",
-          "example_sv": "Den röda klänningen passade henne mycket bra."
+          "example_pt": "A avó tem um bisneto adorável.",
+          "example_sv": "Farmorn har ett underbart barnbarnsbarn."
         },
         {
-          "pt": "manga comprida",
-          "sv": "lång ärm",
+          "pt": "padrinho",
+          "sv": "gudfar",
           "type": "substantiv",
-          "example_pt": "Prefiro camisolas de manga comprida no inverno.",
-          "example_sv": "Jag föredrar tröjor med lång ärm på vintern."
+          "example_pt": "O meu padrinho ofereceu-me um presente.",
+          "example_sv": "Min gudfar gav mig en present."
         },
         {
-          "pt": "às riscas",
-          "sv": "randig",
-          "type": "adjektiv",
-          "example_pt": "Ele tem uma camisa às riscas muito bonita.",
-          "example_sv": "Han har en mycket fin randig skjorta."
+          "pt": "reconciliar-se",
+          "sv": "försonas",
+          "type": "verb",
+          "example_pt": "Eles decidiram reconciliar-se depois da discussão.",
+          "example_sv": "De bestämde sig för att försonas efter grälet."
         },
         {
-          "pt": "apertado",
-          "sv": "trång/åtsittande",
-          "type": "adjektiv",
-          "example_pt": "Estas calças estão muito apertadas.",
-          "example_sv": "De här byxorna är för trånga."
+          "pt": "afeto",
+          "sv": "tillgivenhet/ömhet",
+          "type": "substantiv",
+          "example_pt": "Ela demonstra muito afeto pelos filhos.",
+          "example_sv": "Hon visar stor ömhet mot sina barn."
         }
       ]
     },
     {
-      "theme": "Teknik",
+      "theme": "tid och datum",
       "words": [
         {
-          "pt": "ecrã",
-          "sv": "skärm",
-          "type": "substantiv",
-          "example_pt": "O ecrã do meu telemóvel partiu-se.",
-          "example_sv": "Skärmen på min mobil gick sönder."
-        },
-        {
-          "pt": "bateria",
-          "sv": "batteri",
-          "type": "substantiv",
-          "example_pt": "A bateria do portátil dura oito horas.",
-          "example_sv": "Batteriet i laptopen håller i åtta timmar."
-        },
-        {
-          "pt": "impressora",
-          "sv": "skrivare",
-          "type": "substantiv",
-          "example_pt": "A impressora está sem papel.",
-          "example_sv": "Skrivaren har slut på papper."
-        },
-        {
-          "pt": "ligação",
-          "sv": "anslutning/uppkoppling",
-          "type": "substantiv",
-          "example_pt": "A ligação à internet é muito lenta hoje.",
-          "example_sv": "Internetuppkopplingen är mycket långsam idag."
-        },
-        {
-          "pt": "aplicação",
-          "sv": "app/applikation",
-          "type": "substantiv",
-          "example_pt": "Descarreguei uma nova aplicação para o telemóvel.",
-          "example_sv": "Jag laddade ner en ny app till mobilen."
-        },
-        {
-          "pt": "programar",
-          "sv": "programmera",
+          "pt": "amanheceu",
+          "sv": "det gryade/det blev dag",
           "type": "verb",
-          "example_pt": "Ela aprendeu a programar na universidade.",
-          "example_sv": "Hon lärde sig programmera på universitetet."
+          "example_pt": "Já amanheceu quando ele chegou a casa.",
+          "example_sv": "Det hade redan blivit dag när han kom hem."
         },
         {
-          "pt": "sem fios",
-          "sv": "trådlös",
-          "type": "adjektiv",
-          "example_pt": "Tenho uns auscultadores sem fios muito bons.",
-          "example_sv": "Jag har ett mycket bra par trådlösa hörlurar."
-        },
-        {
-          "pt": "acesso",
-          "sv": "åtkomst/tillgång",
+          "pt": "meia-noite",
+          "sv": "midnatt",
           "type": "substantiv",
-          "example_pt": "Precisas de acesso especial para abrir esse ficheiro.",
-          "example_sv": "Du behöver särskild åtkomst för att öppna den filen."
+          "example_pt": "Eles celebraram à meia-noite.",
+          "example_sv": "De firade vid midnatt."
+        },
+        {
+          "pt": "quinzena",
+          "sv": "fjortondagarsperiod",
+          "type": "substantiv",
+          "example_pt": "O pagamento é feito de quinzena em quinzena.",
+          "example_sv": "Betalningen sker varannan vecka."
+        },
+        {
+          "pt": "prazo",
+          "sv": "deadline/tidsgräns",
+          "type": "substantiv",
+          "example_pt": "Temos de cumprir o prazo amanhã.",
+          "example_sv": "Vi måste hålla deadlinen imorgon."
+        },
+        {
+          "pt": "diário",
+          "sv": "daglig",
+          "type": "adjektiv",
+          "example_pt": "Faço exercício diário.",
+          "example_sv": "Jag tränar dagligen."
+        },
+        {
+          "pt": "semestral",
+          "sv": "halvårlig",
+          "type": "adjektiv",
+          "example_pt": "A reunião semestral acontece em junho.",
+          "example_sv": "Det halvårliga mötet äger rum i juni."
+        },
+        {
+          "pt": "entardecer",
+          "sv": "skymning/kväll",
+          "type": "substantiv",
+          "example_pt": "Gosto de passear ao entardecer.",
+          "example_sv": "Jag tycker om att promenera i skymningen."
+        },
+        {
+          "pt": "duração",
+          "sv": "varaktighet/längd",
+          "type": "substantiv",
+          "example_pt": "Qual é a duração do filme?",
+          "example_sv": "Hur lång är filmen?"
         }
       ]
     },
     {
-      "theme": "Kropp och hälsa",
+      "theme": "natur och väder",
       "words": [
         {
-          "pt": "joelho",
-          "sv": "knä",
+          "pt": "pântano",
+          "sv": "kärr/träsk",
           "type": "substantiv",
-          "example_pt": "Ele magoou o joelho a jogar futebol.",
-          "example_sv": "Han skadade knäet när han spelade fotboll."
+          "example_pt": "O pântano é o lar de muitas aves.",
+          "example_sv": "Träsket är hem för många fåglar."
         },
         {
-          "pt": "cotovelo",
-          "sv": "armbåge",
+          "pt": "neblina",
+          "sv": "dimma/dis",
           "type": "substantiv",
-          "example_pt": "Bati com o cotovelo na mesa.",
-          "example_sv": "Jag slog armbågen i bordet."
+          "example_pt": "Havia muita neblina esta manhã.",
+          "example_sv": "Det var mycket dimma i morse."
         },
         {
-          "pt": "garganta",
-          "sv": "hals/strupe",
+          "pt": "cume",
+          "sv": "topp/bergstoppp",
           "type": "substantiv",
-          "example_pt": "Tenho a garganta inflamada desde ontem.",
-          "example_sv": "Jag har haft ont i halsen sedan igår."
+          "example_pt": "Chegámos ao cume da montanha ao meio-dia.",
+          "example_sv": "Vi nådde bergstoppeen vid middagstid."
         },
         {
-          "pt": "febre",
-          "sv": "feber",
+          "pt": "seca",
+          "sv": "torka",
           "type": "substantiv",
-          "example_pt": "A criança tem muita febre esta noite.",
-          "example_sv": "Barnet har hög feber i kväll."
+          "example_pt": "A seca afetou a colheita este ano.",
+          "example_sv": "Torkan påverkade skörden i år."
         },
         {
-          "pt": "respirar",
-          "sv": "andas",
-          "type": "verb",
-          "example_pt": "Respira fundo antes de responder.",
-          "example_sv": "Andas djupt innan du svarar."
+          "pt": "vulcão",
+          "sv": "vulkan",
+          "type": "substantiv",
+          "example_pt": "Os Açores têm vários vulcões ativos.",
+          "example_sv": "Azorerna har flera aktiva vulkaner."
         },
         {
-          "pt": "comprimido",
-          "sv": "tablett/piller",
+          "pt": "brisa",
+          "sv": "bris",
           "type": "substantiv",
-          "example_pt": "O médico receitou-me comprimidos para a dor.",
-          "example_sv": "Läkaren ordinerade mig tabletter mot smärtan."
+          "example_pt": "Sentia-se uma brisa agradável na praia.",
+          "example_sv": "Det blåste en behaglig bris på stranden."
         },
         {
-          "pt": "ombro",
-          "sv": "axel",
+          "pt": "vale",
+          "sv": "dal",
           "type": "substantiv",
-          "example_pt": "Ela tem dores no ombro direito.",
-          "example_sv": "Hon har ont i höger axel."
+          "example_pt": "O rio corre pelo vale.",
+          "example_sv": "Floden rinner genom dalen."
         },
         {
-          "pt": "alergia",
-          "sv": "allergi",
+          "pt": "relâmpago",
+          "sv": "blixt",
           "type": "substantiv",
-          "example_pt": "Tenho alergia ao pólen na primavera.",
-          "example_sv": "Jag är allergisk mot pollen på våren."
+          "example_pt": "O relâmpago iluminou o céu escuro.",
+          "example_sv": "Blixten lyste upp den mörka himlen."
         }
       ]
     }

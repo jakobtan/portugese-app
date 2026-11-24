@@ -1,0 +1,188 @@
+{
+  "date": "2026-11-24",
+  "sets": [
+    {
+      "theme": "familj och relationer",
+      "words": [
+        {
+          "pt": "primo",
+          "sv": "kusin",
+          "type": "substantiv",
+          "example_pt": "O meu primo mora em Lisboa.",
+          "example_sv": "Min kusin bor i Lissabon."
+        },
+        {
+          "pt": "marido",
+          "sv": "make/man",
+          "type": "substantiv",
+          "example_pt": "O marido dela é muito simpático.",
+          "example_sv": "Hennes man är mycket trevlig."
+        },
+        {
+          "pt": "esposa",
+          "sv": "fru/maka",
+          "type": "substantiv",
+          "example_pt": "A esposa dele trabalha num hospital.",
+          "example_sv": "Hans fru arbetar på ett sjukhus."
+        },
+        {
+          "pt": "enteado",
+          "sv": "styvson",
+          "type": "substantiv",
+          "example_pt": "O enteado tem dez anos.",
+          "example_sv": "Styvsoonen är tio år gammal."
+        },
+        {
+          "pt": "bisneto",
+          "sv": "barnbarnsbarn",
+          "type": "substantiv",
+          "example_pt": "A avó tem um bisneto adorável.",
+          "example_sv": "Farmorn har ett underbart barnbarnsbarn."
+        },
+        {
+          "pt": "padrinho",
+          "sv": "gudfar",
+          "type": "substantiv",
+          "example_pt": "O meu padrinho ofereceu-me um presente.",
+          "example_sv": "Min gudfar gav mig en present."
+        },
+        {
+          "pt": "reconciliar-se",
+          "sv": "försonas",
+          "type": "verb",
+          "example_pt": "Eles decidiram reconciliar-se depois da discussão.",
+          "example_sv": "De bestämde sig för att försonas efter grälet."
+        },
+        {
+          "pt": "afeto",
+          "sv": "tillgivenhet/ömhet",
+          "type": "substantiv",
+          "example_pt": "Ela demonstra muito afeto pelos filhos.",
+          "example_sv": "Hon visar stor ömhet mot sina barn."
+        }
+      ]
+    },
+    {
+      "theme": "tid och datum",
+      "words": [
+        {
+          "pt": "amanheceu",
+          "sv": "det gryade/det blev dag",
+          "type": "verb",
+          "example_pt": "Já amanheceu quando ele chegou a casa.",
+          "example_sv": "Det hade redan blivit dag när han kom hem."
+        },
+        {
+          "pt": "meia-noite",
+          "sv": "midnatt",
+          "type": "substantiv",
+          "example_pt": "Eles celebraram à meia-noite.",
+          "example_sv": "De firade vid midnatt."
+        },
+        {
+          "pt": "quinzena",
+          "sv": "fjortondagarsperiod",
+          "type": "substantiv",
+          "example_pt": "O pagamento é feito de quinzena em quinzena.",
+          "example_sv": "Betalningen sker varannan vecka."
+        },
+        {
+          "pt": "prazo",
+          "sv": "deadline/tidsgräns",
+          "type": "substantiv",
+          "example_pt": "Temos de cumprir o prazo amanhã.",
+          "example_sv": "Vi måste hålla deadlinen imorgon."
+        },
+        {
+          "pt": "diário",
+          "sv": "daglig",
+          "type": "adjektiv",
+          "example_pt": "Faço exercício diário.",
+          "example_sv": "Jag tränar dagligen."
+        },
+        {
+          "pt": "semestral",
+          "sv": "halvårlig",
+          "type": "adjektiv",
+          "example_pt": "A reunião semestral acontece em junho.",
+          "example_sv": "Det halvårliga mötet äger rum i juni."
+        },
+        {
+          "pt": "entardecer",
+          "sv": "skymning/kväll",
+          "type": "substantiv",
+          "example_pt": "Gosto de passear ao entardecer.",
+          "example_sv": "Jag tycker om att promenera i skymningen."
+        },
+        {
+          "pt": "duração",
+          "sv": "varaktighet/längd",
+          "type": "substantiv",
+          "example_pt": "Qual é a duração do filme?",
+          "example_sv": "Hur lång är filmen?"
+        }
+      ]
+    },
+    {
+      "theme": "natur och väder",
+      "words": [
+        {
+          "pt": "pântano",
+          "sv": "kärr/träsk",
+          "type": "substantiv",
+          "example_pt": "O pântano é o lar de muitas aves.",
+          "example_sv": "Träsket är hem för många fåglar."
+        },
+        {
+          "pt": "neblina",
+          "sv": "dimma/dis",
+          "type": "substantiv",
+          "example_pt": "Havia muita neblina esta manhã.",
+          "example_sv": "Det var mycket dimma i morse."
+        },
+        {
+          "pt": "cume",
+          "sv": "topp/bergstoppp",
+          "type": "substantiv",
+          "example_pt": "Chegámos ao cume da montanha ao meio-dia.",
+          "example_sv": "Vi nådde bergstoppeen vid middagstid."
+        },
+        {
+          "pt": "seca",
+          "sv": "torka",
+          "type": "substantiv",
+          "example_pt": "A seca afetou a colheita este ano.",
+          "example_sv": "Torkan påverkade skörden i år."
+        },
+        {
+          "pt": "vulcão",
+          "sv": "vulkan",
+          "type": "substantiv",
+          "example_pt": "Os Açores têm vários vulcões ativos.",
+          "example_sv": "Azorerna har flera aktiva vulkaner."
+        },
+        {
+          "pt": "brisa",
+          "sv": "bris",
+          "type": "substantiv",
+          "example_pt": "Sentia-se uma brisa agradável na praia.",
+          "example_sv": "Det blåste en behaglig bris på stranden."
+        },
+        {
+          "pt": "vale",
+          "sv": "dal",
+          "type": "substantiv",
+          "example_pt": "O rio corre pelo vale.",
+          "example_sv": "Floden rinner genom dalen."
+        },
+        {
+          "pt": "relâmpago",
+          "sv": "blixt",
+          "type": "substantiv",
+          "example_pt": "O relâmpago iluminou o céu escuro.",
+          "example_sv": "Blixten lyste upp den mörka himlen."
+        }
+      ]
+    }
+  ]
+}
