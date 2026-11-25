@@ -1,186 +1,186 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "sets": [
     {
       "theme": "familj och relationer",
       "words": [
         {
-          "pt": "primo",
-          "sv": "kusin",
+          "pt": "irmão",
+          "sv": "bror",
           "type": "substantiv",
-          "example_pt": "O meu primo mora em Lisboa.",
-          "example_sv": "Min kusin bor i Lissabon."
+          "example_pt": "O meu irmão mora em Lisboa.",
+          "example_sv": "Min bror bor i Lissabon."
         },
         {
-          "pt": "marido",
-          "sv": "make/man",
+          "pt": "prima",
+          "sv": "kusin (kvinna)",
           "type": "substantiv",
-          "example_pt": "O marido dela é muito simpático.",
-          "example_sv": "Hennes man är mycket trevlig."
+          "example_pt": "A minha prima chegou ontem.",
+          "example_sv": "Min kusin kom igår."
         },
         {
-          "pt": "esposa",
-          "sv": "fru/maka",
+          "pt": "neto",
+          "sv": "barnbarn (pojke)",
           "type": "substantiv",
-          "example_pt": "A esposa dele trabalha num hospital.",
-          "example_sv": "Hans fru arbetar på ett sjukhus."
+          "example_pt": "O neto brinca no jardim.",
+          "example_sv": "Barnbarnet leker i trädgården."
         },
         {
-          "pt": "enteado",
-          "sv": "styvson",
+          "pt": "madrastra",
+          "sv": "styvmor",
           "type": "substantiv",
-          "example_pt": "O enteado tem dez anos.",
-          "example_sv": "Styvsoonen är tio år gammal."
+          "example_pt": "A minha madrasta é muito simpática.",
+          "example_sv": "Min styvmor är mycket trevlig."
         },
         {
-          "pt": "bisneto",
-          "sv": "barnbarnsbarn",
+          "pt": "genro",
+          "sv": "svärson",
           "type": "substantiv",
-          "example_pt": "A avó tem um bisneto adorável.",
-          "example_sv": "Farmorn har ett underbart barnbarnsbarn."
+          "example_pt": "O genro ajuda sempre a família.",
+          "example_sv": "Svärsonen hjälper alltid familjen."
         },
         {
-          "pt": "padrinho",
-          "sv": "gudfar",
+          "pt": "afilhado",
+          "sv": "gudbarn (pojke)",
           "type": "substantiv",
-          "example_pt": "O meu padrinho ofereceu-me um presente.",
-          "example_sv": "Min gudfar gav mig en present."
+          "example_pt": "O meu afilhado faz anos amanhã.",
+          "example_sv": "Mitt gudbarn har födelsedag imorgon."
         },
         {
-          "pt": "reconciliar-se",
-          "sv": "försonas",
+          "pt": "comprometer-se",
+          "sv": "förlova sig",
           "type": "verb",
-          "example_pt": "Eles decidiram reconciliar-se depois da discussão.",
-          "example_sv": "De bestämde sig för att försonas efter grälet."
+          "example_pt": "Eles decidiram comprometer-se este ano.",
+          "example_sv": "De bestämde sig för att förlova sig i år."
         },
         {
-          "pt": "afeto",
-          "sv": "tillgivenhet/ömhet",
+          "pt": "saudade",
+          "sv": "saknad/längtan",
           "type": "substantiv",
-          "example_pt": "Ela demonstra muito afeto pelos filhos.",
-          "example_sv": "Hon visar stor ömhet mot sina barn."
+          "example_pt": "Tenho muita saudade da minha família.",
+          "example_sv": "Jag saknar min familj mycket."
         }
       ]
     },
     {
-      "theme": "tid och datum",
+      "theme": "stad och platser",
       "words": [
         {
-          "pt": "amanheceu",
-          "sv": "det gryade/det blev dag",
-          "type": "verb",
-          "example_pt": "Já amanheceu quando ele chegou a casa.",
-          "example_sv": "Det hade redan blivit dag när han kom hem."
-        },
-        {
-          "pt": "meia-noite",
-          "sv": "midnatt",
+          "pt": "biblioteca",
+          "sv": "bibliotek",
           "type": "substantiv",
-          "example_pt": "Eles celebraram à meia-noite.",
-          "example_sv": "De firade vid midnatt."
+          "example_pt": "Vou à biblioteca estudar hoje.",
+          "example_sv": "Jag ska till biblioteket och studera idag."
         },
         {
-          "pt": "quinzena",
-          "sv": "fjortondagarsperiod",
+          "pt": "hospital",
+          "sv": "sjukhus",
           "type": "substantiv",
-          "example_pt": "O pagamento é feito de quinzena em quinzena.",
-          "example_sv": "Betalningen sker varannan vecka."
+          "example_pt": "O hospital fica perto do centro.",
+          "example_sv": "Sjukhuset ligger nära centrum."
         },
         {
-          "pt": "prazo",
-          "sv": "deadline/tidsgräns",
+          "pt": "câmara municipal",
+          "sv": "stadshus/kommunhus",
           "type": "substantiv",
-          "example_pt": "Temos de cumprir o prazo amanhã.",
-          "example_sv": "Vi måste hålla deadlinen imorgon."
+          "example_pt": "A câmara municipal organiza eventos culturais.",
+          "example_sv": "Kommunhuset organiserar kulturevenemang."
         },
         {
-          "pt": "diário",
-          "sv": "daglig",
-          "type": "adjektiv",
-          "example_pt": "Faço exercício diário.",
-          "example_sv": "Jag tränar dagligen."
-        },
-        {
-          "pt": "semestral",
-          "sv": "halvårlig",
-          "type": "adjektiv",
-          "example_pt": "A reunião semestral acontece em junho.",
-          "example_sv": "Det halvårliga mötet äger rum i juni."
-        },
-        {
-          "pt": "entardecer",
-          "sv": "skymning/kväll",
+          "pt": "farmácia",
+          "sv": "apotek",
           "type": "substantiv",
-          "example_pt": "Gosto de passear ao entardecer.",
-          "example_sv": "Jag tycker om att promenera i skymningen."
+          "example_pt": "A farmácia está aberta até às vinte horas.",
+          "example_sv": "Apoteket är öppet till klockan tjugo."
         },
         {
-          "pt": "duração",
-          "sv": "varaktighet/längd",
+          "pt": "jardim público",
+          "sv": "stadspark",
           "type": "substantiv",
-          "example_pt": "Qual é a duração do filme?",
-          "example_sv": "Hur lång är filmen?"
+          "example_pt": "As crianças brincam no jardim público.",
+          "example_sv": "Barnen leker i stadsparken."
+        },
+        {
+          "pt": "esquadra",
+          "sv": "polisstation",
+          "type": "substantiv",
+          "example_pt": "A esquadra fica na rua principal.",
+          "example_sv": "Polisstationen ligger på huvudgatan."
+        },
+        {
+          "pt": "aeroporto",
+          "sv": "flygplats",
+          "type": "substantiv",
+          "example_pt": "O aeroporto está a trinta minutos da cidade.",
+          "example_sv": "Flygplatsen ligger trettio minuter från staden."
+        },
+        {
+          "pt": "sapataria",
+          "sv": "skoaffär",
+          "type": "substantiv",
+          "example_pt": "Comprei sapatos novos na sapataria.",
+          "example_sv": "Jag köpte nya skor i skoaffären."
         }
       ]
     },
     {
-      "theme": "natur och väder",
+      "theme": "mat och dryck",
       "words": [
         {
-          "pt": "pântano",
-          "sv": "kärr/träsk",
+          "pt": "salsicha",
+          "sv": "korv",
           "type": "substantiv",
-          "example_pt": "O pântano é o lar de muitas aves.",
-          "example_sv": "Träsket är hem för många fåglar."
+          "example_pt": "Grelhei salsichas para o jantar.",
+          "example_sv": "Jag grillade korv till middag."
         },
         {
-          "pt": "neblina",
-          "sv": "dimma/dis",
+          "pt": "queijo",
+          "sv": "ost",
           "type": "substantiv",
-          "example_pt": "Havia muita neblina esta manhã.",
-          "example_sv": "Det var mycket dimma i morse."
+          "example_pt": "O queijo português é muito saboroso.",
+          "example_sv": "Den portugisiska osten är mycket smakrik."
         },
         {
-          "pt": "cume",
-          "sv": "topp/bergstoppp",
+          "pt": "camarola",
+          "sv": "pumpa",
           "type": "substantiv",
-          "example_pt": "Chegámos ao cume da montanha ao meio-dia.",
-          "example_sv": "Vi nådde bergstoppeen vid middagstid."
+          "example_pt": "Fiz uma sopa de camarola no outono.",
+          "example_sv": "Jag lagade en pumpassoppa på hösten."
         },
         {
-          "pt": "seca",
-          "sv": "torka",
+          "pt": "sumo de laranja",
+          "sv": "apelsinjuice",
           "type": "substantiv",
-          "example_pt": "A seca afetou a colheita este ano.",
-          "example_sv": "Torkan påverkade skörden i år."
+          "example_pt": "Bebo sumo de laranja ao pequeno-almoço.",
+          "example_sv": "Jag dricker apelsinjuice till frukost."
         },
         {
-          "pt": "vulcão",
-          "sv": "vulkan",
+          "pt": "arroz",
+          "sv": "ris",
           "type": "substantiv",
-          "example_pt": "Os Açores têm vários vulcões ativos.",
-          "example_sv": "Azorerna har flera aktiva vulkaner."
+          "example_pt": "O arroz de pato é um prato típico.",
+          "example_sv": "Andris är en typisk rätt."
         },
         {
-          "pt": "brisa",
-          "sv": "bris",
+          "pt": "lima",
+          "sv": "lime",
           "type": "substantiv",
-          "example_pt": "Sentia-se uma brisa agradável na praia.",
-          "example_sv": "Det blåste en behaglig bris på stranden."
+          "example_pt": "Usei lima para temperar o peixe.",
+          "example_sv": "Jag använde lime för att krydda fisken."
         },
         {
-          "pt": "vale",
-          "sv": "dal",
+          "pt": "gelado",
+          "sv": "glass",
           "type": "substantiv",
-          "example_pt": "O rio corre pelo vale.",
-          "example_sv": "Floden rinner genom dalen."
+          "example_pt": "O gelado de baunilha é o meu favorito.",
+          "example_sv": "Vaniljglass är min favorit."
         },
         {
-          "pt": "relâmpago",
-          "sv": "blixt",
+          "pt": "pão de centeio",
+          "sv": "rågbröd",
           "type": "substantiv",
-          "example_pt": "O relâmpago iluminou o céu escuro.",
-          "example_sv": "Blixten lyste upp den mörka himlen."
+          "example_pt": "Prefiro pão de centeio ao pão branco.",
+          "example_sv": "Jag föredrar rågbröd framför vitt bröd."
         }
       ]
     }
