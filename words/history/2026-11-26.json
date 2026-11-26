@@ -1,0 +1,188 @@
+{
+  "date": "2026-11-26",
+  "sets": [
+    {
+      "theme": "Kläder och mode",
+      "words": [
+        {
+          "pt": "lenço",
+          "sv": "halsduk / näsduk",
+          "type": "substantiv",
+          "example_pt": "Ela usa um lenço colorido no pescoço.",
+          "example_sv": "Hon bär en färgglad halsduk runt halsen."
+        },
+        {
+          "pt": "sola",
+          "sv": "sula",
+          "type": "substantiv",
+          "example_pt": "A sola do sapato está gasta.",
+          "example_sv": "Skonssula är sliten."
+        },
+        {
+          "pt": "bolso",
+          "sv": "ficka",
+          "type": "substantiv",
+          "example_pt": "Ele guardou as chaves no bolso da calça.",
+          "example_sv": "Han lade nycklarna i byxfickan."
+        },
+        {
+          "pt": "malha",
+          "sv": "stickad tröja",
+          "type": "substantiv",
+          "example_pt": "Esta malha é muito quente no inverno.",
+          "example_sv": "Den här stickade tröjan är väldigt varm på vintern."
+        },
+        {
+          "pt": "impermeável",
+          "sv": "regnrock",
+          "type": "substantiv",
+          "example_pt": "Não te esqueças do impermeável, vai chover.",
+          "example_sv": "Glöm inte regnrocken, det kommer att regna."
+        },
+        {
+          "pt": "tecido",
+          "sv": "tyg",
+          "type": "substantiv",
+          "example_pt": "Este vestido é feito de um tecido muito macio.",
+          "example_sv": "Den här klänningen är gjord av ett väldigt mjukt tyg."
+        },
+        {
+          "pt": "bordado",
+          "sv": "broderi",
+          "type": "substantiv",
+          "example_pt": "A blusa tem um bordado bonito na manga.",
+          "example_sv": "Blusen har ett vackert broderi på ärmen."
+        },
+        {
+          "pt": "desbotado",
+          "sv": "urtvättad / blekt",
+          "type": "adjektiv",
+          "example_pt": "As calças azuis estão desbotadas depois de tantas lavagens.",
+          "example_sv": "De blå byxorna är urtvättade efter så många tvättar."
+        }
+      ]
+    },
+    {
+      "theme": "Arbete och karriär",
+      "words": [
+        {
+          "pt": "prazo de entrega",
+          "sv": "leveransfrist",
+          "type": "substantiv",
+          "example_pt": "O prazo de entrega do relatório é amanhã.",
+          "example_sv": "Leveransfristen för rapporten är imorgon."
+        },
+        {
+          "pt": "reunião",
+          "sv": "möte",
+          "type": "substantiv",
+          "example_pt": "Temos uma reunião importante às dez horas.",
+          "example_sv": "Vi har ett viktigt möte klockan tio."
+        },
+        {
+          "pt": "contrato",
+          "sv": "kontrakt / avtal",
+          "type": "substantiv",
+          "example_pt": "Ele assinou o contrato de trabalho hoje.",
+          "example_sv": "Han skrev på arbetsavtalet idag."
+        },
+        {
+          "pt": "promover",
+          "sv": "befordra",
+          "type": "verb",
+          "example_pt": "A empresa decidiu promover a Ana ao cargo de diretora.",
+          "example_sv": "Företaget beslutade att befordra Ana till direktörsposition."
+        },
+        {
+          "pt": "despedir",
+          "sv": "avskeda",
+          "type": "verb",
+          "example_pt": "O chefe teve de despedir dois funcionários.",
+          "example_sv": "Chefen var tvungen att avskeda två anställda."
+        },
+        {
+          "pt": "colega de trabalho",
+          "sv": "arbetskollega",
+          "type": "substantiv",
+          "example_pt": "Os meus colegas de trabalho são muito simpáticos.",
+          "example_sv": "Mina arbetskollegor är väldigt trevliga."
+        },
+        {
+          "pt": "remuneração",
+          "sv": "ersättning / lön",
+          "type": "substantiv",
+          "example_pt": "A remuneração inclui bónus anuais.",
+          "example_sv": "Ersättningen inkluderar årliga bonusar."
+        },
+        {
+          "pt": "estágio",
+          "sv": "praktik",
+          "type": "substantiv",
+          "example_pt": "Ela fez um estágio numa empresa de tecnologia.",
+          "example_sv": "Hon gjorde praktik på ett teknikföretag."
+        }
+      ]
+    },
+    {
+      "theme": "Djur",
+      "words": [
+        {
+          "pt": "javali",
+          "sv": "vildsvin",
+          "type": "substantiv",
+          "example_pt": "O javali atravessou a estrada à noite.",
+          "example_sv": "Vildsvinet korsade vägen på natten."
+        },
+        {
+          "pt": "borboleta",
+          "sv": "fjäril",
+          "type": "substantiv",
+          "example_pt": "Uma borboleta pousou na flor amarela.",
+          "example_sv": "En fjäril landade på den gula blomman."
+        },
+        {
+          "pt": "tartaruga",
+          "sv": "sköldpadda",
+          "type": "substantiv",
+          "example_pt": "A tartaruga vive muitos anos.",
+          "example_sv": "Sköldpaddan lever många år."
+        },
+        {
+          "pt": "golfinho",
+          "sv": "delfin",
+          "type": "substantiv",
+          "example_pt": "Vimos golfinhos a saltar perto do barco.",
+          "example_sv": "Vi såg delfiner hoppa nära båten."
+        },
+        {
+          "pt": "vespa",
+          "sv": "geting",
+          "type": "substantiv",
+          "example_pt": "Cuidado com a vespa perto da mesa.",
+          "example_sv": "Akta dig för getingen nära bordet."
+        },
+        {
+          "pt": "camelo",
+          "sv": "kamel",
+          "type": "substantiv",
+          "example_pt": "O camelo consegue andar longos dias sem água.",
+          "example_sv": "Kamelen kan gå långa dagar utan vatten."
+        },
+        {
+          "pt": "lontra",
+          "sv": "utter",
+          "type": "substantiv",
+          "example_pt": "A lontra nada muito bem nos rios.",
+          "example_sv": "Uttern simmar väldigt bra i floderna."
+        },
+        {
+          "pt": "esquilo",
+          "sv": "ekorre",
+          "type": "substantiv",
+          "example_pt": "O esquilo escondeu as nozes na árvore.",
+          "example_sv": "Ekorren gömde nötterna i trädet."
+        }
+      ]
+    }
+  ]
+}

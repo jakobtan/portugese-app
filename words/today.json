@@ -1,186 +1,186 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "sets": [
     {
-      "theme": "familj och relationer",
+      "theme": "Kläder och mode",
       "words": [
         {
-          "pt": "irmão",
-          "sv": "bror",
+          "pt": "lenço",
+          "sv": "halsduk / näsduk",
           "type": "substantiv",
-          "example_pt": "O meu irmão mora em Lisboa.",
-          "example_sv": "Min bror bor i Lissabon."
+          "example_pt": "Ela usa um lenço colorido no pescoço.",
+          "example_sv": "Hon bär en färgglad halsduk runt halsen."
         },
         {
-          "pt": "prima",
-          "sv": "kusin (kvinna)",
+          "pt": "sola",
+          "sv": "sula",
           "type": "substantiv",
-          "example_pt": "A minha prima chegou ontem.",
-          "example_sv": "Min kusin kom igår."
+          "example_pt": "A sola do sapato está gasta.",
+          "example_sv": "Skonssula är sliten."
         },
         {
-          "pt": "neto",
-          "sv": "barnbarn (pojke)",
+          "pt": "bolso",
+          "sv": "ficka",
           "type": "substantiv",
-          "example_pt": "O neto brinca no jardim.",
-          "example_sv": "Barnbarnet leker i trädgården."
+          "example_pt": "Ele guardou as chaves no bolso da calça.",
+          "example_sv": "Han lade nycklarna i byxfickan."
         },
         {
-          "pt": "madrastra",
-          "sv": "styvmor",
+          "pt": "malha",
+          "sv": "stickad tröja",
           "type": "substantiv",
-          "example_pt": "A minha madrasta é muito simpática.",
-          "example_sv": "Min styvmor är mycket trevlig."
+          "example_pt": "Esta malha é muito quente no inverno.",
+          "example_sv": "Den här stickade tröjan är väldigt varm på vintern."
         },
         {
-          "pt": "genro",
-          "sv": "svärson",
+          "pt": "impermeável",
+          "sv": "regnrock",
           "type": "substantiv",
-          "example_pt": "O genro ajuda sempre a família.",
-          "example_sv": "Svärsonen hjälper alltid familjen."
+          "example_pt": "Não te esqueças do impermeável, vai chover.",
+          "example_sv": "Glöm inte regnrocken, det kommer att regna."
         },
         {
-          "pt": "afilhado",
-          "sv": "gudbarn (pojke)",
+          "pt": "tecido",
+          "sv": "tyg",
           "type": "substantiv",
-          "example_pt": "O meu afilhado faz anos amanhã.",
-          "example_sv": "Mitt gudbarn har födelsedag imorgon."
+          "example_pt": "Este vestido é feito de um tecido muito macio.",
+          "example_sv": "Den här klänningen är gjord av ett väldigt mjukt tyg."
         },
         {
-          "pt": "comprometer-se",
-          "sv": "förlova sig",
+          "pt": "bordado",
+          "sv": "broderi",
+          "type": "substantiv",
+          "example_pt": "A blusa tem um bordado bonito na manga.",
+          "example_sv": "Blusen har ett vackert broderi på ärmen."
+        },
+        {
+          "pt": "desbotado",
+          "sv": "urtvättad / blekt",
+          "type": "adjektiv",
+          "example_pt": "As calças azuis estão desbotadas depois de tantas lavagens.",
+          "example_sv": "De blå byxorna är urtvättade efter så många tvättar."
+        }
+      ]
+    },
+    {
+      "theme": "Arbete och karriär",
+      "words": [
+        {
+          "pt": "prazo de entrega",
+          "sv": "leveransfrist",
+          "type": "substantiv",
+          "example_pt": "O prazo de entrega do relatório é amanhã.",
+          "example_sv": "Leveransfristen för rapporten är imorgon."
+        },
+        {
+          "pt": "reunião",
+          "sv": "möte",
+          "type": "substantiv",
+          "example_pt": "Temos uma reunião importante às dez horas.",
+          "example_sv": "Vi har ett viktigt möte klockan tio."
+        },
+        {
+          "pt": "contrato",
+          "sv": "kontrakt / avtal",
+          "type": "substantiv",
+          "example_pt": "Ele assinou o contrato de trabalho hoje.",
+          "example_sv": "Han skrev på arbetsavtalet idag."
+        },
+        {
+          "pt": "promover",
+          "sv": "befordra",
           "type": "verb",
-          "example_pt": "Eles decidiram comprometer-se este ano.",
-          "example_sv": "De bestämde sig för att förlova sig i år."
+          "example_pt": "A empresa decidiu promover a Ana ao cargo de diretora.",
+          "example_sv": "Företaget beslutade att befordra Ana till direktörsposition."
         },
         {
-          "pt": "saudade",
-          "sv": "saknad/längtan",
+          "pt": "despedir",
+          "sv": "avskeda",
+          "type": "verb",
+          "example_pt": "O chefe teve de despedir dois funcionários.",
+          "example_sv": "Chefen var tvungen att avskeda två anställda."
+        },
+        {
+          "pt": "colega de trabalho",
+          "sv": "arbetskollega",
           "type": "substantiv",
-          "example_pt": "Tenho muita saudade da minha família.",
-          "example_sv": "Jag saknar min familj mycket."
+          "example_pt": "Os meus colegas de trabalho são muito simpáticos.",
+          "example_sv": "Mina arbetskollegor är väldigt trevliga."
+        },
+        {
+          "pt": "remuneração",
+          "sv": "ersättning / lön",
+          "type": "substantiv",
+          "example_pt": "A remuneração inclui bónus anuais.",
+          "example_sv": "Ersättningen inkluderar årliga bonusar."
+        },
+        {
+          "pt": "estágio",
+          "sv": "praktik",
+          "type": "substantiv",
+          "example_pt": "Ela fez um estágio numa empresa de tecnologia.",
+          "example_sv": "Hon gjorde praktik på ett teknikföretag."
         }
       ]
     },
     {
-      "theme": "stad och platser",
+      "theme": "Djur",
       "words": [
         {
-          "pt": "biblioteca",
-          "sv": "bibliotek",
+          "pt": "javali",
+          "sv": "vildsvin",
           "type": "substantiv",
-          "example_pt": "Vou à biblioteca estudar hoje.",
-          "example_sv": "Jag ska till biblioteket och studera idag."
+          "example_pt": "O javali atravessou a estrada à noite.",
+          "example_sv": "Vildsvinet korsade vägen på natten."
         },
         {
-          "pt": "hospital",
-          "sv": "sjukhus",
+          "pt": "borboleta",
+          "sv": "fjäril",
           "type": "substantiv",
-          "example_pt": "O hospital fica perto do centro.",
-          "example_sv": "Sjukhuset ligger nära centrum."
+          "example_pt": "Uma borboleta pousou na flor amarela.",
+          "example_sv": "En fjäril landade på den gula blomman."
         },
         {
-          "pt": "câmara municipal",
-          "sv": "stadshus/kommunhus",
+          "pt": "tartaruga",
+          "sv": "sköldpadda",
           "type": "substantiv",
-          "example_pt": "A câmara municipal organiza eventos culturais.",
-          "example_sv": "Kommunhuset organiserar kulturevenemang."
+          "example_pt": "A tartaruga vive muitos anos.",
+          "example_sv": "Sköldpaddan lever många år."
         },
         {
-          "pt": "farmácia",
-          "sv": "apotek",
+          "pt": "golfinho",
+          "sv": "delfin",
           "type": "substantiv",
-          "example_pt": "A farmácia está aberta até às vinte horas.",
-          "example_sv": "Apoteket är öppet till klockan tjugo."
+          "example_pt": "Vimos golfinhos a saltar perto do barco.",
+          "example_sv": "Vi såg delfiner hoppa nära båten."
         },
         {
-          "pt": "jardim público",
-          "sv": "stadspark",
+          "pt": "vespa",
+          "sv": "geting",
           "type": "substantiv",
-          "example_pt": "As crianças brincam no jardim público.",
-          "example_sv": "Barnen leker i stadsparken."
+          "example_pt": "Cuidado com a vespa perto da mesa.",
+          "example_sv": "Akta dig för getingen nära bordet."
         },
         {
-          "pt": "esquadra",
-          "sv": "polisstation",
+          "pt": "camelo",
+          "sv": "kamel",
           "type": "substantiv",
-          "example_pt": "A esquadra fica na rua principal.",
-          "example_sv": "Polisstationen ligger på huvudgatan."
+          "example_pt": "O camelo consegue andar longos dias sem água.",
+          "example_sv": "Kamelen kan gå långa dagar utan vatten."
         },
         {
-          "pt": "aeroporto",
-          "sv": "flygplats",
+          "pt": "lontra",
+          "sv": "utter",
           "type": "substantiv",
-          "example_pt": "O aeroporto está a trinta minutos da cidade.",
-          "example_sv": "Flygplatsen ligger trettio minuter från staden."
+          "example_pt": "A lontra nada muito bem nos rios.",
+          "example_sv": "Uttern simmar väldigt bra i floderna."
         },
         {
-          "pt": "sapataria",
-          "sv": "skoaffär",
+          "pt": "esquilo",
+          "sv": "ekorre",
           "type": "substantiv",
-          "example_pt": "Comprei sapatos novos na sapataria.",
-          "example_sv": "Jag köpte nya skor i skoaffären."
-        }
-      ]
-    },
-    {
-      "theme": "mat och dryck",
-      "words": [
-        {
-          "pt": "salsicha",
-          "sv": "korv",
-          "type": "substantiv",
-          "example_pt": "Grelhei salsichas para o jantar.",
-          "example_sv": "Jag grillade korv till middag."
-        },
-        {
-          "pt": "queijo",
-          "sv": "ost",
-          "type": "substantiv",
-          "example_pt": "O queijo português é muito saboroso.",
-          "example_sv": "Den portugisiska osten är mycket smakrik."
-        },
-        {
-          "pt": "camarola",
-          "sv": "pumpa",
-          "type": "substantiv",
-          "example_pt": "Fiz uma sopa de camarola no outono.",
-          "example_sv": "Jag lagade en pumpassoppa på hösten."
-        },
-        {
-          "pt": "sumo de laranja",
-          "sv": "apelsinjuice",
-          "type": "substantiv",
-          "example_pt": "Bebo sumo de laranja ao pequeno-almoço.",
-          "example_sv": "Jag dricker apelsinjuice till frukost."
-        },
-        {
-          "pt": "arroz",
-          "sv": "ris",
-          "type": "substantiv",
-          "example_pt": "O arroz de pato é um prato típico.",
-          "example_sv": "Andris är en typisk rätt."
-        },
-        {
-          "pt": "lima",
-          "sv": "lime",
-          "type": "substantiv",
-          "example_pt": "Usei lima para temperar o peixe.",
-          "example_sv": "Jag använde lime för att krydda fisken."
-        },
-        {
-          "pt": "gelado",
-          "sv": "glass",
-          "type": "substantiv",
-          "example_pt": "O gelado de baunilha é o meu favorito.",
-          "example_sv": "Vaniljglass är min favorit."
-        },
-        {
-          "pt": "pão de centeio",
-          "sv": "rågbröd",
-          "type": "substantiv",
-          "example_pt": "Prefiro pão de centeio ao pão branco.",
-          "example_sv": "Jag föredrar rågbröd framför vitt bröd."
+          "example_pt": "O esquilo escondeu as nozes na árvore.",
+          "example_sv": "Ekorren gömde nötterna i trädet."
         }
       ]
     }
