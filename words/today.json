@@ -1,186 +1,186 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "sets": [
     {
-      "theme": "Kläder och mode",
+      "theme": "tid och datum",
       "words": [
         {
-          "pt": "lenço",
-          "sv": "halsduk / näsduk",
+          "pt": "trimestre",
+          "sv": "kvartal / termin",
           "type": "substantiv",
-          "example_pt": "Ela usa um lenço colorido no pescoço.",
-          "example_sv": "Hon bär en färgglad halsduk runt halsen."
+          "example_pt": "O trimestre começa em janeiro.",
+          "example_sv": "Terminen börjar i januari."
         },
         {
-          "pt": "sola",
-          "sv": "sula",
-          "type": "substantiv",
-          "example_pt": "A sola do sapato está gasta.",
-          "example_sv": "Skonssula är sliten."
-        },
-        {
-          "pt": "bolso",
-          "sv": "ficka",
-          "type": "substantiv",
-          "example_pt": "Ele guardou as chaves no bolso da calça.",
-          "example_sv": "Han lade nycklarna i byxfickan."
-        },
-        {
-          "pt": "malha",
-          "sv": "stickad tröja",
-          "type": "substantiv",
-          "example_pt": "Esta malha é muito quente no inverno.",
-          "example_sv": "Den här stickade tröjan är väldigt varm på vintern."
-        },
-        {
-          "pt": "impermeável",
-          "sv": "regnrock",
-          "type": "substantiv",
-          "example_pt": "Não te esqueças do impermeável, vai chover.",
-          "example_sv": "Glöm inte regnrocken, det kommer att regna."
-        },
-        {
-          "pt": "tecido",
-          "sv": "tyg",
-          "type": "substantiv",
-          "example_pt": "Este vestido é feito de um tecido muito macio.",
-          "example_sv": "Den här klänningen är gjord av ett väldigt mjukt tyg."
-        },
-        {
-          "pt": "bordado",
-          "sv": "broderi",
-          "type": "substantiv",
-          "example_pt": "A blusa tem um bordado bonito na manga.",
-          "example_sv": "Blusen har ett vackert broderi på ärmen."
-        },
-        {
-          "pt": "desbotado",
-          "sv": "urtvättad / blekt",
+          "pt": "quinzenal",
+          "sv": "varannan vecka",
           "type": "adjektiv",
-          "example_pt": "As calças azuis estão desbotadas depois de tantas lavagens.",
-          "example_sv": "De blå byxorna är urtvättade efter så många tvättar."
+          "example_pt": "Temos reuniões quinzenais na escola.",
+          "example_sv": "Vi har möten varannan vecka i skolan."
+        },
+        {
+          "pt": "amanhecer",
+          "sv": "gryning / att gry",
+          "type": "substantiv/verb",
+          "example_pt": "Ele acorda ao amanhecer todos os dias.",
+          "example_sv": "Han vaknar vid gryningen varje dag."
+        },
+        {
+          "pt": "bimestral",
+          "sv": "varannan månad",
+          "type": "adjektiv",
+          "example_pt": "O relatório bimestral está pronto.",
+          "example_sv": "Den tvåmånadsrapporten är klar."
+        },
+        {
+          "pt": "instantâneo",
+          "sv": "omedelbar",
+          "type": "adjektiv",
+          "example_pt": "A resposta foi instantânea.",
+          "example_sv": "Svaret var omedelbart."
+        },
+        {
+          "pt": "décadas",
+          "sv": "decennier",
+          "type": "substantiv",
+          "example_pt": "Isso aconteceu há décadas.",
+          "example_sv": "Det hände för decennier sedan."
+        },
+        {
+          "pt": "entardecer",
+          "sv": "skymning / kväll",
+          "type": "substantiv",
+          "example_pt": "O céu fica laranja ao entardecer.",
+          "example_sv": "Himlen blir orange i skymningen."
+        },
+        {
+          "pt": "prazo",
+          "sv": "tidsfrist / deadline",
+          "type": "substantiv",
+          "example_pt": "O prazo para entregar o trabalho é amanhã.",
+          "example_sv": "Tidsfristen för att lämna in arbetet är imorgon."
         }
       ]
     },
     {
-      "theme": "Arbete och karriär",
+      "theme": "sport och fritid",
       "words": [
         {
-          "pt": "prazo de entrega",
-          "sv": "leveransfrist",
+          "pt": "escalada",
+          "sv": "klättring",
           "type": "substantiv",
-          "example_pt": "O prazo de entrega do relatório é amanhã.",
-          "example_sv": "Leveransfristen för rapporten är imorgon."
+          "example_pt": "A escalada exige muita força.",
+          "example_sv": "Klättring kräver mycket styrka."
         },
         {
-          "pt": "reunião",
-          "sv": "möte",
+          "pt": "remo",
+          "sv": "rodd",
           "type": "substantiv",
-          "example_pt": "Temos uma reunião importante às dez horas.",
-          "example_sv": "Vi har ett viktigt möte klockan tio."
+          "example_pt": "Ele pratica remo no rio todas as manhãs.",
+          "example_sv": "Han ror på floden varje morgon."
         },
         {
-          "pt": "contrato",
-          "sv": "kontrakt / avtal",
+          "pt": "patinagem",
+          "sv": "skridskoåkning / skating",
           "type": "substantiv",
-          "example_pt": "Ele assinou o contrato de trabalho hoje.",
-          "example_sv": "Han skrev på arbetsavtalet idag."
+          "example_pt": "A patinagem no gelo é muito popular no inverno.",
+          "example_sv": "Skridskoåkning är mycket populärt på vintern."
         },
         {
-          "pt": "promover",
-          "sv": "befordra",
-          "type": "verb",
-          "example_pt": "A empresa decidiu promover a Ana ao cargo de diretora.",
-          "example_sv": "Företaget beslutade att befordra Ana till direktörsposition."
-        },
-        {
-          "pt": "despedir",
-          "sv": "avskeda",
-          "type": "verb",
-          "example_pt": "O chefe teve de despedir dois funcionários.",
-          "example_sv": "Chefen var tvungen att avskeda två anställda."
-        },
-        {
-          "pt": "colega de trabalho",
-          "sv": "arbetskollega",
+          "pt": "tiro ao arco",
+          "sv": "bågskytte",
           "type": "substantiv",
-          "example_pt": "Os meus colegas de trabalho são muito simpáticos.",
-          "example_sv": "Mina arbetskollegor är väldigt trevliga."
+          "example_pt": "Ela ganhou uma medalha no tiro ao arco.",
+          "example_sv": "Hon vann en medalj i bågskytte."
         },
         {
-          "pt": "remuneração",
-          "sv": "ersättning / lön",
+          "pt": "pontuação",
+          "sv": "poäng / resultat",
           "type": "substantiv",
-          "example_pt": "A remuneração inclui bónus anuais.",
-          "example_sv": "Ersättningen inkluderar årliga bonusar."
+          "example_pt": "A pontuação final foi cinco a dois.",
+          "example_sv": "Slutresultatet var fem till två."
         },
         {
-          "pt": "estágio",
-          "sv": "praktik",
+          "pt": "pódio",
+          "sv": "pall / podium",
           "type": "substantiv",
-          "example_pt": "Ela fez um estágio numa empresa de tecnologia.",
-          "example_sv": "Hon gjorde praktik på ett teknikföretag."
+          "example_pt": "Os atletas subiram ao pódio com orgulho.",
+          "example_sv": "Idrottarna klättrade upp på pallen med stolthet."
+        },
+        {
+          "pt": "aquecimento",
+          "sv": "uppvärmning",
+          "type": "substantiv",
+          "example_pt": "O aquecimento antes do jogo é essencial.",
+          "example_sv": "Uppvärmningen före matchen är viktig."
+        },
+        {
+          "pt": "empate",
+          "sv": "oavgjort",
+          "type": "substantiv",
+          "example_pt": "O jogo terminou em empate.",
+          "example_sv": "Matchen slutade oavgjort."
         }
       ]
     },
     {
-      "theme": "Djur",
+      "theme": "natur och väder",
       "words": [
         {
-          "pt": "javali",
-          "sv": "vildsvin",
+          "pt": "chuva miúda",
+          "sv": "duggregn",
           "type": "substantiv",
-          "example_pt": "O javali atravessou a estrada à noite.",
-          "example_sv": "Vildsvinet korsade vägen på natten."
+          "example_pt": "Havia uma chuva miúda esta manhã.",
+          "example_sv": "Det duggregnade i morse."
         },
         {
-          "pt": "borboleta",
-          "sv": "fjäril",
+          "pt": "penedo",
+          "sv": "klippa / stor sten",
           "type": "substantiv",
-          "example_pt": "Uma borboleta pousou na flor amarela.",
-          "example_sv": "En fjäril landade på den gula blomman."
+          "example_pt": "O penedo enorme caiu na estrada.",
+          "example_sv": "Den enorma klippan föll på vägen."
         },
         {
-          "pt": "tartaruga",
-          "sv": "sköldpadda",
+          "pt": "sequeiro",
+          "sv": "torrt landområde / torrmark",
           "type": "substantiv",
-          "example_pt": "A tartaruga vive muitos anos.",
-          "example_sv": "Sköldpaddan lever många år."
+          "example_pt": "As plantas sobrevivem mal no sequeiro.",
+          "example_sv": "Växter överlever dåligt på torrmark."
         },
         {
-          "pt": "golfinho",
-          "sv": "delfin",
+          "pt": "alvorecer",
+          "sv": "gryning / dagning",
           "type": "substantiv",
-          "example_pt": "Vimos golfinhos a saltar perto do barco.",
-          "example_sv": "Vi såg delfiner hoppa nära båten."
+          "example_pt": "O alvorecer pintou o céu de rosa.",
+          "example_sv": "Gryningen färgade himlen rosa."
         },
         {
-          "pt": "vespa",
-          "sv": "geting",
+          "pt": "ciclone",
+          "sv": "cyklon",
           "type": "substantiv",
-          "example_pt": "Cuidado com a vespa perto da mesa.",
-          "example_sv": "Akta dig för getingen nära bordet."
+          "example_pt": "O ciclone destruiu várias casas.",
+          "example_sv": "Cyklonen förstörde flera hus."
         },
         {
-          "pt": "camelo",
-          "sv": "kamel",
+          "pt": "terramoto",
+          "sv": "jordbävning",
           "type": "substantiv",
-          "example_pt": "O camelo consegue andar longos dias sem água.",
-          "example_sv": "Kamelen kan gå långa dagar utan vatten."
+          "example_pt": "Sentimos um terramoto de madrugada.",
+          "example_sv": "Vi kände en jordbävning på natten."
         },
         {
-          "pt": "lontra",
-          "sv": "utter",
+          "pt": "orvalho",
+          "sv": "dagg",
           "type": "substantiv",
-          "example_pt": "A lontra nada muito bem nos rios.",
-          "example_sv": "Uttern simmar väldigt bra i floderna."
+          "example_pt": "O orvalho da manhã molhou a erva.",
+          "example_sv": "Morgondaggen blötte gräset."
         },
         {
-          "pt": "esquilo",
-          "sv": "ekorre",
+          "pt": "encosta",
+          "sv": "sluttning / bergssida",
           "type": "substantiv",
-          "example_pt": "O esquilo escondeu as nozes na árvore.",
-          "example_sv": "Ekorren gömde nötterna i trädet."
+          "example_pt": "As cabras pastavam na encosta da montanha.",
+          "example_sv": "Getterna betade på bergssluttningen."
         }
       ]
     }

@@ -1,0 +1,188 @@
+{
+  "date": "2026-11-27",
+  "sets": [
+    {
+      "theme": "tid och datum",
+      "words": [
+        {
+          "pt": "trimestre",
+          "sv": "kvartal / termin",
+          "type": "substantiv",
+          "example_pt": "O trimestre começa em janeiro.",
+          "example_sv": "Terminen börjar i januari."
+        },
+        {
+          "pt": "quinzenal",
+          "sv": "varannan vecka",
+          "type": "adjektiv",
+          "example_pt": "Temos reuniões quinzenais na escola.",
+          "example_sv": "Vi har möten varannan vecka i skolan."
+        },
+        {
+          "pt": "amanhecer",
+          "sv": "gryning / att gry",
+          "type": "substantiv/verb",
+          "example_pt": "Ele acorda ao amanhecer todos os dias.",
+          "example_sv": "Han vaknar vid gryningen varje dag."
+        },
+        {
+          "pt": "bimestral",
+          "sv": "varannan månad",
+          "type": "adjektiv",
+          "example_pt": "O relatório bimestral está pronto.",
+          "example_sv": "Den tvåmånadsrapporten är klar."
+        },
+        {
+          "pt": "instantâneo",
+          "sv": "omedelbar",
+          "type": "adjektiv",
+          "example_pt": "A resposta foi instantânea.",
+          "example_sv": "Svaret var omedelbart."
+        },
+        {
+          "pt": "décadas",
+          "sv": "decennier",
+          "type": "substantiv",
+          "example_pt": "Isso aconteceu há décadas.",
+          "example_sv": "Det hände för decennier sedan."
+        },
+        {
+          "pt": "entardecer",
+          "sv": "skymning / kväll",
+          "type": "substantiv",
+          "example_pt": "O céu fica laranja ao entardecer.",
+          "example_sv": "Himlen blir orange i skymningen."
+        },
+        {
+          "pt": "prazo",
+          "sv": "tidsfrist / deadline",
+          "type": "substantiv",
+          "example_pt": "O prazo para entregar o trabalho é amanhã.",
+          "example_sv": "Tidsfristen för att lämna in arbetet är imorgon."
+        }
+      ]
+    },
+    {
+      "theme": "sport och fritid",
+      "words": [
+        {
+          "pt": "escalada",
+          "sv": "klättring",
+          "type": "substantiv",
+          "example_pt": "A escalada exige muita força.",
+          "example_sv": "Klättring kräver mycket styrka."
+        },
+        {
+          "pt": "remo",
+          "sv": "rodd",
+          "type": "substantiv",
+          "example_pt": "Ele pratica remo no rio todas as manhãs.",
+          "example_sv": "Han ror på floden varje morgon."
+        },
+        {
+          "pt": "patinagem",
+          "sv": "skridskoåkning / skating",
+          "type": "substantiv",
+          "example_pt": "A patinagem no gelo é muito popular no inverno.",
+          "example_sv": "Skridskoåkning är mycket populärt på vintern."
+        },
+        {
+          "pt": "tiro ao arco",
+          "sv": "bågskytte",
+          "type": "substantiv",
+          "example_pt": "Ela ganhou uma medalha no tiro ao arco.",
+          "example_sv": "Hon vann en medalj i bågskytte."
+        },
+        {
+          "pt": "pontuação",
+          "sv": "poäng / resultat",
+          "type": "substantiv",
+          "example_pt": "A pontuação final foi cinco a dois.",
+          "example_sv": "Slutresultatet var fem till två."
+        },
+        {
+          "pt": "pódio",
+          "sv": "pall / podium",
+          "type": "substantiv",
+          "example_pt": "Os atletas subiram ao pódio com orgulho.",
+          "example_sv": "Idrottarna klättrade upp på pallen med stolthet."
+        },
+        {
+          "pt": "aquecimento",
+          "sv": "uppvärmning",
+          "type": "substantiv",
+          "example_pt": "O aquecimento antes do jogo é essencial.",
+          "example_sv": "Uppvärmningen före matchen är viktig."
+        },
+        {
+          "pt": "empate",
+          "sv": "oavgjort",
+          "type": "substantiv",
+          "example_pt": "O jogo terminou em empate.",
+          "example_sv": "Matchen slutade oavgjort."
+        }
+      ]
+    },
+    {
+      "theme": "natur och väder",
+      "words": [
+        {
+          "pt": "chuva miúda",
+          "sv": "duggregn",
+          "type": "substantiv",
+          "example_pt": "Havia uma chuva miúda esta manhã.",
+          "example_sv": "Det duggregnade i morse."
+        },
+        {
+          "pt": "penedo",
+          "sv": "klippa / stor sten",
+          "type": "substantiv",
+          "example_pt": "O penedo enorme caiu na estrada.",
+          "example_sv": "Den enorma klippan föll på vägen."
+        },
+        {
+          "pt": "sequeiro",
+          "sv": "torrt landområde / torrmark",
+          "type": "substantiv",
+          "example_pt": "As plantas sobrevivem mal no sequeiro.",
+          "example_sv": "Växter överlever dåligt på torrmark."
+        },
+        {
+          "pt": "alvorecer",
+          "sv": "gryning / dagning",
+          "type": "substantiv",
+          "example_pt": "O alvorecer pintou o céu de rosa.",
+          "example_sv": "Gryningen färgade himlen rosa."
+        },
+        {
+          "pt": "ciclone",
+          "sv": "cyklon",
+          "type": "substantiv",
+          "example_pt": "O ciclone destruiu várias casas.",
+          "example_sv": "Cyklonen förstörde flera hus."
+        },
+        {
+          "pt": "terramoto",
+          "sv": "jordbävning",
+          "type": "substantiv",
+          "example_pt": "Sentimos um terramoto de madrugada.",
+          "example_sv": "Vi kände en jordbävning på natten."
+        },
+        {
+          "pt": "orvalho",
+          "sv": "dagg",
+          "type": "substantiv",
+          "example_pt": "O orvalho da manhã molhou a erva.",
+          "example_sv": "Morgondaggen blötte gräset."
+        },
+        {
+          "pt": "encosta",
+          "sv": "sluttning / bergssida",
+          "type": "substantiv",
+          "example_pt": "As cabras pastavam na encosta da montanha.",
+          "example_sv": "Getterna betade på bergssluttningen."
+        }
+      ]
+    }
+  ]
+}
