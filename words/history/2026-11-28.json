@@ -1,0 +1,188 @@
+{
+  "date": "2026-11-28",
+  "sets": [
+    {
+      "theme": "Kropp och hälsa",
+      "words": [
+        {
+          "pt": "punho",
+          "sv": "handled",
+          "type": "substantiv",
+          "example_pt": "Ele torceu o punho durante o treino.",
+          "example_sv": "Han vrickade handleden under träningen."
+        },
+        {
+          "pt": "tornozelo",
+          "sv": "fotled",
+          "type": "substantiv",
+          "example_pt": "A minha tornozelo está inchada.",
+          "example_sv": "Min fotled är svullen."
+        },
+        {
+          "pt": "testa",
+          "sv": "panna",
+          "type": "substantiv",
+          "example_pt": "Ela tem uma testa larga.",
+          "example_sv": "Hon har en bred panna."
+        },
+        {
+          "pt": "narina",
+          "sv": "näsborre",
+          "type": "substantiv",
+          "example_pt": "Ele tem as narinas largas.",
+          "example_sv": "Han har breda näsborrar."
+        },
+        {
+          "pt": "engessado",
+          "sv": "gipsad",
+          "type": "adjektiv",
+          "example_pt": "O braço está engessado há duas semanas.",
+          "example_sv": "Armen har varit gipsad i två veckor."
+        },
+        {
+          "pt": "tosse",
+          "sv": "hosta",
+          "type": "substantiv",
+          "example_pt": "Tenho uma tosse persistente desde segunda-feira.",
+          "example_sv": "Jag har haft en ihållande hosta sedan måndag."
+        },
+        {
+          "pt": "penso",
+          "sv": "plåster",
+          "type": "substantiv",
+          "example_pt": "Podes colocar um penso no corte?",
+          "example_sv": "Kan du lägga ett plåster på sårskadan?"
+        },
+        {
+          "pt": "pulso",
+          "sv": "puls",
+          "type": "substantiv",
+          "example_pt": "O médico verificou o pulso do paciente.",
+          "example_sv": "Läkaren kontrollerade patientens puls."
+        }
+      ]
+    },
+    {
+      "theme": "Hem och möbler",
+      "words": [
+        {
+          "pt": "gaveta",
+          "sv": "låda",
+          "type": "substantiv",
+          "example_pt": "As meias estão na gaveta de baixo.",
+          "example_sv": "Strumporna ligger i den nedre lådan."
+        },
+        {
+          "pt": "prateleira",
+          "sv": "hylla",
+          "type": "substantiv",
+          "example_pt": "Os livros estão na prateleira da sala.",
+          "example_sv": "Böckerna står på hyllan i vardagsrummet."
+        },
+        {
+          "pt": "cortina",
+          "sv": "gardin",
+          "type": "substantiv",
+          "example_pt": "As cortinas novas ficam muito bem na janela.",
+          "example_sv": "De nya gardinerna ser väldigt fina ut i fönstret."
+        },
+        {
+          "pt": "tapete",
+          "sv": "matta",
+          "type": "substantiv",
+          "example_pt": "O tapete da sala é vermelho e suave.",
+          "example_sv": "Mattan i vardagsrummet är röd och mjuk."
+        },
+        {
+          "pt": "espelho",
+          "sv": "spegel",
+          "type": "substantiv",
+          "example_pt": "Ele olhou para si mesmo no espelho.",
+          "example_sv": "Han tittade på sig själv i spegeln."
+        },
+        {
+          "pt": "sofá",
+          "sv": "soffa",
+          "type": "substantiv",
+          "example_pt": "Adormeci no sofá a ver televisão.",
+          "example_sv": "Jag somnade på soffan medan jag tittade på tv."
+        },
+        {
+          "pt": "frigorifico",
+          "sv": "kylskåp",
+          "type": "substantiv",
+          "example_pt": "O frigorifico está quase vazio.",
+          "example_sv": "Kylskåpet är nästan tomt."
+        },
+        {
+          "pt": "armário",
+          "sv": "garderob",
+          "type": "substantiv",
+          "example_pt": "O armário do quarto está cheio de roupa.",
+          "example_sv": "Garderoben i sovrummet är full av kläder."
+        }
+      ]
+    },
+    {
+      "theme": "Djur",
+      "words": [
+        {
+          "pt": "lebre",
+          "sv": "hare",
+          "type": "substantiv",
+          "example_pt": "A lebre correu muito depressa pelo campo.",
+          "example_sv": "Haren sprang väldigt snabbt över fältet."
+        },
+        {
+          "pt": "grou",
+          "sv": "trana",
+          "type": "substantiv",
+          "example_pt": "Os grous migram para o sul no inverno.",
+          "example_sv": "Tranorna migrerar söderut på vintern."
+        },
+        {
+          "pt": "polvo",
+          "sv": "bläckfisk",
+          "type": "substantiv",
+          "example_pt": "O polvo mudou de cor rapidamente.",
+          "example_sv": "Bläckfisken bytte färg snabbt."
+        },
+        {
+          "pt": "pombo",
+          "sv": "duva",
+          "type": "substantiv",
+          "example_pt": "Há muitos pombos na praça central.",
+          "example_sv": "Det finns många duvor på torget."
+        },
+        {
+          "pt": "veado",
+          "sv": "hjort",
+          "type": "substantiv",
+          "example_pt": "Vimos um veado na floresta esta manhã.",
+          "example_sv": "Vi såg en hjort i skogen i morse."
+        },
+        {
+          "pt": "abelha",
+          "sv": "bi",
+          "type": "substantiv",
+          "example_pt": "As abelhas são essenciais para a polinização.",
+          "example_sv": "Bin är viktiga för pollineringen."
+        },
+        {
+          "pt": "foca",
+          "sv": "säl",
+          "type": "substantiv",
+          "example_pt": "A foca descansava nas rochas junto ao mar.",
+          "example_sv": "Sälen vilade på klipporna vid havet."
+        },
+        {
+          "pt": "gato-bravo",
+          "sv": "vildkatt",
+          "type": "substantiv",
+          "example_pt": "O gato-bravo é uma espécie protegida em Portugal.",
+          "example_sv": "Vildkatten är en skyddad art i Portugal."
+        }
+      ]
+    }
+  ]
+}
